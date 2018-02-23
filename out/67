@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Roger was hungry.
+He checked the fridge.
+The fridge was empty.
+Roger went to the store.
+> He came home with lots of food.
+
+__About the context__
+Rarest in context: [('fridge', 7.015797238877048), ('empty', 6.907163397874252), ('hungry', 5.89022914022041), ('checked', 5.828353736502322), ('store', 4.2189158240682225)]
+Nearest to context: [('empty', 0.5700010657310486), ('store', 0.4656071364879608), ('checked', 0.4598119556903839), ('hungry', 0.4439411461353302), ('stocked', 0.4081610143184662), ('Store', 0.3799031972885132), ('stores', 0.3540244698524475), ('scanned', 0.3475955128669739), ('unlocked', 0.3431195914745331), ('grocery_store', 0.3406110405921936)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('lists', 4775, 15225, 0.3774416446685791), ('tables', 6118, 13882, 0.34616902470588684), ('shelves', 9509, 10491, 0.3224930465221405), ('list', 711, 19289, 0.31841331720352173), ('keys', 7540, 12460, 0.31172803044319153), ('unused', 14477, 5523, 0.2917279899120331), ('table', 1757, 18243, 0.28497982025146484), ('shelf', 9405, 10595, 0.28481823205947876), ('cart', 13182, 6818, 0.2830861210823059), ('items', 1281, 18719, 0.2816362977027893)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.5285294651985168), ('anyway', 4231, 15769, 0.4964286983013153), ('grocery_store', 11271, 8729, 0.4853871166706085), ('dog', 2043, 17957, 0.48100215196609497), ('eat', 2785, 17215, 0.47919920086860657), ('groceries', 13864, 6136, 0.47793880105018616), ('know', 177, 19823, 0.4649910032749176), ('pet', 4804, 15196, 0.4644632935523987), ('do', 58, 19942, 0.4633145332336426), ('dogs', 2766, 17234, 0.4620620608329773)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6566370129585266), ('bought', 1741, 18259, 0.61090487241745), ('was', 10, 19990, 0.6073509454727173), ('knew', 1039, 18961, 0.6063433885574341), ('got', 193, 19807, 0.5867990255355835), ('forgot', 11597, 8403, 0.5812044143676758), ('wanted', 583, 19417, 0.5771206021308899), ('thought', 572, 19428, 0.5488021969795227), ('were', 37, 19963, 0.5450892448425293), ("'d", 609, 19391, 0.5354766249656677)]
+
+==========================================================================
+Neighbors
+==========================================================================
+John's stomach was rumbling.
+He hadn't eaten all day.
+He went to the pantry and it was empty.
+He checked the fridge and found one last container of yogurt.
+> John gobbled it up quickly.
+
+__About the match__
+Rarest shared words: [('fridge', (7.015797238877048, 7.015797238877048)), ('empty', (6.907163397874252, 6.907163397874252)), ('checked', (5.828353736502322, 5.828353736502322))]
+Score: 0.5927276746177021
+
+__About the completion__
+Rarest in completion: [('gobbled', 8.72875583085197), ('quickly', 5.828333737102303)]
+Nearest to completion: [('quickly', 0.9342747330665588), ('swiftly', 0.7627691626548767), ('rapidly', 0.6295816898345947), ('easily', 0.5836179852485657), ('promptly', 0.5555992722511292), ('soon', 0.5327271819114685), ('slowly', 0.5291680693626404), ('gradually', 0.4815160930156708), ('instantly', 0.4724416732788086), ('fast', 0.46381905674934387)]
+
+--------------------------------------------------------------------------
+
+The dog whined.
+He kept pawing at his bowl.
+His owner noticed it was empty.
+The owner poured food in.
+> The dog gobbled it up.
+
+__About the match__
+Rarest shared words: [('empty', (6.907163397874252, 6.907163397874252))]
+Score: 0.5154481218194664
+
+__About the completion__
+Rarest in completion: [('gobbled', 8.72875583085197), ('dog', 5.026332151630276)]
+Nearest to completion: [('dog', 0.9431277513504028), ('dogs', 0.8183351755142212), ('puppy', 0.7504040598869324), ('cat', 0.6992595791816711), ('Dog', 0.6821051836013794), ('pet', 0.6685402989387512), ('cats', 0.615613579750061), ('animal', 0.6094829440116882), ('pets', 0.6037120223045349), ('Dogs', 0.5261833667755127)]
+
+--------------------------------------------------------------------------
+
+Jan went to eat at a fast food restaurant.
+There was only one table empty.
+The empty table was filthy.
+Jan grabbed a stack of napkins.
+> She cleaned the table off before sitting.
+
+__About the match__
+Rarest shared words: [('empty', (6.907163397874252, 6.907163397874252))]
+Score: 0.5037794799465883
+
+__About the completion__
+Rarest in completion: [('cleaned', 6.863971226609025), ('sitting', 6.526493459485794), ('table', 6.368759830644585), ('before', 4.900114434362875), ('off', 4.4887379789916535)]
+Nearest to completion: [('table', 0.5447348356246948), ('cleaned', 0.5075370073318481), ('tables', 0.46277040243148804), ('sitting', 0.440186083316803), ('seated', 0.39064767956733704), ('off', 0.34728726744651794), ('sit', 0.3367317318916321), ('Sitting', 0.3349415957927704), ('sat', 0.33322790265083313), ('before', 0.32264822721481323)]
+
+--------------------------------------------------------------------------
+
+Dina was too tired to walk.
+She got a motorized scooter to shop at the grocery store.
+She wheeled around the store and gathered her items.
+She checked out and started to leave.
+> Her scooter died in the parking lot!
+
+__About the match__
+Rarest shared words: [('checked', (5.828353736502322, 5.828353736502322)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4801892382937295
+
+__About the completion__
+Rarest in completion: [('scooter', 9.111748083108075), ('parking', 7.092410465497945), ('died', 6.403697882005866), ('lot', 4.749074176950009), ('!', 3.536809591467683)]
+Nearest to completion: [('parking', 0.6266204118728638), ('died', 0.5367170572280884), ('Parking', 0.4699813425540924), ('killed', 0.4196959435939789), ('parked', 0.41490116715431213), ('parking_lots', 0.41260796785354614), ('lot', 0.39387091994285583), ('apartment_complex', 0.3869333267211914), ('seriously_injured', 0.38342851400375366), ('fatally_shot', 0.3791368305683136)]
+
+--------------------------------------------------------------------------
+
+Bob wanted new shoes to go running in.
+He went to the mall that day looking for the perfect pair of shoes.
+He found the shoes he wanted, but the store didn't have his size.
+He ended up leaving the mall empty handed.
+> Instead, he decided to buy the shoes online.
+
+__About the match__
+Rarest shared words: [('empty', (6.907163397874252, 6.907163397874252)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4700003114080201
+
+__About the completion__
+Rarest in completion: [('shoes', 6.399263284938), ('online', 5.838384072955805), ('instead', 5.508063475057371), ('buy', 4.985689545396447), ('decided', 3.495461951503386)]
+Nearest to completion: [('buy', 0.5159439444541931), ('shoes', 0.5037873983383179), ('online', 0.46623000502586365), ('purchase', 0.4146324098110199), ('buying', 0.37347525358200073), ('sell', 0.3708525002002716), ('decided', 0.3508227467536926), ('shoe', 0.3503151834011078), ('instead', 0.34955069422721863), ('com', 0.3405209481716156)]
+
+--------------------------------------------------------------------------
+
+The man bought some candy for his wife.
+He opened the box to eat one.
+He ended up eating the whole box.
+His wife saw the empty box.
+> He told her they were for her.
+
+__About the match__
+Rarest shared words: [('empty', (6.907163397874252, 6.907163397874252))]
+Score: 0.456897794884237
+
+__About the completion__
+Rarest in completion: [('told', 4.259717819188459), ('were', 3.60343995182413)]
+Nearest to completion: [('told', 0.7196006774902344), ('were', 0.5568504929542542), ('reported', 0.4912089705467224), ('quoted', 0.45648473501205444), ('said', 0.4328291416168213), ('spoke', 0.41713035106658936), ('tells', 0.39472001791000366), ('interviewed', 0.39108890295028687), ('Speaking', 0.3897266089916229), ('telephone_interview', 0.3828006386756897)]
+
+--------------------------------------------------------------------------
+
+Milo was feeling hungry one afternoon.
+He walked to the store to get some food.
+At the store he bought a container of peanuts.
+He ate one and loved it!
+> Milo was happy to have some food.
+
+__About the match__
+Rarest shared words: [('hungry', (5.89022914022041, 5.89022914022041)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.448363214077433
+
+__About the completion__
+Rarest in completion: [('food', 5.1080578891541055), ('happy', 4.78013793434821), ('have', 4.400417701291594), ('some', 4.142861138392206)]
+Nearest to completion: [('food', 0.593638002872467), ('some', 0.42563122510910034), ('Food', 0.4059115946292877), ('foods', 0.4006505608558655), ('have', 0.38901036977767944), ('happy', 0.3820866346359253), ('many', 0.3383294939994812), ('meals', 0.3288410007953644), ('nutritional', 0.31558141112327576), ('hungry', 0.3125160038471222)]
+
+--------------------------------------------------------------------------
+
+I was hungry but my cupboard was bare.
+I decided to go to the grocery but I couldn't find my list.
+I made a new list.
+When I got to the store, I found my old list!
+> I bought everything from both lists anyway!
+
+__About the match__
+Rarest shared words: [('hungry', (5.89022914022041, 5.89022914022041)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4300154096604309
+
+__About the completion__
+Rarest in completion: [('lists', 9.622573706874066), ('anyway', 6.82258601044617), ('everything', 5.796350691249253), ('both', 5.758341365282269), ('bought', 4.408241996399123), ('from', 3.996552593524763), ('!', 3.536809591467683)]
+Nearest to completion: [('lists', 0.5565137267112732), ('list', 0.4317223131656647), ('bought', 0.3966359496116638), ('everything', 0.3769831657409668), ('sold', 0.3669416308403015), ('purchased', 0.36581188440322876), ('List', 0.3519114851951599), ('buy', 0.34484022855758667), ('buys', 0.3377656638622284), ('all', 0.3348224461078644)]
+
+--------------------------------------------------------------------------
+
+I went to the store to buy milk.
+I walked through the store and put many items in the cart.
+I went to the register, checked out, and drove home.
+When i went to put my items away, I realized I had forgotten the milk.
+> I was frustrated during my drive back to the store.
+
+__About the match__
+Rarest shared words: [('checked', (5.828353736502322, 5.828353736502322)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4287135195665837
+
+__About the completion__
+Rarest in completion: [('frustrated', 7.146969449748379), ('drive', 6.08645700731254), ('during', 5.884904088590698), ('store', 4.766212557016609), ('back', 4.3399341530452595), ('my', 3.5357989799617595)]
+Nearest to completion: [('store', 0.4292762875556946), ('drive', 0.4226495027542114), ('frustrated', 0.3859366178512573), ('Store', 0.3371744751930237), ('stores', 0.31999433040618896), ('drives', 0.3160351812839508), ('my', 0.2976819574832916), ('retailer', 0.29581084847450256), ('grocery_store', 0.2903512120246887), ('Wal_Mart', 0.2850756049156189)]
+
+--------------------------------------------------------------------------
+
+Jennifer went for a walk one day to the store.
+When she arrived home, she searched her purse for her keys.
+She realized she forgot them and she was locked out!
+Thankfully she remembered she left a window unlocked.
+> From that day on, she never forgot her keys again!
+
+__About the match__
+Rarest shared words: [('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.42511439422541053
+
+__About the completion__
+Rarest in completion: [('keys', 7.463089457520694), ('forgot', 5.976253867178926), ('again', 5.046717908554751), ('never', 4.624610964031577), ('from', 3.996552593524763), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('keys', 0.5661014914512634), ('forgot', 0.48727914690971375), ('once', 0.37395524978637695), ('never', 0.36735621094703674), ('Never', 0.3385773301124573), ('again', 0.33213695883750916), ('forgotten', 0.3174571990966797), ('when', 0.2891289293766022), ('Once', 0.2658674120903015), ('briefly', 0.26318806409835815)]
+
+--------------------------------------------------------------------------
+
+

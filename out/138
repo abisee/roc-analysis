@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+A woman got a new job at the jail.
+It was full of dangerous criminals.
+She got to know a few of them.
+They became friends.
+> She helped them escape.
+
+__About the context__
+Rarest in context: [('criminals', 9.334911633822305), ('jail', 7.794466592875155), ('dangerous', 7.489084943323974), ('full', 5.833366278325867), ('woman', 5.189134897967933), ('became', 5.155409263259896), ('know', 5.049028859701325), ('few', 4.548809745329312), ('job', 4.4999533538013345), ('friends', 3.719960372872719), ('them', 3.5707660094390126), ('new', 3.4017826637272854)]
+Nearest to context: [('criminals', 0.5956820845603943), ('jail', 0.48193585872650146), ('offenders', 0.47886818647384644), ('behind_bars', 0.44139569997787476), ('sex_offenders', 0.4343547224998474), ('prison', 0.42717650532722473), ('prisoners', 0.42370450496673584), ('inmates', 0.4135795533657074), ('offender', 0.3813418447971344), ('incarcerated', 0.3706137239933014)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('behind_bars', 10487, 9513, 0.6196638941764832), ('jail', 1762, 18238, 0.5987681746482849), ('prison', 1091, 18909, 0.5790925621986389), ('sentenced', 2433, 17567, 0.5553195476531982), ('jailed', 5807, 14193, 0.5502548813819885), ('incarcerated', 19009, 991, 0.5430172681808472), ('convicted', 2246, 17754, 0.5416040420532227), ('imprisoned', 12227, 7773, 0.5364089608192444), ('extradited', 19360, 640, 0.535736083984375), ('imprisonment', 10747, 9253, 0.5229877829551697)]
+Nearest words to completions' keywords: [('behind_bars', 10487, 9513, 0.7209704518318176), ('convicted', 2246, 17754, 0.7039254903793335), ('prison', 1091, 18909, 0.6973757743835449), ('jail', 1762, 18238, 0.6959574222564697), ('jailed', 5807, 14193, 0.6764534711837769), ('sentenced', 2433, 17567, 0.6595897078514099), ('incarcerated', 19009, 991, 0.6584341526031494), ('imprisoned', 12227, 7773, 0.6400765180587769), ('extradited', 19360, 640, 0.6279093027114868), ('sentence', 2303, 17697, 0.6026879549026489)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7753180861473083), ('had', 35, 19965, 0.649700939655304), ('knew', 1039, 18961, 0.6229196190834045), ('thought', 572, 19428, 0.6069493293762207), ('were', 37, 19963, 0.6047772169113159), ('felt', 1040, 18960, 0.5940478444099426), ('came', 256, 19744, 0.5870789289474487), ('seemed', 1617, 18383, 0.577981173992157), ('been', 42, 19958, 0.575100839138031), ('got', 193, 19807, 0.5662088990211487)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Mr Jones was the warden at the jail.
+He would lock criminals up until they were free to go.
+He did not like his job very much.
+He tried not to talk to the criminals.
+> He just wanted the day to be over so he could go home.
+
+__About the match__
+Rarest shared words: [('criminals', (9.334911633822305, 9.334911633822305)), ('jail', (7.794466592875155, 7.794466592875155)), ('job', (4.4999533538013345, 4.4999533538013345))]
+Score: 0.6489892286282322
+
+__About the completion__
+Rarest in completion: [('just', 4.707470839499374), ('over', 4.367395832986647), ('go', 4.110041419756121), ('be', 4.0931446193626435), ('home', 4.002978318445733), ('could', 3.8258407366367204), ('wanted', 3.6865044229876522), ('so', 3.628612279567497), ('day', 3.3461390948177767)]
+Nearest to completion: [('could', 0.4122419059276581), ('be', 0.3995248079299927), ('can', 0.36662039160728455), ('would', 0.3612983524799347), ('will', 0.3523935079574585), ('should', 0.35185500979423523), ('go', 0.3275946080684662), ('so', 0.3027097284793854), ('Should', 0.2965357005596161), ('over', 0.28908804059028625)]
+
+--------------------------------------------------------------------------
+
+John saw his mother killed at gunpoint when he was a child.
+John had to go to rehab and would eventually be healed.
+John went for a criminal science degree.
+John became a cop to solve murder crimes.
+> Eventually, he was promoted to a detective to solve different crimes.
+
+__About the match__
+Rarest shared words: [('became', (5.155409263259896, 5.155409263259896))]
+Score: 0.4978052273670497
+
+__About the completion__
+Rarest in completion: [('crimes', 10.028038814982231), ('detective', 9.74035674253045), ('promoted', 8.92942652631412), ('solve', 8.72875583085197), ('different', 6.054607181425442), ('eventually', 5.556400021618662)]
+Nearest to completion: [('detective', 0.6343122124671936), ('crimes', 0.5717357397079468), ('crime', 0.5188559293746948), ('solve', 0.5073736310005188), ('Detective', 0.4815993010997772), ('detectives', 0.47660592198371887), ('solving', 0.4552544057369232), ('solved', 0.4475191533565521), ('murders', 0.42193323373794556), ('criminals', 0.4079146087169647)]
+
+--------------------------------------------------------------------------
+
+The man went to prison.
+He was innocent.
+He asked for another trial.
+It took five years to get one.
+> He was found to be innocent.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4676271027824898
+
+__About the completion__
+Rarest in completion: [('innocent', 9.111748083108075), ('found', 4.202038707601781), ('be', 4.0931446193626435)]
+Nearest to completion: [('innocent', 0.6829417943954468), ('found', 0.4773902893066406), ('be', 0.4543450176715851), ('innocence', 0.377723753452301), ('guilty', 0.3705124258995056), ('convict', 0.3480268120765686), ('prosecuted', 0.33709993958473206), ('murdered', 0.33369556069374084), ('harmless', 0.32667380571365356), ('prove', 0.31459224224090576)]
+
+--------------------------------------------------------------------------
+
+Anna was doing a life sentence in prison.
+She met Hank, another prisoner, in a work program.
+She and Hank fell in love.
+They married behind bars.
+> Anna realized how much better her life was for Hank, even in jail!
+
+__About the match__
+Rarest shared words: []
+Score: 0.4581031224607434
+
+__About the completion__
+Rarest in completion: [('jail', 7.571303042160927), ('life', 5.637713377493654), ('even', 5.482972553063845), ('better', 5.345907587858011), ('realized', 5.003062403615317), ('how', 4.945599788756992), ('much', 4.895185888161725), ('!', 3.536809591467683)]
+Nearest to completion: [('much', 0.49030613899230957), ('jail', 0.4901421368122101), ('behind_bars', 0.45398378372192383), ('better', 0.45243018865585327), ('prison', 0.43912795186042786), ('life', 0.4258632957935333), ('how', 0.39095020294189453), ('incarcerated', 0.3513692021369934), ('Jail', 0.35031506419181824), ('sentence', 0.3406215012073517)]
+
+--------------------------------------------------------------------------
+
+Jack lived in a bad neighborhood.
+He installed security cameras.
+He felt safer knowing they would deter criminals.
+Jack checked the cameras every day.
+> He felt good about keeping his family safe.
+
+__About the match__
+Rarest shared words: [('criminals', (9.334911633822305, 9.334911633822305))]
+Score: 0.44379417313227826
+
+__About the completion__
+Rarest in completion: [('keeping', 7.794446593475136), ('safe', 7.3311619144781455), ('good', 4.6993539118177985), ('family', 4.6880997737433745), ('felt', 4.558573192238365), ('about', 4.124950211825675)]
+Nearest to completion: [('safe', 0.5754059553146362), ('keeping', 0.4995756447315216), ('maintaining', 0.4415445029735565), ('Keeping', 0.40097999572753906), ('preserving', 0.3989964425563812), ('good', 0.3898361027240753), ('paramount', 0.3719397485256195), ('safer', 0.3690251111984253), ('healthy', 0.3669187128543854), ('protecting', 0.3625607490539551)]
+
+--------------------------------------------------------------------------
+
+Lily was a private detective.
+She loved solving cases and bringing criminals to justice.
+Lily's most recent case involved a home break-in and robbery.
+After doing some investigating and surveillance, Lily was satisfied.
+> She had discovered the perp was her client's husband.
+
+__About the match__
+Rarest shared words: [('criminals', (9.334911633822305, 9.334911633822305))]
+Score: 0.44111700487079075
+
+__About the completion__
+Rarest in completion: [('perp', 11.12665110365034), ('client', 8.452502454223811), ('discovered', 6.9369963616239145), ('husband', 5.858792944587012), ("'s", 3.3551623435327245)]
+Nearest to completion: [('client', 0.6358930468559265), ('husband', 0.6243063807487488), ('wife', 0.5419579148292542), ('discovered', 0.5226691961288452), ('boyfriend', 0.5076606869697571), ('mother', 0.4942426085472107), ('clients', 0.4818197786808014), ('daughter', 0.47791004180908203), ('stepfather', 0.47579264640808105), ('girlfriend', 0.4381965398788452)]
+
+--------------------------------------------------------------------------
+
+Tiffany dated a drug dealer.
+The drug dealer used Tiffany as a pawn in his scheme.
+They both ended up being arrested for being involved in the crime.
+The drug dealer was sentenced to 30 years in prison.
+> Tiffany was sentenced to 15 years as an accomplice.
+
+__About the match__
+Rarest shared words: []
+Score: 0.43681882313639303
+
+__About the completion__
+Rarest in completion: [('accomplice', 10.721185995542177), ('tiffany', 9.74035674253045), ('sentenced', 9.25484892674875), ('15', 7.660915200850614), ('years', 5.187796506814656), ('as', 3.9638660844916718), ('an', 3.8221351571901856)]
+Nearest to completion: [('sentenced', 0.7529304027557373), ('convicted', 0.6044006943702698), ('jailed', 0.6017706394195557), ('pleading_guilty', 0.5766675472259521), ('pleaded_guilty', 0.5477499961853027), ('years', 0.530880868434906), ('imprisonment', 0.5156725645065308), ('prison', 0.5148157477378845), ('sentence', 0.4866158962249756), ('indicted', 0.4733360707759857)]
+
+--------------------------------------------------------------------------
+
+Lucia is a girl who came to america from mexico.
+She came illegally to better her life.
+One day while working at her job.
+The immigration officers come in a bust the place.
+> Lucia is sent back to mexico.
+
+__About the match__
+Rarest shared words: [('job', (4.4999533538013345, 4.4999533538013345))]
+Score: 0.43420821916192104
+
+__About the completion__
+Rarest in completion: [('mexico', 10.028038814982231), ('sent', 6.1993974184931355), ('back', 4.3399341530452595), ('is', 4.0817459865209695)]
+Nearest to completion: [('sent', 0.6867913007736206), ('sends', 0.5789936184883118), ('send', 0.5241950750350952), ('sending', 0.5187695622444153), ('back', 0.39692673087120056), ('is', 0.39029258489608765), ('returned', 0.38924530148506165), ('forwarded', 0.35224348306655884), ('mailed', 0.3447687327861786), ('appears', 0.32739344239234924)]
+
+--------------------------------------------------------------------------
+
+Frank was the youngest of seven brothers.
+When he was a teenager, he committed many crimes.
+One day, he decided to give up crime and become a truck driver.
+On one of his Louisiana stops, he met Joyce.
+> After dozens of visits, he settled in Louisiana and they were married.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4260657709485724
+
+__About the completion__
+Rarest in completion: [('dozens', 8.72875583085197), ('visits', 8.523961418205957), ('settled', 7.90777527878214), ('married', 6.364477168852584), ('after', 3.9503965716331964), ('were', 3.60343995182413)]
+Nearest to completion: [('married', 0.48432841897010803), ('wed', 0.43848916888237), ('visits', 0.4381996989250183), ('settled', 0.43631723523139954), ('divorced', 0.4170282185077667), ('visited', 0.40652701258659363), ('were', 0.40150707960128784), ('marrying', 0.3459993302822113), ('settling', 0.34521418809890747), ('met', 0.3343711197376251)]
+
+--------------------------------------------------------------------------
+
+Danny was fighting in a public building.
+He was arrested.
+Danny got thrown into jail.
+Danny called his parents to bail him out.
+> His parents made him spend the night in jail.
+
+__About the match__
+Rarest shared words: [('jail', (7.794466592875155, 7.794466592875155))]
+Score: 0.4210859848580746
+
+__About the completion__
+Rarest in completion: [('jail', 7.571303042160927), ('spend', 6.638014733918201), ('parents', 5.059383593126858), ('night', 4.471210753282693), ('made', 4.267560996649484), ('him', 3.3907807836977737)]
+Nearest to completion: [('jail', 0.617191731929779), ('behind_bars', 0.5584341883659363), ('prison', 0.5135696530342102), ('Jail', 0.4722115695476532), ('incarcerated', 0.4517360329627991), ('spend', 0.4460413455963135), ('jailed', 0.4213915467262268), ('parole', 0.4212629795074463), ('detention', 0.41927847266197205), ('parents', 0.419223427772522)]
+
+--------------------------------------------------------------------------
+
+

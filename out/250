@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Morgan's parents were very strict.
+They made very strict rules to their son Morgan.
+Morgan was fed up with this nonsense.
+So Morgan ran away but was found.
+> His parents learned to be more lax with Morgan.
+
+__About the context__
+Rarest in context: [('nonsense', 10.02805881438225), ('strict', 8.354082380810578), ('rules', 7.725473721388203), ('fed', 6.921978483659393), ('son', 5.251740372198329), ('ran', 4.606049975491663), ('parents', 4.598713185427808), ('away', 4.571314211239694), ('this', 4.174898938651448), ('their', 4.071358259710607), ('made', 3.9565515596007312), ('found', 3.802181123701827), ('very', 3.353497422567824), ('so', 3.307436649191289)]
+Nearest to context: [('strict', 0.5048114657402039), ('rules', 0.3759932219982147), ('parents', 0.35910144448280334), ('rigid', 0.34514862298965454), ('stringent', 0.3368947505950928), ('nonsense', 0.31879228353500366), ('regulations', 0.3061992824077606), ('laws', 0.29905086755752563), ('adopted', 0.2970156669616699), ('enforced', 0.29154276847839355)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('changes', 726, 19274, 0.29511508345603943), ('stress', 3438, 16562, 0.28416627645492554), ('change', 426, 19574, 0.27530917525291443), ('closure', 4778, 15222, 0.27405187487602234), ('lose', 1334, 18666, 0.2646549344062805), ('confession', 14009, 5991, 0.2624996304512024), ('lbs', 15528, 4472, 0.2566748559474945), ('decision', 402, 19598, 0.2544722855091095), ('stressful', 13712, 6288, 0.251097172498703), ('bacon', 18529, 1471, 0.2505671977996826)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.5848501324653625), ('going', 125, 19875, 0.5244227647781372), ('do', 58, 19942, 0.5240253210067749), ('really', 230, 19770, 0.5198326110839844), ('something', 347, 19653, 0.5184499025344849), ('me', 170, 19830, 0.5160133242607117), ('I', 20, 19980, 0.5124344825744629), ('maybe', 1864, 18136, 0.50791335105896), ("'d", 609, 19391, 0.5041345953941345), ('know', 177, 19823, 0.4952342212200165)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6536844968795776), ('knew', 1039, 18961, 0.6314303278923035), ('wanted', 583, 19417, 0.6283325552940369), ('got', 193, 19807, 0.6257302761077881), ('went', 297, 19703, 0.6108840107917786), ('did', 92, 19908, 0.5901279449462891), ('felt', 1040, 18960, 0.589501142501831), ('would', 47, 19953, 0.5882910490036011), ('came', 256, 19744, 0.584925651550293), ('going', 125, 19875, 0.5797016620635986)]
+
+==========================================================================
+Neighbors
+==========================================================================
+When Angela turned 18, she ran away from home.
+Her father was very strict with her.
+She wasn't allowed to have her boyfriend at his house.
+One day he came home and spanked her for him being there.
+> She ran out the back door and never went back home.
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578)), ('ran', (4.606049975491663, 4.606049975491663)), ('away', (4.571314211239694, 4.571314211239694)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.553041269353363
+
+__About the completion__
+Rarest in completion: [('door', 5.641854170159686), ('ran', 5.030826541218116), ('never', 4.624610964031577), ('back', 4.3399341530452595), ('home', 4.002978318445733), ('out', 3.3165011979861596), ('went', 3.303005172815388)]
+Nearest to completion: [('door', 0.5241267681121826), ('ran', 0.4481579065322876), ('went', 0.4210831820964813), ('back', 0.41319993138313293), ('out', 0.4006258249282837), ('doors', 0.3630490005016327), ('home', 0.34577998518943787), ('exited', 0.32476523518562317), ('gate', 0.31865569949150085), ('drove', 0.31515684723854065)]
+
+--------------------------------------------------------------------------
+
+Lamarrio is a very moral and educated black man.
+But unfortunately he gets negatively racially profiled.
+He follows all the rules and laws of the world.
+But he is still afraid of the police.
+> Lamarrio will always be scared until major changes happen.
+
+__About the match__
+Rarest shared words: [('rules', (7.725473721388203, 7.725473721388203)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.4449659405030192
+
+__About the completion__
+Rarest in completion: [('happen', 8.487593774035082), ('changes', 8.354062381410559), ('major', 7.543132165194231), ('will', 6.119354710819599), ('scared', 5.993798176829835), ('until', 5.39169301152569), ('always', 4.653532310076647), ('be', 4.0931446193626435)]
+Nearest to completion: [('happen', 0.5451187491416931), ('occur', 0.461429625749588), ('be', 0.46001818776130676), ('changes', 0.4422231614589691), ('change', 0.40578046441078186), ('will', 0.3886663019657135), ('affect', 0.3753931224346161), ('anytime_soon', 0.36491692066192627), ('until', 0.35988128185272217), ('inevitable', 0.35860562324523926)]
+
+--------------------------------------------------------------------------
+
+Alicia was the black sheep of her family.
+Her family was very religious and strict.
+One day, Alicia decided to loosen her family up.
+So, she threw them a very fun and silly 80's party.
+> After the party, she became much closer to her family and they relaxed.
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578)), ('very', (3.353497422567824, 3.353497422567824)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.42487642114586927
+
+__About the completion__
+Rarest in completion: [('relaxed', 7.969650682500228), ('closer', 7.585691779613026), ('party', 5.569823041950802), ('became', 5.378851743577365), ('much', 4.895185888161725), ('family', 4.6880997737433745), ('after', 3.9503965716331964)]
+Nearest to completion: [('relaxed', 0.4865436255931854), ('closer', 0.4134320914745331), ('party', 0.4039804935455322), ('family', 0.34984108805656433), ('became', 0.34961414337158203), ('Party', 0.31962934136390686), ('becoming', 0.3125014007091522), ('tighter', 0.31071004271507263), ('become', 0.28946974873542786), ('relaxing', 0.28377851843833923)]
+
+--------------------------------------------------------------------------
+
+The man didn't follow the rules.
+His friends noticed.
+His friends wanted the man to follow the rules.
+The man didn't want to.
+> The man lost his friends.
+
+__About the match__
+Rarest shared words: [('rules', (7.725473721388203, 7.725473721388203))]
+Score: 0.41220525400703173
+
+__About the completion__
+Rarest in completion: [('lost', 5.224017770248974), ('man', 4.481560134144697), ('friends', 4.1620430130754205)]
+Nearest to completion: [('man', 0.5465422868728638), ('lost', 0.5316088199615479), ('friends', 0.5212287902832031), ('friend', 0.47163692116737366), ('relatives', 0.4224822521209717), ('woman', 0.40473130345344543), ('teenager', 0.40460944175720215), ('buddies', 0.3896815776824951), ('boy', 0.3819068670272827), ('uncle', 0.3797782361507416)]
+
+--------------------------------------------------------------------------
+
+My parents went out one night and we had a babysitter.
+She was nice, but not very strict.
+My sisters were jumping on their bed and broke it.
+They were terrified what my parents would do to them!
+> I had them write a confession, and my parents let them live!
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578)), ('parents', (4.598713185427808, 4.598713185427808)), ('their', (4.071358259710607, 4.071358259710607)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.40694267540339585
+
+__About the completion__
+Rarest in completion: [('confession', 9.873888135154973), ('write', 6.944600961009134), ('live', 6.62130125294446), ('let', 5.763014270981661), ('parents', 5.059383593126858), ('them', 3.9905657466666935), ('!', 3.536809591467683), ('my', 3.5357989799617595)]
+Nearest to completion: [('confession', 0.5022655725479126), ('write', 0.4996599555015564), ('parents', 0.4200466275215149), ('live', 0.3973015546798706), ('read', 0.3886285126209259), ('my', 0.3836575150489807), ('writing', 0.351785808801651), ('written', 0.34282463788986206), ('listen', 0.34272730350494385), ('me', 0.3402949571609497)]
+
+--------------------------------------------------------------------------
+
+Jenny was an overweight mom.
+She would often get depressed thinking about it.
+She decided enough was enough.
+Jenny went on a very strict diet.
+> Jenny ended up losing over 100 lbs.
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.38176744927707457
+
+__About the completion__
+Rarest in completion: [('lbs', 10.433503923090395), ('jenny', 9.74035674253045), ('losing', 7.276503501940282), ('100', 7.276503501940282), ('ended', 5.160504364526648), ('over', 4.367395832986647)]
+Nearest to completion: [('lbs', 0.6485224366188049), ('ended', 0.5045166611671448), ('pounds', 0.4980068504810333), ('losing', 0.48712798953056335), ('loss', 0.48042747378349304), ('lost', 0.4574980139732361), ('ending', 0.4547889530658722), ('over', 0.43617677688598633), ('kg', 0.42071276903152466), ('versus', 0.4034101068973541)]
+
+--------------------------------------------------------------------------
+
+Morgan usually followed the rules.
+She didn't like to lie to her parents or upset them.
+One night, she snuck out to see her boyfriend.
+Her parents caught her and were so mad.
+> Morgan felt terrible about the stress she'd caused them.
+
+__About the match__
+Rarest shared words: [('rules', (7.725473721388203, 7.725473721388203)), ('parents', (4.598713185427808, 4.598713185427808)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.3749766694653937
+
+__About the completion__
+Rarest in completion: [('stress', 8.64174445386234), ('caused', 7.725453721988185), ('terrible', 6.7446244689764585), ("'d", 5.479438980482533), ('felt', 4.558573192238365), ('about', 4.124950211825675), ('them', 3.9905657466666935)]
+Nearest to completion: [('stress', 0.513064980506897), ('caused', 0.4840277135372162), ('terrible', 0.45937609672546387), ('felt', 0.41141608357429504), ('horrible', 0.40083569288253784), ('anxiety', 0.39345017075538635), ('horrendous', 0.37431952357292175), ('pain', 0.36102214455604553), ('suffering', 0.3595208525657654), ('causes', 0.3546617031097412)]
+
+--------------------------------------------------------------------------
+
+Maurice had the very bad habit of always telling the truth.
+It was extremely inconvenient as he couldn't keep any secrets.
+People never told him anything for that reason.
+Maurice felt rejected but he stuck by his principles.
+> He decided to change community and be with more like-minded people.
+
+__About the match__
+Rarest shared words: [('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.3701548169574629
+
+__About the completion__
+Rarest in completion: [('like-minded', 11.12665110365034), ('community', 7.776747016375736), ('change', 6.3559664791846755), ('people', 5.161787238339538), ('more', 4.774893167080915), ('be', 4.0931446193626435), ('decided', 3.495461951503386)]
+Nearest to completion: [('community', 0.5357049703598022), ('people', 0.5045737624168396), ('change', 0.4813346266746521), ('communities', 0.4376268982887268), ('individuals', 0.4187900722026825), ('more', 0.38921380043029785), ('residents', 0.36635056138038635), ('organizations', 0.35021764039993286), ('citizens', 0.34165123105049133), ('changes', 0.33901312947273254)]
+
+--------------------------------------------------------------------------
+
+Rachel was going camping with her family.
+She wanted to invite some friends but couldn't!
+Her parents were being very strict about it.
+When they were going her parents said she could invite one person.
+> She invited Laura and they had a great time.
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578)), ('parents', (4.598713185427808, 4.598713185427808)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.36299383596118884
+
+__About the completion__
+Rarest in completion: [('invited', 6.026784675826142), ('great', 4.843450213762537), ('time', 3.981849368185002)]
+Nearest to completion: [('invited', 0.7150264382362366), ('great', 0.5455483198165894), ('opportunity', 0.4512857496738434), ('inviting', 0.44336530566215515), ('wonderful', 0.4383663237094879), ('tremendous', 0.4382132589817047), ('fantastic', 0.4365648031234741), ('invite', 0.43602097034454346), ('hosted', 0.40950343012809753), ('invites', 0.4076493978500366)]
+
+--------------------------------------------------------------------------
+
+Jennifer was on a strict diet.
+She had lost 40 pounds already.
+Her friends were having a birthday party.
+She decided to cheat on her diet.
+> Jennifer ordered the deluxe bacon burger.
+
+__About the match__
+Rarest shared words: [('strict', (8.354082380810578, 8.354082380810578))]
+Score: 0.3600099131197199
+
+__About the completion__
+Rarest in completion: [('deluxe', 11.12665110365034), ('bacon', 8.775275846486863), ('jennifer', 8.523961418205957), ('burger', 7.676663557818753), ('ordered', 6.023740533444914)]
+Nearest to completion: [('burger', 0.7940898537635803), ('bacon', 0.7292690873146057), ('sandwich', 0.6675883531570435), ('steak', 0.6042858958244324), ('sandwiches', 0.6012670397758484), ('pizza', 0.5663942694664001), ('salad', 0.5337396860122681), ('cheese', 0.5314797759056091), ('sauce', 0.5141469240188599), ('dessert', 0.5078387260437012)]
+
+--------------------------------------------------------------------------
+
+

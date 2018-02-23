@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Rachael really wanted to have a slip and slide.
+So she bought one and set it up.
+No one was using it so her brother felt bad.
+He decided to go for a run on it.
+> But when he slid the ground was so hard it cut his leg.
+
+__About the context__
+Rarest in context: [('slip', 8.418620901948149), ('slide', 7.5157531904061345), ('using', 6.282484016591768), ('run', 5.573711518128742), ('brother', 5.342845920720622), ('set', 5.183871727923658), ('bad', 4.950803832944597), ('no', 4.393269211213), ('felt', 4.342214040412715), ('really', 4.303384980694672), ('have', 4.032436257125603), ('bought', 3.9121666888992155), ('go', 3.6524662965542345), ('so', 3.307436649191289)]
+Nearest to context: [('slip', 0.48203185200691223), ('slide', 0.44994187355041504), ('go', 0.3522683382034302), ('run', 0.34926819801330566), ('rip', 0.3479326665401459), ('sliding', 0.3350934088230133), ('drift', 0.33258405327796936), ('slipping', 0.3292779326438904), ('drop', 0.32463008165359497), ('put', 0.32458680868148804)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('back', 95, 19905, 0.3821852207183838), ('down', 119, 19881, 0.369873046875), ('shoved', 19043, 957, 0.351563423871994), ('knocked', 3488, 16512, 0.34433016180992126), ('knees', 9188, 10812, 0.3379795551300049), ('banged', 14885, 5115, 0.3148593604564667), ('punched', 9706, 10294, 0.2985309660434723), ('sliding', 9524, 10476, 0.29412734508514404), ('pushed', 2294, 17706, 0.2904423475265503), ('bumped', 14251, 5749, 0.28706955909729004)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.5985106229782104), ('back', 95, 19905, 0.5775996446609497), ('going', 125, 19875, 0.560410737991333), ('then', 145, 19855, 0.5485652089118958), ('scared', 6037, 13963, 0.5443079471588135), ('anyway', 4231, 15769, 0.5408303737640381), ('got', 193, 19807, 0.5375458002090454), ('yelled', 12007, 7993, 0.5317952632904053), ('shoved', 19043, 957, 0.5311643481254578), ("'d", 609, 19391, 0.5297728180885315)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7603537440299988), ('got', 193, 19807, 0.7220885753631592), ('came', 256, 19744, 0.7033280730247498), ('was', 10, 19990, 0.6836928725242615), ('wanted', 583, 19417, 0.6457276344299316), ('had', 35, 19965, 0.6454970240592957), ('knew', 1039, 18961, 0.6378806233406067), ('did', 92, 19908, 0.6348184943199158), ('saw', 653, 19347, 0.6228875517845154), ('stayed', 2936, 17064, 0.6162604689598083)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Mom was worried we were watching too much TV.
+She brainstormed ways to get us to play outside.
+She then had a brilliant idea.
+She created a homemade slip and slide.
+> My brothers and I loved it.
+
+__About the match__
+Rarest shared words: [('slip', (8.418620901948149, 8.418620901948149)), ('slide', (7.5157531904061345, 7.5157531904061345))]
+Score: 0.521674645150694
+
+__About the completion__
+Rarest in completion: [('brothers', 8.013135794439966), ('loved', 4.425305176991248), ('my', 3.5357989799617595)]
+Nearest to completion: [('brothers', 0.6190841794013977), ('loved', 0.588786780834198), ('brother', 0.5353121757507324), ('sons', 0.5167698264122009), ('father', 0.5139791965484619), ('dad', 0.5012454390525818), ('uncle', 0.4921228885650635), ('siblings', 0.49054422974586487), ('my', 0.47308287024497986), ('sisters', 0.4698505103588104)]
+
+--------------------------------------------------------------------------
+
+Jim was at the park playing with his friends.
+He decided to show off and run down one of the slides.
+As he was going down the slide, he slipped and fell.
+He landed on his leg in a weird spot and broke it.
+> Jim decided that showing off was not worth it anymore.
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345)), ('run', (5.573711518128742, 5.573711518128742))]
+Score: 0.5049527549229165
+
+__About the completion__
+Rarest in completion: [('showing', 7.969650682500228), ('worth', 7.204677767369026), ('anymore', 6.632412478369531), ('off', 4.4887379789916535), ('not', 3.8329533830489027), ('decided', 3.495461951503386)]
+Nearest to completion: [('anymore', 0.5041888356208801), ('does', 0.3748394250869751), ('worth', 0.371260404586792), ('decided', 0.3600256145000458), ('not', 0.34683704376220703), ('anytime_soon', 0.33986228704452515), ('bother', 0.326167494058609), ('Why', 0.32523173093795776), ('enough', 0.30555260181427), ('off', 0.30482080578804016)]
+
+--------------------------------------------------------------------------
+
+Susy bought some bean dip.
+She wanted to try it.
+It looked good.
+But she couldn't open it.
+> Finally an hour later she did.
+
+__About the match__
+Rarest shared words: [('bought', (3.9121666888992155, 3.9121666888992155))]
+Score: 0.44538355204180907
+
+__About the completion__
+Rarest in completion: [('hour', 5.830836867320422), ('later', 5.235006891824569), ('finally', 4.562795577118213), ('an', 3.8221351571901856), ('did', 3.6104898725633485)]
+Nearest to completion: [('later', 0.5670296549797058), ('hour', 0.5203683376312256), ('minutes', 0.46684497594833374), ('hours', 0.45901063084602356), ('finally', 0.41061943769454956), ('after', 0.41039222478866577), ('before', 0.39693692326545715), ('shortly', 0.38860809803009033), ('lasted', 0.3871142864227295), ('ago', 0.36926883459091187)]
+
+--------------------------------------------------------------------------
+
+Benny loved playing at the park.
+The slide was his favorite.
+He would go down it over and over again.
+After spending all day sliding, Benny was tired.
+> He went down one more time, then went home to nap.
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.4397046480568732
+
+__About the completion__
+Rarest in completion: [('nap', 7.571303042160927), ('more', 4.774893167080915), ('then', 4.392059443677392), ('down', 4.370882181666085), ('home', 4.002978318445733), ('time', 3.981849368185002), ('one', 3.351585275015767), ('went', 3.303005172815388)]
+Nearest to completion: [('down', 0.49395227432250977), ('home', 0.395660936832428), ('then', 0.3718414008617401), ('back', 0.33643585443496704), ('time', 0.33034443855285645), ('off', 0.3134905993938446), ('more', 0.31071674823760986), ('half', 0.30869999527931213), ('out', 0.30364587903022766), ('less', 0.2937409281730652)]
+
+--------------------------------------------------------------------------
+
+There was a slide at a company in Colorado Springs.
+I had a cast on my arm.
+All of my group went down it.
+They would not let me go down it.
+> So I walked down the stairs.
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.43648361475644215
+
+__About the completion__
+Rarest in completion: [('stairs', 7.90777527878214), ('walked', 5.178616114469694), ('down', 4.370882181666085), ('so', 3.628612279567497)]
+Nearest to completion: [('stairs', 0.7667089104652405), ('walked', 0.5096964240074158), ('hallway', 0.47312870621681213), ('walk', 0.4334088861942291), ('walking', 0.4292786717414856), ('elevator', 0.3966248333454132), ('downstairs', 0.380678653717041), ('upstairs', 0.37433984875679016), ('balcony', 0.3742782473564148), ('escorted', 0.36223652958869934)]
+
+--------------------------------------------------------------------------
+
+Billy was always scared to go down the slide.
+He never would try it.
+One day he got the urge to give it a shot.
+He climbed up to the top of the slide.
+> He pushed himself down, it was fun!
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.4358296179469716
+
+__About the completion__
+Rarest in completion: [('pushed', 7.234830805539714), ('himself', 5.695114893316081), ('fun', 5.29917715665159), ('down', 4.370882181666085), ('!', 3.536809591467683)]
+Nearest to completion: [('himself', 0.4736688435077667), ('fun', 0.43822842836380005), ('down', 0.39881548285484314), ('pushed', 0.3758217990398407), ('herself', 0.3237132132053375), ('myself', 0.3168008625507355), ('pushing', 0.2984597980976105), ('slid', 0.28316429257392883), ('Fun', 0.28167781233787537), ('groove', 0.27350470423698425)]
+
+--------------------------------------------------------------------------
+
+I was working as a lifeguard at a slide.
+I saw a boy splash into the water.
+He could barely stay up.
+I jumped in.
+> His back was hurting.
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345))]
+Score: 0.3925113239902821
+
+__About the completion__
+Rarest in completion: [('hurting', 8.1822121244839), ('back', 4.3399341530452595)]
+Nearest to completion: [('hurting', 0.7896478176116943), ('hurt', 0.5812821984291077), ('hurts', 0.5287083983421326), ('back', 0.47469326853752136), ('bruised', 0.4131135642528534), ('harming', 0.39560645818710327), ('strained', 0.39212900400161743), ('undermining', 0.3913673758506775), ('damaging', 0.36538165807724), ('struggling', 0.35575729608535767)]
+
+--------------------------------------------------------------------------
+
+Courtney loved going to the waterpark.
+Water slides were her favorite thing to do!
+She went down each slide a dozen times.
+When she was tired, she sat down and had a popsicle.
+> Once she was rested, she was ready to slide again!
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345))]
+Score: 0.3843475569725368
+
+__About the completion__
+Rarest in completion: [('rested', 9.180740954595027), ('slide', 8.058598168516724), ('once', 5.903596221602851), ('ready', 5.798774934860759), ('again', 5.046717908554751), ('!', 3.536809591467683)]
+Nearest to completion: [('rested', 0.5432072281837463), ('ready', 0.4975341260433197), ('again', 0.45943984389305115), ('slide', 0.45218008756637573), ('poised', 0.3741185963153839), ('once', 0.3714236617088318), ('slides', 0.3628920614719391), ('rejoin', 0.3177432119846344), ('sliding', 0.3174692690372467), ('recovers', 0.30917617678642273)]
+
+--------------------------------------------------------------------------
+
+Ulrich was trying to adjust his microphone stand.
+Every time he thought he had it in place, the rod would slip.
+Ulrich tried twisting the knobs really hard to hold it in place.
+He ended up breaking one off with too much force.
+> Ulrich got frustrated and decided to go do a contact sport instead.
+
+__About the match__
+Rarest shared words: [('slip', (8.418620901948149, 8.418620901948149)), ('really', (4.303384980694672, 4.303384980694672))]
+Score: 0.381937207300206
+
+__About the completion__
+Rarest in completion: [('sport', 8.106226217505977), ('contact', 8.058598168516724), ('frustrated', 7.146969449748379), ('instead', 5.508063475057371), ('do', 4.865159419329299), ('go', 4.110041419756121), ('decided', 3.495461951503386), ('got', 3.390344007102055)]
+Nearest to completion: [('contact', 0.4406353831291199), ('frustrated', 0.3806230425834656), ('sport', 0.3608313500881195), ('go', 0.33413127064704895), ('decided', 0.33238348364830017), ('opted', 0.324666827917099), ('want', 0.3086407482624054), ('do', 0.30787843465805054), ('please_contact', 0.30547896027565), ('concentrate', 0.2807450294494629)]
+
+--------------------------------------------------------------------------
+
+Mary and Todd were at the park.
+They were taking turns on the slide.
+Todd went down too soon after Mary.
+He knocked Mary to the ground.
+> Mary got her tooth knocked out and she cried.
+
+__About the match__
+Rarest shared words: [('slide', (7.5157531904061345, 7.5157531904061345))]
+Score: 0.37995702479807775
+
+__About the completion__
+Rarest in completion: [('tooth', 7.543132165194231), ('knocked', 6.914523505771856), ('cried', 6.83619166250195), ('got', 3.390344007102055), ('out', 3.3165011979861596)]
+Nearest to completion: [('tooth', 0.5173432230949402), ('cried', 0.5161049962043762), ('knocked', 0.5072522759437561), ('punched', 0.45188796520233154), ('screamed', 0.4387320876121521), ('jaw', 0.4119485020637512), ('shoved', 0.38163718581199646), ('hugged', 0.3808663785457611), ('yelled', 0.3796773850917816), ('smacked', 0.3744272291660309)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Marlene took her dog for a walk.
+While they were out, Marlene got violently ill.
+A kind motorist stopped and offered to help.
+He drove Marlene to the Emergency Room.
+> She was in the hospital for a whole week!
+
+__About the context__
+Rarest in context: [('violently', 10.433523922490414), ('motorist', 10.433523922490414), ('ill', 6.967788019690687), ('kind', 6.594071609897103), ('offered', 5.7421760402612705), ('walk', 5.297725485440152), ('stopped', 5.280232327992635), ('drove', 5.105647753700833), ('dog', 4.724753906323174), ('help', 4.693731010311179), ('while', 4.237079794695893), ('took', 3.6015703569245585)]
+Nearest to context: [('motorist', 0.49813005328178406), ('drove', 0.4492875933647156), ('sped', 0.4102359712123871), ('walked', 0.39715561270713806), ('stopped', 0.395045667886734), ('dog', 0.3840956687927246), ('walking', 0.35027197003364563), ('wandered', 0.3498814105987549), ('took', 0.3437323272228241), ('walk', 0.3435573875904083)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dog', 2043, 17957, 0.5705606341362), ('motorist', 15995, 4005, 0.4874902665615082), ('dogs', 2766, 17234, 0.4594922959804535), ('vehicle', 1024, 18976, 0.45823800563812256), ('puppy', 16503, 3497, 0.45558521151542664), ('cat', 5947, 14053, 0.4474204182624817), ('ambulance', 5979, 14021, 0.4296654164791107), ('cruiser', 18465, 1535, 0.4095117151737213), ('police', 188, 19812, 0.4087280333042145), ('animal', 2801, 17199, 0.4042578935623169)]
+Nearest words to completions' keywords: [('dog', 2043, 17957, 0.8113042116165161), ('dogs', 2766, 17234, 0.7399002313613892), ('puppy', 16503, 3497, 0.7382113933563232), ('cat', 5947, 14053, 0.7030153870582581), ('pet', 4804, 15196, 0.6712905168533325), ('cats', 7107, 12893, 0.6625842452049255), ('pets', 7137, 12863, 0.6382283568382263), ('animal', 2801, 17199, 0.5987967848777771), ('Dog', 9760, 10240, 0.5970956087112427), ('animals', 2418, 17582, 0.5777968168258667)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.7190558314323425), ('was', 10, 19990, 0.6853775978088379), ('got', 193, 19807, 0.678672194480896), ('went', 297, 19703, 0.6771072745323181), ('ran', 1256, 18744, 0.6361064314842224), ('had', 35, 19965, 0.6024698615074158), ('returned', 1095, 18905, 0.5834962129592896), ('arrived', 1550, 18450, 0.576364278793335), ('saw', 653, 19347, 0.5699650645256042), ('stayed', 2936, 17064, 0.5687085390090942)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Germaine was driving to work when he saw something by the roadside.
+It was a hurt dog.
+He immediately stopped his car and collected the animal.
+Germaine took the dog to a veterinarian.
+> After the dog was healed Germaine adopted it.
+
+__About the match__
+Rarest shared words: [('stopped', (5.280232327992635, 5.280232327992635)), ('dog', (4.724753906323174, 4.724753906323174)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5886631911626931
+
+__About the completion__
+Rarest in completion: [('healed', 8.72875583085197), ('adopted', 7.475992862356602), ('dog', 5.026332151630276), ('after', 3.9503965716331964)]
+Nearest to completion: [('dog', 0.6816814541816711), ('adopted', 0.6441683173179626), ('dogs', 0.5982694029808044), ('puppy', 0.5779829621315002), ('cat', 0.5120156407356262), ('pet', 0.5113879442214966), ('Dog', 0.5034680366516113), ('adopting', 0.49816420674324036), ('cats', 0.47330552339553833), ('adopt', 0.4691096842288971)]
+
+--------------------------------------------------------------------------
+
+Dan's car ran out of gas in the street.
+Dan began walking toward a gas station.
+A woman pulled up and offered Dan a ride.
+Dan got in and she drove him to the station.
+> Dan got some gas at the station - and the woman's phone number!
+
+__About the match__
+Rarest shared words: [('offered', (5.7421760402612705, 5.7421760402612705)), ('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.5703111721014339
+
+__About the completion__
+Rarest in completion: [('number', 7.092410465497945), ('station', 6.863971226609025), ('-', 6.83619166250195), ('gas', 6.707810495853742), ('woman', 5.684233393128547), ('phone', 5.470659292830488), ('some', 4.142861138392206), ('!', 3.536809591467683), ('got', 3.390344007102055), ("'s", 3.3551623435327245)]
+Nearest to completion: [('station', 0.5688111782073975), ('gas', 0.5188366174697876), ('phone', 0.5100691914558411), ('telephone', 0.4638037383556366), ('caller', 0.4509580731391907), ('stations', 0.42594191431999207), ('woman', 0.4195469319820404), ('cell_phone', 0.4056256413459778), ('cellphone', 0.40463757514953613), ('number', 0.40322771668434143)]
+
+--------------------------------------------------------------------------
+
+The police officer parked his car to the side of the road.
+He was trying to observe and drivers that were speeding.
+One driver also pulled to the side of the road.
+He got out and took off his pants to urinate.
+> The officer immediately arrested him.
+
+__About the match__
+Rarest shared words: [('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.527653452926566
+
+__About the completion__
+Rarest in completion: [('officer', 7.400957676413688), ('arrested', 7.342461469732079), ('immediately', 6.073595093670132), ('him', 3.3907807836977737)]
+Nearest to completion: [('officer', 0.6907143592834473), ('arrested', 0.643907904624939), ('police', 0.5577161312103271), ('arrest', 0.5485119223594666), ('officers', 0.5367072820663452), ('apprehended', 0.527020275592804), ('allegedly', 0.5113317966461182), ('detained', 0.5090827941894531), ('arrest_warrant', 0.4953984320163727), ('Officer', 0.49461567401885986)]
+
+--------------------------------------------------------------------------
+
+The man heard some sirens.
+He pulled over to the side of the road.
+An emergency vehicle drove by.
+The man pulled back out.
+> The man followed the emergency vehicle.
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.5127415534660069
+
+__About the completion__
+Rarest in completion: [('vehicle', 8.354062381410559), ('emergency', 7.725453721988185), ('followed', 7.18506929598065), ('man', 4.481560134144697)]
+Nearest to completion: [('vehicle', 0.5867135524749756), ('emergency', 0.5855081677436829), ('motorist', 0.5363014340400696), ('ambulance', 0.5112859606742859), ('motor_vehicle', 0.472169429063797), ('Emergency', 0.45786505937576294), ('SUV', 0.45191070437431335), ('pickup_truck', 0.4477524757385254), ('man', 0.43256330490112305), ('car', 0.4322397708892822)]
+
+--------------------------------------------------------------------------
+
+Ota took her dog for a walk.
+The dog got away from her.
+A young boy chased after the dog.
+He caught the dog's leash.
+> The boy returned the dog to Ota.
+
+__About the match__
+Rarest shared words: [('walk', (5.297725485440152, 5.297725485440152)), ('dog', (4.724753906323174, 4.724753906323174)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.49696564614203964
+
+__About the completion__
+Rarest in completion: [('returned', 6.225086904608447), ('boy', 5.823346195591265), ('dog', 5.026332151630276)]
+Nearest to completion: [('dog', 0.6653304100036621), ('boy', 0.6472458243370056), ('puppy', 0.6353462338447571), ('toddler', 0.5646681189537048), ('girl', 0.5436986684799194), ('dogs', 0.537315845489502), ('cat', 0.49635493755340576), ('Dog', 0.4723934531211853), ('teenager', 0.4663506746292114), ('returned', 0.44110170006752014)]
+
+--------------------------------------------------------------------------
+
+I awoke to a normal day and a beautiful sunrise.
+I got in my car and began my drive to work.
+I took my normal route to work.
+A drunk driver t-boned me as I drove through an intersection.
+> My car was totaled.
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.48867596473621455
+
+__About the completion__
+Rarest in completion: [('totaled', 9.111748083108075), ('car', 4.464157181236033), ('my', 3.5357989799617595)]
+Nearest to completion: [('totaled', 0.6756376624107361), ('car', 0.48856478929519653), ('###.#', 0.44084247946739197), ('##.#', 0.4167892336845398), ('amounted', 0.4105338156223297), ('vehicle', 0.4001583456993103), ('Car', 0.3894633948802948), ('totaling', 0.38522517681121826), ('decreased', 0.3817063271999359), ('corresponding_period', 0.37713244557380676)]
+
+--------------------------------------------------------------------------
+
+Anna's dog was hit by a car.
+The driver stopped and jumped out, horrified.
+He helped Anna get the dog into his car.
+They raced to the vet together.
+> Luckily, the vet was able to save Anna's dog.
+
+__About the match__
+Rarest shared words: [('stopped', (5.280232327992635, 5.280232327992635)), ('dog', (4.724753906323174, 4.724753906323174))]
+Score: 0.48737964979971743
+
+__About the completion__
+Rarest in completion: [('vet', 7.413079036946033), ('save', 6.967768020290668), ('luckily', 6.153371596097854), ('able', 5.284557013196627), ('dog', 5.026332151630276), ("'s", 3.3551623435327245)]
+Nearest to completion: [('vet', 0.7151628136634827), ('dog', 0.6506510972976685), ('dogs', 0.5641934275627136), ('pet', 0.5613563060760498), ('veterinarian', 0.5529257655143738), ('puppy', 0.5351311564445496), ('Dog', 0.5319945216178894), ('cat', 0.5003566145896912), ('vets', 0.4837084114551544), ('pets', 0.4735812246799469)]
+
+--------------------------------------------------------------------------
+
+The boy walked the dog.
+The dog saw a cat.
+The dog chased after the cat.
+The boy had to let go of the dog.
+> The dog ran away after the cat.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174))]
+Score: 0.48657476160717966
+
+__About the completion__
+Rarest in completion: [('cat', 5.756013075522677), ('ran', 5.030826541218116), ('dog', 5.026332151630276), ('away', 4.824948298377215), ('after', 3.9503965716331964)]
+Nearest to completion: [('dog', 0.7299515008926392), ('cat', 0.7188117504119873), ('puppy', 0.6320755481719971), ('dogs', 0.5997295379638672), ('cats', 0.5689457058906555), ('pet', 0.5590614080429077), ('Dog', 0.50212562084198), ('animal', 0.5003851056098938), ('pets', 0.46337318420410156), ('Pet', 0.4425172507762909)]
+
+--------------------------------------------------------------------------
+
+Bob had just robbed a bank.
+He ran outside and saw his getaway driver leaving.
+Bob started to panic about the police.
+He ran into an alley and found a bicycle.
+> Bob used the bicycle to safely escape with the money.
+
+__About the match__
+Rarest shared words: []
+Score: 0.48517200763405016
+
+__About the completion__
+Rarest in completion: [('escape', 8.523961418205957), ('bicycle', 8.130918830096348), ('safely', 7.759355273663867), ('used', 5.4636906235143945), ('money', 4.903083263856677)]
+Nearest to completion: [('safely', 0.5718713402748108), ('bicycle', 0.5057573318481445), ('escape', 0.4906538128852844), ('bicycles', 0.45851531624794006), ('bike', 0.41438838839530945), ('money', 0.404376745223999), ('safe', 0.37981560826301575), ('bikes', 0.36895862221717834), ('escaping', 0.3682820796966553), ('funds', 0.35965201258659363)]
+
+--------------------------------------------------------------------------
+
+Hayden walked across the street.
+He got hit by a car.
+He flew through the air.
+The driver called an ambulance.
+> Hayden got forty stitches.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4839436025546506
+
+__About the completion__
+Rarest in completion: [('forty', 8.92942652631412), ('stitches', 8.64174445386234), ('got', 3.390344007102055)]
+Nearest to completion: [('stitches', 0.8387542963027954), ('forty', 0.401988685131073), ('jaw', 0.37667909264564514), ('elbow', 0.3750697076320648), ('bruises', 0.3728691637516022), ('thirty', 0.366045743227005), ('twenty', 0.3629997670650482), ('chin', 0.3611791431903839), ('forehead', 0.3511028289794922), ('thigh', 0.3433023691177368)]
+
+--------------------------------------------------------------------------
+
+

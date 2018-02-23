@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+I got Charlie Horse when I was four years old.
+He's a brown stuffed horse, and at 35 I still sleep with him at night.
+He was my best friend, and always laid at the head of my bed.
+I laid him next to me, smelling his soft fur every night.
+> I liked to listen to my radio as I fell asleep cuddling him.
+
+__About the context__
+Rarest in context: [('smelling', 9.517233190616258), ('35', 8.824086010056313), ('fur', 8.418620901948149), ('soft', 7.489084943323974), ('stuffed', 7.342481469132098), ('brown', 7.175427384468931), ('horse', 6.967788019690687), ('laid', 6.594071609897103), ('four', 6.039074767817975), ('head', 5.7194993315902405), ('sleep', 5.662839298024749), ('bed', 5.4329389642476595), ('still', 5.173427768762575), ('best', 5.017423520285994), ('years', 4.671472539710237), ('next', 4.649698740160677), ('old', 4.424710737047819), ('every', 4.228966159921724), ('always', 4.054249202512988), ('me', 4.020884973569087), ('night', 4.007035465032724), ('friend', 3.9405267985280337)]
+Nearest to context: [('bed', 0.44413790106773376), ('brown', 0.3769334852695465), ('sleep', 0.34827953577041626), ('fur', 0.3435056805610657), ('soft', 0.3429695963859558), ('stuffed', 0.3281998038291931), ('gray', 0.327213853597641), ('dark', 0.32126927375793457), ('horse', 0.31804215908050537), ('couch', 0.3153799772262573)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('screamed', 14556, 5444, 0.4813918471336365), ('cried', 11408, 8592, 0.47325393557548523), ('hugged', 16360, 3640, 0.4496398866176605), ('waved', 10857, 9143, 0.42647862434387207), ('kissed', 19928, 72, 0.40668901801109314), ('shouted', 9655, 10345, 0.39736416935920715), ('asleep', 12307, 7693, 0.386219322681427), ('yelled', 12007, 7993, 0.38317617774009705), ('slept', 11443, 8557, 0.3719421625137329), ('smiled', 11891, 8109, 0.3641906976699829)]
+Nearest words to completions' keywords: [('cried', 11408, 8592, 0.665626049041748), ('hugged', 16360, 3640, 0.6217523813247681), ('screamed', 14556, 5444, 0.6044083833694458), ('slept', 11443, 8557, 0.5969440937042236), ('yelled', 12007, 7993, 0.583527684211731), ('crying', 7458, 12542, 0.5792732238769531), ('kissed', 19928, 72, 0.5615601539611816), ('laughed', 9168, 10832, 0.557914674282074), ('walked', 1850, 18150, 0.5512706637382507), ('screaming', 7568, 12432, 0.5494428873062134)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.7098116278648376), ('cried', 11408, 8592, 0.6683635115623474), ('went', 297, 19703, 0.6531373262405396), ('stood', 2379, 17621, 0.6417610049247742), ('laughed', 9168, 10832, 0.6383209824562073), ('fell', 594, 19406, 0.6312416195869446), ('stayed', 2936, 17064, 0.6196275949478149), ('was', 10, 19990, 0.6162087917327881), ('ran', 1256, 18744, 0.6098897457122803), ('walked', 1850, 18150, 0.6020196080207825)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The boy had a favorite stuffed animal.
+It was a dragon.
+He named it Pete.
+He would sleep with it every night.
+> Pete was a special item for the boy and he couldn't sleep without it.
+
+__About the match__
+Rarest shared words: [('stuffed', (7.342481469132098, 7.342481469132098)), ('sleep', (5.662839298024749, 5.662839298024749)), ('every', (4.228966159921724, 4.228966159921724)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.5305493669841636
+
+__About the completion__
+Rarest in completion: [('item', 8.035608650292025), ('special', 6.6048625266013), ('without', 6.005667752385219), ('sleep', 5.964726362007859), ('boy', 5.823346195591265), ('could', 3.8258407366367204), ("n't", 3.334508641807057)]
+Nearest to completion: [('item', 0.4675436317920685), ('sleep', 0.41025301814079285), ('special', 0.409869521856308), ('child', 0.4022548198699951), ('without', 0.3947141766548157), ('infant', 0.3612135052680969), ('boy', 0.3460850715637207), ('newborn', 0.3390277922153473), ('items', 0.33327198028564453), ('toddler', 0.3196130394935608)]
+
+--------------------------------------------------------------------------
+
+The dog jumped on the bed while I worked.
+She wanted to have the bed to herself.
+She rested on the covers and put her head on my pillow.
+She cuddled with a stuffed horse.
+> She fell asleep for a few hours.
+
+__About the match__
+Rarest shared words: [('stuffed', (7.342481469132098, 7.342481469132098)), ('horse', (6.967788019690687, 6.967788019690687)), ('head', (5.7194993315902405, 5.7194993315902405)), ('bed', (5.4329389642476595, 5.4329389642476595))]
+Score: 0.5113886685097446
+
+__About the completion__
+Rarest in completion: [('asleep', 6.4585061185008605), ('hours', 5.268717949166882), ('fell', 5.1553892638598775), ('few', 5.000874218934764)]
+Nearest to completion: [('asleep', 0.5873019099235535), ('hours', 0.5259280800819397), ('fell', 0.4565637409687042), ('slept', 0.411216676235199), ('slumped', 0.39291149377822876), ('sleeping', 0.3920114040374756), ('tumbled', 0.36906078457832336), ('slipped', 0.36805230379104614), ('morning', 0.364291787147522), ('minutes', 0.3602002263069153)]
+
+--------------------------------------------------------------------------
+
+I had a couple rabbits.
+We let one of them out in the yard.
+The dog had the rabbit in it's mouth.
+There was fur missing on the rabbit's neck.
+> The rabbit died after that.
+
+__About the match__
+Rarest shared words: [('fur', (8.418620901948149, 8.418620901948149))]
+Score: 0.48385268384377317
+
+__About the completion__
+Rarest in completion: [('rabbit', 8.64174445386234), ('died', 6.403697882005866), ('after', 3.9503965716331964)]
+Nearest to completion: [('died', 0.8624559044837952), ('killed', 0.5896123647689819), ('hospitalized', 0.5372496247291565), ('succumbed', 0.5288567543029785), ('dies', 0.5041075348854065), ('committed_suicide', 0.5039980411529541), ('dead', 0.4752904772758484), ('pronounced_dead', 0.46353453397750854), ('seriously_injured', 0.45769134163856506), ('fatal', 0.45332106947898865)]
+
+--------------------------------------------------------------------------
+
+I bought a stuffed toy with purple hair.
+She also had purple eyes and eyelashes.
+She came with a tiny stuffed baby in her arms.
+The baby had a twig of purple curly hair.
+> The two came as a pair, and are very cute.
+
+__About the match__
+Rarest shared words: [('stuffed', (7.342481469132098, 7.342481469132098))]
+Score: 0.439635088287186
+
+__About the completion__
+Rarest in completion: [('cute', 7.224678434075696), ('pair', 6.567524856163656), ('are', 6.0767950964008035), ('two', 4.891260466045621), ('came', 4.538412620640003), ('as', 3.9638660844916718), ('very', 3.793301345264873)]
+Nearest to completion: [('pair', 0.596647322177887), ('are', 0.49448421597480774), ('cute', 0.4560640752315521), ('two', 0.4426591694355011), ('both', 0.42862194776535034), ('were', 0.42305970191955566), ('trio', 0.3979467749595642), ('these', 0.3913934826850891), ('slew', 0.36388757824897766), ('equally', 0.3634434938430786)]
+
+--------------------------------------------------------------------------
+
+I used to love playing pranks on Billy, my older brother.
+One day I got a black rubber snake.
+I put the snake in Billy's bed and waited in his closet.
+Billy came in and pulled back the bed sheets.
+> I laughed when Billy screamed and fell backwards from the snake.
+
+__About the match__
+Rarest shared words: [('bed', (5.4329389642476595, 5.4329389642476595))]
+Score: 0.4395741398979323
+
+__About the completion__
+Rarest in completion: [('backwards', 8.775275846486863), ('snake', 7.742260840304566), ('screamed', 6.856953653950378), ('laughed', 6.2066701778222155), ('fell', 5.1553892638598775), ('from', 3.996552593524763), ('when', 3.4368224349138567)]
+Nearest to completion: [('screamed', 0.6063974499702454), ('shouted', 0.510790228843689), ('yelled', 0.5045309662818909), ('shoved', 0.45050954818725586), ('snake', 0.44612959027290344), ('laughed', 0.4329509437084198), ('screaming', 0.42864686250686646), ('cried', 0.42403462529182434), ('hugged', 0.42380860447883606), ('kissed', 0.41108810901641846)]
+
+--------------------------------------------------------------------------
+
+Peter had a pet cat.
+It had a very long, fluffy tail.
+Peter's baby liked to grab it.
+One day, he grabbed so hard, some fur game off.
+> Peter's cat hated the new baby.
+
+__About the match__
+Rarest shared words: [('fur', (8.418620901948149, 8.418620901948149))]
+Score: 0.4294719706278088
+
+__About the completion__
+Rarest in completion: [('hated', 6.368759830644585), ('baby', 5.9675958044358115), ('cat', 5.756013075522677), ('new', 3.7799959404738015), ("'s", 3.3551623435327245)]
+Nearest to completion: [('cat', 0.6575955748558044), ('baby', 0.6534963250160217), ('puppy', 0.5852990746498108), ('cats', 0.5561408996582031), ('newborn', 0.5443863868713379), ('pet', 0.5326036810874939), ('babies', 0.5027443766593933), ('infant', 0.49962663650512695), ('dog', 0.49347323179244995), ('Baby', 0.46598395705223083)]
+
+--------------------------------------------------------------------------
+
+Paul had a favorite stuffed animal.
+It was a moose with big brown eyes.
+He would carry it wherever he would go.
+One day, he left it at the playground!
+> Paul cried for hours.
+
+__About the match__
+Rarest shared words: [('stuffed', (7.342481469132098, 7.342481469132098)), ('brown', (7.175427384468931, 7.175427384468931))]
+Score: 0.421803461734961
+
+__About the completion__
+Rarest in completion: [('cried', 6.83619166250195), ('hours', 5.268717949166882)]
+Nearest to completion: [('cried', 0.7065593004226685), ('hours', 0.6181071996688843), ('tears', 0.5050351023674011), ('screamed', 0.4525890052318573), ('crying', 0.4517531096935272), ('hugged', 0.44189706444740295), ('hour', 0.4394060969352722), ('minutes', 0.4351077377796173), ('days', 0.3955962657928467), ('slept', 0.3884850740432739)]
+
+--------------------------------------------------------------------------
+
+Last night I dropped a napkin on the carpet.
+I was tired  and went to bed.
+The next morning I found the napkin had been shredded.
+My wife said our cat found the napkin.
+> I made sure to pick up any napkins from now on.
+
+__About the match__
+Rarest shared words: [('bed', (5.4329389642476595, 5.4329389642476595)), ('next', (4.649698740160677, 4.649698740160677)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.4216669831813665
+
+__About the completion__
+Rarest in completion: [('napkins', 9.517213191216241), ('pick', 6.116015809554085), ('sure', 5.993798176829835), ('any', 5.5873502676597635), ('now', 4.716476221684173), ('made', 4.267560996649484), ('from', 3.996552593524763)]
+Nearest to completion: [('pick', 0.492370069026947), ('make', 0.49035000801086426), ('made', 0.47430849075317383), ('making', 0.4565001130104065), ('any', 0.418172150850296), ('picks', 0.3962986171245575), ('picking', 0.3698899745941162), ('Making', 0.35496434569358826), ('Make', 0.34468814730644226), ('sure', 0.3349630534648895)]
+
+--------------------------------------------------------------------------
+
+Dusseldorf always wanted to own a horse.
+One sunny day, he got dressed and set off to a nearby stable.
+When he arrived, the stable owner told him horses were for sale.
+Dusseldorf loved the color brown, so bought one of the brown horses.
+> As the sun was setting, the owner waved to Dusseldorf as he rode away.
+
+__About the match__
+Rarest shared words: [('brown', (7.175427384468931, 7.175427384468931)), ('horse', (6.967788019690687, 6.967788019690687)), ('always', (4.054249202512988, 4.054249202512988))]
+Score: 0.4215952845755343
+
+__About the completion__
+Rarest in completion: [('setting', 8.523961418205957), ('waved', 8.058598168516724), ('sun', 7.007613928837868), ('rode', 6.999516718605249), ('owner', 6.769942276960749), ('away', 4.824948298377215), ('as', 3.9638660844916718)]
+Nearest to completion: [('waved', 0.5584193468093872), ('rode', 0.4932463467121124), ('sun', 0.4468064606189728), ('waving', 0.4325753450393677), ('roared', 0.40863510966300964), ('cruised', 0.4070078730583191), ('sped', 0.38525888323783875), ('raced', 0.36075225472450256), ('escorted', 0.35049140453338623), ('chased', 0.3444807827472687)]
+
+--------------------------------------------------------------------------
+
+Mack was a large black lab puppy.
+He slept in bed with me every night, but his gas was terrible.
+One night, his gas was so atrocious that I moved to the couch to sleep.
+I could smell it all the way into the living room.
+> Eventually he joined me on the couch.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('every', (4.228966159921724, 4.228966159921724)), ('me', (4.020884973569087, 4.020884973569087)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.4147745485153751
+
+__About the completion__
+Rarest in completion: [('couch', 6.944600961009134), ('joined', 6.9369963616239145), ('eventually', 5.556400021618662), ('me', 4.441414571213571)]
+Nearest to completion: [('couch', 0.5810360908508301), ('joined', 0.4702310860157013), ('join', 0.3815602660179138), ('chair', 0.3742128014564514), ('eventually', 0.36145326495170593), ('joining', 0.35906946659088135), ('Joining', 0.35402512550354004), ('joins', 0.3422427177429199), ('me', 0.31897062063217163), ('Eventually', 0.3111860752105713)]
+
+--------------------------------------------------------------------------
+
+

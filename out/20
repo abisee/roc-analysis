@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+My dog is terrified of thunder.
+There was a storm today.
+He came running into my office.
+He hid in the kneehole of my desk, trembling.
+> Once the storm was over, he acted like a brave dog again.
+
+__About the context__
+Rarest in context: [('kneehole', 10.433523922490414), ('trembling', 9.740376741930469), ('thunder', 8.035628649692043), ('hid', 6.822606009846189), ('terrified', 6.769962276360768), ('desk', 6.482280203908987), ('storm', 6.355986478584694), ('office', 5.617282766422382), ('running', 5.419560838301483), ('dog', 4.724753906323174), ('today', 4.708306167114148), ('came', 4.084384931110616), ('is', 3.859843755529768), ('into', 3.75707038252395), ('there', 3.6031897904768617)]
+Nearest to context: [('desk', 0.47043806314468384), ('office', 0.4295041263103485), ('hid', 0.386935830116272), ('storm', 0.3664962947368622), ('desks', 0.35613489151000977), ('hiding', 0.32803261280059814), ('terrified', 0.3165696859359741), ('closet', 0.29035213589668274), ('offices', 0.289233922958374), ('frightened', 0.2852934002876282)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('rats', 14141, 5859, 0.5422486662864685), ('rat', 17273, 2727, 0.5311306715011597), ('cat', 5947, 14053, 0.5157306790351868), ('mouse', 9647, 10353, 0.4549415409564972), ('mice', 9631, 10369, 0.4247370660305023), ('monkeys', 19903, 97, 0.4150167405605316), ('cats', 7107, 12893, 0.41347822546958923), ('snake', 14786, 5214, 0.38186585903167725), ('monkey', 17100, 2900, 0.3655015826225281), ('pig', 13283, 6717, 0.3524026870727539)]
+Nearest words to completions' keywords: [('cat', 5947, 14053, 0.6043697595596313), ('dog', 2043, 17957, 0.5798225998878479), ('puppy', 16503, 3497, 0.5699263215065002), ('cats', 7107, 12893, 0.5576951503753662), ('dogs', 2766, 17234, 0.545281171798706), ('mother', 852, 19148, 0.5274879932403564), ('animals', 2418, 17582, 0.511972963809967), ('grandmother', 6547, 13453, 0.5059155225753784), ('toddler', 11630, 8370, 0.4977913200855255), ('snake', 14786, 5214, 0.4948604106903076)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.759275496006012), ('came', 256, 19744, 0.748216986656189), ('had', 35, 19965, 0.6981856822967529), ('got', 193, 19807, 0.6977561712265015), ('went', 297, 19703, 0.6463695764541626), ('were', 37, 19963, 0.6192734837532043), ('stayed', 2936, 17064, 0.6098306179046631), ('saw', 653, 19347, 0.609717071056366), ('took', 263, 19737, 0.5983008146286011), ('knew', 1039, 18961, 0.5957104563713074)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Tyler just saw a cockroach running on his desk.
+He jumped out of bed and ran over to it.
+The cockroach saw tyler coming, and ran into the wall.
+Tyler waited and found the cockroach.
+> The cockroach was removed from tyler's home.
+
+__About the match__
+Rarest shared words: [('desk', (6.482280203908987, 6.482280203908987)), ('running', (5.419560838301483, 5.419560838301483)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.4766520840361391
+
+__About the completion__
+Rarest in completion: [('cockroach', 9.873888135154973), ('tyler', 9.25484892674875), ('removed', 7.515733191006116), ('home', 4.002978318445733), ('from', 3.996552593524763), ("'s", 3.3551623435327245)]
+Nearest to completion: [('removed', 0.7104754447937012), ('from', 0.5168588757514954), ('remove', 0.4815327823162079), ('home', 0.46868979930877686), ('removing', 0.44674035906791687), ('removal', 0.428420752286911), ('retrieved', 0.3846757709980011), ('returned', 0.3728901743888855), ('relocated', 0.3590835928916931), ('transferred', 0.3570607900619507)]
+
+--------------------------------------------------------------------------
+
+There was a massive tornado last night.
+My brother and I got caught in it.
+We were driving then immediately ran to the basement.
+We were so frightened.
+> Finally when it stopped we were alright.
+
+__About the match__
+Rarest shared words: [('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.47510464065915214
+
+__About the completion__
+Rarest in completion: [('alright', 9.334891634422286), ('stopped', 5.619289110167595), ('finally', 4.562795577118213), ('we', 4.354142974076229), ('were', 3.60343995182413), ('when', 3.4368224349138567)]
+Nearest to completion: [('stopped', 0.5081466436386108), ('finally', 0.4964837431907654), ('were', 0.47285422682762146), ('when', 0.34262266755104065), ('stop', 0.336880624294281), ('after', 0.33160164952278137), ('ceased', 0.3295770287513733), ('began', 0.324211448431015), ('before', 0.32191339135169983), ('Were', 0.3186124563217163)]
+
+--------------------------------------------------------------------------
+
+Jessica was scared of bad weather.
+There was a bad storm crossing over the area.
+Jessica was terrified when she heard the thunder.
+She stayed under her bed all night.
+> Jessica was relieved when the storm had passed.
+
+__About the match__
+Rarest shared words: [('thunder', (8.035628649692043, 8.035628649692043)), ('terrified', (6.769962276360768, 6.769962276360768)), ('storm', (6.355986478584694, 6.355986478584694)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.43569879007052176
+
+__About the completion__
+Rarest in completion: [('storm', 6.769942276960749), ('relieved', 6.672303807396832), ('passed', 6.102770582804064), ('when', 3.4368224349138567)]
+Nearest to completion: [('storm', 0.617017388343811), ('relieved', 0.5215407609939575), ('passed', 0.4926023483276367), ('storms', 0.49191272258758545), ('hurricane', 0.46274250745773315), ('tropical_storm', 0.4018019735813141), ('cyclone', 0.40140432119369507), ('tornado', 0.3964281678199768), ('Ike', 0.36962196230888367), ('hurricanes', 0.36461663246154785)]
+
+--------------------------------------------------------------------------
+
+We have a mirrored door on our bedroom closet.
+It is usually covered up by clothes.
+Yesterday my wife put away the clothes.
+The cat saw herself in the mirror and kept staring.
+> My wife called her vain.
+
+__About the match__
+Rarest shared words: [('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.4210601660705085
+
+__About the completion__
+Rarest in completion: [('vain', 10.433503923090395), ('wife', 5.17731148284303), ('called', 4.874747220484451), ('my', 3.5357989799617595)]
+Nearest to completion: [('vain', 0.6170560121536255), ('wife', 0.5132853984832764), ('my', 0.47857341170310974), ('husband', 0.4721749424934387), ('My', 0.4243481457233429), ('mother', 0.42433229088783264), ('daughter', 0.40664762258529663), ('widow', 0.40588006377220154), ('father', 0.3906594514846802), ('her', 0.39044681191444397)]
+
+--------------------------------------------------------------------------
+
+Petra saw something scurry across her floor.
+It was a mouse!
+She was terrified.
+She jumped onto the kitchen counter and screamed.
+> Her husband came and killed the mouse.
+
+__About the match__
+Rarest shared words: [('terrified', (6.769962276360768, 6.769962276360768))]
+Score: 0.41962517120130366
+
+__About the completion__
+Rarest in completion: [('mouse', 7.759355273663867), ('killed', 7.63014354218386), ('husband', 5.858792944587012), ('came', 4.538412620640003)]
+Nearest to completion: [('killed', 0.6168433427810669), ('died', 0.5331320762634277), ('mouse', 0.5311582088470459), ('murdered', 0.46642065048217773), ('husband', 0.4621112048625946), ('killing', 0.44050565361976624), ('slain', 0.4291262924671173), ('dead', 0.42187148332595825), ('deaths', 0.4206317663192749), ('gunned_down', 0.41050976514816284)]
+
+--------------------------------------------------------------------------
+
+Sarah saw something out of the corner of her eye.
+There was a rat in her house, running across the floor!
+She screamed and jumped on a chair.
+Her husband rushed in and saved her.
+> Sarah decided to get a cat to keep the rats under control.
+
+__About the match__
+Rarest shared words: [('running', (5.419560838301483, 5.419560838301483)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.4179837403220774
+
+__About the completion__
+Rarest in completion: [('rats', 9.74035674253045), ('control', 7.092410465497945), ('keep', 6.255277876887592), ('under', 6.122704797704881), ('cat', 5.756013075522677), ('get', 4.052534287452978), ('decided', 3.495461951503386)]
+Nearest to completion: [('rats', 0.5778126120567322), ('cat', 0.5278236865997314), ('cats', 0.4846828281879425), ('control', 0.4740717113018036), ('rat', 0.45855939388275146), ('mice', 0.43992459774017334), ('monkeys', 0.4211658835411072), ('mouse', 0.41019970178604126), ('keep', 0.382144570350647), ('animals', 0.3585940897464752)]
+
+--------------------------------------------------------------------------
+
+At midnight, Jocelyn woke to his wife's screaming.
+He rushed downstairs to the living room, where she stood on a chair.
+She pointed to the couch and told him a rat was in the house.
+Jocelyn used a flashlight to see under the couch.
+> There was no rat, only a hairy, rotten potato.
+
+__About the match__
+Rarest shared words: []
+Score: 0.41619868420044
+
+__About the completion__
+Rarest in completion: [('hairy', 10.210360371776185), ('potato', 8.92942652631412), ('rat', 8.875359305043844), ('rotten', 8.824066010656296), ('only', 5.17081373418551), ('no', 4.72556343828553), ('there', 4.12267696692766)]
+Nearest to completion: [('potato', 0.5581420063972473), ('rat', 0.5427563786506653), ('no', 0.521325409412384), ('potatoes', 0.4299437403678894), ('there', 0.4089643955230713), ('tomato', 0.38403934240341187), ('rats', 0.38299769163131714), ('pig', 0.3764660060405731), ('banana', 0.3739994168281555), ('chicken', 0.37160080671310425)]
+
+--------------------------------------------------------------------------
+
+Max was walking to school.
+He decided to play hookie.
+Max went back to his house and hid in his treehouse.
+Max's mother got a phone call that he wasn't in school.
+> Max got in trouble when he showed up for dinner.
+
+__About the match__
+Rarest shared words: [('hid', (6.822606009846189, 6.822606009846189))]
+Score: 0.4153750815573528
+
+__About the completion__
+Rarest in completion: [('trouble', 6.24384918106397), ('showed', 6.005667752385219), ('dinner', 5.601198164518556), ('when', 3.4368224349138567), ('got', 3.390344007102055)]
+Nearest to completion: [('showed', 0.4901423752307892), ('trouble', 0.46119368076324463), ('dinner', 0.4603733718395233), ('showing', 0.32583165168762207), ('got', 0.32480359077453613), ('Dinner', 0.3224846124649048), ('luncheon', 0.31124046444892883), ('breakfast', 0.3082490861415863), ('shown', 0.298971027135849), ('dinners', 0.2912694215774536)]
+
+--------------------------------------------------------------------------
+
+The cat hid in the bush.
+The man saw it.
+The man called to the cat.
+The cat refused to budge.
+> The man brought the cat inside.
+
+__About the match__
+Rarest shared words: [('hid', (6.822606009846189, 6.822606009846189))]
+Score: 0.4149562808929586
+
+__About the completion__
+Rarest in completion: [('inside', 5.78431685168553), ('cat', 5.756013075522677), ('brought', 5.6607028957183525), ('man', 4.481560134144697)]
+Nearest to completion: [('cat', 0.6655999422073364), ('man', 0.5496286153793335), ('cats', 0.520183265209198), ('dog', 0.49389079213142395), ('woman', 0.43971627950668335), ('puppy', 0.4310719072818756), ('animal', 0.40576425194740295), ('monkey', 0.4041993319988251), ('dogs', 0.40008336305618286), ('boy', 0.39760667085647583)]
+
+--------------------------------------------------------------------------
+
+The wind was howling outside.
+It rattled the windows and knocked over the garbage can.
+Haley looked out the window and saw a tree fall down.
+She ran and hid in her basement.
+> The weather was too scary for her!
+
+__About the match__
+Rarest shared words: [('hid', (6.822606009846189, 6.822606009846189))]
+Score: 0.4134078353973589
+
+__About the completion__
+Rarest in completion: [('scary', 6.9914845469079845), ('weather', 6.929449155988532), ('too', 4.812197670258433), ('!', 3.536809591467683)]
+Nearest to completion: [('weather', 0.6722200512886047), ('scary', 0.5360649824142456), ('windy', 0.4901604950428009), ('Weather', 0.466178297996521), ('too', 0.42487403750419617), ('frightening', 0.4224552810192108), ('unpredictable', 0.4043302834033966), ('downright', 0.37703949213027954), ('pretty', 0.3701215088367462), ('chilly', 0.3621259033679962)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Lance was going to make a bet.
+He was thinking of making it a big one.
+He was going to bet all of his savings on a Race.
+The day of the Race is here.
+> Lance crosses the finish line and Wins it all!
+
+__About the context__
+Rarest in context: [('lance', 8.236299345154194), ('savings', 8.182232123883919), ('bet', 7.463109456920713), ('here', 7.255470092142468), ('thinking', 6.660762984395776), ('making', 5.383667915240877), ('big', 4.589979505459054), ('make', 4.27972796346498), ('going', 4.13549421592915), ('is', 3.859843755529768)]
+Nearest to context: [('making', 0.5239646434783936), ('make', 0.5121514201164246), ('Making', 0.4468981623649597), ('bet', 0.4249974489212036), ('makes', 0.42459842562675476), ('Make', 0.4040340483188629), ('investing', 0.3794938921928406), ('going', 0.3683907389640808), ('big', 0.3631468117237091), ('made', 0.3559430241584778)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wins', 1469, 18531, 0.4661051332950592), ('fund', 1043, 18957, 0.4452691674232483), ('invested', 4463, 15537, 0.41568273305892944), ('allocated', 7764, 12236, 0.4133145213127136), ('funds', 918, 19082, 0.40903380513191223), ('victories', 3900, 16100, 0.36356136202812195), ('invests', 15579, 4421, 0.3635474443435669), ('$', 34, 19966, 0.3559870719909668), ('win', 202, 19798, 0.3555716872215271), ('funded', 3279, 16721, 0.3532848358154297)]
+Nearest words to completions' keywords: [('wins', 1469, 18531, 0.5857866406440735), ('win', 202, 19798, 0.5783302783966064), ('money', 237, 19763, 0.5392975211143494), ('victories', 3900, 16100, 0.5145904421806335), ('dollars', 1067, 18933, 0.5140032768249512), ('won', 301, 19699, 0.5123326778411865), ('funds', 918, 19082, 0.4810545742511749), ('winning', 663, 19337, 0.4792289137840271), ('fund', 1043, 18957, 0.4779440462589264), ('victory', 546, 19454, 0.4564236104488373)]
+Nearest words to completions' verbs: [('lost', 377, 19623, 0.6577745676040649), ('won', 301, 19699, 0.637023389339447), ('got', 193, 19807, 0.5677822828292847), ('had', 35, 19965, 0.5418189764022827), ('went', 297, 19703, 0.5336378812789917), ('gone', 1133, 18867, 0.5309715270996094), ('finished', 750, 19250, 0.5116282105445862), ('lose', 1334, 18666, 0.5053250193595886), ('came', 256, 19744, 0.5025126338005066), ('stayed', 2936, 17064, 0.5022612810134888)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jeff needed a big amount of money.
+He had made some bad bets and was down big.
+Jeff decided he had to take extreme gamble.
+Jeff bet all of his life savings on the basketball game.
+> Jeff won and covered the spread to win it all.
+
+__About the match__
+Rarest shared words: [('savings', (8.182232123883919, 8.182232123883919)), ('bet', (7.463109456920713, 7.463109456920713)), ('big', (4.589979505459054, 4.589979505459054))]
+Score: 0.584231035957554
+
+__About the completion__
+Rarest in completion: [('spread', 8.058598168516724), ('covered', 7.049113659744621), ('win', 6.386076280656046), ('won', 5.467168887890719), ('all', 3.5398475684877595)]
+Nearest to completion: [('won', 0.6303285360336304), ('win', 0.5849196314811707), ('winning', 0.5232593417167664), ('spread', 0.5140239596366882), ('wins', 0.5128223299980164), ('covered', 0.47775986790657043), ('victories', 0.4685409963130951), ('victory', 0.4628874659538269), ('clinched', 0.45796963572502136), ('clinch', 0.4576890170574188)]
+
+--------------------------------------------------------------------------
+
+Jim was going to make a bet.
+He was going to make it a big one.
+He decided he needed to take on a challenge.
+He bet all of his money on this race.
+> The day of the race comes and Jim wins it all!
+
+__About the match__
+Rarest shared words: [('bet', (7.463109456920713, 7.463109456920713)), ('big', (4.589979505459054, 4.589979505459054)), ('make', (4.27972796346498, 4.27972796346498)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.5780000218035654
+
+__About the completion__
+Rarest in completion: [('wins', 8.130918830096348), ('comes', 7.5571184071689705), ('race', 6.541683624979768), ('all', 3.5398475684877595), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('wins', 0.6808128356933594), ('race', 0.6204761266708374), ('races', 0.5863884091377258), ('victories', 0.5449554920196533), ('finishes', 0.5148382782936096), ('win', 0.5004540085792542), ('winning', 0.4332198202610016), ('won', 0.4251627027988434), ('comes', 0.4174317717552185), ('victory', 0.4076773226261139)]
+
+--------------------------------------------------------------------------
+
+Andy was very wealthy and investing in other businesses.
+He wanted to make as much money as possible, so this was fine.
+He was making very good investments so he was happy.
+One day Andy didn't like the investment he made.
+> He immediately sold the investment and was happy.
+
+__About the match__
+Rarest shared words: [('making', (5.383667915240877, 5.383667915240877)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.5268041398019269
+
+__About the completion__
+Rarest in completion: [('investment', 9.622573706874066), ('sold', 6.386076280656046), ('immediately', 6.073595093670132), ('happy', 4.78013793434821)]
+Nearest to completion: [('investment', 0.6024564504623413), ('sold', 0.5392721891403198), ('investments', 0.48906898498535156), ('sale', 0.46158158779144287), ('immediately', 0.43658193945884705), ('Investment', 0.4340328276157379), ('purchased', 0.4244614541530609), ('Investments', 0.4148217439651489), ('investor', 0.4111264944076538), ('invested', 0.40955880284309387)]
+
+--------------------------------------------------------------------------
+
+The man made a bet.
+He lost the bet.
+He only had money for one more bet.
+He bet it all.
+> He lost all of his money.
+
+__About the match__
+Rarest shared words: [('bet', (7.463109456920713, 7.463109456920713))]
+Score: 0.4916051248354114
+
+__About the completion__
+Rarest in completion: [('lost', 5.224017770248974), ('money', 4.903083263856677), ('all', 3.5398475684877595)]
+Nearest to completion: [('lost', 0.5889137387275696), ('money', 0.5847357511520386), ('losing', 0.47654497623443604), ('monies', 0.4764265716075897), ('funds', 0.42049700021743774), ('lose', 0.4152562916278839), ('dollars', 0.4003121852874756), ('fund', 0.357543408870697), ('cash', 0.35652780532836914), ('billions', 0.34904012084007263)]
+
+--------------------------------------------------------------------------
+
+Bill enjoyed making friendly bets with his buddies.
+Bill and Mark bet on an NBA game.
+Bill bet fifty bucks on the Nicks.
+The night of the game was not good for Bill.
+> Bill lost his fifty bucks!
+
+__About the match__
+Rarest shared words: [('bet', (7.463109456920713, 7.463109456920713)), ('making', (5.383667915240877, 5.383667915240877))]
+Score: 0.48208407796037994
+
+__About the completion__
+Rarest in completion: [('bucks', 9.180740954595027), ('fifty', 8.130918830096348), ('bill', 7.25545009274245), ('lost', 5.224017770248974), ('!', 3.536809591467683)]
+Nearest to completion: [('bucks', 0.5758399963378906), ('bill', 0.5597231388092041), ('fifty', 0.5288708209991455), ('bills', 0.4599659740924835), ('hundred', 0.4331882894039154), ('forty', 0.42430394887924194), ('thousand', 0.4240417778491974), ('thousand_dollars', 0.4210874140262604), ('twenty', 0.41516777873039246), ('dollars', 0.40995439887046814)]
+
+--------------------------------------------------------------------------
+
+Tom had no money.
+Tom worked very hard and saved his money one penny and a time.
+Tom started investing his money.
+He made a lot of money through his investments.
+> Tom retired a rich man.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4818117312550893
+
+__About the completion__
+Rarest in completion: [('retired', 8.236279345754177), ('rich', 7.90777527878214), ('man', 4.481560134144697)]
+Nearest to completion: [('retired', 0.6147804260253906), ('rich', 0.581497848033905), ('man', 0.5570611953735352), ('Retired', 0.4784969389438629), ('retiring', 0.46722108125686646), ('wealthy', 0.424328476190567), ('millionaire', 0.42225441336631775), ('businessman', 0.4020802676677704), ('retires', 0.3999091386795044), ('woman', 0.39774295687675476)]
+
+--------------------------------------------------------------------------
+
+Travis had trouble saving money.
+There was always something he wanted to buy.
+He knew he needed to save money and put everything in savings.
+But one day, there was a massive sale at an electronics store.
+> And he spent all of his money on a computer and video games.
+
+__About the match__
+Rarest shared words: [('savings', (8.182232123883919, 8.182232123883919))]
+Score: 0.46313858689614357
+
+__About the completion__
+Rarest in completion: [('video', 6.3063695380453035), ('computer', 6.294345345078502), ('games', 6.143044481942004), ('spent', 5.45849580663729), ('money', 4.903083263856677), ('all', 3.5398475684877595)]
+Nearest to completion: [('computer', 0.5585600733757019), ('video', 0.5450440049171448), ('games', 0.48443228006362915), ('computers', 0.4681672155857086), ('videos', 0.4338982403278351), ('spent', 0.4301995635032654), ('money', 0.41807636618614197), ('DVDs', 0.39798974990844727), ('PC', 0.39622962474823), ('consoles', 0.3961647152900696)]
+
+--------------------------------------------------------------------------
+
+I have always wanted to see New York City.
+Friends have told me many exciting things I should see and do there.
+I saved enough money to buy a plane ticket to go next month.
+There are many things I plan to do while I am there.
+> I am scheduled to leave tomorrow and am so excited that I can't sleep!
+
+__About the match__
+Rarest shared words: []
+Score: 0.4510861303473898
+
+__About the completion__
+Rarest in completion: [('scheduled', 7.794446593475136), ('tomorrow', 7.1284504019811425), ('ca', 7.110268082897952), ('am', 6.6898995692872125), ('leave', 6.163806473390434), ('sleep', 5.964726362007859), ('excited', 5.146500316442632), ('so', 3.628612279567497), ('!', 3.536809591467683), ("n't", 3.334508641807057)]
+Nearest to completion: [('tomorrow', 0.599099338054657), ('scheduled', 0.5232465863227844), ('am', 0.5220339894294739), ('excited', 0.4593407213687897), ('rescheduled', 0.4212448298931122), ('pm', 0.41556480526924133), ('noon', 0.40258052945137024), ('tonight', 0.3984243869781494), ('pm_EST', 0.39782679080963135), ("o'clock", 0.39638370275497437)]
+
+--------------------------------------------------------------------------
+
+The couple was determined.
+They were going to save a ton of money this year!
+They started putting little amounts in a savings account.
+It all added up quickly!
+> Soon, they had a solid emergency fund established.
+
+__About the match__
+Rarest shared words: [('savings', (8.182232123883919, 8.182232123883919)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.4479920264644965
+
+__About the completion__
+Rarest in completion: [('established', 10.210360371776185), ('fund', 9.25484892674875), ('solid', 9.25484892674875), ('emergency', 7.725453721988185), ('soon', 5.263019928052244)]
+Nearest to completion: [('emergency', 0.5575094223022461), ('fund', 0.5541839003562927), ('established', 0.5040051937103271), ('funds', 0.4424116313457489), ('solid', 0.41072022914886475), ('establish', 0.40624403953552246), ('contingency', 0.4033903181552887), ('establishing', 0.3915669023990631), ('Fund', 0.38891178369522095), ('Emergency', 0.3867708742618561)]
+
+--------------------------------------------------------------------------
+
+Tom plans out his grocery buying every week.
+He makes sure to make a full list.
+Last time Tom noticed he got a lot of wrong things.
+He went over the list again.
+> He realized he had used an older list by accident.
+
+__About the match__
+Rarest shared words: [('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.4375595802435248
+
+__About the completion__
+Rarest in completion: [('list', 7.308938777693435), ('accident', 6.921958484259375), ('older', 6.892544599053081), ('used', 5.4636906235143945), ('realized', 5.003062403615317), ('by', 4.4228496815892715), ('an', 3.8221351571901856)]
+Nearest to completion: [('accident', 0.4008411765098572), ('list', 0.3819928765296936), ('older', 0.3806331753730774), ('by', 0.3570042848587036), ('lists', 0.3478793799877167), ('Older', 0.2868908643722534), ('accidents', 0.2841958999633789), ('identified', 0.2832563519477844), ('realized', 0.28321146965026855), ('crash', 0.281671941280365)]
+
+--------------------------------------------------------------------------
+
+

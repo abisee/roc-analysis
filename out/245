@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Ludo looked on the cable guide for a movie to watch.
+He found a movie that he was excited about.
+When he tried to start it he realized he needed a subscription.
+He bought the subscription.
+> Ludo watched a lot of movies on the subscription during the next week.
+
+__About the context__
+Rarest in context: [('subscription', 9.047229561370523), ('guide', 8.182232123883919), ('cable', 8.082148665326937), ('watch', 5.506270237333209), ('movie', 5.467188887290738), ('start', 5.333657494666215), ('realized', 4.713212145883002), ('excited', 4.666766648672825), ('needed', 4.285055626572767), ('looked', 4.167272590916383), ('tried', 3.9806866353359713), ('bought', 3.9121666888992155), ('found', 3.802181123701827), ('about', 3.625036645166946)]
+Nearest to context: [('subscription', 0.48431912064552307), ('subscriptions', 0.4141313433647156), ('cable', 0.3877446949481964), ('purchased', 0.33945998549461365), ('bought', 0.3368006944656372), ('subscribers', 0.3353211581707001), ('DVD', 0.32528170943260193), ('Netflix', 0.3246189057826996), ('realized', 0.32387152314186096), ('channel', 0.3149791359901428)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cable', 2632, 17368, 0.5909050107002258), ('programming', 4241, 15759, 0.5060897469520569), ('TV', 722, 19278, 0.4685426652431488), ('network', 751, 19249, 0.4496230483055115), ('networks', 2356, 17644, 0.44269174337387085), ('television', 1078, 18922, 0.4265351891517639), ('channels', 3826, 16174, 0.4204503893852234), ('channel', 2759, 17241, 0.3981320559978485), ('broadband', 3908, 16092, 0.38617435097694397), ('connect', 4322, 15678, 0.37202543020248413)]
+Nearest words to completions' keywords: [('really', 230, 19770, 0.534325122833252), ('great', 267, 19733, 0.5245302319526672), ('fantastic', 3903, 16097, 0.5240752696990967), ('think', 153, 19847, 0.5074964761734009), ('wonderful', 3057, 16943, 0.5025172829627991), ('terrific', 7340, 12660, 0.4977912902832031), ('buy', 753, 19247, 0.4921068847179413), ('just', 76, 19924, 0.48989173769950867), ('buying', 1717, 18283, 0.4820437729358673), ('nice', 1535, 18465, 0.48030444979667664)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.8193874955177307), ('had', 35, 19965, 0.6913692355155945), ('knew', 1039, 18961, 0.6379550099372864), ('were', 37, 19963, 0.6299437880516052), ('came', 256, 19744, 0.615140438079834), ('thought', 572, 19428, 0.6036424040794373), ('saw', 653, 19347, 0.6014984846115112), ('got', 193, 19807, 0.594994068145752), ('went', 297, 19703, 0.5860792994499207), ('felt', 1040, 18960, 0.5728078484535217)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Holly was bored of everything on TV.
+She was considering giving up her cable subscription.
+That was until she saw an ad for the newest show.
+She watched the premier and she loved it as expected.
+> The new show was great enough to keep her buying.
+
+__About the match__
+Rarest shared words: [('subscription', (9.047229561370523, 9.047229561370523)), ('cable', (8.082148665326937, 8.082148665326937))]
+Score: 0.613181818960777
+
+__About the completion__
+Rarest in completion: [('buying', 6.871038393832118), ('keep', 6.255277876887592), ('show', 5.798774934860759), ('enough', 5.723973721778061), ('great', 4.843450213762537), ('new', 3.7799959404738015)]
+Nearest to completion: [('buying', 0.46467071771621704), ('keep', 0.42962074279785156), ('new', 0.4169729948043823), ('keeping', 0.4080352783203125), ('great', 0.39758849143981934), ('buy', 0.3766951560974121), ('show', 0.3686857521533966), ('Buying', 0.3663072884082794), ('enough', 0.36372512578964233), ('sell', 0.3620067536830902)]
+
+--------------------------------------------------------------------------
+
+Ian became tired of all of the shows on TV.
+So he decided to watch videos online.
+He ended up spending several hours watching Youtube videos.
+And he decided to cancel his cable subscription.
+> He connected his computer to his television and had a blast.
+
+__About the match__
+Rarest shared words: [('subscription', (9.047229561370523, 9.047229561370523)), ('cable', (8.082148665326937, 8.082148665326937)), ('watch', (5.506270237333209, 5.506270237333209))]
+Score: 0.6131667628702325
+
+__About the completion__
+Rarest in completion: [('connected', 9.74035674253045), ('blast', 8.41860090254813), ('television', 7.365450987956778), ('computer', 6.294345345078502)]
+Nearest to completion: [('blast', 0.5380862951278687), ('television', 0.5324699878692627), ('connected', 0.5314162373542786), ('computer', 0.5269209742546082), ('TV', 0.49567732214927673), ('blasts', 0.4834449291229248), ('computers', 0.46990126371383667), ('explosion', 0.46500933170318604), ('explosions', 0.4630366265773773), ('televisions', 0.3855528235435486)]
+
+--------------------------------------------------------------------------
+
+Miranda loved watching tv.
+Yet she wanted it more on demand.
+She then decided to get a Hulu subscription.
+Miranda was thrilled with the subscription.
+> She thought it was great.
+
+__About the match__
+Rarest shared words: [('subscription', (9.047229561370523, 9.047229561370523))]
+Score: 0.5591876877338283
+
+__About the completion__
+Rarest in completion: [('great', 4.843450213762537), ('thought', 4.810389351501649)]
+Nearest to completion: [('great', 0.7068706154823303), ('terrific', 0.5905011296272278), ('fantastic', 0.5664331912994385), ('wonderful', 0.544552743434906), ('tremendous', 0.5340887308120728), ('thought', 0.509027361869812), ('marvelous', 0.5054386258125305), ('phenomenal', 0.46675074100494385), ('awesome', 0.4634338617324829), ('incredible', 0.4608408510684967)]
+
+--------------------------------------------------------------------------
+
+I decided that I wanted to see one new movie each week.
+I went to the movies at first, but the tickets were expensive!
+I tried to rent a DVD, but nothing I wanted to see was available.
+I went home and found a movie streaming service instead.
+> Now, I see a new movie every day!
+
+__About the match__
+Rarest shared words: [('movie', (5.467188887290738, 5.467188887290738)), ('tried', (3.9806866353359713, 3.9806866353359713)), ('found', (3.802181123701827, 3.802181123701827))]
+Score: 0.49274361787949933
+
+__About the completion__
+Rarest in completion: [('movie', 5.88226207912786), ('every', 4.763623000109876), ('see', 4.749074176950009), ('now', 4.716476221684173), ('new', 3.7799959404738015), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('every', 0.4798091948032379), ('movie', 0.4739839434623718), ('new', 0.4080565273761749), ('film', 0.4055367112159729), ('movies', 0.3986002206802368), ('Movies', 0.37334010004997253), ('see', 0.36448004841804504), ('day', 0.3634144067764282), ('Movie', 0.35532933473587036), ('films', 0.3462081551551819)]
+
+--------------------------------------------------------------------------
+
+There was only one cable company in Ina's town.
+They were pricey, but Ina wanted her TV and movies!
+Then a friend suggested online services like Netflix and Hulu.
+Ina did some research and was very surprised.
+> The online services were much cheaper than her cable was!
+
+__About the match__
+Rarest shared words: [('cable', (8.082148665326937, 8.082148665326937))]
+Score: 0.47350747219752515
+
+__About the completion__
+Rarest in completion: [('services', 8.98658494015407), ('cheaper', 8.561701746188803), ('cable', 8.41860090254813), ('online', 5.838384072955805), ('than', 5.6973054746958995), ('much', 4.895185888161725), ('were', 3.60343995182413), ('!', 3.536809591467683)]
+Nearest to completion: [('cheaper', 0.5706964135169983), ('cable', 0.5002105236053467), ('services', 0.49124908447265625), ('than', 0.48875316977500916), ('networks', 0.4609578549861908), ('online', 0.44437241554260254), ('Internet', 0.4425508379936218), ('expensive', 0.4395018219947815), ('more', 0.4175160825252533), ('broadband', 0.41556957364082336)]
+
+--------------------------------------------------------------------------
+
+Miranda loved her iPod.
+One day she had to charge it.
+Miranda didn't know what to do.
+She couldn't find a cable.
+> So she had to go and buy one.
+
+__About the match__
+Rarest shared words: [('cable', (8.082148665326937, 8.082148665326937))]
+Score: 0.4530613840286769
+
+__About the completion__
+Rarest in completion: [('buy', 4.985689545396447), ('go', 4.110041419756121), ('so', 3.628612279567497), ('one', 3.351585275015767)]
+Nearest to completion: [('buy', 0.7034310698509216), ('sell', 0.5834686160087585), ('purchase', 0.5328526496887207), ('go', 0.5297961235046387), ('invest', 0.42031505703926086), ('buys', 0.4182101786136627), ('Buying', 0.404488205909729), ('borrow', 0.40256914496421814), ('buying', 0.3927193284034729), ('Buy', 0.3778165876865387)]
+
+--------------------------------------------------------------------------
+
+Kate cancelled her online TV subscription.
+A week later she received an email for a free trial.
+She decided to try the commercial free option.
+She was never told it was not included in her trial.
+> She was upset to see she was charged right away.
+
+__About the match__
+Rarest shared words: [('subscription', (9.047229561370523, 9.047229561370523))]
+Score: 0.4447429264755914
+
+__About the completion__
+Rarest in completion: [('charged', 8.035608650292025), ('upset', 6.083225986731094), ('right', 5.585387558491915), ('away', 4.824948298377215), ('see', 4.749074176950009)]
+Nearest to completion: [('charged', 0.5695628523826599), ('upset', 0.5084928870201111), ('accused', 0.44307199120521545), ('accuse', 0.3929928243160248), ('away', 0.37562990188598633), ('outraged', 0.37493276596069336), ('indicted', 0.3574647605419159), ('arrested', 0.35273054242134094), ('arraigned', 0.35189658403396606), ('wary', 0.3506689965724945)]
+
+--------------------------------------------------------------------------
+
+I was watching a LLWS game on ESPN.
+They switched the game to ESPN News.
+I could not find that channel on my tv.
+My wife found it after looking at the internet.
+> It was very confusing.
+
+__About the match__
+Rarest shared words: [('found', (3.802181123701827, 3.802181123701827))]
+Score: 0.4446891573237111
+
+__About the completion__
+Rarest in completion: [('confusing', 9.334891634422286), ('very', 3.793301345264873)]
+Nearest to completion: [('confusing', 0.804072916507721), ('very', 0.579089343547821), ('incredibly', 0.5587960481643677), ('complicated', 0.5514627695083618), ('extremely', 0.5480191111564636), ('extraordinarily', 0.5069097280502319), ('confused', 0.4963603615760803), ('quite', 0.48607274889945984), ('terribly', 0.47856640815734863), ('somewhat', 0.4347699284553528)]
+
+--------------------------------------------------------------------------
+
+Jennifer wanted to get cable in her home.
+She called all the local companies to find the best price.
+When she found the best price she had it installed.
+The cable company came on time and hooked everything up for her.
+> She was excited as she sat down and watcher her new programming.
+
+__About the match__
+Rarest shared words: [('cable', (8.082148665326937, 8.082148665326937)), ('found', (3.802181123701827, 3.802181123701827))]
+Score: 0.4415552640452816
+
+__About the completion__
+Rarest in completion: [('watcher', 10.721185995542177), ('programming', 9.180740954595027), ('sat', 5.621319567717977), ('excited', 5.146500316442632), ('down', 4.370882181666085), ('as', 3.9638660844916718), ('new', 3.7799959404738015)]
+Nearest to completion: [('excited', 0.5379807949066162), ('programming', 0.49299144744873047), ('thrilled', 0.45203325152397156), ('exciting', 0.3897262513637543), ('pleased', 0.3595063090324402), ('sat', 0.3552030026912689), ('new', 0.3533805310726166), ('innovative', 0.3369637131690979), ('delighted', 0.3327159881591797), ('platforms', 0.3238174021244049)]
+
+--------------------------------------------------------------------------
+
+John hated how much he was paying for cable.
+He saw and ad for Netflix and decided to look into it.
+He found out all his shows were right on Netflix.
+He was happy when he saw that Netflix was a fraction of the price too.
+> He cut ties with cable and signed up for Netflix.
+
+__About the match__
+Rarest shared words: [('cable', (8.082148665326937, 8.082148665326937)), ('found', (3.802181123701827, 3.802181123701827))]
+Score: 0.42948177005969274
+
+__About the completion__
+Rarest in completion: [('ties', 10.028038814982231), ('cable', 8.41860090254813), ('signed', 6.701804471793531), ('cut', 6.210326489025326)]
+Nearest to completion: [('ties', 0.6114655137062073), ('cable', 0.5379614233970642), ('signed', 0.5237220525741577), ('cut', 0.4633893072605133), ('connections', 0.37771764397621155), ('signing', 0.36796054244041443), ('cutting', 0.367514967918396), ('cables', 0.35333484411239624), ('links', 0.347900390625), ('affiliation', 0.3451862633228302)]
+
+--------------------------------------------------------------------------
+
+

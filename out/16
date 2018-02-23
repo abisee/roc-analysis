@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Our granddaughter Anna is very fussy about her clothes.
+She is only two, but wants to pick her outfits.
+Today her mom wanted Anna to wear a dress.
+Anna started crying.
+> They let her wear a t-shirt and shorts instead.
+
+__About the context__
+Rarest in context: [('fussy', 9.047229561370523), ('outfits', 8.354082380810578), ('granddaughter', 7.692683898565213), ('crying', 6.795937762764028), ('wear', 6.096233181657924), ('dress', 6.064076070023392), ('wants', 6.026804675226161), ('clothes', 5.813465124008572), ('pick', 5.589336836031823), ('our', 5.006373684099409), ('only', 4.719791116981044), ('today', 4.708306167114148), ('two', 4.452109711235933), ('mom', 4.373233184452579), ('is', 3.859843755529768), ('started', 3.8418501904817557), ('about', 3.625036645166946), ('very', 3.353497422567824)]
+Nearest to context: [('dress', 0.6115255355834961), ('outfits', 0.6047230362892151), ('dresses', 0.601168155670166), ('wear', 0.5254834890365601), ('clothes', 0.5225810408592224), ('attire', 0.49878454208374023), ('jeans', 0.4693935811519623), ('wardrobe', 0.44728490710258484), ('clothing', 0.44173866510391235), ('gown', 0.42463165521621704)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dress', 4914, 15086, 0.7229042053222656), ('dresses', 11648, 8352, 0.7126554250717163), ('attire', 19290, 710, 0.5920785665512085), ('outfits', 12319, 7681, 0.5631153583526611), ('wear', 3015, 16985, 0.5582317113876343), ('dressed', 5219, 14781, 0.5363027453422546), ('costumes', 10357, 9643, 0.5309669971466064), ('wardrobe', 17321, 2679, 0.5234308838844299), ('wearing', 2361, 17639, 0.5215402841567993), ('gown', 17970, 2030, 0.5208106637001038)]
+Nearest words to completions' keywords: [('dress', 4914, 15086, 0.7788530588150024), ('dresses', 11648, 8352, 0.7443258762359619), ('dressed', 5219, 14781, 0.6669439673423767), ('wear', 3015, 16985, 0.6637915372848511), ('wearing', 2361, 17639, 0.6564124226570129), ('attire', 19290, 710, 0.6528891921043396), ('jeans', 10339, 9661, 0.6503942012786865), ('clothes', 3874, 16126, 0.6478703618049622), ('wore', 4853, 15147, 0.618962824344635), ('outfits', 12319, 7681, 0.6146032214164734)]
+Nearest words to completions' verbs: [('knew', 1039, 18961, 0.6586989164352417), ('wanted', 583, 19417, 0.654187798500061), ('did', 92, 19908, 0.614173173904419), ('got', 193, 19807, 0.6114711761474609), ('had', 35, 19965, 0.5947571992874146), ('do', 58, 19942, 0.5938426852226257), ('wore', 4853, 15147, 0.5880143046379089), ('stayed', 2936, 17064, 0.5723687410354614), ('felt', 1040, 18960, 0.5668031573295593), ('thought', 572, 19428, 0.5662999749183655)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Susie wanted to dress herself for her first day of school.
+She picked out a pretty dress to wear.
+Her mother only helped with brushing her hair.
+Susie also wanted to wear some of her play makeup.
+> She failed to notice how the makeup rubbed off on the dresses collar.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('dress', (6.064076070023392, 6.064076070023392)), ('only', (4.719791116981044, 4.719791116981044))]
+Score: 0.638116068831112
+
+__About the completion__
+Rarest in completion: [('rubbed', 9.047209561970504), ('collar', 8.72875583085197), ('dresses', 8.487593774035082), ('makeup', 7.88797265148596), ('failed', 7.194825470926014), ('notice', 7.194825470926014), ('how', 4.945599788756992), ('off', 4.4887379789916535)]
+Nearest to completion: [('dresses', 0.549605667591095), ('makeup', 0.5309931039810181), ('collar', 0.522113025188446), ('dress', 0.5215350389480591), ('outfits', 0.44748860597610474), ('skirt', 0.4447856843471527), ('attire', 0.4367351531982422), ('gown', 0.42315205931663513), ('costumes', 0.4221079647541046), ('hair', 0.4201684296131134)]
+
+--------------------------------------------------------------------------
+
+Joanna was very excited.
+Today was her birthday.
+Her mother took her out to go shopping.
+They went into a clothes store and tried on dresses.
+> Joanna got a beautiful new dress and was so happy.
+
+__About the match__
+Rarest shared words: [('clothes', (5.813465124008572, 5.813465124008572)), ('today', (4.708306167114148, 4.708306167114148)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.6359408160007192
+
+__About the completion__
+Rarest in completion: [('dress', 6.467940150734219), ('beautiful', 6.017679908833223), ('happy', 4.78013793434821), ('new', 3.7799959404738015), ('so', 3.628612279567497), ('got', 3.390344007102055)]
+Nearest to completion: [('beautiful', 0.6025238037109375), ('gorgeous', 0.5788332223892212), ('lovely', 0.5718045830726624), ('fabulous', 0.5389583706855774), ('dress', 0.5362615585327148), ('dresses', 0.4995700418949127), ('sexy', 0.4664645195007324), ('wonderful', 0.4473564028739929), ('chic', 0.4376464784145355), ('stylish', 0.4358859658241272)]
+
+--------------------------------------------------------------------------
+
+Cody was starting a new job.
+He decided to buy a few new outfits.
+Cody went to the store to buy clothes.
+Cody wore one of his new suits on his first day of work.
+> He impressed his new boss.
+
+__About the match__
+Rarest shared words: [('outfits', (8.354082380810578, 8.354082380810578)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.6330840302079973
+
+__About the completion__
+Rarest in completion: [('impressed', 7.146969449748379), ('boss', 5.93369425276013), ('new', 3.7799959404738015)]
+Nearest to completion: [('impressed', 0.7020362019538879), ('boss', 0.6199290156364441), ('delighted', 0.45744696259498596), ('pleased', 0.4524255394935608), ('thrilled', 0.4081849455833435), ('enthusiastic', 0.4019732177257538), ('intrigued', 0.3987017869949341), ('new', 0.39643263816833496), ('surprised', 0.3851681649684906), ('excited', 0.3793885409832001)]
+
+--------------------------------------------------------------------------
+
+Tina loved the look of sundresses.
+She wore dresses every day.
+Her boss said she would need to wear long pants.
+She had to go home and change into safer clothes.
+> She wishes she could still wear her fun dresses to work.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.626011551748661
+
+__About the completion__
+Rarest in completion: [('wishes', 9.334891634422286), ('dresses', 8.487593774035082), ('wear', 6.4585061185008605), ('still', 5.390078806171148), ('fun', 5.29917715665159), ('work', 4.3399341530452595), ('could', 3.8258407366367204)]
+Nearest to completion: [('dresses', 0.6527571082115173), ('wear', 0.6127666234970093), ('dress', 0.6023845672607422), ('attire', 0.5325481295585632), ('costumes', 0.5119031071662903), ('outfits', 0.4958663582801819), ('wears', 0.48703211545944214), ('costume', 0.46688246726989746), ('wardrobe', 0.45335522294044495), ('don', 0.4289637804031372)]
+
+--------------------------------------------------------------------------
+
+Antoine's favorite color was pink.
+He had pink shoes and pink socks he borrowed from his sister.
+When Antoine wore his pink clothes to school, the class laughed.
+Everybody thought pink was only for girls.
+> Antoine didn't mind and kept wearing pink anyway.
+
+__About the match__
+Rarest shared words: [('clothes', (5.813465124008572, 5.813465124008572)), ('only', (4.719791116981044, 4.719791116981044))]
+Score: 0.620455490941046
+
+__About the completion__
+Rarest in completion: [('pink', 7.4503504317432645), ('wearing', 7.007613928837868), ('mind', 6.849984984634285), ('anyway', 6.82258601044617), ('kept', 5.746753750109881), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('wearing', 0.579931378364563), ('pink', 0.5330868363380432), ('wore', 0.5082992315292358), ('Wearing', 0.48958003520965576), ('wear', 0.4815354347229004), ('clad', 0.4414156675338745), ('wears', 0.4392145276069641), ('purple', 0.4292619526386261), ('dressed', 0.40251511335372925), ('dress', 0.3929387032985687)]
+
+--------------------------------------------------------------------------
+
+Lindsey wanted some money to buy a new dress.
+Lindsay told her mother that her daughter needed new school clothes.
+Lindsay brought a new red dress with the money her mother gave her.
+Lindsay's mother asked her where she got the new red dress.
+> Lindsay felt guilty about lying to her mother.
+
+__About the match__
+Rarest shared words: [('dress', (6.064076070023392, 6.064076070023392)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.617460113621016
+
+__About the completion__
+Rarest in completion: [('lying', 7.849506370658164), ('guilty', 7.529338843061895), ('mother', 5.47416192338169), ('felt', 4.558573192238365), ('about', 4.124950211825675)]
+Nearest to completion: [('guilty', 0.6053642630577087), ('lying', 0.571829080581665), ('lied', 0.4503384232521057), ('mother', 0.44555291533470154), ('convicted', 0.4164276719093323), ('confessed', 0.40969565510749817), ('sentenced', 0.40084853768348694), ('pleaded_guilty', 0.3952851891517639), ('daughter', 0.391597718000412), ('acquitted', 0.3842049539089203)]
+
+--------------------------------------------------------------------------
+
+Shay liked to dress her baby up.
+She especially liked to put bows in her hair.
+She had a huge collection of bows in the baby's room.
+When the baby grew into a toddler, she refused to wear the bows.
+> Shay bribed her with candy to keep the bows in her hair.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('dress', (6.064076070023392, 6.064076070023392))]
+Score: 0.6112925167277875
+
+__About the completion__
+Rarest in completion: [('bows', 10.433503923090395), ('bribed', 10.210360371776185), ('candy', 6.599442459131961), ('keep', 6.255277876887592), ('hair', 5.944867553358256)]
+Nearest to completion: [('candy', 0.6330883502960205), ('hair', 0.6238982677459717), ('keep', 0.43181905150413513), ('chocolate', 0.42315930128097534), ('keeps', 0.3730030655860901), ('Hair', 0.3590484857559204), ('skin', 0.3464500904083252), ('soda', 0.3431735336780548), ('beard', 0.3427608609199524), ('Keeping', 0.33984556794166565)]
+
+--------------------------------------------------------------------------
+
+Gene was colorblind.
+He was picking out his clothes to wear one day.
+Gene wore a blue shirt with purple pants.
+His girlfriend laughed at him.
+> She helped him find a matching pair of clothes.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.6080590584805978
+
+__About the completion__
+Rarest in completion: [('matching', 9.334891634422286), ('pair', 6.567524856163656), ('clothes', 6.3063695380453035), ('helped', 6.0767950964008035), ('find', 5.045574397852671), ('him', 3.3907807836977737)]
+Nearest to completion: [('matching', 0.5750481486320496), ('pair', 0.5047217011451721), ('clothes', 0.4903636574745178), ('clothing', 0.49010491371154785), ('socks', 0.41248825192451477), ('shoes', 0.39849478006362915), ('jeans', 0.3969287872314453), ('underwear', 0.39376524090766907), ('matched', 0.37739628553390503), ('pairs', 0.3740439713001251)]
+
+--------------------------------------------------------------------------
+
+Tom was invited to a costume party.
+He could not think of anything to wear.
+He decided to just dress in his regular clothes.
+When he arrived, he was relieved.
+> Half the people there had dressed normal as well!
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('dress', (6.064076070023392, 6.064076070023392)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.5993985976518971
+
+__About the completion__
+Rarest in completion: [('normal', 7.585691779613026), ('dressed', 7.101299412915191), ('half', 6.546798725646539), ('well', 5.318508613669897), ('people', 5.161787238339538), ('there', 4.12267696692766), ('as', 3.9638660844916718), ('!', 3.536809591467683)]
+Nearest to completion: [('normal', 0.5216937065124512), ('dressed', 0.47448477149009705), ('well', 0.41553351283073425), ('as', 0.39954662322998047), ('usual', 0.38315120339393616), ('behaved', 0.3556717038154602), ('clad', 0.3036138713359833), ('reasonably', 0.2971575856208801), ('normally', 0.296102374792099), ('typical', 0.2948243021965027)]
+
+--------------------------------------------------------------------------
+
+I wanted a new dress for my doll.
+My aunt took me to the store.
+I spent a long time picking one out.
+I found a beautiful pink dress.
+> She paid for it and teased me about it.
+
+__About the match__
+Rarest shared words: [('dress', (6.064076070023392, 6.064076070023392))]
+Score: 0.5941510840706345
+
+__About the completion__
+Rarest in completion: [('teased', 8.684304068281136), ('paid', 6.3104099475823086), ('me', 4.441414571213571), ('about', 4.124950211825675)]
+Nearest to completion: [('paid', 0.585764467716217), ('about', 0.4822806119918823), ('me', 0.4303860664367676), ('pay', 0.42243078351020813), ('pays', 0.4168417453765869), ('paying', 0.41047003865242004), ('owed', 0.393391489982605), ('reimbursed', 0.3346935212612152), ('owes', 0.3312198519706726), ('worth', 0.32277870178222656)]
+
+--------------------------------------------------------------------------
+
+

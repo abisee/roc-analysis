@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Karen's job requires long hours at work.
+She works upwards of 80 hours per week.
+Karen decides that she needs to relax and have some time off.
+She books a vacation to Mexico.
+> Karen travels to Mexico and has a very relaxing vacation.
+
+__About the context__
+Rarest in context: [('upwards', 9.740376741930469), ('requires', 9.334911633822305), ('80', 8.236299345154194), ('per', 8.035628649692043), ('relax', 7.137687056486085), ('works', 7.032326540828258), ('needs', 6.684019846560043), ('books', 6.014683314693816), ('vacation', 5.650207551118848), ('decides', 5.637733376893673), ('hours', 4.835101963492039), ('long', 4.7214426450195175), ('week', 4.607523815109964), ('job', 4.4999533538013345), ('off', 4.097583538900697), ('have', 4.032436257125603), ('work', 3.8703738633596787), ('time', 3.6473714652675255), ('some', 3.566590638028532)]
+Nearest to context: [('requires', 0.4472545385360718), ('hours', 0.4073263704776764), ('require', 0.36828261613845825), ('vacation', 0.362031489610672), ('vacations', 0.3585653007030487), ('work', 0.3570670783519745), ('required', 0.35004669427871704), ('needs', 0.34200626611709595), ('hour', 0.33464911580085754), ('allows', 0.3342602849006653)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('commitment', 1660, 18340, 0.375177264213562), ('will', 23, 19977, 0.3514740765094757), ('plans', 383, 19617, 0.33627110719680786), ('fulfilling', 12161, 7839, 0.3223557472229004), ('future', 352, 19648, 0.32134491205215454), ('job', 372, 19628, 0.31977882981300354), ('dedication', 6293, 13707, 0.3183218836784363), ('contribution', 3510, 16490, 0.31384143233299255), ('wants', 757, 19243, 0.30251064896583557), ('completes', 12420, 7580, 0.30148449540138245)]
+Nearest words to completions' keywords: [('going', 125, 19875, 0.5190252065658569), ('just', 76, 19924, 0.5099712610244751), ('trip', 1138, 18862, 0.4975019693374634), ('want', 189, 19811, 0.49461424350738525), ('really', 230, 19770, 0.4753471612930298), ('do', 58, 19942, 0.4737117290496826), ('job', 372, 19628, 0.46308666467666626), ('get', 91, 19909, 0.46307116746902466), ('vacation', 4562, 15438, 0.461891770362854), ('work', 141, 19859, 0.4604390263557434)]
+Nearest words to completions' verbs: [('is', 4, 19996, 0.716981053352356), ('was', 10, 19990, 0.6634790897369385), ('would', 47, 19953, 0.5955228805541992), ('should', 130, 19870, 0.5920450091362), ('will', 23, 19977, 0.5532130599021912), ('going', 125, 19875, 0.5505483746528625), ("it'sa", 8335, 11665, 0.5477827191352844), ("isn'ta", 10691, 9309, 0.5445765852928162), ('seems', 1006, 18994, 0.5431123375892639), ('could', 75, 19925, 0.5394867062568665)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Ryan hadn't been on a vacation in years.
+Work rarely allowed him to get away.
+One day he decided he needed some time off to relax.
+He planned a trip to the beach.
+> The trip was fun and allowed Ryan to rest before returning to work.
+
+__About the match__
+Rarest shared words: [('relax', (7.137687056486085, 7.137687056486085)), ('vacation', (5.650207551118848, 5.650207551118848)), ('off', (4.097583538900697, 4.097583538900697)), ('work', (3.8703738633596787, 3.8703738633596787)), ('time', (3.6473714652675255, 3.6473714652675255)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.4836480692956178
+
+__About the completion__
+Rarest in completion: [('returning', 8.64174445386234), ('allowed', 7.007613928837868), ('rest', 6.318540073665559), ('trip', 5.311029147238604), ('fun', 5.29917715665159), ('before', 4.900114434362875), ('work', 4.3399341530452595)]
+Nearest to completion: [('trip', 0.586956262588501), ('returning', 0.49793341755867004), ('trips', 0.4827885925769806), ('trek', 0.4540451467037201), ('depart', 0.4008016884326935), ('traveling', 0.4004214406013489), ('journey', 0.3975224792957306), ('return', 0.395908921957016), ('rest', 0.382512629032135), ('tour', 0.3797810971736908)]
+
+--------------------------------------------------------------------------
+
+Pam and her husband have 3 kids.
+The childcare costs for the children have very expensive.
+In order to save money on childcare, Pam switches to part time hours.
+Pam works less and spends more time with her children.
+> Pam is very happy being home with the children part time.
+
+__About the match__
+Rarest shared words: [('works', (7.032326540828258, 7.032326540828258)), ('hours', (4.835101963492039, 4.835101963492039)), ('have', (4.032436257125603, 4.032436257125603)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.47584524030364816
+
+__About the completion__
+Rarest in completion: [('part', 6.672303807396832), ('children', 6.444519876526121), ('being', 5.502633597463002), ('happy', 4.78013793434821), ('is', 4.0817459865209695), ('home', 4.002978318445733), ('time', 3.981849368185002), ('very', 3.793301345264873)]
+Nearest to completion: [('is', 0.4311433732509613), ('very', 0.42736896872520447), ('being', 0.42292261123657227), ('extremely', 0.40050140023231506), ('children', 0.37958312034606934), ('part', 0.3715033531188965), ('hugely', 0.3431950509548187), ('Being', 0.32867538928985596), ('incredibly', 0.32036638259887695), ('socially', 0.31247881054878235)]
+
+--------------------------------------------------------------------------
+
+Jeff started his own fitness business a year ago.
+It just recently took off and requires Jeff's full attention.
+He quit his job to work from home and focus on his business.
+He is very busy and works full days but it also very happy.
+> He is living his dream and is his own boss.
+
+__About the match__
+Rarest shared words: [('requires', (9.334911633822305, 9.334911633822305)), ('works', (7.032326540828258, 7.032326540828258)), ('job', (4.4999533538013345, 4.4999533538013345)), ('off', (4.097583538900697, 4.097583538900697)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.4730224560313081
+
+__About the completion__
+Rarest in completion: [('dream', 6.892544599053081), ('living', 6.487079490944916), ('boss', 5.93369425276013), ('own', 5.73757937383384), ('is', 4.0817459865209695)]
+Nearest to completion: [('dream', 0.6091832518577576), ('dreams', 0.566792905330658), ('living', 0.4718404710292816), ('ambition', 0.44660428166389465), ('boss', 0.44142672419548035), ('ambitions', 0.4267539978027344), ('aspirations', 0.41616731882095337), ('destiny', 0.41317400336265564), ('own', 0.39522454142570496), ('dreaming', 0.36584150791168213)]
+
+--------------------------------------------------------------------------
+
+Jeff is unhappy at his current job.
+He wants to leave.
+He applies for other jobs while at work.
+He gets a call the next day from a place offering a better job.
+> Jeff takes the Job.
+
+__About the match__
+Rarest shared words: [('job', (4.4999533538013345, 4.4999533538013345)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.4721307043087667
+
+__About the completion__
+Rarest in completion: [('takes', 7.146969449748379)]
+Nearest to completion: [('takes', 0.9542443752288818), ('take', 0.5642620325088501), ('Taking', 0.5490531325340271), ('puts', 0.5372354388237), ('comes', 0.5256110429763794), ('goes', 0.519296407699585), ('took', 0.518537163734436), ('brings', 0.5112225413322449), ('begins', 0.5070170164108276), ('gives', 0.4975530207157135)]
+
+--------------------------------------------------------------------------
+
+Andrew recently bought a mountain bike.
+He has been looking for one for the past two months.
+He has been riding it every day for at least an hour.
+Andrew takes good care of his bike so it doesn't fail on him.
+> Andrew plans on buying a better bike in the future.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4688694136550591
+
+__About the completion__
+Rarest in completion: [('future', 7.63014354218386), ('plans', 7.214628098222194), ('buying', 6.871038393832118), ('bike', 6.417120902338007), ('better', 5.345907587858011)]
+Nearest to completion: [('future', 0.5276108980178833), ('plans', 0.49949756264686584), ('bike', 0.45022740960121155), ('buying', 0.4345441162586212), ('bicycle', 0.3803344666957855), ('better', 0.37864950299263), ('purchasing', 0.3722093999385834), ('bikes', 0.3697390854358673), ('investing', 0.3675714433193207), ('plan', 0.3587758243083954)]
+
+--------------------------------------------------------------------------
+
+Ken had been given a special assignment at work.
+He had to travel from city to city preparing displays.
+He worked sixty hours plus drive time in one week.
+He completed the work as required.
+> His boss made sure he was given a bonus for his dedication.
+
+__About the match__
+Rarest shared words: [('hours', (4.835101963492039, 4.835101963492039)), ('week', (4.607523815109964, 4.607523815109964)), ('work', (3.8703738633596787, 3.8703738633596787)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.466013073460976
+
+__About the completion__
+Rarest in completion: [('dedication', 9.74035674253045), ('bonus', 9.25484892674875), ('given', 6.921958484259375), ('sure', 5.993798176829835), ('boss', 5.93369425276013), ('made', 4.267560996649484)]
+Nearest to completion: [('bonus', 0.5331188440322876), ('boss', 0.48802295327186584), ('dedication', 0.4752456545829773), ('rewarded', 0.43131300806999207), ('bonuses', 0.421535849571228), ('commitment', 0.37944021821022034), ('given', 0.37932655215263367), ('contribution', 0.3627992868423462), ('salary', 0.34364795684814453), ('longevity', 0.3390745222568512)]
+
+--------------------------------------------------------------------------
+
+Jenny was tired from work.
+She needs to go to her second job in a couple hours.
+Jenna decided to take a thirty minute nap.
+However, Jenna overslept.
+> She is late to her second job.
+
+__About the match__
+Rarest shared words: [('needs', (6.684019846560043, 6.684019846560043)), ('hours', (4.835101963492039, 4.835101963492039)), ('job', (4.4999533538013345, 4.4999533538013345)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.46124710549793485
+
+__About the completion__
+Rarest in completion: [('second', 6.551940125146958), ('late', 5.59326161492282), ('job', 4.864205675813988), ('is', 4.0817459865209695)]
+Nearest to completion: [('second', 0.5590885281562805), ('job', 0.5033329129219055), ('late', 0.4843768775463104), ('fourth', 0.47494012117385864), ('third', 0.4717400074005127), ('is', 0.44361165165901184), ('fifth', 0.41536909341812134), ('first', 0.3940703272819519), ('sixth', 0.3922548294067383), ('early', 0.3799431324005127)]
+
+--------------------------------------------------------------------------
+
+Timmy works as a manager for the Dollar Tree.
+He's paid salary, but his contract states he has to work 45 hours.
+His district manager will reprimand him if he doesn't work 52 hours.
+The discrepancy in hours worked means he's paid less than assistants.
+> Because of this, he's looking for a new job.
+
+__About the match__
+Rarest shared words: [('works', (7.032326540828258, 7.032326540828258)), ('hours', (4.835101963492039, 4.835101963492039)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.458254209722914
+
+__About the completion__
+Rarest in completion: [('looking', 5.520849037354343), ('because', 4.980321845981443), ('job', 4.864205675813988), ('this', 4.607503815709945), ('new', 3.7799959404738015), ("'s", 3.3551623435327245)]
+Nearest to completion: [('job', 0.5391100645065308), ('looking', 0.4962039291858673), ('new', 0.46136951446533203), ('jobs', 0.38381901383399963), ('this', 0.376216858625412), ('hiring', 0.37388375401496887), ('Job', 0.3709145784378052), ('look', 0.3528987169265747), ('considering', 0.3473491668701172), ('working', 0.33034637570381165)]
+
+--------------------------------------------------------------------------
+
+Jeff just got back to work after a two week vacation.
+He was stressed and needed to get away for a while.
+Within one hour of being back at work Jeff was stressed again.
+He realized that he really doesn't like to be at that place.
+> Jeff requested another vacation right away.
+
+__About the match__
+Rarest shared words: [('vacation', (5.650207551118848, 5.650207551118848)), ('week', (4.607523815109964, 4.607523815109964)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.4426172500561833
+
+__About the completion__
+Rarest in completion: [('requested', 8.64174445386234), ('vacation', 6.177891213272172), ('right', 5.585387558491915), ('another', 5.448186436978429), ('away', 4.824948298377215)]
+Nearest to completion: [('vacation', 0.593366265296936), ('vacations', 0.4514455199241638), ('away', 0.40962880849838257), ('requested', 0.4054239094257355), ('requesting', 0.35788974165916443), ('honeymoon', 0.35210558772087097), ('request', 0.3446642756462097), ('permission', 0.33173617720603943), ('granted', 0.32912498712539673), ('getaway', 0.30614185333251953)]
+
+--------------------------------------------------------------------------
+
+Kate was going to drive her car out of town.
+She took it to a shop to have a tune up.
+But the car needed much more than a tune up.
+It would require close to $500 of work.
+> She realized they wouldn't be able to drive her car after all.
+
+__About the match__
+Rarest shared words: [('have', (4.032436257125603, 4.032436257125603)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.44101438820577205
+
+__About the completion__
+Rarest in completion: [('drive', 6.08645700731254), ('able', 5.284557013196627), ('realized', 5.003062403615317), ('car', 4.464157181236033), ('be', 4.0931446193626435), ('after', 3.9503965716331964), ('would', 3.922873627941421), ('all', 3.5398475684877595), ("n't", 3.334508641807057)]
+Nearest to completion: [('drive', 0.4420143961906433), ('car', 0.42761820554733276), ('be', 0.3849736452102661), ('vehicle', 0.38308480381965637), ('able', 0.3477326035499573), ('realized', 0.3465792238712311), ('would', 0.32518652081489563), ('Car', 0.3249220848083496), ('BMW', 0.31693851947784424), ('cars', 0.3091853857040405)]
+
+--------------------------------------------------------------------------
+
+

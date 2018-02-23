@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+I was listening to the music saved on my phone.
+Since the volume was on the highest setting, I couldn't hear anything.
+My mom tried to call me, but I didn't respond since I didn't hear her.
+When I went to look for my leftover food, it was gone.
+> My mom told me that she ate it.
+
+__About the context__
+Rarest in context: [('volume', 8.728775830251989), ('highest', 8.728775830251989), ('leftover', 8.641764453262358), ('respond', 8.293457758994144), ('setting', 8.035628649692043), ('listening', 7.119337917817888), ('hear', 6.501698289766088), ('saved', 6.259136652594776), ('gone', 5.89022914022041), ('anything', 5.798794934260778), ('music', 5.650207551118848), ('call', 5.495459321228993), ('look', 5.260203046117063), ('since', 5.170833733585528), ('phone', 5.05593337504787), ('food', 4.668332819705569), ('mom', 4.373233184452579), ('me', 4.020884973569087), ('tried', 3.9806866353359713), ('could', 3.4004584525428303)]
+Nearest to context: [('phone', 0.4431189000606537), ('listening', 0.43482011556625366), ('listen', 0.4329491853713989), ('hear', 0.4034404158592224), ('music', 0.37747564911842346), ('respond', 0.36941400170326233), ('call', 0.3665790855884552), ('Listen', 0.36513984203338623), ('calls', 0.3598320484161377), ('heard', 0.35391849279403687)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('phone', 855, 19145, 0.4020738899707794), ('call', 315, 19685, 0.3800576329231262), ('telephone', 2660, 17340, 0.35886049270629883), ('complaint', 2884, 17116, 0.3431352376937866), ('e_mail', 1471, 18529, 0.3403087556362152), ('calls', 926, 19074, 0.3323015570640564), ('dispatch', 13027, 6973, 0.33064424991607666), ('email', 2227, 17773, 0.3291654586791992), ('hear', 1364, 18636, 0.3248711824417114), ('respond', 2523, 17477, 0.32212188839912415)]
+Nearest words to completions' keywords: [('not', 13, 19987, 0.5804069638252258), ('do', 58, 19942, 0.5326783061027527), ('if', 88, 19912, 0.5214892625808716), ('anybody', 3264, 16736, 0.5165740251541138), ('anyway', 4231, 15769, 0.5125566720962524), ('want', 189, 19811, 0.511928141117096), ('never', 292, 19708, 0.5042657852172852), ('just', 76, 19924, 0.5021758675575256), ('nobody', 3933, 16067, 0.49881675839424133), ('call', 315, 19685, 0.4934416711330414)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7737249732017517), ('get', 91, 19909, 0.6715392470359802), ('had', 35, 19965, 0.6665078401565552), ('gotten', 3328, 16672, 0.6324109435081482), ('do', 58, 19942, 0.6238557696342468), ('came', 256, 19744, 0.6235222220420837), ('did', 92, 19908, 0.6180870532989502), ('wanted', 583, 19417, 0.5917000770568848), ("'d", 609, 19391, 0.5911884307861328), ('knew', 1039, 18961, 0.5903156399726868)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Johnny loved to listen to rock music.
+He would listen to it very loud when he would go jogging.
+One day johnny was listening to his favorite song.
+He had the volume up as loud as it would go.
+> Johnny didn't see a truck that hit him and sent him to the hospital.
+
+__About the match__
+Rarest shared words: [('volume', (8.728775830251989, 8.728775830251989)), ('listening', (7.119337917817888, 7.119337917817888)), ('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.5543588588424209
+
+__About the completion__
+Rarest in completion: [('truck', 6.368759830644585), ('sent', 6.1993974184931355), ('hospital', 6.17082404604908), ('hit', 5.52453228277064), ('see', 4.749074176950009), ('did', 3.6104898725633485), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('hospital', 0.5313826203346252), ('truck', 0.4675171971321106), ('ambulance', 0.4421917796134949), ('Hospital', 0.4214940667152405), ('seriously_injured', 0.4025511145591736), ('sent', 0.39097464084625244), ('hit', 0.3866049647331238), ('airlifted', 0.376956045627594), ('hospitals', 0.37253114581108093), ('transported', 0.35384097695350647)]
+
+--------------------------------------------------------------------------
+
+Jim called the u-haul support line.
+Someone answered his call but the ringing didn't stop.
+His phone kept making the ringing sound as they talked.
+Jim found it incredibly annoying.
+> He made an effort to get off the phone as quickly as possible.
+
+__About the match__
+Rarest shared words: [('call', (5.495459321228993, 5.495459321228993)), ('phone', (5.05593337504787, 5.05593337504787))]
+Score: 0.49065117778444767
+
+__About the completion__
+Rarest in completion: [('effort', 7.991156887721191), ('possible', 7.708924420036975), ('quickly', 5.828333737102303), ('phone', 5.470659292830488), ('off', 4.4887379789916535), ('made', 4.267560996649484), ('get', 4.052534287452978), ('as', 3.9638660844916718), ('an', 3.8221351571901856)]
+Nearest to completion: [('quickly', 0.44773298501968384), ('possible', 0.43599098920822144), ('effort', 0.39977431297302246), ('swiftly', 0.3894862234592438), ('as', 0.36682090163230896), ('promptly', 0.3373938798904419), ('efforts', 0.33230966329574585), ('quick', 0.32427939772605896), ('immediately', 0.3236538767814636), ('timely', 0.3229755759239197)]
+
+--------------------------------------------------------------------------
+
+Sue was in her car listening to the radio.
+A song came on that she really liked.
+Sue reached for the dial to turn it up.
+The dial broke off in her hand.
+> She was sad about breaking her radio.
+
+__About the match__
+Rarest shared words: [('listening', (7.119337917817888, 7.119337917817888))]
+Score: 0.45984854382233054
+
+__About the completion__
+Rarest in completion: [('breaking', 7.849506370658164), ('radio', 7.529338843061895), ('sad', 6.067225645384653), ('about', 4.124950211825675)]
+Nearest to completion: [('radio', 0.5698506832122803), ('breaking', 0.5056926608085632), ('sad', 0.46986016631126404), ('Radio', 0.4291432797908783), ('radio_stations', 0.4268612861633301), ('broadcasting', 0.41465145349502563), ('Breaking', 0.39136001467704773), ('broadcast', 0.38505393266677856), ('broadcasts', 0.3773871660232544), ('about', 0.37696292996406555)]
+
+--------------------------------------------------------------------------
+
+Mellie dialed the numbers frantically.
+Mentally, she rehearsed the answer to the trivia questions.
+The phone was ringing, then it clicked and a voice said hello.
+The DJ said Mellie was live on the radio and did she know the answer.
+> She gave her answer and won two tickets to a concert.
+
+__About the match__
+Rarest shared words: [('phone', (5.05593337504787, 5.05593337504787))]
+Score: 0.44900634052809413
+
+__About the completion__
+Rarest in completion: [('answer', 7.4503504317432645), ('tickets', 6.83619166250195), ('concert', 6.678134727707626), ('won', 5.467168887890719), ('two', 4.891260466045621), ('gave', 4.8834555483762365)]
+Nearest to completion: [('tickets', 0.6303114891052246), ('ticket', 0.5154977440834045), ('concert', 0.5105204582214355), ('Ticket', 0.467393159866333), ('concerts', 0.4658622145652771), ('Concert', 0.4598887860774994), ('Tickets', 0.4598405063152313), ('won', 0.4392624795436859), ('Ticketmaster', 0.37644845247268677), ('gave', 0.3542626202106476)]
+
+--------------------------------------------------------------------------
+
+Two little boys somehow got the idea they could call Santa Claus.
+They had heard that Santa's phone number was 911.
+The person answering the call asked to speak to a parent.
+The boys had to learn what the number 911 is really for.
+> They also had to learn that they can't get hold of Santa by phone.
+
+__About the match__
+Rarest shared words: [('call', (5.495459321228993, 5.495459321228993)), ('phone', (5.05593337504787, 5.05593337504787)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4461618214090706
+
+__About the completion__
+Rarest in completion: [('hold', 7.600290579034179), ('ca', 7.110268082897952), ('learn', 6.136218516871605), ('also', 5.8208617222636025), ('phone', 5.470659292830488), ('by', 4.4228496815892715), ('get', 4.052534287452978), ("n't", 3.334508641807057)]
+Nearest to completion: [('hold', 0.4623804986476898), ('phone', 0.4532398283481598), ('learn', 0.4334879517555237), ('obtain', 0.4236740469932556), ('telephone', 0.4087947607040405), ('get', 0.39828017354011536), ('Phone', 0.3663293719291687), ('receive', 0.365915983915329), ('call', 0.3601870834827423), ('register', 0.3598686456680298)]
+
+--------------------------------------------------------------------------
+
+I went to see Art Williams speak.
+People stood up and clapped when his name was called.
+There were about 40,000 people there.
+Everyone was listening intently.
+> I've never seen anyone move a crowd like that.
+
+__About the match__
+Rarest shared words: [('listening', (7.119337917817888, 7.119337917817888))]
+Score: 0.43394516364131935
+
+__About the completion__
+Rarest in completion: [("'ve", 7.234830805539714), ('crowd', 7.05762434941253), ('anyone', 7.024007738613545), ('seen', 6.583356321380337), ('move', 6.177891213272172), ('like', 4.781014742821744), ('never', 4.624610964031577)]
+Nearest to completion: [('anyone', 0.48969757556915283), ('never', 0.46529945731163025), ('ever', 0.46271660923957825), ('anybody', 0.45825186371803284), ("'ve", 0.43482649326324463), ('anything', 0.42226314544677734), ('crowd', 0.3966880440711975), ('Anybody', 0.39123985171318054), ('nobody', 0.38004669547080994), ('seldom', 0.3627236485481262)]
+
+--------------------------------------------------------------------------
+
+Mary listens to her music way too loud.
+It really bothers her roommates.
+Her roommates asked her the other day to turn her music down.
+Mary said that she would turn her music down.
+> Even though she didn't want to, Mary turned her music down.
+
+__About the match__
+Rarest shared words: [('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.43304356751443357
+
+__About the completion__
+Rarest in completion: [('music', 6.149917361229766), ('though', 6.083225986731094), ('want', 5.717239689596717), ('even', 5.482972553063845), ('turned', 5.363028628638123), ('down', 4.370882181666085), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('did', 0.40987610816955566), ('music', 0.39687204360961914), ('though', 0.3789536654949188), ('does', 0.3663734197616577), ('even', 0.3493264615535736), ('inclined', 0.3237261474132538), ('refuses', 0.31678929924964905), ('dare', 0.31209230422973633), ('want', 0.31032922863960266), ('not', 0.2999899089336395)]
+
+--------------------------------------------------------------------------
+
+Tim had just gotten home from work.
+He decided to relax by listening to his favorite band Papadosio.
+He turned on his stereo system to full volume.
+Tim started dancing to the music.
+> Afterwards, Tim's neighbor filed a noise complaint.
+
+__About the match__
+Rarest shared words: [('volume', (8.728775830251989, 8.728775830251989)), ('listening', (7.119337917817888, 7.119337917817888)), ('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.4270134513902081
+
+__About the completion__
+Rarest in completion: [('complaint', 9.517213191216241), ('filed', 8.082128665926916), ('afterwards', 6.914523505771856), ('noise', 6.588689667355699), ('neighbor', 6.08645700731254), ("'s", 3.3551623435327245)]
+Nearest to completion: [('complaint', 0.7228448390960693), ('filed', 0.5700775384902954), ('noise', 0.5217611193656921), ('complaints', 0.5085728764533997), ('lawsuit', 0.4813522398471832), ('neighbor', 0.4732239842414856), ('disturbance', 0.4325109124183655), ('affidavit', 0.42763519287109375), ('neighbors', 0.42253196239471436), ('filing', 0.41997477412223816)]
+
+--------------------------------------------------------------------------
+
+The man's phone rang.
+He checked the number.
+He didn't recognize the number.
+He decided not to answer.
+> He never got a call from that number again.
+
+__About the match__
+Rarest shared words: [('phone', (5.05593337504787, 5.05593337504787))]
+Score: 0.42271483006277494
+
+__About the completion__
+Rarest in completion: [('number', 7.092410465497945), ('call', 5.9199009306277945), ('again', 5.046717908554751), ('never', 4.624610964031577), ('from', 3.996552593524763), ('got', 3.390344007102055)]
+Nearest to completion: [('call', 0.48284712433815), ('number', 0.4804222881793976), ('again', 0.3517654538154602), ('numbers', 0.34261056780815125), ('calls', 0.31099358201026917), ('once', 0.30879583954811096), ('Call', 0.306661993265152), ('never', 0.30042368173599243), ('from', 0.30003270506858826), ('calling', 0.2917826771736145)]
+
+--------------------------------------------------------------------------
+
+Fred was in his living room when he got a phone call.
+He answered and heard his grandmother on the line.
+For some reason though, she couldn't hear him at all.
+Fred tried everything that he could think of to fix the issue.
+> Unfortunately, it couldn't be solved and he had to text instead.
+
+__About the match__
+Rarest shared words: [('hear', (6.501698289766088, 6.501698289766088)), ('call', (5.495459321228993, 5.495459321228993)), ('phone', (5.05593337504787, 5.05593337504787)), ('tried', (3.9806866353359713, 3.9806866353359713)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4177176066736517
+
+__About the completion__
+Rarest in completion: [('solved', 9.180740954595027), ('text', 8.013135794439966), ('unfortunately', 5.9199009306277945), ('instead', 5.508063475057371), ('be', 4.0931446193626435), ('could', 3.8258407366367204), ("n't", 3.334508641807057)]
+Nearest to completion: [('solved', 0.5795332193374634), ('text', 0.5131930112838745), ('be', 0.4664704203605652), ('solve', 0.4537713825702667), ('resolved', 0.39754828810691833), ('solving', 0.3768017292022705), ('means', 0.36328980326652527), ('simply', 0.359380304813385), ('unfortunately', 0.35928717255592346), ('solution', 0.3568095564842224)]
+
+--------------------------------------------------------------------------
+
+

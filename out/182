@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+I used to smoke a pack of cigarettes a day.
+I had tried many times to quit smoking.
+Finally, I was able to quit smoking by switching to e-cigarettes.
+Then I read that e-cigarettes are harmful to my health, too.
+> Now I am trying to quit using e-cigarettes.
+
+__About the context__
+Rarest in context: [('e-cigarettes', 10.433523922490414), ('harmful', 10.02805881438225), ('switching', 9.517233190616258), ('cigarettes', 8.035628649692043), ('health', 7.32000861328004), ('smoking', 7.194845470326033), ('pack', 7.083619835215809), ('smoke', 6.63803473331822), ('quit', 6.572794211449819), ('times', 5.906315277972034), ('are', 5.879647030889873), ('able', 5.502653596863021), ('read', 5.41624408567549), ('used', 4.971813009033942), ('many', 4.663641646129689), ('too', 4.35817789140173), ('finally', 4.312128205790401), ('then', 4.075681655982314), ('by', 4.034097387075681), ('tried', 3.9806866353359713)]
+Nearest to context: [('smoking', 0.6163148880004883), ('smokers', 0.5950485467910767), ('cigarettes', 0.5831314921379089), ('smoke', 0.5518292188644409), ('tobacco', 0.5395702123641968), ('cigarette', 0.5090904235839844), ('harmful', 0.436307817697525), ('smoked', 0.41615331172943115), ('Tobacco', 0.3612161874771118), ('smoking_ban', 0.3434699773788452)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('smoking', 4155, 15845, 0.582524836063385), ('cigarettes', 8201, 11799, 0.5748274326324463), ('cigarette', 9222, 10778, 0.5724046230316162), ('tobacco', 5256, 14744, 0.5269277691841125), ('smokers', 10395, 9605, 0.48557570576667786), ('quit', 4083, 15917, 0.4339880645275116), ('quitting', 15287, 4713, 0.40359368920326233), ('Tobacco', 16161, 3839, 0.3789774477481842), ('smoke', 3595, 16405, 0.36484259366989136), ('smoking_ban', 19437, 563, 0.3596380650997162)]
+Nearest words to completions' keywords: [('cigarettes', 8201, 11799, 0.6159644722938538), ('smoking', 4155, 15845, 0.5877960920333862), ('quit', 4083, 15917, 0.5875483751296997), ('tobacco', 5256, 14744, 0.5780590772628784), ('cigarette', 9222, 10778, 0.5779063105583191), ('quitting', 15287, 4713, 0.5474302172660828), ('smokers', 10395, 9605, 0.5331025123596191), ('anyway', 4231, 15769, 0.4675016403198242), ('booze', 19922, 78, 0.46407264471054077), ('anymore', 4455, 15545, 0.46179190278053284)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6839851140975952), ('quit', 4083, 15917, 0.6457111239433289), ('had', 35, 19965, 0.6452975273132324), ('knew', 1039, 18961, 0.6035094261169434), ('got', 193, 19807, 0.5715442299842834), ('did', 92, 19908, 0.5628755688667297), ('stayed', 2936, 17064, 0.5588554739952087), ('went', 297, 19703, 0.5482038855552673), ('started', 443, 19557, 0.5455604195594788), ('came', 256, 19744, 0.5434958934783936)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jack smoked a pack of cigarettes everyday.
+His doctor told him he needed to quit smoking.
+He tried quitting with nicotine patches, gum, and medication.
+When nothing worked, he decided to use an electronic cigarette.
+> He was finally able to quit.
+
+__About the match__
+Rarest shared words: [('cigarettes', (8.035628649692043, 8.035628649692043)), ('smoking', (7.194845470326033, 7.194845470326033)), ('pack', (7.083619835215809, 7.083619835215809)), ('quit', (6.572794211449819, 6.572794211449819)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.7394189623592548
+
+__About the completion__
+Rarest in completion: [('quit', 6.649314289172134), ('able', 5.284557013196627), ('finally', 4.562795577118213)]
+Nearest to completion: [('quit', 0.6151573657989502), ('quitting', 0.4712367355823517), ('finally', 0.4691559672355652), ('quits', 0.4298688769340515), ('retire', 0.41892215609550476), ('resign', 0.417319655418396), ('resigned', 0.4054891765117645), ('able', 0.4040507972240448), ('resigning', 0.3903048634529114), ('rejoin', 0.36629465222358704)]
+
+--------------------------------------------------------------------------
+
+Deb had never smoked a single cigarette.
+She was jealous of all her colleagues getting to take smoke breaks.
+She decided she would buy a pack of cigarettes and take a break also.
+Deb went outside with Meg and James to smoke a cigarette.
+> She started choking on her first drag and had to go home early.
+
+__About the match__
+Rarest shared words: [('cigarettes', (8.035628649692043, 8.035628649692043)), ('pack', (7.083619835215809, 7.083619835215809)), ('smoke', (6.63803473331822, 6.63803473331822))]
+Score: 0.6817123567345947
+
+__About the completion__
+Rarest in completion: [('choking', 9.74035674253045), ('drag', 9.421903011411915), ('early', 6.149917361229766), ('first', 4.4744334437934175), ('started', 4.383181018976059), ('go', 4.110041419756121), ('home', 4.002978318445733)]
+Nearest to completion: [('choking', 0.4879055321216583), ('drag', 0.4798484444618225), ('early', 0.4121040105819702), ('choke', 0.36931225657463074), ('started', 0.36236149072647095), ('start', 0.35853850841522217), ('began', 0.3581748902797699), ('begin', 0.3520468473434448), ('slow', 0.3507247567176819), ('late', 0.3474216163158417)]
+
+--------------------------------------------------------------------------
+
+Charles was curious of what it would be like to experience addiction.
+He went to the store and bought a carton of cigarettes.
+He smoked a pack every day, liking it more with each pack.
+A month after he began smoking, he unsuccessfully tried to quit.
+> Unable to quit, Charles still smokes a pack of cigarettes every day.
+
+__About the match__
+Rarest shared words: [('cigarettes', (8.035628649692043, 8.035628649692043)), ('smoking', (7.194845470326033, 7.194845470326033)), ('pack', (7.083619835215809, 7.083619835215809)), ('quit', (6.572794211449819, 6.572794211449819)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.6166230532042275
+
+__About the completion__
+Rarest in completion: [('smokes', 10.028038814982231), ('cigarettes', 8.452502454223811), ('pack', 7.660915200850614), ('unable', 7.502310170673975), ('quit', 6.649314289172134), ('still', 5.390078806171148), ('every', 4.763623000109876), ('day', 3.3461390948177767)]
+Nearest to completion: [('cigarettes', 0.5921453237533569), ('cigarette', 0.48967602849006653), ('pack', 0.47978416085243225), ('tobacco', 0.4271067976951599), ('quit', 0.3795144855976105), ('packs', 0.3627447485923767), ('smokers', 0.3570241928100586), ('quitting', 0.34994906187057495), ('Tobacco', 0.3440026342868805), ('unable', 0.3071959912776947)]
+
+--------------------------------------------------------------------------
+
+Mary was eager to quit smoking because she wanted to become pregnant.
+She tried to quit cold turkey but kept running out to buy cigarettes.
+Then she went to a support group and tried hypnosis without success.
+Discouraged, she talked to her doctor who prescribed Chantix.
+> With medication to control the cravings, Mary finally quit smoking.
+
+__About the match__
+Rarest shared words: [('cigarettes', (8.035628649692043, 8.035628649692043)), ('smoking', (7.194845470326033, 7.194845470326033)), ('quit', (6.572794211449819, 6.572794211449819)), ('then', (4.075681655982314, 4.075681655982314)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.6152774638988626
+
+__About the completion__
+Rarest in completion: [('cravings', 9.74035674253045), ('medication', 7.927977986099659), ('smoking', 7.571303042160927), ('control', 7.092410465497945), ('quit', 6.649314289172134), ('finally', 4.562795577118213)]
+Nearest to completion: [('smoking', 0.6083722114562988), ('medication', 0.5774417519569397), ('control', 0.4884501099586487), ('smokers', 0.4869139790534973), ('medications', 0.48251914978027344), ('quit', 0.46151086688041687), ('pills', 0.446302205324173), ('quitting', 0.41780850291252136), ('drugs', 0.41107630729675293), ('tobacco', 0.40708014369010925)]
+
+--------------------------------------------------------------------------
+
+Evan wanted to quit smoking - he smoked a whole pack a day!
+He decided to cut down slowly, one cigarette per day.
+He tapered down very, very gradually to minimize withdrawal.
+Soon he was almost nicotine-free, and he was so proud.
+> He kept with his program until he was a non-smoker!
+
+__About the match__
+Rarest shared words: [('smoking', (7.194845470326033, 7.194845470326033)), ('pack', (7.083619835215809, 7.083619835215809)), ('quit', (6.572794211449819, 6.572794211449819))]
+Score: 0.6061543176556057
+
+__About the completion__
+Rarest in completion: [('non-smoker', 11.12665110365034), ('program', 8.013135794439966), ('kept', 5.746753750109881), ('until', 5.39169301152569), ('!', 3.536809591467683)]
+Nearest to completion: [('kept', 0.5631203055381775), ('program', 0.5191848874092102), ('until', 0.51331627368927), ('keep', 0.4443809390068054), ('keeping', 0.43369120359420776), ('Program', 0.3950531482696533), ('remain', 0.3769158124923706), ('keeps', 0.3720622658729553), ('Keeping', 0.3586851954460144), ('programs', 0.35844215750694275)]
+
+--------------------------------------------------------------------------
+
+Marcus wanted to fit in with his friends.
+They were smokers.
+So he decided to smoke.
+As a result, he got closer to his friends.
+> But now he wastes money on smoking.
+
+__About the match__
+Rarest shared words: [('smoke', (6.63803473331822, 6.63803473331822))]
+Score: 0.6025079080590141
+
+__About the completion__
+Rarest in completion: [('wastes', 11.12665110365034), ('smoking', 7.571303042160927), ('money', 4.903083263856677), ('now', 4.716476221684173), ('but', 3.4639482432028115)]
+Nearest to completion: [('smoking', 0.7083045244216919), ('smokers', 0.5109027624130249), ('tobacco', 0.5090456008911133), ('money', 0.48483315110206604), ('cigarettes', 0.41901007294654846), ('cigarette', 0.409553587436676), ('smoking_ban', 0.40217551589012146), ('smoke', 0.3981921076774597), ('gambling', 0.36284786462783813), ('booze', 0.360851913690567)]
+
+--------------------------------------------------------------------------
+
+Bob wanted to smoke a cigarette.
+However, he forgot his lighter.
+He went to his friend and asked for one.
+His friend said he doesn't have one.
+> Bob knows his friend has one however.
+
+__About the match__
+Rarest shared words: [('smoke', (6.63803473331822, 6.63803473331822))]
+Score: 0.5515409609806184
+
+__About the completion__
+Rarest in completion: [('knows', 7.849506370658164), ('however', 5.312520571825274), ('has', 4.937360813212439), ('friend', 4.4228496815892715), ('one', 3.351585275015767)]
+Nearest to completion: [('has', 0.5764404535293579), ('knows', 0.5524096488952637), ('friend', 0.4590533673763275), ('understands', 0.3982759714126587), ('thinks', 0.3942675292491913), ('believes', 0.39178797602653503), ('possesses', 0.3798762559890747), ('realizes', 0.378858745098114), ('acknowledges', 0.3712553381919861), ('considers', 0.3624749183654785)]
+
+--------------------------------------------------------------------------
+
+Joel was walking home from school when he ran into a group of boys.
+The boys were all smoking cigarettes.
+One of them offered Joel a cigarette.
+He declined and continued walking.
+> They jeered and teased him, but Joel didn't care.
+
+__About the match__
+Rarest shared words: [('cigarettes', (8.035628649692043, 8.035628649692043)), ('smoking', (7.194845470326033, 7.194845470326033))]
+Score: 0.5514268887274184
+
+__About the completion__
+Rarest in completion: [('jeered', 11.12665110365034), ('teased', 8.684304068281136), ('care', 6.294345345078502), ('did', 3.6104898725633485), ('but', 3.4639482432028115), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('care', 0.5759344696998596), ('did', 0.4867554306983948), ('him', 0.42080047726631165), ('does', 0.359543114900589), ('Nor', 0.35546186566352844), ('not', 0.3297814428806305), ('but', 0.3266178071498871), ('hesitate', 0.3238714337348938), ('cared', 0.31794410943984985), ('Care', 0.31677740812301636)]
+
+--------------------------------------------------------------------------
+
+Bryans workplace banned smoking on the premises.
+Bryan really wanted to smoke.
+Bryan would have to cross the street to smoke.
+Bryan decided to finally quit smoking because of the ban.
+> Bryan was no fun to be around for the first few weeks.
+
+__About the match__
+Rarest shared words: [('smoking', (7.194845470326033, 7.194845470326033)), ('smoke', (6.63803473331822, 6.63803473331822)), ('quit', (6.572794211449819, 6.572794211449819)), ('finally', (4.312128205790401, 4.312128205790401))]
+Score: 0.5472277973721008
+
+__About the completion__
+Rarest in completion: [('weeks', 5.8208617222636025), ('fun', 5.29917715665159), ('few', 5.000874218934764), ('around', 4.892240377931969), ('no', 4.72556343828553), ('first', 4.4744334437934175), ('be', 4.0931446193626435)]
+Nearest to completion: [('few', 0.4684813916683197), ('weeks', 0.4099321961402893), ('days', 0.34653523564338684), ('no', 0.3429434299468994), ('months', 0.341297447681427), ('twelve', 0.33861368894577026), ('fun', 0.3256073296070099), ('ten', 0.32343918085098267), ('six', 0.3208189606666565), ('fifteen', 0.3126010596752167)]
+
+--------------------------------------------------------------------------
+
+The man lit a cigarette.
+He inhaled the smoke deeply.
+He coughed from the smoke.
+He put out the cigarette.
+> He threw the cigarette in the trash.
+
+__About the match__
+Rarest shared words: [('smoke', (6.63803473331822, 6.63803473331822))]
+Score: 0.5402696935449793
+
+__About the completion__
+Rarest in completion: [('cigarette', 8.236279345754177), ('trash', 7.1284504019811425), ('threw', 5.767709115285869)]
+Nearest to completion: [('cigarette', 0.6796239018440247), ('trash', 0.6092216968536377), ('cigarettes', 0.5638206601142883), ('garbage', 0.5087318420410156), ('threw', 0.46606940031051636), ('tossed', 0.4631499648094177), ('litter', 0.4416241943836212), ('tossing', 0.4261050522327423), ('tobacco', 0.42340242862701416), ('throwing', 0.3875837028026581)]
+
+--------------------------------------------------------------------------
+
+

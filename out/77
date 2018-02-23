@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Johnnie got dragged to the ballet because his sister wanted to go.
+He was dreading how boring it would be.
+He was already bored when the lights were dimmed.
+Then when the dancers started he got into it.
+> He was sad when it ended.
+
+__About the context__
+Rarest in context: [('dimmed', 10.02805881438225), ('dancers', 9.180760953995046), ('dreading', 9.047229561370523), ('dragged', 8.293457758994144), ('ballet', 7.99117688712121), ('boring', 7.175427384468931), ('lights', 6.757223250583338), ('already', 6.314486747677941), ('bored', 6.251473779849207), ('sister', 5.513542996662289), ('because', 4.688919453313957), ('how', 4.469944578871967), ('then', 4.075681655982314), ('started', 3.8418501904817557), ('into', 3.75707038252395), ('be', 3.714510768105154), ('go', 3.6524662965542345), ('would', 3.429095756248016)]
+Nearest to context: [('ballet', 0.5092576146125793), ('dancers', 0.4808638393878937), ('dance', 0.4540173411369324), ('dancer', 0.4114927351474762), ('dancing', 0.3937920928001404), ('bored', 0.3826095461845398), ('dances', 0.3795374631881714), ('Ballet', 0.364088237285614), ('boring', 0.35872137546539307), ('opera', 0.322513222694397)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dance', 2676, 17324, 0.5439212918281555), ('dances', 13904, 6096, 0.4751439392566681), ('Dance', 7948, 12052, 0.46468424797058105), ('dancing', 5393, 14607, 0.462825745344162), ('dancers', 9016, 10984, 0.4290255308151245), ('dancer', 12825, 7175, 0.4171159863471985), ('gala', 12615, 7385, 0.3918237090110779), ('celebrated', 4384, 15616, 0.38977640867233276), ('crowned', 14196, 5804, 0.3882882297039032), ('awarded', 2405, 17595, 0.3870091140270233)]
+Nearest words to completions' keywords: [('dance', 2676, 17324, 0.7171658277511597), ('dancing', 5393, 14607, 0.668700098991394), ('dances', 13904, 6096, 0.6666867136955261), ('dancers', 9016, 10984, 0.6146740317344666), ('Dance', 7948, 12052, 0.5942071080207825), ('dancer', 12825, 7175, 0.5733059644699097), ('danced', 13950, 6050, 0.5494914650917053), ('ballet', 14672, 5328, 0.5280488133430481), ('singing', 4580, 15420, 0.5087982416152954), ('gala', 12615, 7385, 0.5058092474937439)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.765249490737915), ('had', 35, 19965, 0.6534087061882019), ('came', 256, 19744, 0.6180978417396545), ('would', 47, 19953, 0.601022481918335), ('went', 297, 19703, 0.5926455855369568), ('wanted', 583, 19417, 0.5906786322593689), ('did', 92, 19908, 0.5805875062942505), ("wasn'ta", 11067, 8933, 0.5764832496643066), ('decided', 846, 19154, 0.570131242275238), ('got', 193, 19807, 0.5606749653816223)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Kim liked to dance.
+She would do ballet and jazz after school.
+She was spinning around one time on the sidewalk.
+But she lost her balance and walked out into the street.
+> A car had to swerve to miss her, but she was ok.
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121)), ('into', (3.75707038252395, 3.75707038252395)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.5232747591404602
+
+__About the completion__
+Rarest in completion: [('swerve', 10.433503923090395), ('ok', 8.058598168516724), ('miss', 7.868554565628858), ('car', 4.464157181236033), ('but', 3.4639482432028115)]
+Nearest to completion: [('ok', 0.570505678653717), ('miss', 0.544330894947052), ('car', 0.47725358605384827), ('okay', 0.44599786400794983), ('Car', 0.36710765957832336), ('cars', 0.34242352843284607), ('sedan', 0.3396941125392914), ('SUV', 0.33274710178375244), ('dont', 0.3291342556476593), ('Mercedes', 0.3274634778499603)]
+
+--------------------------------------------------------------------------
+
+Janet had always wanted to be a dancer.
+She couldn't afford dance lessons!
+She decided to teach herself and danced everyday.
+She quickly became very good.
+> That summer she was accepted into a dance production!
+
+__About the match__
+Rarest shared words: [('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.5009582949508973
+
+__About the completion__
+Rarest in completion: [('production', 9.873888135154973), ('dance', 6.7322019489779015), ('accepted', 6.660742984995757), ('summer', 5.903596221602851), ('into', 4.270189119055754), ('!', 3.536809591467683)]
+Nearest to completion: [('dance', 0.5610057711601257), ('production', 0.5427268743515015), ('ballet', 0.47555407881736755), ('Dance', 0.4661264717578888), ('Production', 0.4357636868953705), ('dancers', 0.41920822858810425), ('dancing', 0.4179140329360962), ('dances', 0.4087279438972473), ('productions', 0.404945433139801), ('rehearsals', 0.39401841163635254)]
+
+--------------------------------------------------------------------------
+
+Koa wanted to be a dancer.
+He asked his mom to take ballet lessons.
+She said maybe that was better suited to females, but she compromised.
+She offered to let him take modern dance classes.
+> Koa decided that was better than nothing, and he agreed.
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.49617858547191607
+
+__About the completion__
+Rarest in completion: [('nothing', 6.368759830644585), ('agreed', 5.993798176829835), ('than', 5.6973054746958995), ('better', 5.345907587858011), ('decided', 3.495461951503386)]
+Nearest to completion: [('agreed', 0.5748518109321594), ('decided', 0.5124148726463318), ('than', 0.47331947088241577), ('opted', 0.44683951139450073), ('agreeing', 0.44072017073631287), ('better', 0.43314191699028015), ('inclined', 0.395425021648407), ('pledged', 0.39208725094795227), ('nothing', 0.38897940516471863), ('hoped', 0.38215717673301697)]
+
+--------------------------------------------------------------------------
+
+Cameron was nervous for her big performance.
+She was a ballet dancer and was competing in a big show.
+The judges watched her and took notes.
+Her performance was perfect!
+> She was awarded top honors.
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121))]
+Score: 0.4949573059597156
+
+__About the completion__
+Rarest in completion: [('honors', 9.421903011411915), ('awarded', 9.25484892674875), ('top', 6.408152232355246)]
+Nearest to completion: [('honors', 0.7818647027015686), ('awarded', 0.6843814849853516), ('awards', 0.6103494763374329), ('award', 0.6069733500480652), ('prestigious', 0.536713719367981), ('top', 0.5330222249031067), ('accolades', 0.5192902088165283), ('Award', 0.5181785821914673), ('honored', 0.5059056282043457), ('Outstanding', 0.5011931657791138)]
+
+--------------------------------------------------------------------------
+
+Ana took a ballet class.
+She thought she would love dancing.
+But the class did not meet her expectations.
+She did not like it at all!
+> Ana decided dancing was not for her.
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.4763836509188775
+
+__About the completion__
+Rarest in completion: [('dancing', 7.645411014314648), ('not', 3.8329533830489027), ('decided', 3.495461951503386)]
+Nearest to completion: [('dancing', 0.7013749480247498), ('dance', 0.5790643692016602), ('dances', 0.5223084688186646), ('decided', 0.4855518639087677), ('dancers', 0.482502818107605), ('dancer', 0.4481127858161926), ('Dance', 0.39956119656562805), ('danced', 0.3945441246032715), ('Dancing', 0.3859832286834717), ('singing', 0.3813478648662567)]
+
+--------------------------------------------------------------------------
+
+Robert wanted to be a dance master.
+He took many lessons to be a master.
+He learned many things such as ballet and hip-hop dancing.
+He got so good he qualified for a dance competition.
+> He won 2nd place in the competition.
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.4760681708014986
+
+__About the completion__
+Rarest in completion: [('2nd', 9.622573706874066), ('competition', 6.967768020290668), ('place', 5.682071230124052), ('won', 5.467168887890719)]
+Nearest to completion: [('won', 0.6187090277671814), ('2nd', 0.592014491558075), ('competition', 0.5883004069328308), ('6th', 0.5594155192375183), ('5th', 0.5592990517616272), ('3rd', 0.5547693371772766), ('8th', 0.5508456826210022), ('7th', 0.5480347871780396), ('9th', 0.5408506393432617), ('4th', 0.5375689268112183)]
+
+--------------------------------------------------------------------------
+
+She was so beautiful on the stage.
+The dancer moved with such grace.
+Flowing from one side of the stage to the other, she danced.
+The crowd was spellbound.
+> When it was over they applauded non stop.
+
+__About the match__
+Rarest shared words: []
+Score: 0.45754101285813087
+
+__About the completion__
+Rarest in completion: [('applauded', 9.421903011411915), ('non', 9.180740954595027), ('stop', 5.866554949922501), ('over', 4.367395832986647), ('when', 3.4368224349138567)]
+Nearest to completion: [('applauded', 0.560211181640625), ('non', 0.5440294146537781), ('stop', 0.4777067303657532), ('applaud', 0.4256793260574341), ('Non', 0.40318500995635986), ('halt', 0.3703801929950714), ('lauded', 0.349484920501709), ('over', 0.3469947576522827), ('cheered', 0.34657013416290283), ('praised', 0.3439426124095917)]
+
+--------------------------------------------------------------------------
+
+Irene loved her sister Cammy.
+Cammy took ballet and loved it, so Irene asked to sign up too.
+But Irene did not like the class at all!
+She decided it was okay to be different that Cammy.
+> Cammy could be the family dancer - not Irene!
+
+__About the match__
+Rarest shared words: [('ballet', (7.99117688712121, 7.99117688712121)), ('sister', (5.513542996662289, 5.513542996662289)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.4487433913735829
+
+__About the completion__
+Rarest in completion: [('dancer', 8.38581107972514), ('-', 6.83619166250195), ('family', 4.6880997737433745), ('be', 4.0931446193626435), ('not', 3.8329533830489027), ('could', 3.8258407366367204), ('!', 3.536809591467683)]
+Nearest to completion: [('dancer', 0.62590092420578), ('dancers', 0.4276661276817322), ('be', 0.40887919068336487), ('entertainer', 0.3957267999649048), ('dance', 0.3877941966056824), ('dancing', 0.353975385427475), ('not', 0.35381147265434265), ('singer', 0.3488372564315796), ('musician', 0.34577471017837524), ('family', 0.34439194202423096)]
+
+--------------------------------------------------------------------------
+
+My wife wanted to go dancing.
+We put on our fancy clothes and went to the club.
+When we got there we had a drink and listened to the music.
+Then we started to dance and having a lot of fun.
+> We did not go home until the dance club closed.
+
+__About the match__
+Rarest shared words: [('then', (4.075681655982314, 4.075681655982314)), ('started', (3.8418501904817557, 3.8418501904817557)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.44451567732648756
+
+__About the completion__
+Rarest in completion: [('club', 6.959985879848613), ('closed', 6.769942276960749), ('dance', 6.7322019489779015), ('until', 5.39169301152569), ('we', 4.354142974076229), ('go', 4.110041419756121), ('home', 4.002978318445733), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('until', 0.4001692235469818), ('club', 0.37496623396873474), ('dance', 0.368922621011734), ('closed', 0.3599461019039154), ('closes', 0.3291778564453125), ('not', 0.3251636028289795), ('reopen', 0.3234669864177704), ('go', 0.31123581528663635), ('clubs', 0.29425886273384094), ('dances', 0.29415956139564514)]
+
+--------------------------------------------------------------------------
+
+Camille was watching her sister's dance recital.
+Camille's sister performed three dances at the recital.
+Camille was excited and proud of her sister.
+Camille gave her sister flowers after the performance.
+> The family celebrated at dinner that night.
+
+__About the match__
+Rarest shared words: [('sister', (5.513542996662289, 5.513542996662289))]
+Score: 0.438997119839524
+
+__About the completion__
+Rarest in completion: [('celebrated', 8.236279345754177), ('dinner', 5.601198164518556), ('family', 4.6880997737433745), ('night', 4.471210753282693)]
+Nearest to completion: [('dinner', 0.6968681216239929), ('celebrated', 0.577253520488739), ('Dinner', 0.559508204460144), ('dinners', 0.5559606552124023), ('banquet', 0.551771879196167), ('celebration', 0.549462080001831), ('gala', 0.5382489562034607), ('luncheon', 0.5340291857719421), ('evening', 0.520799994468689), ('night', 0.5058735013008118)]
+
+--------------------------------------------------------------------------
+
+

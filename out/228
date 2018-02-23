@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Brownie was a happy dog, a pekingese who looked like a mop.
+One day, Brownie started going blind.
+Brownie walked into a wall, hurting his nose.
+He was never able to smell food again.
+> Brownie still ate healthy every day, even with a broken nose.
+
+__About the context__
+Rarest in context: [('pekingese', 10.02805881438225), ('mop', 9.180760953995046), ('hurting', 7.725473721388203), ('blind', 7.3890014847669905), ('nose', 7.3654709873567965), ('wall', 6.719951855786106), ('smell', 6.604882526001319), ('again', 5.633609659709811), ('able', 5.502653596863021), ('happy', 5.32153613413387), ('who', 4.859470554508997), ('dog', 4.724753906323174), ('walked', 4.692124584262906), ('food', 4.668332819705569), ('never', 4.437071833871393), ('like', 4.351305012113968), ('looked', 4.167272590916383), ('going', 4.13549421592915), ('started', 3.8418501904817557), ('into', 3.75707038252395)]
+Nearest to context: [('nose', 0.4326508045196533), ('smell', 0.34843823313713074), ('blind', 0.3194463849067688), ('smells', 0.3177533447742462), ('dog', 0.2956138253211975), ('wall', 0.2828243672847748), ('lips', 0.2770867347717285), ('helpless', 0.2734985053539276), ('rat', 0.27083396911621094), ('throat', 0.26158279180526733)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('tooth', 17803, 2197, 0.46898967027664185), ('throat', 9696, 10304, 0.433999240398407), ('bone', 6606, 13394, 0.4266498386859894), ('bones', 8834, 11166, 0.39327383041381836), ('skull', 13387, 6613, 0.3829549252986908), ('teeth', 6969, 13031, 0.38276052474975586), ('died', 681, 19319, 0.3712421953678131), ('jaw', 16610, 3390, 0.3613475561141968), ('diagnosed', 4903, 15097, 0.36124804615974426), ('swallowed', 19798, 202, 0.35379254817962646)]
+Nearest words to completions' keywords: [('hospitalized', 6403, 13597, 0.5259799957275391), ('died', 681, 19319, 0.5232387781143188), ('skull', 13387, 6613, 0.5013809204101562), ('bones', 8834, 11166, 0.4893203377723694), ('bitten', 18030, 1970, 0.4829578101634979), ('dead', 1161, 18839, 0.48241126537323), ('killed', 496, 19504, 0.47091537714004517), ('unconscious', 12256, 7744, 0.4675459861755371), ('tried', 940, 19060, 0.4644019305706024), ('eating', 3763, 16237, 0.4623472988605499)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6717165112495422), ('had', 35, 19965, 0.6668230891227722), ('saw', 653, 19347, 0.6606325507164001), ('came', 256, 19744, 0.6462470293045044), ('went', 297, 19703, 0.6332738399505615), ('knew', 1039, 18961, 0.6255606412887573), ('thought', 572, 19428, 0.5962696075439453), ('got', 193, 19807, 0.587571918964386), ('ran', 1256, 18744, 0.5796040296554565), ('felt', 1040, 18960, 0.574404776096344)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jenny wasn't feeling well.
+She had a sore throat and stuffy nose.
+Her mother couldn't get her to eat anything.
+Jenny's mother bought her some popsicles.
+> Jenny tried to eat the popsicles.
+
+__About the match__
+Rarest shared words: [('nose', (7.3654709873567965, 7.3654709873567965))]
+Score: 0.4645556275397751
+
+__About the completion__
+Rarest in completion: [('popsicles', 9.74035674253045), ('eat', 5.446478494633273), ('tried', 4.57271769962453)]
+Nearest to completion: [('eat', 0.6495863795280457), ('tried', 0.5600774884223938), ('eating', 0.45572322607040405), ('ate', 0.4538150727748871), ('try', 0.42119163274765015), ('attempted', 0.4118223786354065), ('eaten', 0.4095585346221924), ('Eat', 0.40541601181030273), ('Trying', 0.3928348124027252), ('consume', 0.38139888644218445)]
+
+--------------------------------------------------------------------------
+
+John noticed a bad smell.
+He looked everywhere, but he could not find the source.
+Then he noticed a brown smear on his shoe.
+He had stepped in a dog pile!
+> That was the source of the yucky smell.
+
+__About the match__
+Rarest shared words: [('smell', (6.604882526001319, 6.604882526001319)), ('dog', (4.724753906323174, 4.724753906323174)), ('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.42232154482621215
+
+__About the completion__
+Rarest in completion: [('yucky', 10.028038814982231), ('source', 8.20888037156606), ('smell', 7.05762434941253)]
+Nearest to completion: [('smell', 0.771025538444519), ('smells', 0.6312578916549683), ('source', 0.6304459571838379), ('odor', 0.6222907900810242), ('scent', 0.5439308881759644), ('sources', 0.42295804619789124), ('taste', 0.33331483602523804), ('culprit', 0.3121335208415985), ('leak', 0.30850768089294434), ('flavor', 0.3030325770378113)]
+
+--------------------------------------------------------------------------
+
+Emily's dog Pepper was very cute.
+He had big floppy ears and a wet nose.
+Pepper was very good at finding bones in the yard.
+One day, Pepper found a dinosaur bone!
+> Emily saw Pepper's dino bone and called the museum.
+
+__About the match__
+Rarest shared words: [('nose', (7.3654709873567965, 7.3654709873567965)), ('dog', (4.724753906323174, 4.724753906323174))]
+Score: 0.4198558215839315
+
+__About the completion__
+Rarest in completion: [('dino', 11.12665110365034), ('bone', 8.64174445386234), ('museum', 7.927977986099659), ('emily', 7.708924420036975), ('called', 4.874747220484451), ('saw', 4.402217881795742), ("'s", 3.3551623435327245)]
+Nearest to completion: [('bone', 0.603257417678833), ('museum', 0.5451952219009399), ('bones', 0.5105952024459839), ('Museum', 0.48351678252220154), ('skull', 0.4309123456478119), ('exhibit', 0.3969672620296478), ('artifacts', 0.3690594732761383), ('skeleton', 0.36442312598228455), ('sculpture', 0.3623022437095642), ('saw', 0.3611060082912445)]
+
+--------------------------------------------------------------------------
+
+The cat walked into the room and started coughing.
+The couple stared at him, worried.
+He made some strange noises and spit up a hairball.
+They screamed and shooed him away.
+> The cat had ruined the brand new rug.
+
+__About the match__
+Rarest shared words: [('walked', (4.692124584262906, 4.692124584262906)), ('started', (3.8418501904817557, 3.8418501904817557)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.4134957904999158
+
+__About the completion__
+Rarest in completion: [('rug', 8.72875583085197), ('ruined', 7.276503501940282), ('brand', 6.863971226609025), ('cat', 5.756013075522677), ('new', 3.7799959404738015)]
+Nearest to completion: [('brand', 0.5963027477264404), ('cat', 0.5428698658943176), ('ruined', 0.45256274938583374), ('cats', 0.43259739875793457), ('Brand', 0.4289897382259369), ('pet', 0.428399920463562), ('brands', 0.41493624448776245), ('dog', 0.3950498402118683), ('branding', 0.3934566378593445), ('puppy', 0.38759925961494446)]
+
+--------------------------------------------------------------------------
+
+Tim's tooth was hurting like crazy.
+He could barely eat or drink.
+His dentist took a look around in his mouth.
+One of his teeth was rotten.
+> Once the tooth was pulled, Tim felt fine.
+
+__About the match__
+Rarest shared words: [('hurting', (7.725473721388203, 7.725473721388203)), ('like', (4.351305012113968, 4.351305012113968))]
+Score: 0.40387022636076714
+
+__About the completion__
+Rarest in completion: [('tooth', 7.543132165194231), ('fine', 6.959985879848613), ('once', 5.903596221602851), ('pulled', 5.858792944587012), ('felt', 4.558573192238365)]
+Nearest to completion: [('tooth', 0.5796164274215698), ('fine', 0.4643894135951996), ('teeth', 0.4022751748561859), ('jaw', 0.38525551557540894), ('pulled', 0.35476529598236084), ('nose', 0.3494531214237213), ('felt', 0.3298167884349823), ('forehead', 0.3017899990081787), ('slapped', 0.29773789644241333), ('skull', 0.28775641322135925)]
+
+--------------------------------------------------------------------------
+
+Steven woke up not feeling very well.
+His mom took his temperature and made an appointment with the doctor.
+Steven told the doctor his throat hurt as he was examined.
+The doctor looked in Steven's mouth, his nose and his ears.
+> Steven was diagnosed with strep throat and sent home with medicine.
+
+__About the match__
+Rarest shared words: [('nose', (7.3654709873567965, 7.3654709873567965)), ('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.4024585699545196
+
+__About the completion__
+Rarest in completion: [('strep', 10.721185995542177), ('throat', 8.72875583085197), ('diagnosed', 7.868554565628858), ('medicine', 7.615105664819319), ('sent', 6.1993974184931355), ('home', 4.002978318445733)]
+Nearest to completion: [('diagnosed', 0.6231212615966797), ('throat', 0.5362322926521301), ('medicine', 0.4834492802619934), ('diagnosis', 0.4599592983722687), ('hospitalized', 0.4322000741958618), ('doctor', 0.4242100715637207), ('doctors', 0.41824251413345337), ('surgery', 0.40952274203300476), ('physician', 0.40476176142692566), ('medication', 0.3893021047115326)]
+
+--------------------------------------------------------------------------
+
+I had a couple rabbits.
+We let one of them out in the yard.
+The dog had the rabbit in it's mouth.
+There was fur missing on the rabbit's neck.
+> The rabbit died after that.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174))]
+Score: 0.40034851126830173
+
+__About the completion__
+Rarest in completion: [('rabbit', 8.64174445386234), ('died', 6.403697882005866), ('after', 3.9503965716331964)]
+Nearest to completion: [('died', 0.8624559044837952), ('killed', 0.5896123647689819), ('hospitalized', 0.5372496247291565), ('succumbed', 0.5288567543029785), ('dies', 0.5041075348854065), ('committed_suicide', 0.5039980411529541), ('dead', 0.4752904772758484), ('pronounced_dead', 0.46353453397750854), ('seriously_injured', 0.45769134163856506), ('fatal', 0.45332106947898865)]
+
+--------------------------------------------------------------------------
+
+The man scratched his nose.
+The tip of his nose felt sore.
+He looked in the mirror.
+He saw he had a pimple forming.
+> He tried to drain the pimple.
+
+__About the match__
+Rarest shared words: [('nose', (7.3654709873567965, 7.3654709873567965)), ('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.39906117238684996
+
+__About the completion__
+Rarest in completion: [('pimple', 10.433503923090395), ('drain', 8.98658494015407), ('tried', 4.57271769962453)]
+Nearest to completion: [('drain', 0.7155275344848633), ('tried', 0.5267424583435059), ('attempted', 0.4581567645072937), ('attempting', 0.42501309514045715), ('attempt', 0.4196076989173889), ('draining', 0.40824660658836365), ('Trying', 0.3866604268550873), ('trying', 0.3770402669906616), ('drained', 0.3769799768924713), ('attempts', 0.36467698216438293)]
+
+--------------------------------------------------------------------------
+
+Jill opened the door to let her dog LuLu inside.
+She noticed that she had something in her mouth.
+She was shocked when LuLu dropped a tiny kitten onto the floor.
+LuLu proceeded to treat the kitten like it was her puppy.
+> The family ended up adopting the kitten, naming him Fido.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174)), ('like', (4.351305012113968, 4.351305012113968))]
+Score: 0.39525121218523446
+
+__About the completion__
+Rarest in completion: [('naming', 10.433503923090395), ('adopting', 9.74035674253045), ('kitten', 7.08359983581579), ('ended', 5.160504364526648), ('family', 4.6880997737433745), ('him', 3.3907807836977737)]
+Nearest to completion: [('naming', 0.6059991717338562), ('adopting', 0.576239824295044), ('adopted', 0.423524409532547), ('adopt', 0.3984302282333374), ('abandoning', 0.3971358835697174), ('family', 0.3891738951206207), ('appointing', 0.3808973431587219), ('disclosing', 0.37060821056365967), ('ending', 0.3596195876598358), ('endorsing', 0.35436952114105225)]
+
+--------------------------------------------------------------------------
+
+Lucy wanted to get her nose done.
+She thought her nose was too big.
+She then drove to the doctor and got it done.
+She thought no one would know.
+> Yet a month later, everyone noticed.
+
+__About the match__
+Rarest shared words: [('nose', (7.3654709873567965, 7.3654709873567965))]
+Score: 0.393625021730759
+
+__About the completion__
+Rarest in completion: [('yet', 6.9369963616239145), ('month', 6.119354710819599), ('noticed', 5.327558449189815), ('later', 5.235006891824569), ('everyone', 5.197061960260446)]
+Nearest to completion: [('later', 0.43817076086997986), ('yet', 0.43237602710723877), ('month', 0.42776766419410706), ('recently', 0.4007411003112793), ('weeks', 0.38891327381134033), ('week', 0.38563522696495056), ('noticed', 0.37064507603645325), ('earlier', 0.35876739025115967), ('officially', 0.35678786039352417), ('months', 0.35126793384552)]
+
+--------------------------------------------------------------------------
+
+

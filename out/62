@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+James had always wanted to try out for a sport at his school.
+He decided he would try out for football.
+James exercised every day to be ready to try out.
+After trying out, James was accepted onto the team.
+> James was glad to be playing a sport at school.
+
+__About the context__
+Rarest in context: [('exercised', 9.180760953995046), ('sport', 7.692683898565213), ('accepted', 6.417140901738025), ('onto', 6.306389537445322), ('football', 6.185028680441055), ('ready', 5.24893532127072), ('trying', 5.2104690404429235), ('team', 5.186499850329928), ('try', 4.952884999148423), ('every', 4.228966159921724), ('always', 4.054249202512988), ('school', 3.843909923444766), ('be', 3.714510768105154), ('after', 3.6847643749987347), ('would', 3.429095756248016)]
+Nearest to context: [('football', 0.48622363805770874), ('sport', 0.4428345561027527), ('athletics', 0.4123888909816742), ('soccer', 0.38173428177833557), ('sports', 0.38092470169067383), ('athletic', 0.37516874074935913), ('athlete', 0.3689703643321991), ('governing_body', 0.3592836260795593), ('Football', 0.35862547159194946), ('must', 0.3561495840549469)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('team', 102, 19898, 0.5392327904701233), ('coach', 419, 19581, 0.4840642809867859), ('coaching', 2834, 17166, 0.43216443061828613), ('coaches', 2180, 17820, 0.42532452940940857), ('Head_Coach', 16741, 3259, 0.4203471839427948), ('player', 547, 19453, 0.41277527809143066), ('league', 814, 19186, 0.3969481885433197), ('squad', 1848, 18152, 0.3875252902507782), ('coached', 5861, 14139, 0.38747909665107727), ('Coach', 3383, 16617, 0.37961238622665405)]
+Nearest words to completions' keywords: [('coach', 419, 19581, 0.688187837600708), ('coaching', 2834, 17166, 0.6503737568855286), ('coaches', 2180, 17820, 0.6462641358375549), ('team', 102, 19898, 0.6442724466323853), ('coached', 5861, 14139, 0.6038305163383484), ('Head_Coach', 16741, 3259, 0.6000639796257019), ('Coach', 3383, 16617, 0.5822156667709351), ('teammates', 3216, 16784, 0.5601537227630615), ('players', 298, 19702, 0.5576122999191284), ('happy', 1049, 18951, 0.5394086837768555)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.781182050704956), ('was', 10, 19990, 0.7027362585067749), ('made', 107, 19893, 0.697697103023529), ('got', 193, 19807, 0.6590021252632141), ('did', 92, 19908, 0.6384532451629639), ('came', 256, 19744, 0.6247772574424744), ('wanted', 583, 19417, 0.6203433871269226), ('would', 47, 19953, 0.6007925868034363), ('knew', 1039, 18961, 0.5989758372306824), ('saw', 653, 19347, 0.5787748694419861)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Randall had always wanted to try a sport.
+A friend recommended he try playing soccer.
+Randall practiced every day until he was great.
+Finally he was a soccer player.
+> Randall was happy that he had finally tried a sport.
+
+__About the match__
+Rarest shared words: [('sport', (7.692683898565213, 7.692683898565213)), ('try', (4.952884999148423, 4.952884999148423)), ('every', (4.228966159921724, 4.228966159921724)), ('always', (4.054249202512988, 4.054249202512988))]
+Score: 0.6211667563616874
+
+__About the completion__
+Rarest in completion: [('randall', 9.74035674253045), ('sport', 8.106226217505977), ('happy', 4.78013793434821), ('tried', 4.57271769962453), ('finally', 4.562795577118213)]
+Nearest to completion: [('sport', 0.5175825953483582), ('happy', 0.45102137327194214), ('hoping', 0.407620370388031), ('tried', 0.4074704647064209), ('eager', 0.40265199542045593), ('glad', 0.40175801515579224), ('finally', 0.3942067325115204), ('thrilled', 0.38520288467407227), ('delighted', 0.37795114517211914), ('trying', 0.3728032112121582)]
+
+--------------------------------------------------------------------------
+
+Mike was thinking about playing sports.
+He thought about which one he wanted to try.
+He tried football and baseball at first.
+Unfortunately he wasn't very good.
+> Then Mike tried out for the basketball team and he did great!
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('try', (4.952884999148423, 4.952884999148423))]
+Score: 0.5232686331445973
+
+__About the completion__
+Rarest in completion: [('basketball', 6.506592305168499), ('team', 5.479438980482533), ('great', 4.843450213762537), ('tried', 4.57271769962453), ('then', 4.392059443677392), ('did', 3.6104898725633485), ('!', 3.536809591467683), ('out', 3.3165011979861596)]
+Nearest to completion: [('basketball', 0.5149294137954712), ('team', 0.45090150833129883), ('coach', 0.41024816036224365), ('Basketball', 0.3973120450973511), ('tried', 0.39662104845046997), ('Head_Coach', 0.3787429630756378), ('volleyball', 0.3673001229763031), ('lacrosse', 0.3569566011428833), ('did', 0.35326310992240906), ('hoops', 0.3512623906135559)]
+
+--------------------------------------------------------------------------
+
+James's school was having basketball tryouts.
+James doubted he could make the team, but he vowed to try.
+He went to the gym after classes.
+There, he shot hoops for the coach.
+> To his surprise, he actually made the cut!
+
+__About the match__
+Rarest shared words: [('team', (5.186499850329928, 5.186499850329928)), ('try', (4.952884999148423, 4.952884999148423)), ('school', (3.843909923444766, 3.843909923444766)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.5154483525882434
+
+__About the completion__
+Rarest in completion: [('actually', 7.024007738613545), ('surprise', 6.394848266728883), ('cut', 6.210326489025326), ('made', 4.267560996649484), ('!', 3.536809591467683)]
+Nearest to completion: [('surprise', 0.5899428129196167), ('cut', 0.563403844833374), ('made', 0.5140241384506226), ('surprising', 0.42751601338386536), ('cutting', 0.4172557294368744), ('slash', 0.4010971486568451), ('trimmed', 0.4000347852706909), ('make', 0.3939759135246277), ('making', 0.3762923777103424), ('slashed', 0.37435054779052734)]
+
+--------------------------------------------------------------------------
+
+Karim wanted to play hockey.
+He tried out for the school team.
+But he failed!
+He practiced all year and tried again next year.
+> Then he finally made the team!
+
+__About the match__
+Rarest shared words: [('team', (5.186499850329928, 5.186499850329928)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.5062003051791645
+
+__About the completion__
+Rarest in completion: [('team', 5.479438980482533), ('finally', 4.562795577118213), ('then', 4.392059443677392), ('made', 4.267560996649484), ('!', 3.536809591467683)]
+Nearest to completion: [('finally', 0.5306109189987183), ('team', 0.4900234341621399), ('made', 0.4434916079044342), ('then', 0.3942756950855255), ('Team', 0.3629189133644104), ('promptly', 0.33476051688194275), ('making', 0.33083415031433105), ('squad', 0.330455482006073), ('subsequently', 0.32458028197288513), ('eventually', 0.3016812205314636)]
+
+--------------------------------------------------------------------------
+
+The new soccer coach took the sport very seriously.
+She made the team do drills for all of practice.
+Then she told them to run home instead of drive.
+When it was time for the first game, the team did great!
+> It was obvious all their hard work had paid off.
+
+__About the match__
+Rarest shared words: [('sport', (7.692683898565213, 7.692683898565213)), ('team', (5.186499850329928, 5.186499850329928))]
+Score: 0.5011185231263544
+
+__About the completion__
+Rarest in completion: [('obvious', 9.74035674253045), ('paid', 6.3104099475823086), ('hard', 5.005255386950328), ('off', 4.4887379789916535), ('their', 4.437673918472774), ('work', 4.3399341530452595), ('all', 3.5398475684877595)]
+Nearest to completion: [('hard', 0.4505060017108917), ('work', 0.3986300230026245), ('their', 0.3924139738082886), ('paid', 0.39140206575393677), ('obvious', 0.3716459274291992), ('all', 0.355450838804245), ('these', 0.3419625163078308), ('pay', 0.3387073874473572), ('Hard', 0.33844152092933655), ('off', 0.3188630938529968)]
+
+--------------------------------------------------------------------------
+
+Joey wanted to fit in.
+He had just moved to a new school.
+He decided he would try out for the football team.
+Joey went to the try out and gave his best effort.
+> Joey was so happy when coach told him he had made the team.
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('team', (5.186499850329928, 5.186499850329928)), ('try', (4.952884999148423, 4.952884999148423)), ('school', (3.843909923444766, 3.843909923444766)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.49415789261229004
+
+__About the completion__
+Rarest in completion: [('coach', 6.878155861600981), ('team', 5.479438980482533), ('happy', 4.78013793434821), ('made', 4.267560996649484), ('told', 4.259717819188459), ('so', 3.628612279567497), ('when', 3.4368224349138567), ('him', 3.3907807836977737)]
+Nearest to completion: [('coach', 0.6376157999038696), ('Coach', 0.570051908493042), ('team', 0.5638418197631836), ('Head_Coach', 0.5627015233039856), ('coaches', 0.4780847430229187), ('coached', 0.4766862392425537), ('coaching', 0.47550156712532043), ('squad', 0.4568195044994354), ('teammates', 0.42179104685783386), ('teammate', 0.39720237255096436)]
+
+--------------------------------------------------------------------------
+
+Lance was bored after school.
+He thought he should try something new.
+He decided to try out for the baseball team.
+He went out there and give it his all.
+> The coach told him he had made the team!
+
+__About the match__
+Rarest shared words: [('team', (5.186499850329928, 5.186499850329928)), ('try', (4.952884999148423, 4.952884999148423)), ('school', (3.843909923444766, 3.843909923444766)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.49254638510415016
+
+__About the completion__
+Rarest in completion: [('coach', 6.878155861600981), ('team', 5.479438980482533), ('made', 4.267560996649484), ('told', 4.259717819188459), ('!', 3.536809591467683), ('him', 3.3907807836977737)]
+Nearest to completion: [('coach', 0.7087416052818298), ('Coach', 0.6025615930557251), ('team', 0.5968950390815735), ('Head_Coach', 0.5825356245040894), ('coached', 0.5518656969070435), ('coaching', 0.5374984741210938), ('coaches', 0.536354124546051), ('squad', 0.48676443099975586), ('teammates', 0.44747430086135864), ('athletic_director', 0.44533437490463257)]
+
+--------------------------------------------------------------------------
+
+Kate disliked being made fun of for her tall height.
+She often dreamed of being a normal height.
+She was always asked to play basketball never any other sport.
+One day she tried out for soccer and was selected to play on the team.
+> Kate in time got over her height difference becoming more confident.
+
+__About the match__
+Rarest shared words: [('sport', (7.692683898565213, 7.692683898565213)), ('team', (5.186499850329928, 5.186499850329928)), ('always', (4.054249202512988, 4.054249202512988))]
+Score: 0.489200053060695
+
+__About the completion__
+Rarest in completion: [('height', 8.92942652631412), ('difference', 8.38581107972514), ('becoming', 7.725453721988185), ('confident', 7.353890165555702), ('more', 4.774893167080915), ('over', 4.367395832986647), ('time', 3.981849368185002), ('got', 3.390344007102055)]
+Nearest to completion: [('height', 0.4696975350379944), ('becoming', 0.3916173279285431), ('difference', 0.38642260432243347), ('confident', 0.37076932191848755), ('more', 0.36118414998054504), ('less', 0.3523642420768738), ('gaining', 0.33627721667289734), ('than', 0.33201801776885986), ('taller', 0.3215097188949585), ('achieving', 0.317535400390625)]
+
+--------------------------------------------------------------------------
+
+Katie always wanted to play soccer.
+She decided she was going to try out for the team this year.
+Katie got the courage to head out after school.
+Katie left it all out on the field.
+> Katie was so happy when she found out she had made the team.
+
+__About the match__
+Rarest shared words: [('team', (5.186499850329928, 5.186499850329928)), ('try', (4.952884999148423, 4.952884999148423)), ('always', (4.054249202512988, 4.054249202512988)), ('school', (3.843909923444766, 3.843909923444766)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.48681356521795605
+
+__About the completion__
+Rarest in completion: [('team', 5.479438980482533), ('happy', 4.78013793434821), ('made', 4.267560996649484), ('found', 4.202038707601781), ('so', 3.628612279567497), ('when', 3.4368224349138567), ('out', 3.3165011979861596)]
+Nearest to completion: [('team', 0.39354509115219116), ('found', 0.3836402893066406), ('pleased', 0.36664971709251404), ('happy', 0.35959962010383606), ('satisfied', 0.35584837198257446), ('made', 0.34470003843307495), ('confident', 0.3128857910633087), ('delighted', 0.29902157187461853), ('proud', 0.2954723536968231), ('proved', 0.2929287850856781)]
+
+--------------------------------------------------------------------------
+
+Olsen was a great athlete.
+He was the leading scorer on the college's basketball team.
+He was trying to decide if he should go pro or stay in school.
+He made a list of pros and cons.
+> The list made him decide to go pro.
+
+__About the match__
+Rarest shared words: [('trying', (5.2104690404429235, 5.2104690404429235)), ('team', (5.186499850329928, 5.186499850329928)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.4833551220972486
+
+__About the completion__
+Rarest in completion: [('pro', 8.92942652631412), ('list', 7.308938777693435), ('decide', 7.25545009274245), ('made', 4.267560996649484), ('go', 4.110041419756121), ('him', 3.3907807836977737)]
+Nearest to completion: [('list', 0.5316852927207947), ('decide', 0.4946025311946869), ('pro', 0.47183382511138916), ('lists', 0.40089964866638184), ('select', 0.3776392340660095), ('decides', 0.35207438468933105), ('choose', 0.3495572805404663), ('deciding', 0.3420051038265228), ('go', 0.33665743470191956), ('draft', 0.31666654348373413)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+David was walking down the street when he felt down.
+He stood up and saw that his knee was bleeding.
+He found a handkerchief in his pants and applied it to the wound.
+He hopped to the nearest pharmacy stifling his pain.
+> He then bought some peroxide and bandages to treat his knee.
+
+__About the context__
+Rarest in context: [('stifling', 10.433523922490414), ('handkerchief', 10.02805881438225), ('pharmacy', 8.561721745588823), ('bleeding', 8.293457758994144), ('nearest', 8.082148665326937), ('wound', 7.83083423704603), ('hopped', 7.794466592875155), ('knee', 6.983536376658827), ('pants', 6.863991226009044), ('applied', 6.453842268588453), ('stood', 6.1227247971049), ('pain', 5.939285297209604), ('street', 5.460244414937927), ('walking', 5.02411250843679), ('felt', 4.342214040412715), ('down', 3.854967396162991), ('saw', 3.8322938037615377), ('found', 3.802181123701827)]
+Nearest to context: [('bleeding', 0.5275042057037354), ('pain', 0.4705474376678467), ('thigh', 0.4388844668865204), ('neck', 0.4256972372531891), ('wound', 0.41698411107063293), ('chest', 0.41547107696533203), ('abdomen', 0.4153498709201813), ('waist', 0.39076876640319824), ('knee', 0.37974977493286133), ('knees', 0.37495872378349304)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wounds', 8216, 11784, 0.443346232175827), ('tissue', 8253, 11747, 0.37561893463134766), ('tissues', 17336, 2664, 0.3433528244495392), ('facial', 18531, 1469, 0.3171384334564209), ('bleeding', 9109, 10891, 0.3051898181438446), ('actions', 1844, 18156, 0.29973867535591125), ('scars', 19569, 431, 0.29504090547561646), ('abdomen', 17830, 2170, 0.2944371998310089), ('pain', 2202, 17798, 0.28850966691970825), ('trauma', 8091, 11909, 0.28765973448753357)]
+Nearest words to completions' keywords: [('mother', 852, 19148, 0.5360725522041321), ('grandmother', 6547, 13453, 0.4926493465900421), ('mom', 3994, 16006, 0.4859941601753235), ('so', 85, 19915, 0.4850671589374542), ('toddler', 11630, 8370, 0.4771152436733246), ('baby', 2083, 17917, 0.4767206311225891), ('daughter', 1211, 18789, 0.4732956290245056), ('dad', 3924, 16076, 0.46864083409309387), ('aunt', 11159, 8841, 0.4638570547103882), ('just', 76, 19924, 0.46339869499206543)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6770212054252625), ('were', 37, 19963, 0.6615111827850342), ('got', 193, 19807, 0.6218571662902832), ('was', 10, 19990, 0.5972552299499512), ('knew', 1039, 18961, 0.5923616290092468), ('came', 256, 19744, 0.5906470417976379), ('stayed', 2936, 17064, 0.5743357539176941), ('went', 297, 19703, 0.5694494247436523), ('kept', 1086, 18914, 0.5657058358192444), ('pulled', 1565, 18435, 0.5600926280021667)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Ralf fell off from his bike.
+He scraped his knee on the pavement.
+His knee started to bleed.
+He went inside to wash the wound.
+> His mom found the ointment and bandaids.
+
+__About the match__
+Rarest shared words: [('wound', (7.83083423704603, 7.83083423704603)), ('knee', (6.983536376658827, 6.983536376658827))]
+Score: 0.5606290296823441
+
+__About the completion__
+Rarest in completion: [('bandaids', 10.721185995542177), ('ointment', 9.74035674253045), ('mom', 4.822202301228359), ('found', 4.202038707601781)]
+Nearest to completion: [('mom', 0.7054641246795654), ('found', 0.5872495174407959), ('Mom', 0.5709951519966125), ('mother', 0.5190486311912537), ('moms', 0.5103421807289124), ('toddler', 0.4385305941104889), ('daughter', 0.4377501308917999), ('discovered', 0.4316871464252472), ('grandmother', 0.4312349259853363), ('sister', 0.4255765676498413)]
+
+--------------------------------------------------------------------------
+
+Mark was running down the street.
+He tripped on a branch on the ground.
+He scratched up his arms and legs in the fall.
+He walked home in pain.
+> He rubbed some disinfectant on his wounds in the bathroom.
+
+__About the match__
+Rarest shared words: [('pain', (5.939285297209604, 5.939285297209604)), ('street', (5.460244414937927, 5.460244414937927)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.5375133726899202
+
+__About the completion__
+Rarest in completion: [('disinfectant', 11.12665110365034), ('wounds', 10.028038814982231), ('rubbed', 9.047209561970504), ('bathroom', 6.695834304807027), ('some', 4.142861138392206)]
+Nearest to completion: [('wounds', 0.7604056000709534), ('bathroom', 0.5969963073730469), ('bruises', 0.47543832659721375), ('scars', 0.4683614671230316), ('bathrooms', 0.42919638752937317), ('toilet', 0.4192783236503601), ('gunshot_wound', 0.4167175590991974), ('trauma', 0.40244555473327637), ('kitchen', 0.39342817664146423), ('abdomen', 0.3878229856491089)]
+
+--------------------------------------------------------------------------
+
+Clark was walking down the sidewalk.
+He saw a man fall to the ground.
+The man was holding his chest.
+Clark called 911.
+> Clark's quick actions saved the man's life.
+
+__About the match__
+Rarest shared words: [('walking', (5.02411250843679, 5.02411250843679)), ('down', (3.854967396162991, 3.854967396162991)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.5172188392166993
+
+__About the completion__
+Rarest in completion: [('actions', 8.98658494015407), ('quick', 7.8308142376460115), ('saved', 6.626841433320076), ('life', 5.637713377493654), ('man', 4.481560134144697), ("'s", 3.3551623435327245)]
+Nearest to completion: [('saved', 0.5211890935897827), ('actions', 0.4975918233394623), ('life', 0.45378562808036804), ('saving', 0.4169301688671112), ('heroic', 0.41484498977661133), ('swift', 0.4136621356010437), ('courageous', 0.4046640992164612), ('save', 0.3832055926322937), ('lives', 0.37605538964271545), ('bravery', 0.35902029275894165)]
+
+--------------------------------------------------------------------------
+
+I was walking my dog.
+I let go of the leash.
+I ran after her.
+I got a cut on my thigh from a branch.
+> I still have the scar.
+
+__About the match__
+Rarest shared words: [('walking', (5.02411250843679, 5.02411250843679))]
+Score: 0.5126043890053028
+
+__About the completion__
+Rarest in completion: [('scar', 9.517213191216241), ('still', 5.390078806171148), ('have', 4.400417701291594)]
+Nearest to completion: [('have', 0.6370076537132263), ('still', 0.6287356019020081), ('already', 0.5137673616409302), ('yet', 0.47622743248939514), ('are', 0.4423357844352722), ('remain', 0.43313708901405334), ('now', 0.41809386014938354), ('although', 0.3926207721233368), ('been', 0.39187008142471313), ('though', 0.3861307203769684)]
+
+--------------------------------------------------------------------------
+
+I bought some black compression socks today.
+I went to the store looking for them this morning.
+I put them on up to my knees when I got home.
+I hoped they would stop the swelling in my legs.
+> They are helping a little, but not very much.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4917290808260873
+
+__About the completion__
+Rarest in completion: [('helping', 7.692663899165194), ('are', 6.0767950964008035), ('little', 5.47416192338169), ('much', 4.895185888161725), ('not', 3.8329533830489027), ('very', 3.793301345264873), ('but', 3.4639482432028115)]
+Nearest to completion: [('very', 0.5047924518585205), ('much', 0.48274749517440796), ('extremely', 0.4703802466392517), ('little', 0.450021356344223), ('quite', 0.4477684795856476), ('particularly', 0.4463006556034088), ('generally', 0.4446159601211548), ('seem', 0.4313625693321228), ('nonetheless', 0.4222660958766937), ('overly', 0.4209640622138977)]
+
+--------------------------------------------------------------------------
+
+The man shaves his face.
+He cut his skin.
+He started to bleed.
+He stopped the bleeding with the tissue.
+> He forgot that he had the tissue on his face.
+
+__About the match__
+Rarest shared words: [('bleeding', (8.293457758994144, 8.293457758994144))]
+Score: 0.4902758748389214
+
+__About the completion__
+Rarest in completion: [('tissue', 9.517213191216241), ('face', 6.399263284938), ('forgot', 5.976253867178926)]
+Nearest to completion: [('tissue', 0.7381423711776733), ('tissues', 0.6143301129341125), ('face', 0.48505136370658875), ('stem_cells', 0.44872426986694336), ('skin', 0.41416653990745544), ('facial', 0.406412273645401), ('cells', 0.404714971780777), ('proteins', 0.38381513953208923), ('liver', 0.37475883960723877), ('stem_cell', 0.37413084506988525)]
+
+--------------------------------------------------------------------------
+
+Xavier was playing volleyball with his friends.
+He jumped up to block the ball but it hit him in the face.
+Xavier fell down in pain.
+Xavier started bleeding.
+> Xavier limped to the bench and sat down, fed up.
+
+__About the match__
+Rarest shared words: [('bleeding', (8.293457758994144, 8.293457758994144)), ('pain', (5.939285297209604, 5.939285297209604)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.48940686500903063
+
+__About the completion__
+Rarest in completion: [('limped', 10.433503923090395), ('xavier', 9.873888135154973), ('bench', 7.413079036946033), ('fed', 7.400957676413688), ('sat', 5.621319567717977), ('down', 4.370882181666085)]
+Nearest to completion: [('bench', 0.6469009518623352), ('sat', 0.5766270160675049), ('fed', 0.45310160517692566), ('sitting', 0.4357098340988159), ('sit', 0.41607627272605896), ('rested', 0.40815553069114685), ('Sitting', 0.38312971591949463), ('stood', 0.3648141920566559), ('seated', 0.35755518078804016), ('sidelines', 0.3466738164424896)]
+
+--------------------------------------------------------------------------
+
+Annie was sewing a seam to hem her pants.
+She stuck the needle through the fabric.
+The needle pricked Annie's thumb.
+Annie screamed in pain.
+> Annie pulled out a thimble to avoid further problems.
+
+__About the match__
+Rarest shared words: [('pants', (6.863991226009044, 6.863991226009044)), ('pain', (5.939285297209604, 5.939285297209604))]
+Score: 0.47728266264969504
+
+__About the completion__
+Rarest in completion: [('thimble', 11.12665110365034), ('further', 8.354062381410559), ('avoid', 7.692663899165194), ('problems', 7.3311619144781455), ('pulled', 5.858792944587012), ('out', 3.3165011979861596)]
+Nearest to completion: [('avoid', 0.5674535036087036), ('problems', 0.47549083828926086), ('avoided', 0.4456159174442291), ('prevent', 0.4391983449459076), ('avoiding', 0.4202464818954468), ('further', 0.41353458166122437), ('avert', 0.3961292505264282), ('prevented', 0.3890073597431183), ('avoids', 0.3877370357513428), ('difficulties', 0.3814537525177002)]
+
+--------------------------------------------------------------------------
+
+My husband has gross, long toenails that he refuses to cut.
+Last night he stabbed me in the leg while we were both asleep.
+The cut wouldn't stop bleeding, so we went to the hospital.
+I ended up needing three stitches to keep the gash closed.
+> Meanwhile, my husband and doctor were both laughing the whole time.
+
+__About the match__
+Rarest shared words: [('bleeding', (8.293457758994144, 8.293457758994144))]
+Score: 0.4740090205391408
+
+__About the completion__
+Rarest in completion: [('meanwhile', 9.873888135154973), ('laughing', 7.63014354218386), ('whole', 5.863960914745455), ('husband', 5.858792944587012), ('both', 5.758341365282269), ('doctor', 5.72622851416515), ('time', 3.981849368185002), ('were', 3.60343995182413), ('my', 3.5357989799617595)]
+Nearest to completion: [('doctor', 0.4368305206298828), ('husband', 0.41932711005210876), ('laughing', 0.36528530716896057), ('wife', 0.35112977027893066), ('doctors', 0.34344083070755005), ('Doctor', 0.3368079364299774), ('physician', 0.3336010277271271), ('her', 0.3309755027294159), ('my', 0.3183719217777252), ('mother', 0.31030935049057007)]
+
+--------------------------------------------------------------------------
+
+Mia rollerbladed down the boulevard.
+There was a large stick on the sidewalk, but she did not see it.
+She stumbled and fell to the ground.
+Luckily she was wearing her knee pads.
+> Mia was more alert from then on.
+
+__About the match__
+Rarest shared words: [('knee', (6.983536376658827, 6.983536376658827)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.4689160015208127
+
+__About the completion__
+Rarest in completion: [('alert', 9.111748083108075), ('more', 4.774893167080915), ('then', 4.392059443677392), ('from', 3.996552593524763)]
+Nearest to completion: [('alert', 0.7525669932365417), ('alerts', 0.4670014977455139), ('warning', 0.45673051476478577), ('Alert', 0.43726682662963867), ('warnings', 0.41947048902511597), ('more', 0.3741712272167206), ('from', 0.36771291494369507), ('alerted', 0.3553004264831543), ('alarm', 0.34988895058631897), ('alarms', 0.3403075933456421)]
+
+--------------------------------------------------------------------------
+
+

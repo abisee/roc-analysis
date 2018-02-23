@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+I went to a restaurant.
+I ordered fries.
+They put ketchup on the fries.
+I was furious at the awful site.
+> After complaining, I was given delicious, ketchup free fries.
+
+__About the context__
+Rarest in context: [('ketchup', 8.824086010056313), ('awful', 7.794466592875155), ('site', 7.5157531904061345), ('fries', 7.342481469132098), ('furious', 7.32000861328004), ('ordered', 5.4847640321122455), ('restaurant', 5.283126686018999), ('put', 4.156880433148769)]
+Nearest to context: [('furious', 0.4950244426727295), ('restaurant', 0.48309561610221863), ('ordered', 0.44149860739707947), ('Restaurant', 0.4176599085330963), ('outraged', 0.3739318549633026), ('site', 0.36301615834236145), ('appalling', 0.3535866141319275), ('restaurants', 0.34450194239616394), ('Grill', 0.3395179510116577), ('awful', 0.3353002071380615)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('eat', 2785, 17215, 0.4901881515979767), ('burger', 19185, 815, 0.43487265706062317), ('ate', 9337, 10663, 0.4315789043903351), ('soup', 12406, 7594, 0.419061541557312), ('tasted', 18312, 1688, 0.40103793144226074), ('eaten', 11812, 8188, 0.3982606828212738), ('tasty', 16425, 3575, 0.3919832706451416), ('delicious', 10595, 9405, 0.3817947804927826), ('eating', 3763, 16237, 0.3811527192592621), ('dish', 8744, 11256, 0.37923505902290344)]
+Nearest words to completions' keywords: [('eat', 2785, 17215, 0.6752490401268005), ('eating', 3763, 16237, 0.594607412815094), ('ate', 9337, 10663, 0.5894559621810913), ('eaten', 11812, 8188, 0.5579838752746582), ('do', 58, 19942, 0.5443981885910034), ('meal', 4866, 15134, 0.5432592630386353), ('anyway', 4231, 15769, 0.5416312217712402), ('delicious', 10595, 9405, 0.5389073491096497), ('dessert', 12865, 7135, 0.5372294187545776), ('tasty', 16425, 3575, 0.5360086560249329)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7406911253929138), ('had', 35, 19965, 0.7395604848861694), ('knew', 1039, 18961, 0.6480410695075989), ('got', 193, 19807, 0.6369733214378357), ('came', 256, 19744, 0.6296340823173523), ('took', 263, 19737, 0.6213234066963196), ('went', 297, 19703, 0.6135883331298828), ('wanted', 583, 19417, 0.6071193814277649), ('thought', 572, 19428, 0.6019656658172607), ('saw', 653, 19347, 0.6012697815895081)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Olivia hated pickles.
+She went to a restaurant.
+Olivia ordered a burger and fries.
+The burger came with pickles.
+> Olivia took the pickles off and ate her food.
+
+__About the match__
+Rarest shared words: [('fries', (7.342481469132098, 7.342481469132098)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.4648333139014817
+
+__About the completion__
+Rarest in completion: [('pickles', 9.421903011411915), ('ate', 5.493648811055187), ('food', 5.1080578891541055), ('off', 4.4887379789916535), ('took', 4.067463120907994)]
+Nearest to completion: [('ate', 0.6719962358474731), ('food', 0.5549100637435913), ('eat', 0.4801977872848511), ('eaten', 0.4457480311393738), ('eating', 0.44511884450912476), ('eats', 0.41413915157318115), ('took', 0.40667739510536194), ('foods', 0.3992014229297638), ('meals', 0.3812183141708374), ('snack', 0.3709830641746521)]
+
+--------------------------------------------------------------------------
+
+Today I ordered a gumbo.
+I ordered it at a restaurant.
+It was great.
+But I hardly ate it.
+> I was busy talking too much.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.4245647963804808
+
+__About the completion__
+Rarest in completion: [('busy', 7.165837934052762), ('talking', 6.5727742120498), ('much', 4.895185888161725), ('too', 4.812197670258433)]
+Nearest to completion: [('busy', 0.6080373525619507), ('talking', 0.5201990604400635), ('much', 0.45862844586372375), ('too', 0.43065550923347473), ('fond', 0.3882827162742615), ('hectic', 0.38761231303215027), ('worrying', 0.3625916838645935), ('talk', 0.3569236695766449), ('concentrating', 0.35197198390960693), ('chatting', 0.3421516418457031)]
+
+--------------------------------------------------------------------------
+
+Allie went to the local restaurant yesterday.
+She ordered a steak.
+After waiting an hour she wanted to see what was up.
+She asked the waiter and the waiter forgot.
+> Allie then decided to leave.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.4092401950021375
+
+__About the completion__
+Rarest in completion: [('leave', 6.163806473390434), ('then', 4.392059443677392), ('decided', 3.495461951503386)]
+Nearest to completion: [('decided', 0.6026953458786011), ('leave', 0.5598865747451782), ('opted', 0.4648158848285675), ('decide', 0.4436210095882416), ('decides', 0.43761134147644043), ('persuaded', 0.431893527507782), ('chose', 0.4120541512966156), ('instructed', 0.39391008019447327), ('forced', 0.3923163115978241), ('leaving', 0.39062169194221497)]
+
+--------------------------------------------------------------------------
+
+I decided to try a new restaurant.
+The place was in the city.
+I had heard great reviews of their soup.
+I ordered the chicken noodle soup.
+> It was the best soup I had tasted.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.4032035553562906
+
+__About the completion__
+Rarest in completion: [('soup', 7.5571184071689705), ('tasted', 6.815851978264827), ('best', 5.3230232940244235)]
+Nearest to completion: [('tasted', 0.7719197869300842), ('soup', 0.6703430414199829), ('delicious', 0.5586767792701721), ('sauce', 0.5347290635108948), ('tasty', 0.5293066501617432), ('taste', 0.5248990654945374), ('salad', 0.5205795764923096), ('tasting', 0.5076051354408264), ('dessert', 0.5031745433807373), ('dish', 0.49429619312286377)]
+
+--------------------------------------------------------------------------
+
+Frank had a hot date last night.
+He made reservations at a really great restaurant.
+When they arrived, the restaurant said they'd lost the reservations.
+Frank was furious!
+> His date said he should just take her home.
+
+__About the match__
+Rarest shared words: [('furious', (7.32000861328004, 7.32000861328004)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.40265162431022383
+
+__About the completion__
+Rarest in completion: [('should', 6.417120902338007), ('date', 5.815911217103746), ('take', 4.896169656071859), ('just', 4.707470839499374), ('said', 4.667529428177747), ('home', 4.002978318445733)]
+Nearest to completion: [('date', 0.4880441427230835), ('take', 0.41633233428001404), ('should', 0.4108929932117462), ('timeframe', 0.36591005325317383), ('be', 0.33745241165161133), ('will', 0.3164427876472473), ('earliest', 0.2780764102935791), ('dates', 0.2776830792427063), ('home', 0.2773251235485077), ('assume', 0.2772063612937927)]
+
+--------------------------------------------------------------------------
+
+Nate ordered a burger with fries at a fast food restaurant.
+Traffic caused Nate to come home late.
+The food got ruined when he came home.
+The fries and burger were soggy because of the evaporated smoke.
+> Nate couldn't eat it and he threw it away.
+
+__About the match__
+Rarest shared words: [('fries', (7.342481469132098, 7.342481469132098)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.4025381190757982
+
+__About the completion__
+Rarest in completion: [('threw', 5.767709115285869), ('eat', 5.446478494633273), ('away', 4.824948298377215), ('could', 3.8258407366367204), ("n't", 3.334508641807057)]
+Nearest to completion: [('threw', 0.5675551295280457), ('eat', 0.46591654419898987), ('tossed', 0.45558762550354004), ('ate', 0.42760851979255676), ('throw', 0.4266159236431122), ('throwing', 0.40352869033813477), ('hurled', 0.39674827456474304), ('away', 0.3922826051712036), ('thrown', 0.3867945969104767), ('tossing', 0.3753429353237152)]
+
+--------------------------------------------------------------------------
+
+Liz was starving.
+She drove to a fast food restaurant and ordered a burger.
+It was huge and juicy.
+She ate it all before she got home.
+> Liz was now full.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.3895196249956066
+
+__About the completion__
+Rarest in completion: [('full', 6.188586502388921), ('now', 4.716476221684173)]
+Nearest to completion: [('full', 0.827765941619873), ('Full', 0.5572102665901184), ('now', 0.5477129220962524), ('complete', 0.3792848289012909), ('fully', 0.3656434714794159), ('currently', 0.3581482768058777), ('partial', 0.32319706678390503), ('presently', 0.3134773373603821), ('full_fledged', 0.3114110231399536), ('Now', 0.29930734634399414)]
+
+--------------------------------------------------------------------------
+
+Suzy had a salad.
+She ordered it at the restaurant.
+It came to her.
+When she got it it was bland.
+> She hated it.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.38415749805573524
+
+__About the completion__
+Rarest in completion: [('hated', 6.368759830644585)]
+Nearest to completion: [('hated', 0.9099236726760864), ('hates', 0.571578323841095), ('dislike', 0.5010005235671997), ('loved', 0.48201611638069153), ('hate', 0.4694475531578064), ('admired', 0.42690032720565796), ('fond', 0.40174102783203125), ('obsessed', 0.39526888728141785), ('liked', 0.3944050371646881), ('revered', 0.3915855586528778)]
+
+--------------------------------------------------------------------------
+
+Lisa was at the drive through of a fast food restaurant.
+And she ordered a milkshake and a burger.
+But when she got home, she realized she wasn't given a burger.
+And she called the restaurant.
+> Lisa had to drive all the way back but was given the burger for free.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.38381869693188
+
+__About the completion__
+Rarest in completion: [('burger', 7.676663557818753), ('given', 6.921958484259375), ('free', 6.322630058917084), ('drive', 6.08645700731254), ('way', 5.019628215908086), ('back', 4.3399341530452595), ('all', 3.5398475684877595), ('but', 3.4639482432028115)]
+Nearest to completion: [('burger', 0.49957939982414246), ('drive', 0.4461558759212494), ('free', 0.43364325165748596), ('drives', 0.32956618070602417), ('sandwich', 0.3042529225349426), ('menu', 0.3031313717365265), ('way', 0.3024149239063263), ('tasty', 0.2991870045661926), ('buffet', 0.295447438955307), ('steak', 0.2935386598110199)]
+
+--------------------------------------------------------------------------
+
+Emily was eating at a fast food restaurant.
+She ordered fries and a burger.
+Emily's order came out.
+The fries weren't on the order.
+> Emily told the cashier the order was wrong.
+
+__About the match__
+Rarest shared words: [('fries', (7.342481469132098, 7.342481469132098)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.383119193388256
+
+__About the completion__
+Rarest in completion: [('cashier', 7.708924420036975), ('emily', 7.708924420036975), ('order', 6.403697882005866), ('wrong', 6.221376325211911), ('told', 4.259717819188459)]
+Nearest to completion: [('told', 0.6146154403686523), ('wrong', 0.5473306775093079), ('order', 0.46857380867004395), ('tells', 0.4475098252296448), ('telling', 0.4084256589412689), ('quoted', 0.40838155150413513), ('instructed', 0.40837278962135315), ('correct', 0.39076903462409973), ('interview', 0.38510042428970337), ('telephone_interview', 0.3765658140182495)]
+
+--------------------------------------------------------------------------
+
+

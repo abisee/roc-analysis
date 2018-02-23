@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The new lawyer was happy to be practicing in a courtroom.
+She was determined to be totally prepared.
+On the first day of the trial, she gave a great opening statement.
+She felt very confident.
+> The jury said that her client was not guilty.
+
+__About the context__
+Rarest in context: [('courtroom', 10.02805881438225), ('statement', 9.334911633822305), ('trial', 8.354082380810578), ('totally', 8.082148665326937), ('lawyer', 7.907795278182158), ('confident', 7.04913365914464), ('opening', 6.999536718005268), ('determined', 6.8925645984531), ('practicing', 6.707830495253761), ('prepared', 6.355986478584694), ('happy', 5.32153613413387), ('great', 4.728076168515152), ('gave', 4.575590768006954), ('felt', 4.342214040412715), ('first', 3.9673791982527944), ('be', 3.714510768105154), ('new', 3.4017826637272854), ('very', 3.353497422567824)]
+Nearest to context: [('confident', 0.5395840406417847), ('pleased', 0.4444190263748169), ('lawyer', 0.4328136444091797), ('trial', 0.4057278633117676), ('hopeful', 0.40356528759002686), ('courtroom', 0.4017033576965332), ('statement', 0.3982718586921692), ('verdict', 0.39651185274124146), ('satisfied', 0.3883613348007202), ('delighted', 0.3805934488773346)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('lawyer', 1855, 18145, 0.5657187104225159), ('judge', 1070, 18930, 0.5640967488288879), ('guilty_plea', 14587, 5413, 0.5539132356643677), ('prosecution', 4352, 15648, 0.545356273651123), ('lawyers', 2423, 17577, 0.5432125926017761), ('attorneys', 3615, 16385, 0.5360086560249329), ('attorney', 1171, 18829, 0.5265582799911499), ('sentencing', 6259, 13741, 0.5176146030426025), ('defendant', 4896, 15104, 0.5137283802032471), ('court', 344, 19656, 0.5108569264411926)]
+Nearest words to completions' keywords: [('convicted', 2246, 17754, 0.6005668640136719), ('judge', 1070, 18930, 0.5738041400909424), ('sentenced', 2433, 17567, 0.5659269690513611), ('sentencing', 6259, 13741, 0.5641749501228333), ('guilty_plea', 14587, 5413, 0.561876654624939), ('plead_guilty', 14955, 5045, 0.5501752495765686), ('lawyer', 1855, 18145, 0.5461241006851196), ('court', 344, 19656, 0.5454667806625366), ('attorneys', 3615, 16385, 0.5361547470092773), ('courtroom', 6315, 13685, 0.5348273515701294)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6448341608047485), ('got', 193, 19807, 0.6346592307090759), ('was', 10, 19990, 0.6336906552314758), ('came', 256, 19744, 0.6137098670005798), ('went', 297, 19703, 0.5934630036354065), ('gone', 1133, 18867, 0.5671634078025818), ('felt', 1040, 18960, 0.5583866238594055), ('been', 42, 19958, 0.5512372255325317), ('missed', 1241, 18759, 0.5460755228996277), ('knew', 1039, 18961, 0.5393415689468384)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The verdict had come in.
+The judge was getting ready to read it.
+Everyone in the courtroom was standing up.
+The judge read not guilty.
+> The defendant shouted happily.
+
+__About the match__
+Rarest shared words: [('courtroom', (10.02805881438225, 10.02805881438225))]
+Score: 0.6208593848963081
+
+__About the completion__
+Rarest in completion: [('defendant', 10.028038814982231), ('shouted', 9.047209561970504), ('happily', 7.245087305706903)]
+Nearest to completion: [('shouted', 0.658572256565094), ('defendant', 0.5933305621147156), ('shouting', 0.550662100315094), ('yelled', 0.5440496802330017), ('screamed', 0.4916146397590637), ('chanted', 0.47222328186035156), ('defendants', 0.4536013901233673), ('chanting', 0.4466545283794403), ('shout', 0.4411066174507141), ('courtroom', 0.42410528659820557)]
+
+--------------------------------------------------------------------------
+
+The court case was very complicated.
+The judge listened patiently to both sides.
+He issued his ruling against the defendant.
+The prosecution was pleased with the outcome.
+> It had been a tough battle.
+
+__About the match__
+Rarest shared words: [('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.6037813333592162
+
+__About the completion__
+Rarest in completion: [('battle', 8.561701746188803), ('tough', 8.058598168516724), ('been', 4.657400786854568)]
+Nearest to completion: [('battle', 0.7238105535507202), ('battles', 0.6316742897033691), ('tough', 0.6187811493873596), ('fight', 0.49068140983581543), ('battling', 0.4905073940753937), ('fought', 0.48792338371276855), ('fighting', 0.4748399257659912), ('toughest', 0.4682007431983948), ('struggle', 0.45894667506217957), ('battled', 0.452796995639801)]
+
+--------------------------------------------------------------------------
+
+Chris is a defense attorney.
+He has a client that he must defend in court.
+The client is not guilty.
+Chris does his best to defend his client during his trial.
+> Chris wins the case and the client goes free.
+
+__About the match__
+Rarest shared words: [('trial', (8.354082380810578, 8.354082380810578))]
+Score: 0.5907720586445886
+
+__About the completion__
+Rarest in completion: [('client', 8.452502454223811), ('wins', 8.130918830096348), ('case', 7.676663557818753), ('goes', 6.594051610497084), ('free', 6.322630058917084)]
+Nearest to completion: [('wins', 0.5559048652648926), ('client', 0.5206084847450256), ('case', 0.45008230209350586), ('goes', 0.41272082924842834), ('loses', 0.3691307604312897), ('extends', 0.3589004874229431), ('enters', 0.35175666213035583), ('accepts', 0.35099145770072937), ('Client', 0.3505347669124603), ('clients', 0.35048675537109375)]
+
+--------------------------------------------------------------------------
+
+A lawyer was defending her client, a teacher.
+A student accused the teacher of hitting him.
+The lawyer wanted to prove that the teacher was innocent.
+After all the evidence was presented, the jury acquitted the teacher.
+> The lawyer felt a huge sense of relief.
+
+__About the match__
+Rarest shared words: [('lawyer', (7.907795278182158, 7.907795278182158))]
+Score: 0.5073892380419535
+
+__About the completion__
+Rarest in completion: [('sense', 8.452502454223811), ('lawyer', 8.323290722743806), ('relief', 7.90777527878214), ('huge', 5.993798176829835), ('felt', 4.558573192238365)]
+Nearest to completion: [('relief', 0.5335846543312073), ('sense', 0.4984216094017029), ('lawyer', 0.4507582187652588), ('felt', 0.43739578127861023), ('feeling', 0.3953154385089874), ('huge', 0.3886364996433258), ('attorney', 0.3719925284385681), ('feel', 0.3610437214374542), ('tremendous', 0.3512343466281891), ('counsel', 0.34758514165878296)]
+
+--------------------------------------------------------------------------
+
+The court case took place at noon.
+The defendant started to speak first.
+She stated that she committed the crime.
+Since she confessed, the judge didn't give her the max sentence.
+> She received one year in jail with probation.
+
+__About the match__
+Rarest shared words: [('first', (3.9673791982527944, 3.9673791982527944))]
+Score: 0.5072740357688387
+
+__About the completion__
+Rarest in completion: [('probation', 10.721185995542177), ('jail', 7.571303042160927), ('received', 6.386076280656046), ('year', 5.152841491781079), ('one', 3.351585275015767)]
+Nearest to completion: [('probation', 0.7897106409072876), ('jail', 0.7142226099967957), ('prison', 0.6458566784858704), ('behind_bars', 0.6088459491729736), ('sentenced', 0.5697066187858582), ('sentence', 0.5539746880531311), ('jailed', 0.5443180203437805), ('parole', 0.5368759632110596), ('pleading_guilty', 0.5288116931915283), ('convicted', 0.5233370661735535)]
+
+--------------------------------------------------------------------------
+
+The man went for an interview.
+He felt confident.
+He gave a good interview.
+He was invited back for a second interview.
+> He missed his second interview.
+
+__About the match__
+Rarest shared words: [('confident', (7.04913365914464, 7.04913365914464)), ('gave', (4.575590768006954, 4.575590768006954)), ('felt', (4.342214040412715, 4.342214040412715))]
+Score: 0.48915393000326385
+
+__About the completion__
+Rarest in completion: [('interview', 6.878155861600981), ('second', 6.551940125146958), ('missed', 6.521480917662249)]
+Nearest to completion: [('interview', 0.6154932379722595), ('missed', 0.5795384049415588), ('second', 0.48381367325782776), ('fourth', 0.45554670691490173), ('third', 0.425028532743454), ('miss', 0.3871266543865204), ('eighth', 0.38255399465560913), ('misses', 0.38118478655815125), ('sixth', 0.36886537075042725), ('fifth', 0.36800113320350647)]
+
+--------------------------------------------------------------------------
+
+The lawyers were fighting for an appeal.
+They had a death penalty case that they were desperate to delay.
+The judge ruled against them.
+Their client was sentenced to death.
+> The lawyers were devastated.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4872634864534876
+
+__About the completion__
+Rarest in completion: [('lawyers', 10.721185995542177), ('devastated', 8.20888037156606), ('were', 3.60343995182413)]
+Nearest to completion: [('lawyers', 0.6313586235046387), ('devastated', 0.6056323051452637), ('attorneys', 0.547692596912384), ('Lawyers', 0.48019662499427795), ('lawyer', 0.4534006118774414), ('Attorneys', 0.44299647212028503), ('were', 0.4311227798461914), ('attorney', 0.40350016951560974), ('distraught', 0.37126874923706055), ('plaintiffs', 0.3672451972961426)]
+
+--------------------------------------------------------------------------
+
+Fran wasn't happy in her marriage.
+So she went out and found herself a lawyer to get some advice.
+The lawyer suggested a trial marital separation.
+Fran filled out all of the paperwork and filed.
+> She is now legally separated from her husband.
+
+__About the match__
+Rarest shared words: [('trial', (8.354082380810578, 8.354082380810578)), ('lawyer', (7.907795278182158, 7.907795278182158)), ('happy', (5.32153613413387, 5.32153613413387))]
+Score: 0.4771203678812808
+
+__About the completion__
+Rarest in completion: [('legally', 10.210360371776185), ('separated', 8.824066010656296), ('husband', 5.858792944587012), ('now', 4.716476221684173), ('is', 4.0817459865209695), ('from', 3.996552593524763)]
+Nearest to completion: [('legally', 0.5984296202659607), ('separated', 0.5344595313072205), ('divorced', 0.4733826518058777), ('husband', 0.4395008087158203), ('spouse', 0.40071699023246765), ('wife', 0.39927059412002563), ('married', 0.3883105516433716), ('separating', 0.3618318438529968), ('spouses', 0.3524588942527771), ('technically', 0.35230517387390137)]
+
+--------------------------------------------------------------------------
+
+Bob was on trial for killing someone in a car accident.
+He wasn't guilty but the victim did not agree.
+Today the judge was reading his decision.
+Bob waited nervously for the verdict.
+> The judge announced that Bob was clear of any charges.
+
+__About the match__
+Rarest shared words: [('trial', (8.354082380810578, 8.354082380810578))]
+Score: 0.46617799637973073
+
+__About the completion__
+Rarest in completion: [('charges', 9.111748083108075), ('judge', 8.236279345754177), ('clear', 7.88797265148596), ('announced', 7.529338843061895), ('any', 5.5873502676597635)]
+Nearest to completion: [('charges', 0.5981101989746094), ('judge', 0.5538338422775269), ('announced', 0.5115885138511658), ('appeals_court', 0.45592445135116577), ('plead_guilty', 0.4359128177165985), ('Judge', 0.4247131645679474), ('Charges', 0.4245985150337219), ('guilty_plea', 0.4242292046546936), ('magistrate', 0.42260080575942993), ('court', 0.41733625531196594)]
+
+--------------------------------------------------------------------------
+
+Yesterday I bought my husband a new suit.
+When he saw it he was absolutely pleased.
+He immediately tried it on.
+The suit fit perfectly.
+> However to my dismay he spilled some wine on it.
+
+__About the match__
+Rarest shared words: [('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.45971357264228907
+
+__About the completion__
+Rarest in completion: [('dismay', 8.013135794439966), ('wine', 7.388981485366972), ('spilled', 7.353890165555702), ('however', 5.312520571825274), ('some', 4.142861138392206), ('my', 3.5357989799617595)]
+Nearest to completion: [('spilled', 0.5248815417289734), ('dismay', 0.5174195766448975), ('wine', 0.48619377613067627), ('spilling', 0.4490211009979248), ('wines', 0.37703773379325867), ('frustration', 0.3753422796726227), ('disgust', 0.3751799464225769), ('anger', 0.362029105424881), ('delight', 0.3418423533439636), ('disappointment', 0.339217871427536)]
+
+--------------------------------------------------------------------------
+
+

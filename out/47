@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jill was going on a trip to the amazon.
+She arrived after a flight from the US.
+Once there she marveled at all the beauty.
+It was dangerous, but exciting.
+> Jill had a wonderful time on her trip to the Amazon.
+
+__About the context__
+Rarest in context: [('marveled', 9.334911633822305), ('amazon', 9.180760953995046), ('exciting', 7.794466592875155), ('beauty', 7.759375273063885), ('dangerous', 7.489084943323974), ('flight', 6.937016361023933), ('once', 5.506270237333209), ('arrived', 5.165665763427086), ('trip', 4.87476721988447), ('going', 4.13549421592915), ('after', 3.6847643749987347), ('there', 3.6031897904768617), ('from', 3.533800815205541)]
+Nearest to context: [('trip', 0.5183801651000977), ('flight', 0.49890613555908203), ('journey', 0.38689208030700684), ('exciting', 0.38670119643211365), ('dangerous', 0.37340688705444336), ('arriving', 0.3695433437824249), ('flights', 0.36617225408554077), ('trek', 0.36250558495521545), ('traveling', 0.3583067059516907), ('voyage', 0.3475878834724426)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('flight', 1809, 18191, 0.44351309537887573), ('plane', 2079, 17921, 0.38875922560691833), ('trip', 1138, 18862, 0.3608604073524475), ('Flight', 8611, 11389, 0.34463226795196533), ('landing', 4585, 15415, 0.3300926983356476), ('enjoyable', 10956, 9044, 0.3244262933731079), ('takeoff', 18099, 1901, 0.31957879662513733), ('airplane', 8792, 11208, 0.31813329458236694), ('scenery', 18074, 1926, 0.31477347016334534), ('jet', 5542, 14458, 0.31232258677482605)]
+Nearest words to completions' keywords: [('plane', 2079, 17921, 0.6289387941360474), ('flight', 1809, 18191, 0.6181127429008484), ('airplane', 8792, 11208, 0.5819708704948425), ('trip', 1138, 18862, 0.5508763790130615), ('flights', 2818, 17182, 0.5480363965034485), ('planes', 4594, 15406, 0.54655921459198), ('jet', 5542, 14458, 0.5455673336982727), ('flying', 3024, 16976, 0.5320066213607788), ('just', 76, 19924, 0.5201740860939026), ('aircraft', 2256, 17744, 0.50704026222229)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7923323512077332), ('knew', 1039, 18961, 0.7436344027519226), ('was', 10, 19990, 0.7096790671348572), ('got', 193, 19807, 0.7065737843513489), ('went', 297, 19703, 0.6480560898780823), ('came', 256, 19744, 0.6283922791481018), ('thought', 572, 19428, 0.6209776401519775), ('saw', 653, 19347, 0.6151591539382935), ('wanted', 583, 19417, 0.612670361995697), ('felt', 1040, 18960, 0.6091105341911316)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Arthur had always wanted to travel to Paris.
+He dreamed of exploring a beautiful city with refined culture.
+One day he finally booked a flight out to the city.
+Once he arrived, the city seemed pleasant, but nothing extraordinary.
+> Arthur realized he inflated his expectations.
+
+__About the match__
+Rarest shared words: [('flight', (6.937016361023933, 6.937016361023933)), ('once', (5.506270237333209, 5.506270237333209)), ('arrived', (5.165665763427086, 5.165665763427086))]
+Score: 0.543804173278945
+
+__About the completion__
+Rarest in completion: [('inflated', 10.028038814982231), ('expectations', 9.517213191216241), ('realized', 5.003062403615317)]
+Nearest to completion: [('expectations', 0.6764472723007202), ('inflated', 0.6524905562400818), ('expectation', 0.509128749370575), ('projections', 0.4752211272716522), ('realized', 0.4608972668647766), ('unrealistic', 0.40123823285102844), ('exceeded', 0.3983391523361206), ('estimates', 0.3954431116580963), ('adjusted', 0.3942372798919678), ('lofty', 0.3862110376358032)]
+
+--------------------------------------------------------------------------
+
+Jessie and her family were going on a trip.
+To get to their destination they would have to fly.
+Jessie had never flown before.
+He was excited.
+> The plane took off and Jessie knew he would enjoy the flight.
+
+__About the match__
+Rarest shared words: [('trip', (4.87476721988447, 4.87476721988447)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.4968312145940685
+
+__About the completion__
+Rarest in completion: [('flight', 7.353890165555702), ('enjoy', 7.25545009274245), ('plane', 6.7322019489779015), ('knew', 5.226753750067849), ('off', 4.4887379789916535), ('took', 4.067463120907994), ('would', 3.922873627941421)]
+Nearest to completion: [('flight', 0.6688342094421387), ('plane', 0.6489872336387634), ('airplane', 0.564253568649292), ('Flight', 0.5479745268821716), ('takeoff', 0.5231356024742126), ('jet', 0.5225623846054077), ('aircraft', 0.4964638352394104), ('planes', 0.47111275792121887), ('flights', 0.4602237045764923), ('landing', 0.4073621928691864)]
+
+--------------------------------------------------------------------------
+
+Jacob is excited to see the world.
+He decides Japan would be the perfect place to visit.
+He boards the plane and is nervous about the flight.
+He finally lands in Japan and taken back by the beauty.
+> Jacob has the trip of a lifetime in Japan.
+
+__About the match__
+Rarest shared words: [('beauty', (7.759375273063885, 7.759375273063885)), ('flight', (6.937016361023933, 6.937016361023933))]
+Score: 0.4951107394220229
+
+__About the completion__
+Rarest in completion: [('lifetime', 9.421903011411915), ('trip', 5.311029147238604), ('has', 4.937360813212439)]
+Nearest to completion: [('trip', 0.6366907954216003), ('lifetime', 0.6359767317771912), ('trips', 0.5178857445716858), ('journey', 0.46581143140792847), ('trek', 0.43966615200042725), ('has', 0.41947901248931885), ('journeys', 0.41406193375587463), ('voyage', 0.3856973350048065), ('visits', 0.3829260766506195), ('travels', 0.3796881139278412)]
+
+--------------------------------------------------------------------------
+
+Janice had always wanted to take a trip to Nevada.
+After saving up money, she finally booked her trip.
+She was very excited on the flight to Nevada.
+On her trip she tried a lot of delicious food.
+> Janice as glad that she had finally had a trip to Nevada.
+
+__About the match__
+Rarest shared words: [('flight', (6.937016361023933, 6.937016361023933)), ('trip', (4.87476721988447, 4.87476721988447)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.4851719780049344
+
+__About the completion__
+Rarest in completion: [('glad', 5.993798176829835), ('trip', 5.311029147238604), ('finally', 4.562795577118213), ('as', 3.9638660844916718)]
+Nearest to completion: [('glad', 0.5538315176963806), ('trip', 0.5460954904556274), ('finally', 0.4931997060775757), ('trek', 0.4235061705112457), ('journey', 0.40404021739959717), ('thrilled', 0.3780185282230377), ('delighted', 0.3618091344833374), ('pleased', 0.3558252453804016), ('tour', 0.34601566195487976), ('trips', 0.3409993052482605)]
+
+--------------------------------------------------------------------------
+
+Molly had never been on a plane before.
+Here she was though, ready to board for her vacation.
+She had never been outside of the US before.
+She landed in the Caribbean, basking in the beauty.
+> It was so pretty here and she knew she was going to have a good time.
+
+__About the match__
+Rarest shared words: [('beauty', (7.759375273063885, 7.759375273063885))]
+Score: 0.468705833898423
+
+__About the completion__
+Rarest in completion: [('here', 7.708924420036975), ('pretty', 6.583356321380337), ('knew', 5.226753750067849), ('good', 4.6993539118177985), ('going', 4.676970883048665), ('have', 4.400417701291594), ('time', 3.981849368185002), ('so', 3.628612279567497)]
+Nearest to completion: [('pretty', 0.576345682144165), ('really', 0.4718189537525177), ('very', 0.4679231643676758), ('here', 0.44187283515930176), ('obviously', 0.4385722875595093), ('quite', 0.43159574270248413), ("'ve", 0.4185246527194977), ('good', 0.4135432243347168), ('so', 0.40937960147857666), ('think', 0.4041731357574463)]
+
+--------------------------------------------------------------------------
+
+Lucy had never been on train before.
+The train would take them up and down the mountains.
+She was so excited and happy to be taking this trip.
+The scenery was beautiful as the old train chugged up the mountains.
+> It was a wonderful day that she would never forget.
+
+__About the match__
+Rarest shared words: [('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.44955053790278415
+
+__About the completion__
+Rarest in completion: [('forget', 8.035608650292025), ('wonderful', 7.265921392609745), ('never', 4.624610964031577), ('would', 3.922873627941421), ('day', 3.3461390948177767)]
+Nearest to completion: [('forget', 0.5113368630409241), ('wonderful', 0.5065433979034424), ('marvelous', 0.44833409786224365), ('glorious', 0.4250691831111908), ('never', 0.41625863313674927), ('forgotten', 0.3814711570739746), ('Never', 0.3806271553039551), ('magnificent', 0.37489423155784607), ('forever', 0.3697621524333954), ('memorable', 0.36501356959342957)]
+
+--------------------------------------------------------------------------
+
+Jen was always afraid of flying.
+She needed to fly to Japan for an important meeting.
+Jen took some Dramamine and boarded her plane.
+Jen dozed off shortly after the plane took off.
+> Jen woke up when they had landed in Japan, safe and sound!
+
+__About the match__
+Rarest shared words: [('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.4483223864760373
+
+__About the completion__
+Rarest in completion: [('safe', 7.3311619144781455), ('sound', 7.18506929598065), ('landed', 6.757203251183319), ('woke', 5.706116104378054), ('!', 3.536809591467683), ('when', 3.4368224349138567)]
+Nearest to completion: [('woke', 0.5862414240837097), ('landed', 0.4484420716762543), ('sound', 0.4413321912288666), ('sounded', 0.40833237767219543), ('safe', 0.3972264230251312), ('rang', 0.37892764806747437), ('asleep', 0.37450534105300903), ('landing', 0.3579169511795044), ('waking', 0.3573785126209259), ('sounds', 0.34597331285476685)]
+
+--------------------------------------------------------------------------
+
+Allie went on a trip.
+She went to the Rocky Mountains.
+Allie had a great time.
+She camped out for a long time.
+> Then she went back the year later.
+
+__About the match__
+Rarest shared words: [('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.44779145629582806
+
+__About the completion__
+Rarest in completion: [('later', 5.235006891824569), ('year', 5.152841491781079), ('then', 4.392059443677392), ('back', 4.3399341530452595), ('went', 3.303005172815388)]
+Nearest to completion: [('later', 0.5838233232498169), ('then', 0.4800771474838257), ('after', 0.45715606212615967), ('subsequently', 0.45333361625671387), ('back', 0.4313248097896576), ('went', 0.42953744530677795), ('earlier', 0.40730398893356323), ('ago', 0.4062046706676483), ('shortly', 0.3818719983100891), ('thereafter', 0.3798317611217499)]
+
+--------------------------------------------------------------------------
+
+Linda was taking her dream trip.
+She was going to Napa!
+She arrived at the first winery and was blown away.
+It was so beautiful!
+> She enjoyed her afternoon drinking wine and admiring the scenery.
+
+__About the match__
+Rarest shared words: [('arrived', (5.165665763427086, 5.165665763427086)), ('trip', (4.87476721988447, 4.87476721988447)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.44342201049037383
+
+__About the completion__
+Rarest in completion: [('admiring', 9.873888135154973), ('scenery', 8.875359305043844), ('wine', 7.388981485366972), ('drinking', 6.914523505771856), ('afternoon', 6.713852810309705), ('enjoyed', 6.002687124247082)]
+Nearest to completion: [('wine', 0.6128827333450317), ('scenery', 0.5513278245925903), ('drinking', 0.5478197336196899), ('wines', 0.5294228196144104), ('drink', 0.5030625462532043), ('beer', 0.49668797850608826), ('beers', 0.47374218702316284), ('drinks', 0.45562806725502014), ('scenic', 0.4541275203227997), ('beverages', 0.4539891481399536)]
+
+--------------------------------------------------------------------------
+
+Paty was looking forward to her trip.
+She got all ready for it.
+Then it started thundering.
+Paty's flight was delayed.
+> She couldn't get on the plane for four hours.
+
+__About the match__
+Rarest shared words: [('flight', (6.937016361023933, 6.937016361023933)), ('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.44224859350285967
+
+__About the completion__
+Rarest in completion: [('plane', 6.7322019489779015), ('four', 6.567524856163656), ('hours', 5.268717949166882), ('get', 4.052534287452978), ('could', 3.8258407366367204), ("n't", 3.334508641807057)]
+Nearest to completion: [('plane', 0.5992704629898071), ('hours', 0.4978821277618408), ('airplane', 0.49535074830055237), ('planes', 0.4934013783931732), ('aircraft', 0.4764900505542755), ('flight', 0.4621681869029999), ('jet', 0.4611510932445526), ('takeoff', 0.43521052598953247), ('jets', 0.434733510017395), ('helicopter', 0.4205237627029419)]
+
+--------------------------------------------------------------------------
+
+

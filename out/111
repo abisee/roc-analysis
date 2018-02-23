@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Tim went on a cruise vacation.
+He relaxed in the hot tub every night.
+His favorite activity was exploring each island the boat stopped at.
+Tim bought many souvenirs.
+> He was sad when his vacation was over.
+
+__About the context__
+Rarest in context: [('souvenirs', 9.334911633822305), ('tub', 8.418620901948149), ('exploring', 8.130938829496369), ('activity', 8.035628649692043), ('relaxed', 7.692683898565213), ('island', 7.630163541583879), ('cruise', 7.489084943323974), ('boat', 6.177911212672191), ('vacation', 5.650207551118848), ('each', 5.286029445676961), ('stopped', 5.280232327992635), ('hot', 5.251740372198329), ('favorite', 4.857574819344098), ('many', 4.663641646129689), ('every', 4.228966159921724), ('night', 4.007035465032724), ('bought', 3.9121666888992155)]
+Nearest to context: [('cruise', 0.592389702796936), ('vacation', 0.48767220973968506), ('vacations', 0.44337522983551025), ('cruising', 0.4151957035064697), ('relaxing', 0.41477009654045105), ('island', 0.40366044640541077), ('boat', 0.39367860555648804), ('yacht', 0.38767337799072266), ('Cruise', 0.3839958906173706), ('beach', 0.3830045461654663)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cruise', 7667, 12333, 0.5359101891517639), ('scenic', 15474, 4526, 0.47525033354759216), ('cruising', 14828, 5172, 0.4707167148590088), ('getaway', 16757, 3243, 0.4284631013870239), ('boating', 18179, 1821, 0.426831990480423), ('beautiful', 2814, 17186, 0.4099704921245575), ('sailing', 9785, 10215, 0.39734187722206116), ('memorable', 7272, 12728, 0.39029237627983093), ('scenery', 18074, 1926, 0.38546252250671387), ('beach', 3896, 16104, 0.37980952858924866)]
+Nearest words to completions' keywords: [('boat', 2776, 17224, 0.5723231434822083), ('beautiful', 2814, 17186, 0.5604602694511414), ('sailing', 9785, 10215, 0.5585646629333496), ('cruise', 7667, 12333, 0.5571208000183105), ('beach', 3896, 16104, 0.5571054816246033), ('lake', 5140, 14860, 0.544818103313446), ('boating', 18179, 1821, 0.5392401814460754), ('boats', 5161, 14839, 0.5292779803276062), ('sail', 11848, 8152, 0.5265158414840698), ('cruising', 14828, 5172, 0.5219078063964844)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7094144225120544), ('was', 10, 19990, 0.6778674125671387), ('got', 193, 19807, 0.6340756416320801), ('wanted', 583, 19417, 0.6215564012527466), ('came', 256, 19744, 0.6194443702697754), ('went', 297, 19703, 0.6189448237419128), ('knew', 1039, 18961, 0.6186352372169495), ('saw', 653, 19347, 0.6015394330024719), ('became', 819, 19181, 0.5950252413749695), ('did', 92, 19908, 0.5827726125717163)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Frederick had never been on a cruise ship before.
+His family was on vacation.
+They were cruising in the Caribbean.
+Frederick had a great time on board going swimming and playing games.
+> He would always remember that first cruise.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('vacation', (5.650207551118848, 5.650207551118848))]
+Score: 0.6046374474428058
+
+__About the completion__
+Rarest in completion: [('cruise', 7.948597273302394), ('remember', 7.28719879105703), ('always', 4.653532310076647), ('first', 4.4744334437934175), ('would', 3.922873627941421)]
+Nearest to completion: [('cruise', 0.6507099866867065), ('Cruise', 0.40487539768218994), ('remember', 0.3554181456565857), ('cruising', 0.34685638546943665), ('always', 0.33870574831962585), ('first', 0.3089022636413574), ('voyage', 0.29569071531295776), ('sail', 0.28545400500297546), ('Carnival', 0.2838357985019684), ('forget', 0.27631884813308716)]
+
+--------------------------------------------------------------------------
+
+Emma and Finn were on vacation in Africa.
+They decided they wanted to go on a boat cruise down the Nile.
+They booked the boat cruise and showed up on the dock.
+The trip down the Nile was beautiful.
+> They had a wonderful time that day cruising down the river.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('boat', (6.177911212672191, 6.177911212672191)), ('vacation', (5.650207551118848, 5.650207551118848))]
+Score: 0.585515887061694
+
+__About the completion__
+Rarest in completion: [('cruising', 10.028038814982231), ('river', 7.365450987956778), ('wonderful', 7.265921392609745), ('down', 4.370882181666085), ('time', 3.981849368185002), ('day', 3.3461390948177767)]
+Nearest to completion: [('river', 0.5631918907165527), ('cruising', 0.549752414226532), ('rivers', 0.43885236978530884), ('lake', 0.4268190562725067), ('scenic', 0.4033714234828949), ('waterways', 0.4014883041381836), ('creek', 0.3972596526145935), ('canal', 0.3833065330982208), ('Mississippi_River', 0.37260937690734863), ('River', 0.3715915381908417)]
+
+--------------------------------------------------------------------------
+
+Jennifer and Brad needed a getaway.
+They decided to go on a cruise.
+The cruise ship was massive in size.
+The two rekindled their love on the boat.
+> It was the best boat ride ever for them.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('boat', (6.177911212672191, 6.177911212672191))]
+Score: 0.5584900559851703
+
+__About the completion__
+Rarest in completion: [('boat', 6.660742984995757), ('ever', 6.106065478700916), ('ride', 5.976253867178926), ('best', 5.3230232940244235), ('them', 3.9905657466666935)]
+Nearest to completion: [('boat', 0.6013800501823425), ('boats', 0.5292649865150452), ('ride', 0.49363911151885986), ('ever', 0.43904030323028564), ('Boat', 0.43392854928970337), ('rides', 0.4205925464630127), ('yacht', 0.4196021556854248), ('best', 0.3978199362754822), ('sail', 0.39344918727874756), ('sailing', 0.379207581281662)]
+
+--------------------------------------------------------------------------
+
+Martin went to the British Virgin Islands with this friends.
+They chartered a 40 foot sailboat.
+For a week they sailed all around the islands exploring.
+They enjoyed snorkeling and dining on fresh lobster.
+> In the end they all agreed that they should do it again some day.
+
+__About the match__
+Rarest shared words: [('exploring', (8.130938829496369, 8.130938829496369))]
+Score: 0.5509258933844751
+
+__About the completion__
+Rarest in completion: [('should', 6.417120902338007), ('agreed', 5.993798176829835), ('end', 5.695114893316081), ('again', 5.046717908554751), ('do', 4.865159419329299), ('some', 4.142861138392206), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('should', 0.5088006258010864), ('will', 0.4584673345088959), ('all', 0.42908209562301636), ('ought', 0.42029669880867004), ('agreed', 0.4195695221424103), ('must', 0.4191061556339264), ('end', 0.4019704759120941), ('agreeing', 0.3695250451564789), ('agree', 0.36564889550209045), ('continue', 0.3493124842643738)]
+
+--------------------------------------------------------------------------
+
+Dawn wanted to have a memorable vacation.
+She decided to take a cruise to the Caribbean.
+At each stop Dawn attended activities that she had paid for.
+During one particular stop she got to swim with dolphins.
+> It became one of the most memorable moments of her life.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('vacation', (5.650207551118848, 5.650207551118848)), ('each', (5.286029445676961, 5.286029445676961))]
+Score: 0.5389386033991326
+
+__About the completion__
+Rarest in completion: [('memorable', 9.517213191216241), ('moments', 8.92942652631412), ('most', 6.057746901430109), ('life', 5.637713377493654), ('became', 5.378851743577365), ('one', 3.351585275015767)]
+Nearest to completion: [('moments', 0.6089922189712524), ('memorable', 0.5794546008110046), ('most', 0.5492797493934631), ('arguably', 0.5164543986320496), ('poignant', 0.4616760313510895), ('became', 0.42397361993789673), ('one', 0.4106460213661194), ('life', 0.40952831506729126), ('history', 0.3826714754104614), ('become', 0.3787690997123718)]
+
+--------------------------------------------------------------------------
+
+Beth needed a vacation.
+She convinced some friends to go with her.
+After researching trips, they decided on a cruise.
+They booked a 2 week cruise of the Caribbean.
+> Beth and her friends had a great time on the cruise.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('vacation', (5.650207551118848, 5.650207551118848))]
+Score: 0.5333980521920484
+
+__About the completion__
+Rarest in completion: [('cruise', 7.948597273302394), ('great', 4.843450213762537), ('friends', 4.1620430130754205), ('time', 3.981849368185002)]
+Nearest to completion: [('cruise', 0.6510536074638367), ('friends', 0.4644918143749237), ('great', 0.42962610721588135), ('cruising', 0.4079184830188751), ('Cruise', 0.38242316246032715), ('fabulous', 0.3802042603492737), ('wonderful', 0.3788980543613434), ('vacations', 0.3760720193386078), ('vacation', 0.361148864030838), ('voyage', 0.3544003665447235)]
+
+--------------------------------------------------------------------------
+
+The couple took a romantic trip to the lake.
+They stayed in a nice cabin by the water.
+They went boating and relaxed in the hammock.
+They were happy to reconnect with each other.
+> When they returned home, they decided to buy a lake house.
+
+__About the match__
+Rarest shared words: [('relaxed', (7.692683898565213, 7.692683898565213)), ('each', (5.286029445676961, 5.286029445676961))]
+Score: 0.5227757268250742
+
+__About the completion__
+Rarest in completion: [('lake', 6.999516718605249), ('returned', 6.225086904608447), ('buy', 4.985689545396447), ('house', 4.506577897119985), ('home', 4.002978318445733), ('decided', 3.495461951503386), ('when', 3.4368224349138567)]
+Nearest to completion: [('house', 0.5171370506286621), ('home', 0.4866715967655182), ('lake', 0.4654772877693176), ('pond', 0.40327581763267517), ('residence', 0.3926411271095276), ('bought', 0.3800213634967804), ('returned', 0.37210166454315186), ('bedroom', 0.36864760518074036), ('rented', 0.3655860126018524), ('homes', 0.3608587384223938)]
+
+--------------------------------------------------------------------------
+
+Ferny always wanted to travel to an isolated island somewhere.
+He had planned an extensive trip for him and his wife.
+They rented a boat and sailed off in the sunset hoping for adventure.
+They got much more when they got caught in a storm and had to abort.
+> They swam and made it to an isolated island with no one around.
+
+__About the match__
+Rarest shared words: [('island', (7.630163541583879, 7.630163541583879)), ('boat', (6.177911212672191, 6.177911212672191))]
+Score: 0.5121368561454666
+
+__About the completion__
+Rarest in completion: [('isolated', 9.74035674253045), ('island', 8.20888037156606), ('swam', 7.543132165194231), ('around', 4.892240377931969), ('no', 4.72556343828553), ('made', 4.267560996649484), ('an', 3.8221351571901856), ('one', 3.351585275015767)]
+Nearest to completion: [('isolated', 0.5193444490432739), ('island', 0.5139641761779785), ('swam', 0.4726856052875519), ('islands', 0.46393391489982605), ('swim', 0.3720979690551758), ('swimming', 0.36660000681877136), ('swimmers', 0.3318409323692322), ('mainland', 0.3300322890281677), ('peninsula', 0.3217164874076843), ('made', 0.31411120295524597)]
+
+--------------------------------------------------------------------------
+
+The couple went on a romantic getaway to a secluded island.
+The island was tropical and beautiful.
+They swam in the blue, clear water.
+At night, they slept in a hammock on the beach.
+> It was the perfect quiet getaway.
+
+__About the match__
+Rarest shared words: [('island', (7.630163541583879, 7.630163541583879)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.5024678712918753
+
+__About the completion__
+Rarest in completion: [('getaway', 9.74035674253045), ('quiet', 7.400957676413688), ('perfect', 6.259116653194758)]
+Nearest to completion: [('getaway', 0.7256742715835571), ('perfect', 0.5915501117706299), ('quiet', 0.5186429023742676), ('pleasant', 0.4560931921005249), ('ideal', 0.44594866037368774), ('sunny', 0.43835461139678955), ('luxurious', 0.427691251039505), ('relaxing', 0.4109537899494171), ('elegant', 0.40724751353263855), ('beautiful', 0.40116244554519653)]
+
+--------------------------------------------------------------------------
+
+Our family decided it was time to take a relaxing family vacation.
+We rented a cabin in the woods in Northern Minnesota for a week.
+We spent much of our time there swimming and fishing.
+We all cooked our suppers together and had relaxing evenings.
+> Our family enjoyed the beauty of nature and our time together.
+
+__About the match__
+Rarest shared words: [('vacation', (5.650207551118848, 5.650207551118848))]
+Score: 0.4957513570097058
+
+__About the completion__
+Rarest in completion: [('nature', 8.264450222720871), ('beauty', 8.058598168516724), ('enjoyed', 6.002687124247082), ('our', 5.481204206007103), ('together', 5.43967574731052), ('family', 4.6880997737433745), ('time', 3.981849368185002)]
+Nearest to completion: [('nature', 0.5205700993537903), ('beauty', 0.49833717942237854), ('together', 0.4284081757068634), ('enjoy', 0.4118058681488037), ('enjoyment', 0.4076686203479767), ('enjoyed', 0.4002656638622284), ('our', 0.37617918848991394), ('family', 0.3693401515483856), ('unique', 0.3682018220424652), ('harmony', 0.3675220012664795)]
+
+--------------------------------------------------------------------------
+
+

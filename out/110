@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+I woke up early yesterday because I was going on a trip.
+I got dressed.
+I drove to Dunn's river falls.
+I explored the falls.
+> I went home exhausted.
+
+__About the context__
+Rarest in context: [('explored', 8.641764453262358), ('falls', 7.600310578434198), ('river', 6.795937762764028), ('dressed', 6.5315512529157695), ('early', 5.6799337313840494), ('woke', 5.205092683406543), ('yesterday', 5.205092683406543), ('drove', 5.105647753700833), ('trip', 4.87476721988447), ('because', 4.688919453313957), ('going', 4.13549421592915)]
+Nearest to context: [('drove', 0.46178504824638367), ('woke', 0.4146009385585785), ('went', 0.37438932061195374), ('dressed', 0.37189269065856934), ('trek', 0.3582388460636139), ('river', 0.35503292083740234), ('traveled', 0.3546602427959442), ('rode', 0.35144853591918945), ('heading', 0.3420346677303314), ('drifted', 0.33803850412368774)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('landscape', 4944, 15056, 0.4008391499519348), ('woods', 8284, 11716, 0.35631200671195984), ('tree', 3150, 16850, 0.3445481061935425), ('landscapes', 17917, 2083, 0.3208710849285126), ('weather', 1390, 18610, 0.31749242544174194), ('rescued', 6285, 13715, 0.311021089553833), ('scenery', 18074, 1926, 0.31079819798469543), ('hills', 10775, 9225, 0.30514687299728394), ('cliff', 15954, 4046, 0.29758381843566895), ('trees', 2985, 17015, 0.28770557045936584)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.5413943529129028), ('really', 230, 19770, 0.5162659883499146), ('going', 125, 19875, 0.5124600529670715), ('anyway', 4231, 15769, 0.5074130892753601), ('maybe', 1864, 18136, 0.4983946979045868), ('got', 193, 19807, 0.4947189688682556), ('probably', 733, 19267, 0.49179837107658386), ('but', 33, 19967, 0.49106690287590027), ('get', 91, 19909, 0.487883597612381), ('okay', 8807, 11193, 0.4825360178947449)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7522719502449036), ('had', 35, 19965, 0.748763918876648), ('was', 10, 19990, 0.6873681545257568), ('came', 256, 19744, 0.6774318814277649), ('went', 297, 19703, 0.6444828510284424), ('knew', 1039, 18961, 0.6266990303993225), ('saw', 653, 19347, 0.6221593022346497), ('stayed', 2936, 17064, 0.6098987460136414), ('took', 263, 19737, 0.6010710597038269), ('did', 92, 19908, 0.5731673240661621)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Fred decided to visit a river.
+He donned his swimsuit.
+He applied his sunscreen.
+He drove to the riverbank.
+> Rainy weather sent him back home.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028)), ('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.48059915193240654
+
+__About the completion__
+Rarest in completion: [('weather', 6.929449155988532), ('sent', 6.1993974184931355), ('back', 4.3399341530452595), ('home', 4.002978318445733), ('him', 3.3907807836977737)]
+Nearest to completion: [('weather', 0.5474295020103455), ('sent', 0.446121484041214), ('home', 0.4125889837741852), ('back', 0.3803170323371887), ('Weather', 0.374017596244812), ('send', 0.36296001076698303), ('sending', 0.3444446623325348), ('return', 0.3392653465270996), ('returned', 0.30699053406715393), ('winds', 0.30461186170578003)]
+
+--------------------------------------------------------------------------
+
+Hal drove to work like every other day.
+He got stuck in traffic, and fell asleep.
+He woke up on the side of the road in a ditch.
+Hal decided he was done with modern life, and walked into the woods.
+> Hal now lives in the woods as a hermit.
+
+__About the match__
+Rarest shared words: [('woke', (5.205092683406543, 5.205092683406543)), ('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.4398129679801963
+
+__About the completion__
+Rarest in completion: [('hermit', 10.028038814982231), ('lives', 7.437771649536404), ('woods', 7.05762434941253), ('now', 4.716476221684173), ('as', 3.9638660844916718)]
+Nearest to completion: [('woods', 0.6484585404396057), ('lives', 0.6020727157592773), ('life', 0.37611204385757446), ('living', 0.36161258816719055), ('wilderness', 0.3469848334789276), ('countryside', 0.34568700194358826), ('forests', 0.34007787704467773), ('hills', 0.33205243945121765), ('communities', 0.33071020245552063), ('forest', 0.3238440155982971)]
+
+--------------------------------------------------------------------------
+
+The man floated down the river.
+His boat tipped over.
+He swam to the tipped over boat.
+He climbed on top of the boat.
+> He was rescued.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028))]
+Score: 0.43593653950320227
+
+__About the completion__
+Rarest in completion: [('rescued', 8.452502454223811)]
+Nearest to completion: [('rescued', 0.9680550694465637), ('rescue', 0.5934621691703796), ('trapped', 0.5628759264945984), ('airlifted', 0.5391800403594971), ('escaped', 0.5075461864471436), ('drowned', 0.49291524291038513), ('rescuers', 0.4914047420024872), ('freed', 0.4893406927585602), ('Rescue', 0.4690014123916626), ('unharmed', 0.4656534194946289)]
+
+--------------------------------------------------------------------------
+
+Sarah loved to go swimming.
+She was going to join her friends at the pool later that afternoon.
+Sarah got dressed in her swimsuit and waited for her friends.
+She fell asleep while waiting, and woke up two hours later.
+> She missed the chance to swim with her friends.
+
+__About the match__
+Rarest shared words: [('dressed', (6.5315512529157695, 6.5315512529157695)), ('woke', (5.205092683406543, 5.205092683406543)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.4329873012831021
+
+__About the completion__
+Rarest in completion: [('chance', 7.25545009274245), ('swim', 6.952263833754704), ('missed', 6.521480917662249), ('friends', 4.1620430130754205)]
+Nearest to completion: [('swim', 0.6137314438819885), ('swimmers', 0.5044524073600769), ('swimming', 0.5031570792198181), ('swam', 0.46642178297042847), ('missed', 0.4624011814594269), ('swimmer', 0.461661159992218), ('chance', 0.4129813015460968), ('friends', 0.40083014965057373), ('miss', 0.3526170253753662), ('diving', 0.32989323139190674)]
+
+--------------------------------------------------------------------------
+
+The boys were walking in the woods.
+They found a bridge going across the river.
+They crept across the creaky bridge.
+As soon as they crossed, the bridge broke!
+> They had no idea how they would get home.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.42069433969325876
+
+__About the completion__
+Rarest in completion: [('idea', 6.487079490944916), ('how', 4.945599788756992), ('no', 4.72556343828553), ('get', 4.052534287452978), ('home', 4.002978318445733), ('would', 3.922873627941421)]
+Nearest to completion: [('idea', 0.4477471709251404), ('how', 0.44427037239074707), ('whether', 0.417057067155838), ('no', 0.41552478075027466), ('if', 0.3874441087245941), ('not', 0.3511739671230316), ('No', 0.34253108501434326), ('notion', 0.32805779576301575), ('simply', 0.3166360557079315), ('might', 0.313156396150589)]
+
+--------------------------------------------------------------------------
+
+Anita drove far into the mountains to interview an actor.
+The interview lasted until five in the morning.
+Anita wanted to sleep but the actor suggested she leave.
+Her car slipped on the icy road so she stopped driving.
+> She stood on her car's hood and took a picture of the landscape.
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.4182571587746525
+
+__About the completion__
+Rarest in completion: [('landscape', 9.873888135154973), ('hood', 7.948597273302394), ('picture', 6.907143398474234), ('stood', 6.638014733918201), ('car', 4.464157181236033), ('took', 4.067463120907994), ("'s", 3.3551623435327245)]
+Nearest to completion: [('hood', 0.5621174573898315), ('landscape', 0.48308801651000977), ('picture', 0.46305057406425476), ('car', 0.45731717348098755), ('SUV', 0.4158446788787842), ('windshield', 0.4141940772533417), ('portrait', 0.4113183319568634), ('vehicle', 0.3943463861942291), ('stood', 0.38703468441963196), ('Jeep', 0.3838692009449005)]
+
+--------------------------------------------------------------------------
+
+I had a pony.
+I took it for a ride one day.
+I rode over the hills near my house.
+My pony stumbled on a large rock.
+> My pony hurt its leg.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4143048631751218
+
+__About the completion__
+Rarest in completion: [('pony', 9.421903011411915), ('leg', 6.967768020290668), ('its', 6.849984984634285), ('hurt', 6.298337366348039), ('my', 3.5357989799617595)]
+Nearest to completion: [('leg', 0.5368781685829163), ('hurt', 0.47915899753570557), ('my', 0.4598652422428131), ('its', 0.4352206885814667), ('My', 0.4193701148033142), ('his', 0.3909547030925751), ('bruised', 0.3872665762901306), ('hurting', 0.3719678223133087), ('hurts', 0.35686349868774414), ('thigh', 0.3525944650173187)]
+
+--------------------------------------------------------------------------
+
+Lucas woke up early to go fishing with his father.
+He knocked on his father's door.
+His dad told him he was too sick to go.
+Lucas went by himself, and slipped in the river.
+> When Lucas got home, he had a good scolding.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028)), ('early', (5.6799337313840494, 5.6799337313840494)), ('woke', (5.205092683406543, 5.205092683406543))]
+Score: 0.4100768069207425
+
+__About the completion__
+Rarest in completion: [('scolding', 10.721185995542177), ('good', 4.6993539118177985), ('home', 4.002978318445733), ('when', 3.4368224349138567), ('got', 3.390344007102055)]
+Nearest to completion: [('good', 0.4675312936306), ('got', 0.4165036976337433), ('home', 0.4151251018047333), ('bad', 0.3627159595489502), ('decent', 0.31250473856925964), ('terrific', 0.30563485622406006), ('when', 0.3029130697250366), ('getting', 0.3012709617614746), ('nice', 0.2915733754634857), ('excellent', 0.28208091855049133)]
+
+--------------------------------------------------------------------------
+
+I use to ride my horses down along the river near our house.
+One early morning as I was riding I saw a man standing near a tree.
+He was dressed in old clothes from some time ago.
+As I rode closer he stepped behind the tree.
+> When I got to the tree I could see he wasn't there, he was a ghost.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028)), ('dressed', (6.5315512529157695, 6.5315512529157695)), ('early', (5.6799337313840494, 5.6799337313840494))]
+Score: 0.40715885541776636
+
+__About the completion__
+Rarest in completion: [('ghost', 8.875359305043844), ('tree', 6.192177170519649), ('see', 4.749074176950009), ('there', 4.12267696692766), ('could', 3.8258407366367204), ('when', 3.4368224349138567), ('got', 3.390344007102055), ("n't", 3.334508641807057)]
+Nearest to completion: [('tree', 0.5450140833854675), ('ghost', 0.45581647753715515), ('trees', 0.45532748103141785), ('there', 0.3328750431537628), ('Trees', 0.29994308948516846), ('see', 0.2977648377418518), ("there'sa", 0.28737032413482666), ('Tree', 0.2831780016422272), ('forest', 0.28177610039711), ('if', 0.2661097049713135)]
+
+--------------------------------------------------------------------------
+
+Cabot and her dad headed out on a bike ride.
+They decided to explore a nearby park.
+They had never been to this park before.
+They rode through the park all the way down to the river.
+> They had so much fun that they decided to return the next day.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028))]
+Score: 0.40534782597764824
+
+__About the completion__
+Rarest in completion: [('return', 6.871038393832118), ('fun', 5.29917715665159), ('much', 4.895185888161725), ('next', 4.72639365834152), ('so', 3.628612279567497), ('decided', 3.495461951503386), ('day', 3.3461390948177767)]
+Nearest to completion: [('fun', 0.4300340414047241), ('return', 0.4259031414985657), ('enjoyable', 0.35830697417259216), ('next', 0.35802018642425537), ('tomorrow', 0.35615274310112), ('Tomorrow', 0.32377058267593384), ('much', 0.317455530166626), ('decided', 0.316924512386322), ('returns', 0.3167453706264496), ('scheduled', 0.30772119760513306)]
+
+--------------------------------------------------------------------------
+
+

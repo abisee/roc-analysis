@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Ben made plans with Diana to watch a movie on Friday.
+As soon as he approached the theater, he waited for her.
+A few hours have passed and she still didn't show up.
+While building up frustration, Ben left and visited another friend.
+> They spent the rest of the day playing basketball.
+
+__About the context__
+Rarest in context: [('frustration', 8.824086010056313), ('theater', 6.999536718005268), ('plans', 6.822606009846189), ('approached', 6.426190737257943), ('visited', 6.026804675226161), ('building', 5.96761580383583), ('passed', 5.833366278325867), ('watch', 5.506270237333209), ('waited', 5.491881499881109), ('movie', 5.467188887290738), ('show', 5.403086001097979), ('another', 5.183871727923658), ('still', 5.173427768762575), ('soon', 4.993273060053711), ('hours', 4.835101963492039), ('left', 4.680951283664781), ('few', 4.548809745329312), ('while', 4.237079794695893), ('have', 4.032436257125603), ('made', 3.9565515596007312), ('friend', 3.9405267985280337), ('as', 3.5598426238420284)]
+Nearest to context: [('waited', 0.4284988045692444), ('waiting', 0.33853015303611755), ('watched', 0.332906037569046), ('theater', 0.3197745978832245), ('quietly', 0.3142361342906952), ('approached', 0.3031981885433197), ('awaited', 0.2961444854736328), ('visited', 0.29384899139404297), ('waits', 0.28709325194358826), ('Cinema', 0.28497377038002014)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('ended', 628, 19372, 0.37346625328063965), ('pasta', 15244, 4756, 0.33354100584983826), ('cooking', 5195, 14805, 0.330669105052948), ('apologized', 7004, 12996, 0.30469366908073425), ('dessert', 12865, 7135, 0.27537181973457336), ('dinner', 2656, 17344, 0.26658305525779724), ('exited', 15088, 4912, 0.26243966817855835), ('regretted', 18677, 1323, 0.2573789656162262), ('entered', 1725, 18275, 0.2568269670009613), ('lasted', 5737, 14263, 0.25397610664367676)]
+Nearest words to completions' keywords: [('dinner', 2656, 17344, 0.5483212471008301), ('just', 76, 19924, 0.5431288480758667), ('dessert', 12865, 7135, 0.542643666267395), ('meal', 4866, 15134, 0.5354481935501099), ('lunch', 3319, 16681, 0.5287013649940491), ('happy', 1049, 18951, 0.5120003819465637), ('sorry', 4897, 15103, 0.49875521659851074), ('glad', 4258, 15742, 0.49834632873535156), ('anyway', 4231, 15769, 0.4970892071723938), ('cook', 7022, 12978, 0.496847927570343)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7790681719779968), ('had', 35, 19965, 0.7666324377059937), ('came', 256, 19744, 0.6615040302276611), ('went', 297, 19703, 0.645542323589325), ('saw', 653, 19347, 0.6207401156425476), ('were', 37, 19963, 0.6120586395263672), ('knew', 1039, 18961, 0.6120204925537109), ('felt', 1040, 18960, 0.6029787659645081), ('got', 193, 19807, 0.6008199453353882), ('stayed', 2936, 17064, 0.5930646657943726)]
+
+==========================================================================
+Neighbors
+==========================================================================
+A friend called and invited me to the movies one night.
+We decided to meet at the theater an hour before the movie started.
+As I got ready to leave I couldn't find my wallet!
+I called my friend and apologised and invited her over instead.
+> I ended up cooking dinner for her and we had a great night anyway.
+
+__About the match__
+Rarest shared words: [('theater', (6.999536718005268, 6.999536718005268)), ('movie', (5.467188887290738, 5.467188887290738)), ('friend', (3.9405267985280337, 3.9405267985280337)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.45622244291071706
+
+__About the completion__
+Rarest in completion: [('anyway', 6.82258601044617), ('cooking', 6.707810495853742), ('dinner', 5.601198164518556), ('ended', 5.160504364526648), ('great', 4.843450213762537), ('night', 4.471210753282693), ('we', 4.354142974076229)]
+Nearest to completion: [('dinner', 0.6364976763725281), ('dinners', 0.5254378318786621), ('cooking', 0.5089006423950195), ('Dinner', 0.49298468232154846), ('barbecue', 0.485173761844635), ('meal', 0.45646804571151733), ('feast', 0.4412289261817932), ('buffet', 0.43809598684310913), ('dessert', 0.4322957396507263), ('breakfast', 0.4248426854610443)]
+
+--------------------------------------------------------------------------
+
+Akane had been waiting for Christmas all year long.
+When the day arrived, her parents called her out of her room.
+In the den, Akane saw that Santa had visited and left presents.
+She quickly began opening presents one by one.
+> The last thing she opened was a Nintendo 3DS, her most wanted item.
+
+__About the match__
+Rarest shared words: [('visited', (6.026804675226161, 6.026804675226161)), ('left', (4.680951283664781, 4.680951283664781))]
+Score: 0.45351463654968527
+
+__About the completion__
+Rarest in completion: [('3ds', 10.721185995542177), ('item', 8.035608650292025), ('thing', 6.435303221421197), ('most', 6.057746901430109), ('opened', 5.961865129726826), ('last', 5.030826541218116), ('wanted', 3.6865044229876522)]
+Nearest to completion: [('item', 0.5572100877761841), ('thing', 0.4297125041484833), ('most', 0.4010396897792816), ('aspect', 0.3599165976047516), ('arguably', 0.3555922508239746), ('element', 0.3482987880706787), ('items', 0.34187033772468567), ('opened', 0.3354182243347168), ('topic', 0.315891832113266), ('component', 0.2960209250450134)]
+
+--------------------------------------------------------------------------
+
+Clarence had never been to a drive in theater before.
+There was only one left in his whole state.
+He decided to go and check it out.
+He pulled up in his car and began watching the movie.
+> Clarence had a great time at the drive in.
+
+__About the match__
+Rarest shared words: [('theater', (6.999536718005268, 6.999536718005268)), ('movie', (5.467188887290738, 5.467188887290738)), ('left', (4.680951283664781, 4.680951283664781))]
+Score: 0.45137265387334785
+
+__About the completion__
+Rarest in completion: [('clarence', 10.210360371776185), ('drive', 6.08645700731254), ('great', 4.843450213762537), ('time', 3.981849368185002)]
+Nearest to completion: [('drive', 0.5939464569091797), ('great', 0.5472263693809509), ('drives', 0.5041753053665161), ('tremendous', 0.49758121371269226), ('terrific', 0.43833252787590027), ('incredible', 0.43371933698654175), ('fantastic', 0.4306645393371582), ('phenomenal', 0.40152931213378906), ('immense', 0.37290000915527344), ('superb', 0.36654531955718994)]
+
+--------------------------------------------------------------------------
+
+Zack and his friends were watching a movie at a local theater.
+And afterwards, his friends said they were going home.
+So Zack decided to stay and watch more movies.
+And after it ended, he saw his friends again.
+> But Zack decided that they weren't friends anymore.
+
+__About the match__
+Rarest shared words: [('theater', (6.999536718005268, 6.999536718005268)), ('watch', (5.506270237333209, 5.506270237333209)), ('movie', (5.467188887290738, 5.467188887290738))]
+Score: 0.42852106149486985
+
+__About the completion__
+Rarest in completion: [('anymore', 6.632412478369531), ('friends', 4.1620430130754205), ('were', 3.60343995182413), ('decided', 3.495461951503386), ('but', 3.4639482432028115), ("n't", 3.334508641807057)]
+Nearest to completion: [('anymore', 0.45478981733322144), ('friends', 0.42132848501205444), ('decided', 0.4169308543205261), ('buddies', 0.3173392415046692), ('were', 0.2963396906852722), ('pals', 0.2920706272125244), ('relatives', 0.2904564142227173), ('opted', 0.2779970169067383), ('Mostly', 0.2744910418987274), ('chose', 0.2724969983100891)]
+
+--------------------------------------------------------------------------
+
+George waited in the movie theater line nervously.
+As the line moved forward, he hoped he wouldn't get caught.
+At the kiosk, George asked for a ticket for the latest horror film.
+The theater attendant asked George for photo identification.
+> George pretended he left it at home, but it was no use.
+
+__About the match__
+Rarest shared words: [('theater', (6.999536718005268, 6.999536718005268)), ('waited', (5.491881499881109, 5.491881499881109)), ('movie', (5.467188887290738, 5.467188887290738)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.4230382721169175
+
+__About the completion__
+Rarest in completion: [('pretended', 7.794446593475136), ('use', 5.9226444165735455), ('left', 4.930206975855819), ('no', 4.72556343828553), ('home', 4.002978318445733), ('but', 3.4639482432028115)]
+Nearest to completion: [('no', 0.5079264640808105), ('use', 0.4589722454547882), ('left', 0.3832703232765198), ('home', 0.37727171182632446), ('No', 0.3611071705818176), ('leave', 0.3210872709751129), ('leaving', 0.2964453399181366), ('using', 0.29103443026542664), ('nor', 0.29016146063804626), ('any', 0.2899981439113617)]
+
+--------------------------------------------------------------------------
+
+Poppy waited outside the movie studio for many hours.
+She wanted to meet her favorite movie star.
+Finally, just as she was ready to leave, he came out!
+He was really friendly and posed for pictures.
+> Poppy felt silly but was happy that she had met her idol.
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109)), ('movie', (5.467188887290738, 5.467188887290738)), ('hours', (4.835101963492039, 4.835101963492039)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.41877292418504775
+
+__About the completion__
+Rarest in completion: [('idol', 10.028038814982231), ('silly', 7.692663899165194), ('met', 5.890209140820391), ('happy', 4.78013793434821), ('felt', 4.558573192238365), ('but', 3.4639482432028115)]
+Nearest to completion: [('happy', 0.5390628576278687), ('disappointed', 0.45562732219696045), ('satisfied', 0.4447346329689026), ('felt', 0.44427287578582764), ('met', 0.42519477009773254), ('ecstatic', 0.41328224539756775), ('unhappy', 0.41279199719429016), ('pleased', 0.4016167223453522), ('silly', 0.39910465478897095), ('annoyed', 0.3800463080406189)]
+
+--------------------------------------------------------------------------
+
+Barry recently met a woman on Tinder.
+After several conversations, Barry and the woman agreed to a date.
+Barry decided that the picnic in the park would be a good idea.
+Barry waited for over two hours for his date to arrive.
+> After four hours of waiting, Barry realized he was stood up.
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109)), ('hours', (4.835101963492039, 4.835101963492039))]
+Score: 0.4181300586442539
+
+__About the completion__
+Rarest in completion: [('stood', 6.638014733918201), ('four', 6.567524856163656), ('waiting', 6.255277876887592), ('hours', 5.268717949166882), ('realized', 5.003062403615317), ('after', 3.9503965716331964)]
+Nearest to completion: [('hours', 0.535913348197937), ('waited', 0.5307394862174988), ('waiting', 0.4795679748058319), ('stood', 0.4613491892814636), ('months', 0.40880030393600464), ('after', 0.3980560004711151), ('hour', 0.39120903611183167), ('days', 0.3874554932117462), ('Within', 0.379496306180954), ('minutes', 0.37734782695770264)]
+
+--------------------------------------------------------------------------
+
+Lucy was making some pasta.
+She wanted to make it for her man.
+She watched a movie while waiting.
+To her dismay she forgot about it.
+> She ended up over cooking the pasta.
+
+__About the match__
+Rarest shared words: [('movie', (5.467188887290738, 5.467188887290738)), ('while', (4.237079794695893, 4.237079794695893))]
+Score: 0.41570850066568354
+
+__About the completion__
+Rarest in completion: [('pasta', 7.615105664819319), ('cooking', 6.707810495853742), ('ended', 5.160504364526648), ('over', 4.367395832986647)]
+Nearest to completion: [('pasta', 0.7267457246780396), ('cooking', 0.661701500415802), ('soup', 0.5216608643531799), ('baking', 0.5158389210700989), ('cook', 0.49013835191726685), ('dishes', 0.4686221480369568), ('salad', 0.4636096656322479), ('culinary', 0.455939382314682), ('sauce', 0.4514709711074829), ('cooked', 0.4500056803226471)]
+
+--------------------------------------------------------------------------
+
+A man sat in the waiting room.
+He waited for his turn to see the doctor.
+His doctor called him in.
+The man complained about the wait.
+> The doctor apologized.
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109))]
+Score: 0.41347645578169495
+
+__About the completion__
+Rarest in completion: [('apologized', 6.999516718605249), ('doctor', 5.72622851416515)]
+Nearest to completion: [('apologized', 0.755878746509552), ('apologize', 0.6489661931991577), ('doctor', 0.5890473127365112), ('apology', 0.49965474009513855), ('physician', 0.4662337005138397), ('regretted', 0.4615921676158905), ('surgeon', 0.4578137695789337), ('doctors', 0.41549837589263916), ('psychiatrist', 0.4142850339412689), ('apologies', 0.4099133610725403)]
+
+--------------------------------------------------------------------------
+
+The big day had finally come, Sam was going to be married.
+After getting ready, her bridesmaids met her in the hotel lobby.
+Waiting, the limo was over an hour late.
+After a few calls, the limo had been parked just out of sight.
+> After entering the limo, Sam screamed at the driver for being late.
+
+__About the match__
+Rarest shared words: [('few', (4.548809745329312, 4.548809745329312))]
+Score: 0.4124561142675971
+
+__About the completion__
+Rarest in completion: [('limo', 9.517213191216241), ('entering', 8.98658494015407), ('screamed', 6.856953653950378), ('driver', 6.738393919225823), ('late', 5.59326161492282), ('being', 5.502633597463002), ('after', 3.9503965716331964)]
+Nearest to completion: [('entering', 0.4824557900428772), ('driver', 0.48191314935684204), ('screamed', 0.4571704864501953), ('exiting', 0.37744516134262085), ('exited', 0.3770603537559509), ('yelled', 0.3714480698108673), ('shouted', 0.3700414299964905), ('being', 0.3674229681491852), ('briefly', 0.3473547101020813), ('after', 0.340819776058197)]
+
+--------------------------------------------------------------------------
+
+

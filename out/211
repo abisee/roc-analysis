@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The King had a problem on his hands.
+Their was war going on in his Village.
+He knew he was going to have to go into Battle.
+The king and his town gave it all he had against the rebels.
+> The king was caught and executed in his town.
+
+__About the context__
+Rarest in context: [('rebels', 10.02805881438225), ('village', 8.4876137734351), ('king', 8.354082380810578), ('war', 7.83083423704603), ('against', 6.626861432720094), ('hands', 6.435323220821216), ('problem', 6.051497287816532), ('town', 5.13270967574379), ('knew', 4.833251824203877), ('gave', 4.575590768006954), ('going', 4.13549421592915), ('their', 4.071358259710607), ('have', 4.032436257125603), ('into', 3.75707038252395), ('go', 3.6524662965542345)]
+Nearest to context: [('rebels', 0.4931708872318268), ('guerrillas', 0.4555898904800415), ('war', 0.44448164105415344), ('village', 0.4375624656677246), ('army', 0.42837342619895935), ('insurgency', 0.42615801095962524), ('villages', 0.41934892535209656), ('guerrilla', 0.3970127999782562), ('armies', 0.3969186246395111), ('rebel', 0.3920851945877075)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('army', 2077, 17923, 0.551071286201477), ('war', 556, 19444, 0.5290117859840393), ('armed_forces', 8890, 11110, 0.4352385401725769), ('victorious', 15906, 4094, 0.4247358739376068), ('battlefield', 12572, 7428, 0.41543060541152954), ('hero', 4536, 15464, 0.4108056426048279), ('village', 2255, 17745, 0.4100171625614166), ('enemy', 4980, 15020, 0.40996113419532776), ('guerrilla', 16501, 3499, 0.40796950459480286), ('military', 467, 19533, 0.4075157940387726)]
+Nearest words to completions' keywords: [('army', 2077, 17923, 0.529742419719696), ('father', 913, 19087, 0.5208234190940857), ('fighting', 1385, 18615, 0.5167620182037354), ('uncle', 8185, 11815, 0.5097180604934692), ('comrades', 18536, 1464, 0.4991539716720581), ('soldiers', 1317, 18683, 0.4984132647514343), ('fought', 3001, 16999, 0.4967363178730011), ('war', 556, 19444, 0.49457213282585144), ('killed', 496, 19504, 0.49073874950408936), ('hero', 4536, 15464, 0.48852092027664185)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6240800023078918), ('was', 10, 19990, 0.6232922673225403), ('went', 297, 19703, 0.6175028681755066), ('saw', 653, 19347, 0.5945653915405273), ('died', 681, 19319, 0.5887356996536255), ('came', 256, 19744, 0.5828714370727539), ('got', 193, 19807, 0.5695560574531555), ('wanted', 583, 19417, 0.558703601360321), ('became', 819, 19181, 0.552382230758667), ('lost', 377, 19623, 0.5510632395744324)]
+
+==========================================================================
+Neighbors
+==========================================================================
+There was a war in the kingdom.
+A rival kingdom wanted to take the king's land.
+The king sent many troops into the war.
+The king and his people rose above the evil forces.
+> The king and his army was victorious in their defense.
+
+__About the match__
+Rarest shared words: [('king', (8.354082380810578, 8.354082380810578)), ('war', (7.83083423704603, 7.83083423704603)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.6261638203859937
+
+__About the completion__
+Rarest in completion: [('victorious', 11.12665110365034), ('defense', 9.622573706874066), ('army', 8.523961418205957), ('king', 8.487593774035082), ('their', 4.437673918472774)]
+Nearest to completion: [('army', 0.6304532885551453), ('king', 0.5509490966796875), ('victorious', 0.5331112146377563), ('armed_forces', 0.5126570463180542), ('defense', 0.5046681761741638), ('armies', 0.46441566944122314), ('generals', 0.44099026918411255), ('military', 0.43779444694519043), ('navy', 0.42262381315231323), ('prince', 0.4152708053588867)]
+
+--------------------------------------------------------------------------
+
+The rebels set up their mortars.
+The fired them into the village.
+The village people evacuated.
+The village caught on fire.
+> The entire north half of the village burnt down.
+
+__About the match__
+Rarest shared words: [('rebels', (10.02805881438225, 10.02805881438225)), ('village', (8.4876137734351, 8.4876137734351)), ('their', (4.071358259710607, 4.071358259710607)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.5281178278797849
+
+__About the completion__
+Rarest in completion: [('north', 9.334891634422286), ('village', 9.047209561970504), ('burnt', 7.88797265148596), ('half', 6.546798725646539), ('entire', 6.453822269188434), ('down', 4.370882181666085)]
+Nearest to completion: [('village', 0.5412105917930603), ('burnt', 0.5336489677429199), ('north', 0.5143972039222717), ('south', 0.49157875776290894), ('east', 0.47904568910598755), ('villages', 0.4761285185813904), ('west', 0.46422338485717773), ('burned', 0.4316176474094391), ('northeast', 0.4278414249420166), ('southeast', 0.42245134711265564)]
+
+--------------------------------------------------------------------------
+
+Peter enlists in the army.
+Peter serves his country proudly.
+Peter is ask to go to war.
+While in war Peter is killed in combat.
+> Peter was a true hero for his country.
+
+__About the match__
+Rarest shared words: [('war', (7.83083423704603, 7.83083423704603)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.43669614897548786
+
+__About the completion__
+Rarest in completion: [('hero', 8.98658494015407), ('true', 7.90777527878214), ('country', 6.6898995692872125)]
+Nearest to completion: [('hero', 0.7445023059844971), ('heroes', 0.5859820246696472), ('true', 0.5608912110328674), ('country', 0.4908220171928406), ('heroic', 0.4717566967010498), ('warrior', 0.45271098613739014), ('legend', 0.43816933035850525), ('villain', 0.42758476734161377), ('homeland', 0.4177815914154053), ('Hero', 0.39277195930480957)]
+
+--------------------------------------------------------------------------
+
+Tyrod is serving in the army.
+Tyrod is battling in war.
+Tyrod gets shot in the leg.
+The doctors have to amputate his leg.
+> Tyrod loses his leg in war.
+
+__About the match__
+Rarest shared words: [('war', (7.83083423704603, 7.83083423704603)), ('have', (4.032436257125603, 4.032436257125603))]
+Score: 0.41995016331719087
+
+__About the completion__
+Rarest in completion: [('tyrod', 11.12665110365034), ('war', 8.354062381410559), ('loses', 8.323290722743806), ('leg', 6.967768020290668)]
+Nearest to completion: [('loses', 0.6139787435531616), ('war', 0.5550827383995056), ('leg', 0.5226452946662903), ('wars', 0.3921799957752228), ('losing', 0.38970234990119934), ('dies', 0.36694812774658203), ('lost', 0.35090968012809753), ('legs', 0.3459811806678772), ('lose', 0.34262874722480774), ('battle', 0.3345264196395874)]
+
+--------------------------------------------------------------------------
+
+The nation was tense.
+Their president had just declared war.
+The soldiers prepared for battle.
+It was the first war they'd been in in decades.
+> The president asked for the nation's support.
+
+__About the match__
+Rarest shared words: [('war', (7.83083423704603, 7.83083423704603)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.4188664560153145
+
+__About the completion__
+Rarest in completion: [('nation', 9.873888135154973), ('support', 8.035608650292025), ('president', 7.90777527878214), ('asked', 4.518650478354253), ("'s", 3.3551623435327245)]
+Nearest to completion: [('president', 0.7010275721549988), ('President', 0.5992746949195862), ('nation', 0.5151803493499756), ('support', 0.4708392322063446), ('chairman', 0.46665897965431213), ('vice_president', 0.42826616764068604), ('presidents', 0.41854673624038696), ('leadership', 0.41422155499458313), ('chief_executive', 0.41212543845176697), ('Vice_President', 0.40792810916900635)]
+
+--------------------------------------------------------------------------
+
+Gerard found a sword lying in the woods.
+He practiced fighting with the sword until he was good.
+One day, his village went to battle.
+Gerald fought in the battle with his sword.
+> Gerald helped his village win the battle.
+
+__About the match__
+Rarest shared words: [('village', (8.4876137734351, 8.4876137734351))]
+Score: 0.41757988027504805
+
+__About the completion__
+Rarest in completion: [('village', 9.047209561970504), ('battle', 8.561701746188803), ('win', 6.386076280656046), ('helped', 6.0767950964008035)]
+Nearest to completion: [('battle', 0.6360355615615845), ('battles', 0.5199983716011047), ('fought', 0.5162565112113953), ('victory', 0.514310896396637), ('win', 0.503891110420227), ('battled', 0.4688461422920227), ('village', 0.45213061571121216), ('battling', 0.4422382414340973), ('fight', 0.4421110153198242), ('victorious', 0.4387317895889282)]
+
+--------------------------------------------------------------------------
+
+A great general once found himself visiting an isolated village.
+He had only a few guards with him while his army camped miles away.
+Suddenly a large force of his enemies appeared over the hill.
+The general opened the gates of the village and sat in the street.
+> The army, fearing a trap from the wily general, retreated.
+
+__About the match__
+Rarest shared words: [('village', (8.4876137734351, 8.4876137734351))]
+Score: 0.4134749871212636
+
+__About the completion__
+Rarest in completion: [('wily', 10.721185995542177), ('retreated', 10.433503923090395), ('fearing', 10.210360371776185), ('trap', 8.92942652631412), ('general', 8.775275846486863), ('army', 8.523961418205957), ('from', 3.996552593524763)]
+Nearest to completion: [('army', 0.523321270942688), ('retreated', 0.5192670822143555), ('fearing', 0.5057922005653381), ('trap', 0.48103800415992737), ('fear', 0.35806503891944885), ('general', 0.3569890260696411), ('forces', 0.35630470514297485), ('enemy', 0.3436315357685089), ('fled', 0.3427504897117615), ('military', 0.33696064352989197)]
+
+--------------------------------------------------------------------------
+
+I was terrified before my first English class.
+I did not know what was going to happen.
+I also worried my students would rebel against me.
+When I got to the first class, I fought through my anxiety.
+> After that first lecture, the class soon became fun and enjoyable.
+
+__About the match__
+Rarest shared words: [('against', (6.626861432720094, 6.626861432720094)), ('going', (4.13549421592915, 4.13549421592915))]
+Score: 0.4051095150424861
+
+__About the completion__
+Rarest in completion: [('enjoyable', 9.622573706874066), ('lecture', 8.72875583085197), ('became', 5.378851743577365), ('fun', 5.29917715665159), ('soon', 5.263019928052244), ('class', 5.244722443610666), ('first', 4.4744334437934175), ('after', 3.9503965716331964)]
+Nearest to completion: [('enjoyable', 0.515985369682312), ('lecture', 0.5050331354141235), ('fun', 0.4442290663719177), ('lectures', 0.4266640245914459), ('informative', 0.4251959025859833), ('entertaining', 0.4015946090221405), ('class', 0.3739861249923706), ('exciting', 0.36825060844421387), ('lively', 0.35445886850357056), ('seminar', 0.35256579518318176)]
+
+--------------------------------------------------------------------------
+
+Some terrorists took some girls hostage at my school yesterday.
+The police came, and cordoned off the area.
+The Terrorists shouted from the windows for their god.
+Eventually the Police had enough.
+> The SWAT team entered the building and shot the terrorists dead.
+
+__About the match__
+Rarest shared words: [('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.38137514284498625
+
+__About the completion__
+Rarest in completion: [('terrorists', 10.028038814982231), ('dead', 7.585691779613026), ('entered', 6.871038393832118), ('building', 6.526493459485794), ('shot', 6.4967883050718775), ('team', 5.479438980482533)]
+Nearest to completion: [('terrorists', 0.5213077068328857), ('dead', 0.461006760597229), ('shot', 0.44147080183029175), ('gunman', 0.4371624290943146), ('killed', 0.4269462823867798), ('militants', 0.4240380823612213), ('entered', 0.4086552858352661), ('gunned_down', 0.40771642327308655), ('terrorist', 0.402037650346756), ('extremists', 0.4002697467803955)]
+
+--------------------------------------------------------------------------
+
+Tom's father was a soldier.
+Tom's father was fighting a war far away.
+Tom prayed every day for his father's safe return.
+One day, Tom saw several people walking to his house.
+> They told him his father had died in the war.
+
+__About the match__
+Rarest shared words: [('war', (7.83083423704603, 7.83083423704603))]
+Score: 0.37216713876670143
+
+__About the completion__
+Rarest in completion: [('war', 8.354062381410559), ('died', 6.403697882005866), ('father', 6.096213182257905), ('told', 4.259717819188459), ('him', 3.3907807836977737)]
+Nearest to completion: [('died', 0.6271737217903137), ('father', 0.5668361783027649), ('uncle', 0.5319058299064636), ('son', 0.5300980806350708), ('nephew', 0.5013898015022278), ('stepfather', 0.4951426386833191), ('widow', 0.4673091471195221), ('brother', 0.4556293487548828), ('mother', 0.4498140513896942), ('war', 0.4465925991535187)]
+
+--------------------------------------------------------------------------
+
+

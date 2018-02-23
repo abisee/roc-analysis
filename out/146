@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Mrs Arthur had rules about when her son could play video games.
+She caught him playing after hours and took the game away.
+Her son waited until she was not around, found the game, and took it.
+Mrs Arthur caught her son with the game again the next day.
+> She had to punish her son more severely to teach him the lesson.
+
+__About the context__
+Rarest in context: [('rules', 7.725473721388203), ('video', 5.8536715444866125), ('games', 5.675632649484658), ('again', 5.633609659709811), ('waited', 5.491881499881109), ('caught', 5.294788625766842), ('son', 5.251740372198329), ('until', 5.081665789014347), ('hours', 4.835101963492039), ('game', 4.677781708903502), ('next', 4.649698740160677), ('playing', 4.592882265117016), ('away', 4.571314211239694), ('play', 4.525440984321483), ('around', 4.316528652935222), ('found', 3.802181123701827), ('after', 3.6847643749987347), ('about', 3.625036645166946), ('took', 3.6015703569245585), ('not', 3.4656147206885297), ('could', 3.4004584525428303)]
+Nearest to context: [('game', 0.46899470686912537), ('games', 0.4565895199775696), ('play', 0.3955252468585968), ('until', 0.3696986734867096), ('minutes', 0.3574560284614563), ('after', 0.3497063219547272), ('before', 0.34762799739837646), ('later', 0.34751269221305847), ('playing', 0.34333285689353943), ('hours', 0.310285747051239)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('play', 172, 19828, 0.5404894351959229), ('games', 239, 19761, 0.522144079208374), ('game', 94, 19906, 0.48464494943618774), ('playing', 520, 19480, 0.47530484199523926), ('played', 407, 19593, 0.3813164234161377), ('plays', 1200, 18800, 0.3500986695289612), ('matches', 2004, 17996, 0.34751421213150024), ('matchups', 14669, 5331, 0.3367772102355957), ('stats', 10128, 9872, 0.3280150890350342), ('players', 298, 19702, 0.31742215156555176)]
+Nearest words to completions' keywords: [('game', 94, 19906, 0.6390033960342407), ('just', 76, 19924, 0.6285561323165894), ('games', 239, 19761, 0.6241189241409302), ('play', 172, 19828, 0.6059402823448181), ('playing', 520, 19480, 0.5847886800765991), ('going', 125, 19875, 0.5827245116233826), ("'ll", 314, 19686, 0.5725143551826477), ('do', 58, 19942, 0.5594930648803711), ('really', 230, 19770, 0.5518229603767395), ('maybe', 1864, 18136, 0.5423670411109924)]
+Nearest words to completions' verbs: [('do', 58, 19942, 0.6449645161628723), ('play', 172, 19828, 0.6393066048622131), ('got', 193, 19807, 0.6308507323265076), ('going', 125, 19875, 0.6215062737464905), ('played', 407, 19593, 0.6178878545761108), ('playing', 520, 19480, 0.6144294142723083), ('did', 92, 19908, 0.6128197312355042), ('just', 76, 19924, 0.5998038053512573), ('knew', 1039, 18961, 0.5987546443939209), ("'d", 609, 19391, 0.5644300580024719)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Rachel's eyes were bloodshot.
+She had played video games for hours on end.
+She finally decided to go take a nap.
+She couldn't fall asleep, though.
+> She just kept thinking about how to beat the next level.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('games', (5.675632649484658, 5.675632649484658)), ('hours', (4.835101963492039, 4.835101963492039)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.5700249122958446
+
+__About the completion__
+Rarest in completion: [('level', 8.354062381410559), ('thinking', 7.175407385068913), ('beat', 6.999516718605249), ('kept', 5.746753750109881), ('how', 4.945599788756992), ('next', 4.72639365834152), ('just', 4.707470839499374), ('about', 4.124950211825675)]
+Nearest to completion: [('about', 0.4416458010673523), ('how', 0.39871495962142944), ('level', 0.3479531705379486), ('beat', 0.34465083479881287), ('exactly', 0.33345258235931396), ('what', 0.3273784816265106), ('next', 0.3211815357208252), ('ahead', 0.32048454880714417), ('keep', 0.30214354395866394), ('versus', 0.2847417891025543)]
+
+--------------------------------------------------------------------------
+
+Chris likes to play video games.
+Yesterday he didn't go outside in the entire day.
+He was playing a game called Risk of Rain.
+His mother told him he couldn't play videogames today.
+> So today Chris is going to play outside.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('games', (5.675632649484658, 5.675632649484658)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016)), ('play', (4.525440984321483, 4.525440984321483)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.5493806458814582
+
+__About the completion__
+Rarest in completion: [('outside', 5.326044444358599), ('today', 5.312520571825274), ('play', 5.007453190032807), ('going', 4.676970883048665), ('is', 4.0817459865209695), ('so', 3.628612279567497)]
+Nearest to completion: [('is', 0.46053367853164673), ('play', 0.4506727457046509), ('today', 0.4411235451698303), ('tomorrow', 0.3694186508655548), ('going', 0.3479018807411194), ('playing', 0.321981281042099), ('plays', 0.32044717669487), ('outside', 0.31608113646507263), ('now', 0.31173714995384216), ("'re", 0.3004249930381775)]
+
+--------------------------------------------------------------------------
+
+Leroy loved playing video games.
+He never wanted to go outside.
+Leroy's mother wanted him to go out and play.
+She took away his video games and made him go outside.
+> Leroy found he actually did like playing outside after all.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('games', (5.675632649484658, 5.675632649484658)), ('playing', (4.592882265117016, 4.592882265117016)), ('away', (4.571314211239694, 4.571314211239694)), ('play', (4.525440984321483, 4.525440984321483)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5458267178503802
+
+__About the completion__
+Rarest in completion: [('actually', 7.024007738613545), ('outside', 5.326044444358599), ('playing', 5.123999367151794), ('like', 4.781014742821744), ('found', 4.202038707601781), ('after', 3.9503965716331964), ('did', 3.6104898725633485), ('all', 3.5398475684877595)]
+Nearest to completion: [('outside', 0.38962262868881226), ('like', 0.35599029064178467), ('found', 0.3438221216201782), ('playing', 0.3358600437641144), ('actually', 0.33408328890800476), ('did', 0.2655513882637024), ('in', 0.263426810503006), ('where', 0.25962865352630615), ('inside', 0.25136759877204895), ('discovered', 0.24883189797401428)]
+
+--------------------------------------------------------------------------
+
+Ben loved playing video games.
+He played games night and day.
+Each time a new game came out, Ben played it until he was the best.
+One day Ben entered a video game tournament and lost to a young kid.
+> Now Ben doesn't play games any more.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('games', (5.675632649484658, 5.675632649484658)), ('until', (5.081665789014347, 5.081665789014347)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.5211674442646732
+
+__About the completion__
+Rarest in completion: [('does', 6.286408795482766), ('games', 6.143044481942004), ('any', 5.5873502676597635), ('play', 5.007453190032807), ('more', 4.774893167080915), ('now', 4.716476221684173), ("n't", 3.334508641807057)]
+Nearest to completion: [('games', 0.6075992584228516), ('play', 0.495643675327301), ('game', 0.46651679277420044), ('playing', 0.4211355745792389), ('any', 0.41254082322120667), ('matches', 0.3991260826587677), ('does', 0.39135608077049255), ('plays', 0.3724779486656189), ('more', 0.3709273934364319), ('matchups', 0.3647562861442566)]
+
+--------------------------------------------------------------------------
+
+Last night I was playing video games.
+I lost track of time completely and stayed up way too late.
+I forgot to sleep completely.
+The next day I was too tired to move.
+> I'll never do that again.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('games', (5.675632649484658, 5.675632649484658)), ('next', (4.649698740160677, 4.649698740160677)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.4972544373074313
+
+__About the completion__
+Rarest in completion: [("'ll", 7.600290579034179), ('again', 5.046717908554751), ('do', 4.865159419329299), ('never', 4.624610964031577)]
+Nearest to completion: [("'ll", 0.5650017261505127), ('again', 0.5077834129333496), ('do', 0.45583847165107727), ('if', 0.4384804368019104), ('never', 0.4178059697151184), ('can', 0.41444143652915955), ('Never', 0.4105776250362396), ('you', 0.3968575596809387), ("'d", 0.39549845457077026), ('gotta', 0.39348527789115906)]
+
+--------------------------------------------------------------------------
+
+Tonight I played 3 games of speed chess with Tom.
+We play 5 minute games.
+I won the first game and lost the second.
+I won the third game by a checkmate.
+> Tom stopped playing as his dinner had arrived.
+
+__About the match__
+Rarest shared words: [('games', (5.675632649484658, 5.675632649484658)), ('game', (4.677781708903502, 4.677781708903502)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.4865954535314348
+
+__About the completion__
+Rarest in completion: [('arrived', 5.677760878622929), ('stopped', 5.619289110167595), ('dinner', 5.601198164518556), ('playing', 5.123999367151794), ('as', 3.9638660844916718)]
+Nearest to completion: [('arrived', 0.5634657144546509), ('dinner', 0.5141115188598633), ('arriving', 0.4880404472351074), ('stopped', 0.43894651532173157), ('departed', 0.4299603998661041), ('luncheon', 0.4101243317127228), ('spotted', 0.40501952171325684), ('banquet', 0.396702378988266), ('Dinner', 0.395713746547699), ('arrive', 0.39293044805526733)]
+
+--------------------------------------------------------------------------
+
+Kate and her nephew were playing a zombie video game.
+At first Kate only played so her nephew had some company.
+But after awhile she was enjoying the game herself.
+Kate her nephew ended up spending hours playing the game.
+> By the end of the day Kate was hooked on the video game.
+
+__About the match__
+Rarest shared words: [('video', (5.8536715444866125, 5.8536715444866125)), ('hours', (4.835101963492039, 4.835101963492039)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.4816838498649944
+
+__About the completion__
+Rarest in completion: [('hooked', 8.92942652631412), ('video', 6.3063695380453035), ('end', 5.695114893316081), ('game', 5.066360365612506), ('by', 4.4228496815892715), ('day', 3.3461390948177767)]
+Nearest to completion: [('video', 0.5277016758918762), ('game', 0.4976620674133301), ('hooked', 0.4606076180934906), ('end', 0.41624999046325684), ('replay', 0.38996315002441406), ('games', 0.37059250473976135), ('Video', 0.35883983969688416), ('scoreboard', 0.353125661611557), ('videos', 0.3305721580982208), ('audio', 0.32061001658439636)]
+
+--------------------------------------------------------------------------
+
+Frank had waited for football season all year.
+On the night of the first game of the season, he watched all the games.
+He loved catching up with what the teams were doing.
+Frank was excited for a great season.
+> He would sit and watch the games each Sunday.
+
+__About the match__
+Rarest shared words: [('games', (5.675632649484658, 5.675632649484658)), ('waited', (5.491881499881109, 5.491881499881109)), ('game', (4.677781708903502, 4.677781708903502))]
+Score: 0.4669890952733488
+
+__About the completion__
+Rarest in completion: [('sit', 6.892544599053081), ('games', 6.143044481942004), ('watch', 5.956167108612188), ('each', 5.825836856903717), ('would', 3.922873627941421)]
+Nearest to completion: [('sit', 0.5575622320175171), ('watch', 0.5406511425971985), ('games', 0.5311374664306641), ('watching', 0.4216574728488922), ('matchups', 0.3787566125392914), ('watched', 0.3694514334201813), ('matches', 0.36132919788360596), ('game', 0.34971556067466736), ('contests', 0.3418346643447876), ('each', 0.3377273380756378)]
+
+--------------------------------------------------------------------------
+
+Today I played only two games on online chess.
+I played two speed games with my friend Harry.
+I won the first and lost the second.
+Harry had errands and could not play.
+> I continued to play strangers online.
+
+__About the match__
+Rarest shared words: [('games', (5.675632649484658, 5.675632649484658)), ('play', (4.525440984321483, 4.525440984321483)), ('not', (3.4656147206885297, 3.4656147206885297)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4647765742577263
+
+__About the completion__
+Rarest in completion: [('strangers', 9.180740954595027), ('continued', 6.757203251183319), ('online', 5.838384072955805), ('play', 5.007453190032807)]
+Nearest to completion: [('online', 0.611929714679718), ('strangers', 0.5664386749267578), ('Internet', 0.4678593575954437), ('Online', 0.42659735679626465), ('Web', 0.4152763783931732), ('internet', 0.41007307171821594), ('social_networking_sites', 0.39038026332855225), ('social_networking', 0.37750044465065), ('offline', 0.37181365489959717), ('web', 0.3620545566082001)]
+
+--------------------------------------------------------------------------
+
+The championship was tonight.
+It was tied late in the game.
+I was asked to take the last shot.
+I went got the ball and took the shot.
+> I made it and we won.
+
+__About the match__
+Rarest shared words: [('game', (4.677781708903502, 4.677781708903502)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.4627036063333242
+
+__About the completion__
+Rarest in completion: [('won', 5.467168887890719), ('we', 4.354142974076229), ('made', 4.267560996649484)]
+Nearest to completion: [('won', 0.6776129007339478), ('made', 0.5450099110603333), ('clinched', 0.49008476734161377), ('winning', 0.46501624584198), ('wins', 0.4232995808124542), ('Wins', 0.4062199592590332), ('garnered', 0.39291271567344666), ('awarded', 0.3881780207157135), ('win', 0.3866793215274811), ('achieved', 0.3817859888076782)]
+
+--------------------------------------------------------------------------
+
+

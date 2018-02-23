@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Joe was really excited for Christmas.
+Joe has never seen Santa Claus before.
+He decided to hide on top of the staircase to try to catch Santa.
+Joe waited as long as he could before he fell asleep.
+> He woke up to many presents under the tree, and no Santa in sight!
+
+__About the context__
+Rarest in context: [('staircase', 10.02805881438225), ('joe', 9.740376741930469), ('hide', 7.175427384468931), ('catch', 6.199417417893154), ('asleep', 6.1227247971049), ('seen', 6.109391266235435), ('top', 5.996772388127286), ('waited', 5.491881499881109), ('try', 4.952884999148423), ('long', 4.7214426450195175), ('fell', 4.668332819705569), ('excited', 4.666766648672825), ('has', 4.562815576518231), ('before', 4.482881369902687), ('never', 4.437071833871393), ('really', 4.303384980694672), ('as', 3.5598426238420284), ('could', 3.4004584525428303)]
+Nearest to context: [('waited', 0.41361868381500244), ('hide', 0.3343822956085205), ('waiting', 0.3136349320411682), ('asleep', 0.3089461624622345), ('watched', 0.2992861568927765), ('catch', 0.2957517206668854), ('long', 0.29513564705848694), ('hid', 0.28077369928359985), ('seen', 0.2793665826320648), ('wait', 0.27178215980529785)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('disturbed', 14388, 5612, 0.3540319800376892), ('spoiled', 13733, 6267, 0.3460792005062103), ('reset', 17647, 2353, 0.32878488302230835), ('disappointed', 3049, 16951, 0.3244936168193817), ('forgotten', 6425, 13575, 0.32136455178260803), ('tired', 4353, 15647, 0.3207044005393982), ('shortened', 14920, 5080, 0.3097401261329651), ('asleep', 12307, 7693, 0.3060840666294098), ('regretted', 18677, 1323, 0.3008013069629669), ('unfortunate', 6007, 13993, 0.28984278440475464)]
+Nearest words to completions' keywords: [('tired', 4353, 15647, 0.5792628526687622), ('annoyed', 17414, 2586, 0.572634756565094), ('just', 76, 19924, 0.5648027658462524), ('happy', 1049, 18951, 0.5525872111320496), ('embarrassed', 9623, 10377, 0.5496158599853516), ('disappointed', 3049, 16951, 0.5449139475822449), ('bored', 13670, 6330, 0.5404787063598633), ('surprised', 2497, 17503, 0.5368497967720032), ('anyway', 4231, 15769, 0.5320778489112854), ('glad', 4258, 15742, 0.5307204127311707)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7569035887718201), ('had', 35, 19965, 0.7264330983161926), ('felt', 1040, 18960, 0.6080996990203857), ('seemed', 1617, 18383, 0.6037397980690002), ('came', 256, 19744, 0.6015017032623291), ('stayed', 2936, 17064, 0.5944398045539856), ('got', 193, 19807, 0.5909295082092285), ('knew', 1039, 18961, 0.5833373069763184), ('went', 297, 19703, 0.5690171718597412), ("wasn'ta", 11067, 8933, 0.5647510290145874)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Tonight was the olympics.
+Tina couldn't wait to see it.
+She was excited.
+Then she watched it.
+> She was disappointed.
+
+__About the match__
+Rarest shared words: [('excited', (4.666766648672825, 4.666766648672825)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4763510345380681
+
+__About the completion__
+Rarest in completion: [('disappointed', 6.62130125294446)]
+Nearest to completion: [('disappointed', 0.9363455176353455), ('pleased', 0.6300588846206665), ('saddened', 0.6173440217971802), ('surprised', 0.6164838671684265), ('disappointing', 0.5670878887176514), ('shocked', 0.5643589496612549), ('unhappy', 0.5487303137779236), ('frustrated', 0.5399453043937683), ('appalled', 0.5272723436355591), ('thrilled', 0.5247361660003662)]
+
+--------------------------------------------------------------------------
+
+Bob and his friend Joe were playing hide and seek.
+When it was Bob's turn to hide, he waited and waited.
+Joe never came, so he thought he must have found the perfect spot.
+He finally went back inside the house to find Joe at the table.
+> He was eating cookies and had totally forgotten about Bob.
+
+__About the match__
+Rarest shared words: [('hide', (7.175427384468931, 7.175427384468931)), ('waited', (5.491881499881109, 5.491881499881109)), ('never', (4.437071833871393, 4.437071833871393))]
+Score: 0.45948724757885884
+
+__About the completion__
+Rarest in completion: [('totally', 8.236279345754177), ('forgotten', 7.2980097071612455), ('cookies', 7.024007738613545), ('eating', 5.930920325877405), ('about', 4.124950211825675)]
+Nearest to completion: [('cookies', 0.6178267002105713), ('eating', 0.5321713089942932), ('cookie', 0.4691687524318695), ('eaten', 0.4642850160598755), ('cakes', 0.41113990545272827), ('snack', 0.40537765622138977), ('baked', 0.39437928795814514), ('chocolate', 0.3936704397201538), ('peanut_butter', 0.3903462290763855), ('delicious', 0.3899697959423065)]
+
+--------------------------------------------------------------------------
+
+Lucy was playing hide and seek with her friends.
+She was very excited because she knew she would win.
+Lucy ran around for the perfect place.
+Finally she found a place behind the bushes.
+> Unfortunately she was found immediately.
+
+__About the match__
+Rarest shared words: [('hide', (7.175427384468931, 7.175427384468931)), ('excited', (4.666766648672825, 4.666766648672825))]
+Score: 0.45810287042498776
+
+__About the completion__
+Rarest in completion: [('immediately', 6.073595093670132), ('unfortunately', 5.9199009306277945), ('found', 4.202038707601781)]
+Nearest to completion: [('immediately', 0.6233657002449036), ('found', 0.5029720664024353), ('unfortunately', 0.45989805459976196), ('confirm', 0.40096208453178406), ('subsequently', 0.39924925565719604), ('discovered', 0.3915531039237976), ('confirmed', 0.3642951250076294), ('sadly', 0.3469166159629822), ('apparently', 0.3361256718635559), ('notified', 0.3355540335178375)]
+
+--------------------------------------------------------------------------
+
+John couldn't fall asleep one night.
+He tried different things.
+Eventually he decided to just stay up.
+The next night he was tired and fell asleep early.
+> It helped reset his sleep schedule.
+
+__About the match__
+Rarest shared words: [('asleep', (6.1227247971049, 6.1227247971049)), ('fell', (4.668332819705569, 4.668332819705569)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4286941202317604
+
+__About the completion__
+Rarest in completion: [('reset', 9.873888135154973), ('schedule', 7.927977986099659), ('helped', 6.0767950964008035), ('sleep', 5.964726362007859)]
+Nearest to completion: [('reset', 0.5866591930389404), ('sleep', 0.5304746031761169), ('schedule', 0.5114818811416626), ('schedules', 0.4793500006198883), ('scheduling', 0.38683825731277466), ('rescheduled', 0.331300288438797), ('programmed', 0.32700449228286743), ('adjust', 0.3130611479282379), ('awake', 0.3002898395061493), ('routines', 0.2907937467098236)]
+
+--------------------------------------------------------------------------
+
+My son didn't sleep very well.
+He stayed up all night long.
+He fell asleep just before his appointment.
+I woke him up and took him anyway.
+> He was tired through the whole thing.
+
+__About the match__
+Rarest shared words: [('asleep', (6.1227247971049, 6.1227247971049)), ('long', (4.7214426450195175, 4.7214426450195175)), ('fell', (4.668332819705569, 4.668332819705569)), ('before', (4.482881369902687, 4.482881369902687))]
+Score: 0.4228368990392388
+
+__About the completion__
+Rarest in completion: [('thing', 6.435303221421197), ('tired', 5.970473504263427), ('whole', 5.863960914745455), ('through', 5.189114898567914)]
+Nearest to completion: [('tired', 0.5479490756988525), ('whole', 0.49732911586761475), ('thing', 0.44351932406425476), ('basically', 0.39610859751701355), ('through', 0.3938211500644684), ('weary', 0.3455940783023834), ('kinda', 0.3437061905860901), ('crap', 0.34265148639678955), ('kind', 0.34041252732276917), ('stuff', 0.33012616634368896)]
+
+--------------------------------------------------------------------------
+
+After a long day, Ray went home and sat on the sofa.
+He began a marathon of his favorite show on the TV.
+Soon into it, Ray fell asleep on the sofa.
+The show kept playing while he slept.
+> Ray awoke hours later and had the ending spoiled for him.
+
+__About the match__
+Rarest shared words: [('asleep', (6.1227247971049, 6.1227247971049)), ('long', (4.7214426450195175, 4.7214426450195175)), ('fell', (4.668332819705569, 4.668332819705569))]
+Score: 0.4132661652562518
+
+__About the completion__
+Rarest in completion: [('spoiled', 8.875359305043844), ('ending', 8.775275846486863), ('awoke', 8.20888037156606), ('hours', 5.268717949166882), ('later', 5.235006891824569), ('him', 3.3907807836977737)]
+Nearest to completion: [('ending', 0.5077637434005737), ('hours', 0.4689180552959442), ('later', 0.46355965733528137), ('after', 0.4627968966960907), ('lasted', 0.41712257266044617), ('ended', 0.4093269407749176), ('spoiled', 0.40720993280410767), ('days', 0.4027040898799896), ('hour', 0.3869413137435913), ('minutes', 0.35436227917671204)]
+
+--------------------------------------------------------------------------
+
+Fred was going on a date with Fran.
+When Fred got there he waited a long time.
+An hour past.
+Finally he realized he was stood up.
+> He regretted the evening.
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109)), ('long', (4.7214426450195175, 4.7214426450195175))]
+Score: 0.40922425731937156
+
+__About the completion__
+Rarest in completion: [('regretted', 7.812465098977815), ('evening', 6.7322019489779015)]
+Nearest to completion: [('regretted', 0.7671900391578674), ('evening', 0.5969641208648682), ('apologized', 0.5177189111709595), ('regrets', 0.4872450828552246), ('afternoon', 0.47425922751426697), ('regret', 0.45755618810653687), ('night', 0.4544566869735718), ('lamented', 0.44536226987838745), ('morning', 0.4081472158432007), ('thanked', 0.3922831416130066)]
+
+--------------------------------------------------------------------------
+
+Tim decided he wanted to stay up all night.
+He watched tv until 5 in the morning.
+The next day he woke up very tired.
+He fell asleep and missed school.
+> Tim never stayed up that late again.
+
+__About the match__
+Rarest shared words: [('asleep', (6.1227247971049, 6.1227247971049)), ('fell', (4.668332819705569, 4.668332819705569))]
+Score: 0.4055231696322757
+
+__About the completion__
+Rarest in completion: [('stayed', 6.266838699288669), ('late', 5.59326161492282), ('again', 5.046717908554751), ('never', 4.624610964031577)]
+Nearest to completion: [('late', 0.5334388613700867), ('stayed', 0.5328605771064758), ('again', 0.46588873863220215), ('never', 0.42832040786743164), ('early', 0.41840916872024536), ('briefly', 0.41316258907318115), ('once', 0.4117017388343811), ('remained', 0.3863026201725006), ('mid', 0.3779032230377197), ('until', 0.3619227111339569)]
+
+--------------------------------------------------------------------------
+
+Jonah was so tiny, he could hide anywhere in the house.
+His friends said they would find him no matter what.
+Jonah hid so well, they looked for fifteen minutes without success.
+Tired, they asked him to come out.
+> But Jonah, also tired, was asleep in the cupboard.
+
+__About the match__
+Rarest shared words: [('hide', (7.175427384468931, 7.175427384468931)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4040145946470469
+
+__About the completion__
+Rarest in completion: [('cupboard', 9.047209561970504), ('asleep', 6.4585061185008605), ('tired', 5.970473504263427), ('also', 5.8208617222636025), ('but', 3.4639482432028115)]
+Nearest to completion: [('asleep', 0.72478187084198), ('tired', 0.5685882568359375), ('awake', 0.444168359041214), ('sleeping', 0.38351258635520935), ('weary', 0.3827902376651764), ('sleep', 0.3807885944843292), ('bored', 0.3769456148147583), ('annoyed', 0.3652081787586212), ('distracted', 0.36508867144584656), ('lazy', 0.3602589964866638)]
+
+--------------------------------------------------------------------------
+
+April caught a caterpillar and kept it in a jar.
+She fed the caterpillar and kept it safe.
+After a few weeks the caterpillar spun a cocoon around itself.
+April waited and watched the cocoon to see what would happen.
+> To her surprise, a beautiful butterfly emerged!
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109))]
+Score: 0.3967079077832117
+
+__About the completion__
+Rarest in completion: [('emerged', 9.421903011411915), ('butterfly', 8.600922459342085), ('surprise', 6.394848266728883), ('beautiful', 6.017679908833223), ('!', 3.536809591467683)]
+Nearest to completion: [('butterfly', 0.6691721677780151), ('beautiful', 0.4815894663333893), ('stunning', 0.4612743556499481), ('surprise', 0.4373197853565216), ('emerged', 0.43472790718078613), ('gorgeous', 0.42903485894203186), ('lovely', 0.4086360037326813), ('flower', 0.37625011801719666), ('magnificent', 0.3716273903846741), ('dazzling', 0.37042251229286194)]
+
+--------------------------------------------------------------------------
+
+

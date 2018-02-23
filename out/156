@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jason was a healthy young man.
+He worked at taco bell with his brothers.
+One day he got into a big fight with his brother Matt.
+He quit the Job on the spot.
+> Jason never wanted to get a real job again.
+
+__About the context__
+Rarest in context: [('taco', 8.130938829496369), ('bell', 7.907795278182158), ('brothers', 7.437791648936423), ('healthy', 6.822606009846189), ('quit', 6.572794211449819), ('fight', 6.5215009170622675), ('spot', 6.306389537445322), ('young', 5.869175731022578), ('brother', 5.342845920720622), ('worked', 4.680951283664781), ('big', 4.589979505459054), ('man', 4.050862239071972), ('into', 3.75707038252395)]
+Nearest to context: [('brothers', 0.49985116720199585), ('brother', 0.4638088345527649), ('younger_brother', 0.452953964471817), ('father', 0.41449716687202454), ('fight', 0.4077253043651581), ('sons', 0.4016571044921875), ('son', 0.3898316025733948), ('uncle', 0.3851872682571411), ('young', 0.3819684684276581), ('nephew', 0.37495002150535583)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('fought', 3001, 16999, 0.4565880298614502), ('fight', 821, 19179, 0.4240264892578125), ('boxing', 6626, 13374, 0.3956001102924347), ('bout', 7941, 12059, 0.37641942501068115), ('fights', 5894, 14106, 0.3712637722492218), ('battled', 6645, 13355, 0.358212411403656), ('boxer', 13959, 6041, 0.3441184163093567), ('stormed', 10100, 9900, 0.33537885546684265), ('bouts', 16089, 3911, 0.3309307098388672), ('fighting', 1385, 18615, 0.3178982734680176)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.46871060132980347), ('scared', 6037, 13963, 0.4680989682674408), ('fight', 821, 19179, 0.4654078483581543), ('dad', 3924, 16076, 0.46528539061546326), ('fought', 3001, 16999, 0.46265286207199097), ('uncle', 8185, 11815, 0.46097680926322937), ('dog', 2043, 17957, 0.46009036898612976), ('father', 913, 19087, 0.457220196723938), ('upset', 2748, 17252, 0.4564359486103058), ('son', 831, 19169, 0.45080187916755676)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7463268041610718), ('came', 256, 19744, 0.7266088724136353), ('moved', 895, 19105, 0.6693168878555298), ('got', 193, 19807, 0.6618689298629761), ('stayed', 2936, 17064, 0.6453984975814819), ('ran', 1256, 18744, 0.6349549889564514), ('started', 443, 19557, 0.6329492926597595), ('had', 35, 19965, 0.6164860725402832), ('saw', 653, 19347, 0.6098114252090454), ('took', 263, 19737, 0.6095148324966431)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The two boxers were both ready.
+Tonight was the big fight.
+They were in their corners waiting.
+The bell went off.
+> They marched towards one another, the fight had begun.
+
+__About the match__
+Rarest shared words: [('bell', (7.907795278182158, 7.907795278182158)), ('fight', (6.5215009170622675, 6.5215009170622675)), ('big', (4.589979505459054, 4.589979505459054))]
+Score: 0.42654430657739956
+
+__About the completion__
+Rarest in completion: [('marched', 9.517213191216241), ('begun', 9.25484892674875), ('towards', 6.907143398474234), ('fight', 6.863971226609025), ('another', 5.448186436978429), ('one', 3.351585275015767)]
+Nearest to completion: [('marched', 0.5797688364982605), ('march', 0.5325745940208435), ('towards', 0.4948166310787201), ('marching', 0.4874393045902252), ('toward', 0.4531351625919342), ('begun', 0.4102995693683624), ('fight', 0.38176336884498596), ('descended', 0.37483417987823486), ('marches', 0.37078678607940674), ('fought', 0.36214929819107056)]
+
+--------------------------------------------------------------------------
+
+Angela was a single mother to two young boys.
+She did it alone for many years.
+One day her son's father asked her to marry him.
+She agreed and decided to move in with him.
+> Angela and her boys moved into the large house and we're happy.
+
+__About the match__
+Rarest shared words: [('young', (5.869175731022578, 5.869175731022578))]
+Score: 0.3964663096500402
+
+__About the completion__
+Rarest in completion: [("'re", 8.082128665926916), ('boys', 6.959985879848613), ('large', 6.017679908833223), ('moved', 5.861373591180504), ('happy', 4.78013793434821), ('house', 4.506577897119985), ('we', 4.354142974076229), ('into', 4.270189119055754)]
+Nearest to completion: [("'re", 0.4067952334880829), ('we', 0.3802100718021393), ('large', 0.376147985458374), ('boys', 0.3425273895263672), ('girls', 0.3213459849357605), ('We', 0.3165163993835449), ('sizeable', 0.3110162913799286), ('ourselves', 0.3076607286930084), ('houses', 0.29833731055259705), ('happy', 0.2932403087615967)]
+
+--------------------------------------------------------------------------
+
+Erin grew up with her dad and brothers.
+They went fishing a lot when she was young.
+Erin dreamed of fishing as a job one day.
+She learned how and trained hard.
+> She eventually bought her own fishing boat and worked for herself.
+
+__About the match__
+Rarest shared words: [('brothers', (7.437791648936423, 7.437791648936423)), ('young', (5.869175731022578, 5.869175731022578))]
+Score: 0.3836653381057127
+
+__About the completion__
+Rarest in completion: [('fishing', 6.713852810309705), ('boat', 6.660742984995757), ('herself', 5.98498754714768), ('own', 5.73757937383384), ('eventually', 5.556400021618662), ('worked', 5.214500363262084), ('bought', 4.408241996399123)]
+Nearest to completion: [('fishing', 0.5585808157920837), ('boat', 0.5496538281440735), ('boats', 0.486689954996109), ('fisherman', 0.4796369671821594), ('Fishing', 0.43083131313323975), ('fishermen', 0.4233952760696411), ('yacht', 0.4173596203327179), ('marina', 0.41123121976852417), ('Boat', 0.3900770843029022), ('boating', 0.38071706891059875)]
+
+--------------------------------------------------------------------------
+
+Frank was a boy who lived with his aunt and uncle.
+His aunt and uncle were nicer to his cousin than they were to him.
+One day, Frank decided to run away.
+While on the run, he learned that he was a very talented pickpocket.
+> Frank never went a day without food after learning that.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3814006930275232
+
+__About the completion__
+Rarest in completion: [('learning', 6.999516718605249), ('without', 6.005667752385219), ('food', 5.1080578891541055), ('never', 4.624610964031577), ('after', 3.9503965716331964), ('day', 3.3461390948177767), ('went', 3.303005172815388)]
+Nearest to completion: [('food', 0.43013858795166016), ('after', 0.41581037640571594), ('without', 0.38802096247673035), ('day', 0.33967968821525574), ('After', 0.32667237520217896), ('before', 0.30958494544029236), ('learning', 0.3013513386249542), ('Food', 0.298689603805542), ('foods', 0.2961787283420563), ('hours', 0.2802062928676605)]
+
+--------------------------------------------------------------------------
+
+My nephew recently bought a house in Stoughton.
+He was home when his mother in-law Teresa visited.
+Teresa got into a fight with her daughter.
+Teresa then thought she lost a pill in the house.
+> He told her to leave and not come back.
+
+__About the match__
+Rarest shared words: [('fight', (6.5215009170622675, 6.5215009170622675)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.3787192652748208
+
+__About the completion__
+Rarest in completion: [('leave', 6.163806473390434), ('come', 5.7606750886284885), ('back', 4.3399341530452595), ('told', 4.259717819188459), ('not', 3.8329533830489027)]
+Nearest to completion: [('leave', 0.5720540285110474), ('told', 0.5198488831520081), ('come', 0.4164963960647583), ('return', 0.3986537456512451), ('rejoin', 0.3706609606742859), ('depart', 0.3549942374229431), ('tells', 0.34663715958595276), ('tell', 0.34411436319351196), ('quoted', 0.34170565009117126), ('retire', 0.334227591753006)]
+
+--------------------------------------------------------------------------
+
+Kate and her brothers were going to pick berries.
+Her brother forgot to close the door.
+The neighbors cat went into the house.
+Kate tried to catch it before it got in the house.
+> But the cat was too fast for her.
+
+__About the match__
+Rarest shared words: [('brothers', (7.437791648936423, 7.437791648936423)), ('brother', (5.342845920720622, 5.342845920720622)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.3758981588946298
+
+__About the completion__
+Rarest in completion: [('fast', 6.080005372031051), ('cat', 5.756013075522677), ('too', 4.812197670258433), ('but', 3.4639482432028115)]
+Nearest to completion: [('cat', 0.5699933767318726), ('fast', 0.5484382510185242), ('too', 0.46940329670906067), ('cats', 0.46010512113571167), ('dog', 0.41243258118629456), ('pet', 0.4123169183731079), ('puppy', 0.37833184003829956), ('Too', 0.363415390253067), ('pets', 0.36083871126174927), ('dogs', 0.35829564929008484)]
+
+--------------------------------------------------------------------------
+
+The bell went off.
+The fighters made their way towards each other.
+They moved around each other.
+Both of the boxers fought hard during that match.
+> The boxing match ended in a draw.
+
+__About the match__
+Rarest shared words: [('bell', (7.907795278182158, 7.907795278182158))]
+Score: 0.3725704351008069
+
+__About the completion__
+Rarest in completion: [('boxing', 9.180740954595027), ('draw', 8.354062381410559), ('match', 7.463089457520694), ('ended', 5.160504364526648)]
+Nearest to completion: [('match', 0.674888551235199), ('boxing', 0.612570583820343), ('draw', 0.5861788392066956), ('matches', 0.5761894583702087), ('bout', 0.5036213994026184), ('knockout', 0.4768093228340149), ('boxers', 0.4690423607826233), ('rematch', 0.46841222047805786), ('semi_final', 0.4541185796260834), ('bouts', 0.4531973600387573)]
+
+--------------------------------------------------------------------------
+
+My son's friend Stef was playing at the pool in 1992.
+They were both three years old.
+Stef stepped on a bee and was stung.
+His dad, a karate instructor, told him to shake it off.
+> I was surprised by his macho behavior.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3716784347859762
+
+__About the completion__
+Rarest in completion: [('macho', 10.433503923090395), ('behavior', 8.082128665926916), ('surprised', 6.426170737857924), ('by', 4.4228496815892715)]
+Nearest to completion: [('behavior', 0.6697921752929688), ('surprised', 0.5287051796913147), ('behaviors', 0.49866142868995667), ('shocked', 0.4617820680141449), ('by', 0.4393521547317505), ('appalled', 0.43720975518226624), ('disturbed', 0.4263993799686432), ('alarmed', 0.40625765919685364), ('outraged', 0.39057984948158264), ('actions', 0.38716864585876465)]
+
+--------------------------------------------------------------------------
+
+The brothers wrestled in the front yard.
+One brother screamed for the other to stop.
+The other brother got up quickly.
+The screaming brother had a dislocated shoulder.
+> His brother helped him put it back in.
+
+__About the match__
+Rarest shared words: [('brothers', (7.437791648936423, 7.437791648936423)), ('brother', (5.342845920720622, 5.342845920720622))]
+Score: 0.36734923943959213
+
+__About the completion__
+Rarest in completion: [('helped', 6.0767950964008035), ('brother', 5.7867120624114845), ('put', 4.652760407298066), ('back', 4.3399341530452595), ('him', 3.3907807836977737)]
+Nearest to completion: [('brother', 0.4989437460899353), ('helped', 0.47952061891555786), ('younger_brother', 0.46754175424575806), ('him', 0.4336455464363098), ('father', 0.4126439690589905), ('uncle', 0.4106545150279999), ('son', 0.3975754976272583), ('nephew', 0.3908465504646301), ('brothers', 0.36924317479133606), ('grandfather', 0.341687947511673)]
+
+--------------------------------------------------------------------------
+
+Rocky wanted to be a boxer.
+He trained for six months.
+A recruiter organized a fight for him against the champ.
+Rocky and the champion faced off.
+> Rocky knocked him out within one minute and won the fight.
+
+__About the match__
+Rarest shared words: [('fight', (6.5215009170622675, 6.5215009170622675))]
+Score: 0.3641603734316007
+
+__About the completion__
+Rarest in completion: [('minute', 7.308938777693435), ('knocked', 6.914523505771856), ('fight', 6.863971226609025), ('within', 6.849984984634285), ('won', 5.467168887890719), ('him', 3.3907807836977737), ('one', 3.351585275015767), ('out', 3.3165011979861596)]
+Nearest to completion: [('knocked', 0.436201810836792), ('fought', 0.4218968451023102), ('fight', 0.41561153531074524), ('win', 0.41164568066596985), ('won', 0.4087275266647339), ('clinch', 0.4022581875324249), ('victory', 0.3890542984008789), ('defeated', 0.38694506883621216), ('minute', 0.3858512043952942), ('victorious', 0.3843449354171753)]
+
+--------------------------------------------------------------------------
+
+

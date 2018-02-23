@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The family took a trip to Amish Country.
+They shopped at lots of interesting stores.
+They learned a lot about their history.
+At the end of their tour, they bought a beautiful table.
+> It was an enjoyable trip!
+
+__About the context__
+Rarest in context: [('amish', 9.517233190616258), ('shopped', 7.868574565028877), ('history', 7.342481469132098), ('tour', 7.32000861328004), ('stores', 7.255470092142468), ('interesting', 7.156379189498237), ('lots', 5.996772388127286), ('table', 5.823366194991284), ('learned', 5.692949099496119), ('end', 5.621339567117996), ('beautiful', 5.605210185188112), ('trip', 4.87476721988447), ('lot', 4.262867711597405), ('family', 4.230988405302492), ('their', 4.071358259710607), ('bought', 3.9121666888992155), ('about', 3.625036645166946), ('took', 3.6015703569245585)]
+Nearest to context: [('tour', 0.42977261543273926), ('lots', 0.38642245531082153), ('fascinating', 0.37688741087913513), ('trip', 0.3425966501235962), ('interesting', 0.3330477476119995), ('tours', 0.3298702836036682), ('bought', 0.3277682363986969), ('sale', 0.3100648522377014), ('itinerary', 0.30964958667755127), ('history', 0.29987433552742004)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('talked', 2332, 17668, 0.3989385962486267), ('happier', 11667, 8333, 0.34783387184143066), ('smarter', 12197, 7803, 0.3124208152294159), ('visit', 633, 19367, 0.3068183362483978), ('remarked', 11670, 8330, 0.27163630723953247), ('visited', 2693, 17307, 0.26571500301361084), ('we', 38, 19962, 0.2631010115146637), ('wished', 9830, 10170, 0.2618856728076935), ('liked', 3988, 16012, 0.26057732105255127), ('visitor', 7933, 12067, 0.249108225107193)]
+Nearest words to completions' keywords: [('talked', 2332, 17668, 0.6131601333618164), ('talking', 1311, 18689, 0.546074628829956), ('joked', 7926, 12074, 0.5361349582672119), ('know', 177, 19823, 0.5312826633453369), ('talk', 842, 19158, 0.5163565874099731), ('here', 227, 19773, 0.5142788887023926), ('laughed', 9168, 10832, 0.5096256732940674), ('loved', 3069, 16931, 0.5096238851547241), ('happy', 1049, 18951, 0.5095776319503784), ('liked', 3988, 16012, 0.5077275633811951)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7595882415771484), ('knew', 1039, 18961, 0.7001903057098389), ('got', 193, 19807, 0.661767840385437), ('thought', 572, 19428, 0.6471350193023682), ('saw', 653, 19347, 0.6469148993492126), ('went', 297, 19703, 0.6394933462142944), ('felt', 1040, 18960, 0.6354987621307373), ('was', 10, 19990, 0.635227620601654), ('came', 256, 19744, 0.6338949203491211), ('talked', 2332, 17668, 0.6320440173149109)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The family took a vacation.
+They went to see the White House.
+It was amazing!
+They learned about the history of this country.
+> They wished they had seen the president.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('learned', (5.692949099496119, 5.692949099496119)), ('family', (4.230988405302492, 4.230988405302492)), ('about', (3.625036645166946, 3.625036645166946)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5239841479137506
+
+__About the completion__
+Rarest in completion: [('president', 7.90777527878214), ('wished', 7.25545009274245), ('seen', 6.583356321380337)]
+Nearest to completion: [('president', 0.6708827018737793), ('wished', 0.5625350475311279), ('President', 0.5538605451583862), ('vice_president', 0.5110209584236145), ('Vice_President', 0.49048087000846863), ('chief_executive', 0.4895398020744324), ('chairman', 0.4891837239265442), ('seen', 0.47123074531555176), ('CEO', 0.4664222002029419), ('Executive_Director', 0.45382213592529297)]
+
+--------------------------------------------------------------------------
+
+We took a tour trolley around town.
+It was open air and a lot of fun.
+The guide told us the history of their town.
+We drove to all the landmarks.
+> We finally drove back to the visitor's center.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('tour', (7.32000861328004, 7.32000861328004)), ('lot', (4.262867711597405, 4.262867711597405)), ('their', (4.071358259710607, 4.071358259710607)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5092394861762878
+
+__About the completion__
+Rarest in completion: [('visitor', 10.433503923090395), ('center', 7.776747016375736), ('drove', 5.558306599889243), ('finally', 4.562795577118213), ('we', 4.354142974076229), ('back', 4.3399341530452595), ("'s", 3.3551623435327245)]
+Nearest to completion: [('center', 0.5619217753410339), ('visitor', 0.5220067501068115), ('visitors', 0.4028733968734741), ('drove', 0.38303273916244507), ('back', 0.37441638112068176), ('finally', 0.34300974011421204), ('centers', 0.2854711711406708), ('roared', 0.2716284990310669), ('arrivals', 0.25895053148269653), ('then', 0.2586623430252075)]
+
+--------------------------------------------------------------------------
+
+Rebecca found something amazing at a vintage shop.
+It was a bolt of antique lace.
+She bought it and planned on making lots of beautiful things with it.
+Her first project was a handkerchief.
+> She was going to carry it on her wedding day.
+
+__About the match__
+Rarest shared words: [('lots', (5.996772388127286, 5.996772388127286)), ('beautiful', (5.605210185188112, 5.605210185188112)), ('bought', (3.9121666888992155, 3.9121666888992155))]
+Score: 0.4607948024227597
+
+__About the completion__
+Rarest in completion: [('carry', 7.991156887721191), ('wedding', 6.594051610497084), ('going', 4.676970883048665), ('day', 3.3461390948177767)]
+Nearest to completion: [('wedding', 0.655337929725647), ('weddings', 0.513008177280426), ('carry', 0.4895413815975189), ('bride', 0.42469796538352966), ('day', 0.3905787765979767), ('Valentine_Day', 0.3872362971305847), ('carrying', 0.3778030276298523), ('carried', 0.36138400435447693), ('marriage', 0.3557637631893158), ('funerals', 0.3537960648536682)]
+
+--------------------------------------------------------------------------
+
+Carla was learning about history.
+She was most interested in Native American history.
+She liked to explore the teepee at the museum.
+She pretended to be a Native American.
+> She made a teepee at her house to play in.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.4423245895504902
+
+__About the completion__
+Rarest in completion: [('teepee', 10.721185995542177), ('play', 5.007453190032807), ('house', 4.506577897119985), ('made', 4.267560996649484)]
+Nearest to completion: [('house', 0.4973408281803131), ('play', 0.48906409740448), ('made', 0.4602692723274231), ('make', 0.3869060277938843), ('mansion', 0.37672945857048035), ('played', 0.37564125657081604), ('making', 0.35953351855278015), ('houses', 0.3557172119617462), ('bedroom', 0.35504022240638733), ('apartment', 0.3520243167877197)]
+
+--------------------------------------------------------------------------
+
+I took my first trip to The Dollar Store.
+It was amazing.
+They had so many items for only one dollar.
+I bought a lot of stuff.
+> I was so happy to save so much money.
+
+__About the match__
+Rarest shared words: [('trip', (4.87476721988447, 4.87476721988447)), ('lot', (4.262867711597405, 4.262867711597405)), ('bought', (3.9121666888992155, 3.9121666888992155)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.442276884707777
+
+__About the completion__
+Rarest in completion: [('save', 6.967768020290668), ('money', 4.903083263856677), ('much', 4.895185888161725), ('happy', 4.78013793434821), ('so', 3.628612279567497)]
+Nearest to completion: [('money', 0.5366458296775818), ('save', 0.5316032767295837), ('much', 0.4637678861618042), ('saving', 0.44009703397750854), ('wisely', 0.3875831067562103), ('happy', 0.382942259311676), ('dollars', 0.3768872618675232), ('saved', 0.37269577383995056), ('worthwhile', 0.3684878349304199), ('recoup', 0.35199591517448425)]
+
+--------------------------------------------------------------------------
+
+Brenda loved learning.
+She went to a new museum to learn about history.
+The exhibits were great!
+She especially loved learning about the Civil War.
+> Brenda felt smarter after her visit.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.441132350658858
+
+__About the completion__
+Rarest in completion: [('smarter', 9.622573706874066), ('visit', 6.225086904608447), ('felt', 4.558573192238365), ('after', 3.9503965716331964)]
+Nearest to completion: [('visit', 0.5463671684265137), ('smarter', 0.5069844722747803), ('felt', 0.3548305332660675), ('visiting', 0.3482978045940399), ('Visit', 0.34586402773857117), ('happier', 0.3233594000339508), ('feel', 0.3036070168018341), ('visited', 0.28319990634918213), ('visits', 0.2789514660835266), ('please_visit', 0.274687260389328)]
+
+--------------------------------------------------------------------------
+
+The family was visiting a fort for the day.
+They wanted to learn about the fort's history.
+They read each plaque and learned a lot.
+It was a great way to experience history!
+> They went home and talked about the interesting things they learned.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('learned', (5.692949099496119, 5.692949099496119)), ('lot', (4.262867711597405, 4.262867711597405)), ('family', (4.230988405302492, 4.230988405302492)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.4223826680781417
+
+__About the completion__
+Rarest in completion: [('interesting', 7.645411014314648), ('talked', 6.286408795482766), ('learned', 5.793932310384972), ('things', 5.699500865259336), ('about', 4.124950211825675), ('home', 4.002978318445733), ('went', 3.303005172815388)]
+Nearest to completion: [('talked', 0.6210134029388428), ('learned', 0.5037885308265686), ('interesting', 0.44310998916625977), ('discusses', 0.41792523860931396), ('spoke', 0.41689160466194153), ('discussed', 0.4063136577606201), ('talking', 0.39210453629493713), ('Talking', 0.3793223798274994), ('talk', 0.3701128363609314), ('discussing', 0.36863335967063904)]
+
+--------------------------------------------------------------------------
+
+The class was on a field trip.
+They went to the history museum.
+They learned about the dinosaurs and the Civil War.
+When they were finished, they went back to the bus.
+> They talked about what they'd seen all day.
+
+__About the match__
+Rarest shared words: [('history', (7.342481469132098, 7.342481469132098)), ('learned', (5.692949099496119, 5.692949099496119)), ('trip', (4.87476721988447, 4.87476721988447)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.4194969078964928
+
+__About the completion__
+Rarest in completion: [('seen', 6.583356321380337), ('talked', 6.286408795482766), ("'d", 5.479438980482533), ('what', 4.895185888161725), ('about', 4.124950211825675), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('talked', 0.5290647745132446), ('about', 0.5163373351097107), ('talking', 0.4322109520435333), ('what', 0.3968760669231415), ('discussed', 0.3642539978027344), ('talk', 0.36304372549057007), ('discussing', 0.35268470644950867), ('seen', 0.35128355026245117), ('honestly', 0.3447697162628174), ('spoken', 0.34324437379837036)]
+
+--------------------------------------------------------------------------
+
+The fair came to town a few weeks ago.
+They had a lot of interesting attractions.
+They also had a different musician every night.
+We went on opening night.
+> They had fireworks at the end of the night.
+
+__About the match__
+Rarest shared words: [('interesting', (7.156379189498237, 7.156379189498237)), ('lot', (4.262867711597405, 4.262867711597405))]
+Score: 0.40565115255616874
+
+__About the completion__
+Rarest in completion: [('fireworks', 8.523961418205957), ('end', 5.695114893316081), ('night', 4.471210753282693)]
+Nearest to completion: [('fireworks', 0.8125627040863037), ('night', 0.5035397410392761), ('New_Year_Eve', 0.49983569979667664), ('evening', 0.4486646056175232), ('festivities', 0.3951602280139923), ('Independence_Day', 0.3851136267185211), ('finale', 0.36339667439460754), ('midnight', 0.36267298460006714), ('Saturday', 0.3625587224960327), ('end', 0.3620254099369049)]
+
+--------------------------------------------------------------------------
+
+Mike wanted to show his friends around Chicago.
+They went to Navy Pier and Millennium Park.
+Then they went to Willis Tower to end their trip.
+The friends thought Chicago was a beautiful city.
+> They'd had a great time with their friend!
+
+__About the match__
+Rarest shared words: [('end', (5.621339567117996, 5.621339567117996)), ('beautiful', (5.605210185188112, 5.605210185188112)), ('trip', (4.87476721988447, 4.87476721988447)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.40518249093253805
+
+__About the completion__
+Rarest in completion: [("'d", 5.479438980482533), ('great', 4.843450213762537), ('their', 4.437673918472774), ('friend', 4.4228496815892715), ('time', 3.981849368185002), ('!', 3.536809591467683)]
+Nearest to completion: [('friend', 0.5075779557228088), ('great', 0.44659626483917236), ('pal', 0.3944621980190277), ('friends', 0.3855935037136078), ('buddy', 0.37807464599609375), ('my', 0.36931243538856506), ('wonderful', 0.3535231351852417), ('loved', 0.34162771701812744), ('your', 0.3410104811191559), ('myself', 0.3385061025619507)]
+
+--------------------------------------------------------------------------
+
+

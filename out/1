@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+David noticed he had put on a lot of weight recently.
+He examined his habits to try and figure out the reason.
+He realized he'd been eating too much fast food lately.
+He stopped going to burger places and started a vegetarian diet.
+> After a few weeks, he started to feel much better.
+
+__About the context__
+Rarest in context: [('vegetarian', 8.641764453262358), ('examined', 8.561721745588823), ('habits', 8.561721745588823), ('reason', 7.255470092142468), ('burger', 7.234850804939732), ('lately', 7.119337917817888), ('places', 7.04913365914464), ('figure', 6.782865681196675), ('diet', 6.63803473331822), ('weight', 6.129458829286244), ('fast', 5.609218206585652), ('eating', 5.488316433716613), ('recently', 5.383667915240877), ('stopped', 5.280232327992635), ("'d", 5.044452192673913), ('try', 4.952884999148423), ('realized', 4.713212145883002), ('noticed', 4.698565830365763), ('food', 4.668332819705569), ('much', 4.6208870429221305), ('too', 4.35817789140173), ('lot', 4.262867711597405), ('put', 4.156880433148769), ('going', 4.13549421592915), ('been', 4.117262170341722), ('started', 3.8418501904817557)]
+Nearest to context: [('diet', 0.5772231221199036), ('diets', 0.5579110383987427), ('eating', 0.5336588621139526), ('vegetarian', 0.4446430802345276), ('habits', 0.41420918703079224), ('foods', 0.4072357416152954), ('nutritional', 0.40566301345825195), ('eat', 0.40246137976646423), ('lately', 0.39224252104759216), ('calories', 0.3900313675403595)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('diet', 5649, 14351, 0.5788509845733643), ('weight', 1899, 18101, 0.5704830884933472), ('healthier', 9304, 10696, 0.5120874643325806), ('diets', 18262, 1738, 0.507953941822052), ('healthy', 1876, 18124, 0.5049417018890381), ('nutritional', 13908, 6092, 0.47292786836624146), ('vitamins', 19931, 69, 0.4680419862270355), ('nutrition', 7518, 12482, 0.4605465233325958), ('obesity', 7655, 12345, 0.4334592819213867), ('supplements', 14189, 5811, 0.4309808611869812)]
+Nearest words to completions' keywords: [('healthier', 9304, 10696, 0.6250876784324646), ('healthy', 1876, 18124, 0.6006630063056946), ('diet', 5649, 14351, 0.5453607439994812), ('happier', 11667, 8333, 0.5148752927780151), ('diets', 18262, 1738, 0.513606607913971), ('good', 127, 19873, 0.5117825865745544), ('happy', 1049, 18951, 0.5092727541923523), ('weight', 1899, 18101, 0.5046960711479187), ('better', 254, 19746, 0.49120497703552246), ('eating', 3763, 16237, 0.487434983253479)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7383281588554382), ('got', 193, 19807, 0.7330273389816284), ('lost', 377, 19623, 0.6539202928543091), ('was', 10, 19990, 0.6492649912834167), ('knew', 1039, 18961, 0.6051597595214844), ('came', 256, 19744, 0.5978781580924988), ('gotten', 3328, 16672, 0.5857972502708435), ('went', 297, 19703, 0.5768157839775085), ('gained', 2048, 17952, 0.5598416924476624), ('saw', 653, 19347, 0.5590794086456299)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Alvin's wife had been on a diet.
+He didn't like any of the food she had been cooking.
+Alvin would stop and pick up a burger on the way home from work.
+He ate very little of what she cooked.
+> Alvin's wife lost weight, but he gained it.
+
+__About the match__
+Rarest shared words: [('burger', (7.234850804939732, 7.234850804939732)), ('diet', (6.63803473331822, 6.63803473331822)), ('food', (4.668332819705569, 4.668332819705569)), ('been', (4.117262170341722, 4.117262170341722))]
+Score: 0.6177099236002397
+
+__About the completion__
+Rarest in completion: [('gained', 7.812465098977815), ('weight', 6.501678290366069), ('lost', 5.224017770248974), ('wife', 5.17731148284303), ('but', 3.4639482432028115), ("'s", 3.3551623435327245)]
+Nearest to completion: [('gained', 0.6567931175231934), ('lost', 0.5962736010551453), ('weight', 0.548778772354126), ('gaining', 0.5323323607444763), ('regained', 0.5097380876541138), ('gain', 0.4801136255264282), ('losing', 0.44978246092796326), ('regain', 0.42236924171447754), ('lose', 0.40963447093963623), ('shed', 0.3870886266231537)]
+
+--------------------------------------------------------------------------
+
+Jody bought a goldfish from the pet store.
+She noticed that the goldfish looked quite fat.
+Her mom told her that the goldfish had too much to eat.
+Jody adjusted her pet's diet.
+> The goldfish got skinnier and healthier.
+
+__About the match__
+Rarest shared words: [('diet', (6.63803473331822, 6.63803473331822)), ('noticed', (4.698565830365763, 4.698565830365763)), ('much', (4.6208870429221305, 4.6208870429221305)), ('too', (4.35817789140173, 4.35817789140173))]
+Score: 0.6057178963448404
+
+__About the completion__
+Rarest in completion: [('skinnier', 11.12665110365034), ('goldfish', 8.775275846486863), ('healthier', 8.323290722743806), ('got', 3.390344007102055)]
+Nearest to completion: [('healthier', 0.8369802832603455), ('healthy', 0.5219454765319824), ('Healthy', 0.4960901737213135), ('greener', 0.47871923446655273), ('better', 0.4447510242462158), ('smarter', 0.4057714641094208), ('stronger', 0.400869220495224), ('safer', 0.38786399364471436), ('cleaner', 0.3861616551876068), ('happier', 0.3711133301258087)]
+
+--------------------------------------------------------------------------
+
+I decided I wanted to change my appearance for the better.
+I researched diets and weight control.
+Online I discovered and ordered the perfect Green Diet.
+I changed my eating habits with the Green Diet four months ago.
+> I lost thirty pounds and look healthy good.
+
+__About the match__
+Rarest shared words: [('habits', (8.561721745588823, 8.561721745588823)), ('weight', (6.129458829286244, 6.129458829286244)), ('eating', (5.488316433716613, 5.488316433716613))]
+Score: 0.5806001457090856
+
+__About the completion__
+Rarest in completion: [('thirty', 7.927977986099659), ('pounds', 7.265921392609745), ('healthy', 7.049113659744621), ('look', 5.751372695966175), ('lost', 5.224017770248974), ('good', 4.6993539118177985)]
+Nearest to completion: [('pounds', 0.5611460208892822), ('healthy', 0.5434699654579163), ('lbs', 0.4604054391384125), ('solid', 0.4181423485279083), ('good', 0.4170376658439636), ('healthier', 0.39963412284851074), ('pound', 0.38478249311447144), ('lost', 0.3684287965297699), ('lean', 0.3674139976501465), ('decent', 0.36530616879463196)]
+
+--------------------------------------------------------------------------
+
+Neil wasn't very conscious about his health.
+He didn't watch what he ate.
+Neil never bothered to exercise at all.
+He ate a lot of fast foods.
+> Neil had a heart attack.
+
+__About the match__
+Rarest shared words: [('fast', (5.609218206585652, 5.609218206585652)), ('lot', (4.262867711597405, 4.262867711597405))]
+Score: 0.5735266147639115
+
+__About the completion__
+Rarest in completion: [('attack', 7.849506370658164), ('heart', 6.967768020290668)]
+Nearest to completion: [('attack', 0.7563365697860718), ('heart', 0.718399167060852), ('attacks', 0.5673466324806213), ('stroke', 0.4727601408958435), ('bombing', 0.3986048102378845), ('strokes', 0.3950595259666443), ('suicide_bombing', 0.3947581946849823), ('hearts', 0.3921836316585541), ('cardiac', 0.3882293105125427), ('assault', 0.38672494888305664)]
+
+--------------------------------------------------------------------------
+
+Tim went to the doctor for a checkup.
+The doctor told him that he needed to lose some weight.
+Tim started eating healthy foods.
+He also started to exercise everyday.
+> In a very short time Tim was able to lose all of his extra weight.
+
+__About the match__
+Rarest shared words: [('weight', (6.129458829286244, 6.129458829286244)), ('eating', (5.488316433716613, 5.488316433716613)), ('started', (3.8418501904817557, 3.8418501904817557))]
+Score: 0.5720713917447637
+
+__About the completion__
+Rarest in completion: [('lose', 6.907143398474234), ('short', 6.776373167291039), ('extra', 6.5365945554722975), ('weight', 6.501678290366069), ('able', 5.284557013196627), ('time', 3.981849368185002), ('very', 3.793301345264873), ('all', 3.5398475684877595)]
+Nearest to completion: [('weight', 0.5195305943489075), ('extra', 0.4790884256362915), ('short', 0.4243810176849365), ('lose', 0.4191671311855316), ('able', 0.3575105667114258), ('enough', 0.35027703642845154), ('extremely', 0.3339351713657379), ('disadvantage', 0.32057616114616394), ('weights', 0.317989706993103), ('Losing', 0.3152943253517151)]
+
+--------------------------------------------------------------------------
+
+Elena wanted to lose weight.
+But she didn't want to change her eating habits.
+Nor did she want to exercise.
+So instead she decided to throw up her food after each time she ate.
+> Unfortunately, she has developed an eating disorder called bulimia.
+
+__About the match__
+Rarest shared words: [('habits', (8.561721745588823, 8.561721745588823)), ('weight', (6.129458829286244, 6.129458829286244)), ('eating', (5.488316433716613, 5.488316433716613)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.5606233562101708
+
+__About the completion__
+Rarest in completion: [('bulimia', 11.12665110365034), ('disorder', 9.111748083108075), ('developed', 7.868554565628858), ('eating', 5.930920325877405), ('unfortunately', 5.9199009306277945), ('has', 4.937360813212439), ('called', 4.874747220484451), ('an', 3.8221351571901856)]
+Nearest to completion: [('disorder', 0.5975720882415771), ('developed', 0.5041834115982056), ('disorders', 0.4576341509819031), ('syndrome', 0.419270783662796), ('called', 0.39342400431632996), ('chronic', 0.38857167959213257), ('an', 0.3859099745750427), ('characterized', 0.37806493043899536), ('dubbed', 0.36769142746925354), ('has', 0.3605899214744568)]
+
+--------------------------------------------------------------------------
+
+Anna knew she had to eat healthier.
+She decided to try eating more salads.
+She made chicken salads and fruit salads.
+She experimented quite a lot.
+> And it worked - she loved them, and she got a lot of vitamins!
+
+__About the match__
+Rarest shared words: [('eating', (5.488316433716613, 5.488316433716613)), ('try', (4.952884999148423, 4.952884999148423)), ('lot', (4.262867711597405, 4.262867711597405))]
+Score: 0.5601699342312815
+
+__About the completion__
+Rarest in completion: [('vitamins', 9.873888135154973), ('-', 6.83619166250195), ('worked', 5.214500363262084), ('lot', 4.749074176950009), ('loved', 4.425305176991248), ('them', 3.9905657466666935), ('!', 3.536809591467683), ('got', 3.390344007102055)]
+Nearest to completion: [('vitamins', 0.6198669672012329), ('worked', 0.37402576208114624), ('loved', 0.3681459426879883), ('nutrients', 0.36094698309898376), ('lot', 0.35844239592552185), ('supplements', 0.35474684834480286), ('diets', 0.32836201786994934), ('diet', 0.30683577060699463), ('liked', 0.28921085596084595), ('guys', 0.28856393694877625)]
+
+--------------------------------------------------------------------------
+
+Calvin was a proud vegetarian.
+He would always tell his friends the virtues of a meatless diet.
+One day, Sam slipped some meat into Calvin's meal.
+Sam revealed this information later and laughed.
+> Calvin's face turned red as a cherry.
+
+__About the match__
+Rarest shared words: [('vegetarian', (8.641764453262358, 8.641764453262358)), ('diet', (6.63803473331822, 6.63803473331822))]
+Score: 0.5589161939335493
+
+__About the completion__
+Rarest in completion: [('cherry', 9.25484892674875), ('face', 6.399263284938), ('red', 6.3559664791846755), ('turned', 5.363028628638123), ('as', 3.9638660844916718), ("'s", 3.3551623435327245)]
+Nearest to completion: [('red', 0.6278963685035706), ('face', 0.5845699906349182), ('faces', 0.4614332318305969), ('faced', 0.4527575373649597), ('turned', 0.44171762466430664), ('blue', 0.4375304877758026), ('facing', 0.39739686250686646), ('yellow', 0.3946526348590851), ('orange', 0.3759353458881378), ('turning', 0.36099255084991455)]
+
+--------------------------------------------------------------------------
+
+Tom decided to start dieting.
+Although he loved eating fatty foods, he knew he shouldn't.
+Tom began eating only vegetables.
+Soon he lost weight.
+> Tom was happy that he was dieting.
+
+__About the match__
+Rarest shared words: [('weight', (6.129458829286244, 6.129458829286244)), ('eating', (5.488316433716613, 5.488316433716613))]
+Score: 0.5579656482618365
+
+__About the completion__
+Rarest in completion: [('dieting', 9.622573706874066), ('happy', 4.78013793434821)]
+Nearest to completion: [('happy', 0.8754092454910278), ('pleased', 0.6578720808029175), ('delighted', 0.6078881621360779), ('thrilled', 0.6040179133415222), ('ecstatic', 0.5802375674247742), ('satisfied', 0.5778810977935791), ('glad', 0.5727033019065857), ('proud', 0.568533182144165), ('excited', 0.546501636505127), ('disappointed', 0.5223717093467712)]
+
+--------------------------------------------------------------------------
+
+Bob was feeling very tired everyday.
+He decided to live a healthier lifestyle.
+Bob eliminated all processed foods from his diet.
+Bob started eating fruits and vegetables in all his meals.
+> Bob had more energy after changing his diet.
+
+__About the match__
+Rarest shared words: [('diet', (6.63803473331822, 6.63803473331822)), ('eating', (5.488316433716613, 5.488316433716613)), ('started', (3.8418501904817557, 3.8418501904817557))]
+Score: 0.5577363648769257
+
+__About the completion__
+Rarest in completion: [('changing', 8.64174445386234), ('energy', 8.156236638080639), ('diet', 7.137667057086066), ('more', 4.774893167080915), ('after', 3.9503965716331964)]
+Nearest to completion: [('diet', 0.6316208839416504), ('energy', 0.5461550354957581), ('diets', 0.5444007515907288), ('healthier', 0.45898929238319397), ('nutrition', 0.4587973356246948), ('nutritional', 0.4443831443786621), ('changing', 0.41738227009773254), ('lifestyle', 0.407697856426239), ('lifestyles', 0.40279319882392883), ('calories', 0.38624852895736694)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+John and his girlfriend of two years had broken up.
+To help get his mind off it, he took his dog to the dog park.
+He sat down on a bench after he unhooked his dog to go play.
+While he was there a very pretty girl started talking to him.
+> He enjoyed himself so much he asked her out and she said yes!
+
+__About the context__
+Rarest in context: [('unhooked', 10.433523922490414), ('bench', 6.795937762764028), ('mind', 6.472710752892835), ('pretty', 6.102790582204083), ('talking', 6.083245986131113), ('broken', 6.026804675226161), ('girlfriend', 5.554517070872595), ('park', 5.183871727923658), ('sat', 5.103223510089326), ('girl', 5.008573905009011), ('dog', 4.724753906323174), ('help', 4.693731010311179), ('years', 4.671472539710237), ('play', 4.525440984321483), ('two', 4.452109711235933), ('while', 4.237079794695893), ('off', 4.097583538900697), ('down', 3.854967396162991), ('started', 3.8418501904817557), ('after', 3.6847643749987347), ('go', 3.6524662965542345), ('get', 3.618432328371696), ('there', 3.6031897904768617), ('took', 3.6015703569245585), ('very', 3.353497422567824)]
+Nearest to context: [('bench', 0.34713438153266907), ('girlfriend', 0.29537931084632874), ('sat', 0.2941516935825348), ('knee_injury', 0.2640853822231293), ('After', 0.2629147469997406), ('down', 0.2572759687900543), ('back', 0.25620579719543457), ('boyfriend', 0.2541976869106293), ('girl', 0.25087884068489075), ('dog', 0.25061526894569397)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('crying', 7458, 12542, 0.3081497848033905), ('complaining', 7696, 12304, 0.30337759852409363), ('waiting', 1603, 18397, 0.29337772727012634), ('hours', 507, 19493, 0.29269540309906006), ('distraught', 18872, 1128, 0.2894894480705261), ('angry', 3808, 16192, 0.28942883014678955), ("o'clock", 13966, 6034, 0.2884657382965088), ('wondering', 6189, 13811, 0.2838360071182251), ('screaming', 7568, 12432, 0.275472491979599), ('shaking', 9120, 10880, 0.2689099907875061)]
+Nearest words to completions' keywords: [('crying', 7458, 12542, 0.5934980511665344), ('cried', 11408, 8592, 0.5864449739456177), ('just', 76, 19924, 0.5759457945823669), ('yelled', 12007, 7993, 0.5622825622558594), ('scared', 6037, 13963, 0.5601975917816162), ('laughed', 9168, 10832, 0.5600233674049377), ('know', 177, 19823, 0.5576156377792358), ('screaming', 7568, 12432, 0.5523332357406616), ('joked', 7926, 12074, 0.5454893112182617), ('yell', 19716, 284, 0.5451911091804504)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7317229509353638), ('was', 10, 19990, 0.7040536403656006), ('got', 193, 19807, 0.6924614906311035), ('went', 297, 19703, 0.6320702433586121), ('knew', 1039, 18961, 0.6271104216575623), ('came', 256, 19744, 0.5993607640266418), ('felt', 1040, 18960, 0.5917121171951294), ('thought', 572, 19428, 0.5876315236091614), ('been', 42, 19958, 0.5861701369285583), ('saw', 653, 19347, 0.5806770324707031)]
+
+==========================================================================
+Neighbors
+==========================================================================
+My 99 year old friend Bob was on the bench.
+His daughter came to take him to lunch.
+He stood up, but then sat down quickly.
+His daughter was mortified, but he got up again.
+> I am starting to wonder if Bob will be ok.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('sat', (5.103223510089326, 5.103223510089326)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.4660498910440616
+
+__About the completion__
+Rarest in completion: [('wonder', 9.180740954595027), ('ok', 8.058598168516724), ('starting', 6.7959177633640095), ('am', 6.6898995692872125), ('will', 6.119354710819599), ('if', 5.232248269385489), ('be', 4.0931446193626435)]
+Nearest to completion: [('am', 0.5132341980934143), ('be', 0.49060311913490295), ('will', 0.4859182834625244), ('ok', 0.41191941499710083), ('should', 0.40806350111961365), ('tomorrow', 0.3984273672103882), ("'ll", 0.3799839913845062), ('wonder', 0.3759579360485077), ('.....', 0.37461963295936584), ('if', 0.369333416223526)]
+
+--------------------------------------------------------------------------
+
+Brad was in the park having a good day.
+He was playing Frisbee with some friends.
+He had put his iphone down before he started to play.
+When brad went back to get his iphone it was gone.
+> He was so mad and worried that his phone was missing.
+
+__About the match__
+Rarest shared words: [('park', (5.183871727923658, 5.183871727923658)), ('play', (4.525440984321483, 4.525440984321483)), ('down', (3.854967396162991, 3.854967396162991)), ('started', (3.8418501904817557, 3.8418501904817557)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.4408859874180514
+
+__About the completion__
+Rarest in completion: [('mad', 6.769942276960749), ('missing', 6.701804471793531), ('worried', 6.368759830644585), ('phone', 5.470659292830488), ('so', 3.628612279567497)]
+Nearest to completion: [('worried', 0.5520099997520447), ('mad', 0.49638909101486206), ('concerned', 0.4763486683368683), ('missing', 0.4649200439453125), ('phone', 0.4538646638393402), ('alarmed', 0.4519721567630768), ('fearful', 0.43990111351013184), ('angry', 0.4294884502887726), ('distraught', 0.42641788721084595), ('confused', 0.42456328868865967)]
+
+--------------------------------------------------------------------------
+
+I saw my friend Joe outside today at 3 PM.
+I was sitting on the bench when he came in.
+He said his daughter took him to Vicki Lee's diner in Belmont.
+He had a good lunch, and was now going in for a nap.
+> I said that was understandable as he is 99.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.43613709447628873
+
+__About the completion__
+Rarest in completion: [('understandable', 11.12665110365034), ('99', 8.452502454223811), ('said', 4.667529428177747), ('is', 4.0817459865209695), ('as', 3.9638660844916718)]
+Nearest to completion: [('understandable', 0.6442036628723145), ('is', 0.5351812839508057), ('said', 0.46325501799583435), ('acknowledges', 0.4473927617073059), ('seems', 0.4317312240600586), ('says', 0.4298524856567383), ('explains', 0.4282081425189972), ('noted', 0.41839638352394104), ('believes', 0.41606494784355164), ('understands', 0.4155017137527466)]
+
+--------------------------------------------------------------------------
+
+Holly wanted to go to the beach.
+On the way, she stopped and picked up her boyfriend.
+Once there, they found a secluded spot away from kids playing.
+Her boyfriend put lotion on her back.
+> After two hours of tanning, they left to have lunch.
+
+__About the match__
+Rarest shared words: [('go', (3.6524662965542345, 3.6524662965542345)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.4291164054099421
+
+__About the completion__
+Rarest in completion: [('tanning', 10.210360371776185), ('lunch', 5.970473504263427), ('hours', 5.268717949166882), ('left', 4.930206975855819), ('two', 4.891260466045621), ('have', 4.400417701291594), ('after', 3.9503965716331964)]
+Nearest to completion: [('hours', 0.597939133644104), ('hour', 0.5245204567909241), ('lunch', 0.5106736421585083), ('days', 0.46328893303871155), ('minutes', 0.45497485995292664), ('after', 0.4530175030231476), ('weeks', 0.43230313062667847), ('two', 0.4201311469078064), ('six', 0.4177669882774353), ('lunchtime', 0.4046976566314697)]
+
+--------------------------------------------------------------------------
+
+My 99 year old friend Dave sits on the bench a lot.
+When he came back from appointments he would sit.
+Yesterday his daughter dropped him off.
+Dave said hello and went home.
+> His daughter said he had been getting tired and had seen a doctor.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('off', (4.097583538900697, 4.097583538900697))]
+Score: 0.4194414877277002
+
+__About the completion__
+Rarest in completion: [('seen', 6.583356321380337), ('tired', 5.970473504263427), ('daughter', 5.8183834062491355), ('doctor', 5.72622851416515), ('getting', 5.3336374952661965), ('said', 4.667529428177747), ('been', 4.657400786854568)]
+Nearest to completion: [('doctor', 0.48710110783576965), ('daughter', 0.4375571012496948), ('tired', 0.3909538984298706), ('mother', 0.38970646262168884), ('son', 0.3816629946231842), ('nurse', 0.3757561147212982), ('granddaughter', 0.357082337141037), ('husband', 0.3492105007171631), ('physician', 0.34920263290405273), ('psychiatrist', 0.34888818860054016)]
+
+--------------------------------------------------------------------------
+
+Marlin was a very lonely man.
+He was looking for love his whole life.
+One day he was sitting at a park bench.
+A young lady sits down beside him.
+> The two talk for hours and become the best of friends.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('park', (5.183871727923658, 5.183871727923658)), ('down', (3.854967396162991, 3.854967396162991)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.4186381117252295
+
+__About the completion__
+Rarest in completion: [('talk', 6.51649337615121), ('become', 6.403697882005866), ('best', 5.3230232940244235), ('hours', 5.268717949166882), ('two', 4.891260466045621), ('friends', 4.1620430130754205)]
+Nearest to completion: [('friends', 0.4145999550819397), ('talk', 0.3937937319278717), ('hours', 0.39274102449417114), ('become', 0.3887709677219391), ('chatting', 0.3765335977077484), ('conversations', 0.35286280512809753), ('chat', 0.3404556214809418), ('friendships', 0.30864381790161133), ('best', 0.3074738383293152), ('days', 0.2938128113746643)]
+
+--------------------------------------------------------------------------
+
+The dog laid down beside her, yawning.
+He was obviously tired from playing all day.
+He curled up in a ball so he could sleep.
+He flopped onto his back after a while.
+> He just laid there, waiting for a tummy rub.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174)), ('while', (4.237079794695893, 4.237079794695893)), ('down', (3.854967396162991, 3.854967396162991)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.40937868769261737
+
+__About the completion__
+Rarest in completion: [('rub', 10.210360371776185), ('tummy', 10.028038814982231), ('laid', 7.146969449748379), ('waiting', 6.255277876887592), ('just', 4.707470839499374), ('there', 4.12267696692766)]
+Nearest to completion: [('laid', 0.5969072580337524), ('rub', 0.5596664547920227), ('laying', 0.5445587635040283), ('lay', 0.5142706632614136), ('lays', 0.46900296211242676), ('waiting', 0.4352665841579437), ('there', 0.3713797628879547), ('sit', 0.3187811076641083), ('wait', 0.307007372379303), ('lie', 0.30496731400489807)]
+
+--------------------------------------------------------------------------
+
+Lucy was waiting for her boyfriend tom.
+She was sitting in the park.
+Then she saw Tom.
+He was with another girl.
+> Lucy immediately went up to him and screamed at him.
+
+__About the match__
+Rarest shared words: [('park', (5.183871727923658, 5.183871727923658)), ('girl', (5.008573905009011, 5.008573905009011))]
+Score: 0.40828687625500115
+
+__About the completion__
+Rarest in completion: [('screamed', 6.856953653950378), ('immediately', 6.073595093670132), ('him', 3.3907807836977737), ('went', 3.303005172815388)]
+Nearest to completion: [('screamed', 0.6935312747955322), ('yelled', 0.5580119490623474), ('shouted', 0.5421208143234253), ('screaming', 0.5032599568367004), ('shouting', 0.4630187749862671), ('immediately', 0.4612874388694763), ('screams', 0.4486074447631836), ('yelling', 0.44595080614089966), ('cried', 0.4347046911716461), ('yell', 0.430931955575943)]
+
+--------------------------------------------------------------------------
+
+When I played softball, we were always getting injured.
+One game, I got injured before it even started.
+I ran into the dugout, and slid down the bench to my teammates.
+The wooden bench was cracked, and a huge splinter went into my leg.
+> I had to go to the emergency room to get it removed.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('down', (3.854967396162991, 3.854967396162991)), ('started', (3.8418501904817557, 3.8418501904817557))]
+Score: 0.4039147106784225
+
+__About the completion__
+Rarest in completion: [('emergency', 7.725453721988185), ('removed', 7.515733191006116), ('room', 5.358330107856569), ('go', 4.110041419756121), ('get', 4.052534287452978)]
+Nearest to completion: [('emergency', 0.5866319537162781), ('room', 0.4363265931606293), ('Emergency', 0.43017318844795227), ('removed', 0.4213895797729492), ('remove', 0.407471626996994), ('rooms', 0.39750710129737854), ('emergencies', 0.3479677140712738), ('evacuate', 0.33665522933006287), ('get', 0.33295297622680664), ('go', 0.32392436265945435)]
+
+--------------------------------------------------------------------------
+
+Sebastian was walking near a pond.
+He greeted an old man and sat down next to him on a bench.
+They started to talk and the old man told him about his past.
+Sebastian was very interested and listened with glee.
+> Two hours later, he shook the old man's hand and went home.
+
+__About the match__
+Rarest shared words: [('bench', (6.795937762764028, 6.795937762764028)), ('sat', (5.103223510089326, 5.103223510089326)), ('down', (3.854967396162991, 3.854967396162991)), ('started', (3.8418501904817557, 3.8418501904817557)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.3973018007711942
+
+__About the completion__
+Rarest in completion: [('shook', 7.927977986099659), ('hand', 6.3063695380453035), ('hours', 5.268717949166882), ('later', 5.235006891824569), ('old', 5.0019677127561355), ('two', 4.891260466045621), ('man', 4.481560134144697), ('home', 4.002978318445733), ("'s", 3.3551623435327245), ('went', 3.303005172815388)]
+Nearest to completion: [('shook', 0.44468438625335693), ('old', 0.44296160340309143), ('later', 0.43582653999328613), ('after', 0.4039311110973358), ('man', 0.4009093642234802), ('lasted', 0.3631994128227234), ('ago', 0.3533927798271179), ('minutes', 0.3418790102005005), ('boy', 0.3418448269367218), ('went', 0.3391304016113281)]
+
+--------------------------------------------------------------------------
+
+

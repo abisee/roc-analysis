@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+James was walking down a street one afternoon.
+He noticed a wallet lying on the ground.
+He decided to bring it to the police station.
+That evening, the phone rang.
+> The old man had called to thank James for returning his wallet.
+
+__About the context__
+Rarest in context: [('lying', 7.437791648936423), ('rang', 7.10131941231521), ('wallet', 6.822606009846189), ('bring', 6.501698289766088), ('station', 6.3391793602683135), ('evening', 6.298357365748058), ('afternoon', 6.214016217314307), ('police', 5.8743976750037294), ('ground', 5.7421760402612705), ('street', 5.460244414937927), ('phone', 5.05593337504787), ('walking', 5.02411250843679), ('noticed', 4.698565830365763), ('down', 3.854967396162991)]
+Nearest to context: [('morning', 0.4530007839202881), ('police', 0.4480900764465332), ('afternoon', 0.43363451957702637), ('midday', 0.42062708735466003), ('street', 0.4141319692134857), ('rang', 0.41400453448295593), ('evening', 0.4023450016975403), ('station', 0.4006539285182953), ('phone', 0.40018153190612793), ('wallet', 0.39396196603775024)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('police', 188, 19812, 0.37912437319755554), ('arrested', 849, 19151, 0.3567936420440674), ('apprehended', 16473, 3527, 0.3558611571788788), ('Police', 483, 19517, 0.33421942591667175), ('rushed', 3837, 16163, 0.31876930594444275), ('surrendered', 8616, 11384, 0.31665655970573425), ('returned', 1095, 18905, 0.31555333733558655), ('custody', 2761, 17239, 0.2979607582092285), ('jailed', 5807, 14193, 0.2951631247997284), ('suspect', 1865, 18135, 0.2944188117980957)]
+Nearest words to completions' keywords: [('police', 188, 19812, 0.5179756283760071), ('arrested', 849, 19151, 0.5051178336143494), ('car', 385, 19615, 0.5018631815910339), ('grocery_store', 11271, 8729, 0.4926103949546814), ('toddler', 11630, 8370, 0.4926014840602875), ('mother', 852, 19148, 0.4832194447517395), ('hospital', 825, 19175, 0.47943127155303955), ('apprehended', 16473, 3527, 0.4727001488208771), ('groceries', 13864, 6136, 0.47031018137931824), ('boy', 1556, 18444, 0.4668125808238983)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7649434804916382), ('went', 297, 19703, 0.6912791728973389), ('came', 256, 19744, 0.6856591105461121), ('had', 35, 19965, 0.6667996644973755), ('ran', 1256, 18744, 0.6299691796302795), ('saw', 653, 19347, 0.6290743350982666), ('got', 193, 19807, 0.6090418696403503), ('started', 443, 19557, 0.5884868502616882), ('arrived', 1550, 18450, 0.5831561088562012), ('took', 263, 19737, 0.579896867275238)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Wally found a wallet while walking home.
+He figured he'd give the wallet to the police on his way back.
+When he got to the station the front desk officer was preoccupied.
+He was talking to someone who lost his wallet!
+> When Wally return the wallet to the owner he gave him twenty bucks!
+
+__About the match__
+Rarest shared words: [('wallet', (6.822606009846189, 6.822606009846189)), ('station', (6.3391793602683135, 6.3391793602683135)), ('police', (5.8743976750037294, 5.8743976750037294)), ('walking', (5.02411250843679, 5.02411250843679))]
+Score: 0.5631101923583972
+
+__About the completion__
+Rarest in completion: [('bucks', 9.180740954595027), ('twenty', 7.265921392609745), ('wallet', 7.156359190098219), ('return', 6.871038393832118), ('owner', 6.769942276960749), ('gave', 4.8834555483762365), ('!', 3.536809591467683), ('when', 3.4368224349138567), ('him', 3.3907807836977737)]
+Nearest to completion: [('wallet', 0.5270665884017944), ('bucks', 0.5039233565330505), ('owner', 0.4144200384616852), ('purse', 0.3592718243598938), ('thousand_dollars', 0.35602566599845886), ('pocket', 0.31095027923583984), ('Owner', 0.3035758137702942), ('return', 0.295145720243454), ('wallets', 0.2931325435638428), ('receipt', 0.287074476480484)]
+
+--------------------------------------------------------------------------
+
+Jim and Theresa went for walk around their neighborhood.
+While walking they saw a small boy crying on the sidewalk.
+He told them that he was lost.
+Jim contacted the police while Theresa comforted the boy.
+> The police found the boy's parents and he was very relieved.
+
+__About the match__
+Rarest shared words: [('police', (5.8743976750037294, 5.8743976750037294)), ('walking', (5.02411250843679, 5.02411250843679))]
+Score: 0.5609694898838349
+
+__About the completion__
+Rarest in completion: [('relieved', 6.672303807396832), ('police', 6.185008681041036), ('boy', 5.823346195591265), ('parents', 5.059383593126858), ('found', 4.202038707601781), ('very', 3.793301345264873), ("'s", 3.3551623435327245)]
+Nearest to completion: [('boy', 0.5650044679641724), ('parents', 0.5297759771347046), ('police', 0.5165467262268066), ('toddler', 0.4882793128490448), ('girl', 0.4830288887023926), ('stepfather', 0.46310415863990784), ('Police', 0.4472499489784241), ('mother', 0.440839946269989), ('teenager', 0.43985822796821594), ('child', 0.42787644267082214)]
+
+--------------------------------------------------------------------------
+
+Joe was a police officer.
+Joe was patrolling the streets of the city in his cruiser.
+Suddenly, Joe was alerted to a crime happening near him by dispatch.
+Joe responded to the scene and found a bank robber fleeing on foot.
+> Joe arrested the criminal and was promoted.
+
+__About the match__
+Rarest shared words: [('police', (5.8743976750037294, 5.8743976750037294))]
+Score: 0.5553082919792536
+
+__About the completion__
+Rarest in completion: [('criminal', 9.873888135154973), ('promoted', 8.92942652631412), ('arrested', 7.342461469732079)]
+Nearest to completion: [('arrested', 0.7806663513183594), ('indicted', 0.6736326217651367), ('detained', 0.6106686592102051), ('criminal', 0.6063541769981384), ('convicted', 0.601897656917572), ('apprehended', 0.598949134349823), ('charged', 0.5978713035583496), ('prosecuted', 0.5879123210906982), ('arraigned', 0.577459990978241), ('jailed', 0.5648364424705505)]
+
+--------------------------------------------------------------------------
+
+The man brought his groceries to the cashier.
+The cashier rang up the groceries.
+The man couldn't find his wallet.
+He left the store embarrassed.
+> He went to another store to do his shopping the next time.
+
+__About the match__
+Rarest shared words: [('rang', (7.10131941231521, 7.10131941231521)), ('wallet', (6.822606009846189, 6.822606009846189))]
+Score: 0.5462171290899762
+
+__About the completion__
+Rarest in completion: [('shopping', 6.360212770066127), ('another', 5.448186436978429), ('do', 4.865159419329299), ('store', 4.766212557016609), ('next', 4.72639365834152), ('time', 3.981849368185002), ('went', 3.303005172815388)]
+Nearest to completion: [('shopping', 0.6454158425331116), ('store', 0.6249938607215881), ('stores', 0.5243257880210876), ('mall', 0.5001121163368225), ('supermarket', 0.491274356842041), ('shoppers', 0.47013866901397705), ('retailer', 0.4544033706188202), ('grocery_store', 0.44436439871788025), ('shopper', 0.44133031368255615), ('shop', 0.4371051788330078)]
+
+--------------------------------------------------------------------------
+
+Kate wanted to run errands during a break in the rain.
+She grabbed her purse and ran to the door.
+The phone rang.
+She stopped to answer it.
+> Before the call ended the rain had begun again.
+
+__About the match__
+Rarest shared words: [('rang', (7.10131941231521, 7.10131941231521)), ('phone', (5.05593337504787, 5.05593337504787))]
+Score: 0.5372451654599827
+
+__About the completion__
+Rarest in completion: [('begun', 9.25484892674875), ('rain', 6.38171897528709), ('call', 5.9199009306277945), ('ended', 5.160504364526648), ('again', 5.046717908554751), ('before', 4.900114434362875)]
+Nearest to completion: [('rain', 0.4924769103527069), ('ended', 0.48319023847579956), ('began', 0.47969532012939453), ('begin', 0.4762074053287506), ('resumed', 0.45886552333831787), ('begun', 0.4504513442516327), ('heavy_rain', 0.4254682958126068), ('rains', 0.3998003602027893), ('commenced', 0.39277228713035583), ('started', 0.3901970684528351)]
+
+--------------------------------------------------------------------------
+
+I was looking for an address in a small town.
+It was evening.
+I walked down the street.
+Someone chased me in their car.
+> I ran to my car quickly.
+
+__About the match__
+Rarest shared words: [('evening', (6.298357365748058, 6.298357365748058)), ('street', (5.460244414937927, 5.460244414937927)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.5360098405161494
+
+__About the completion__
+Rarest in completion: [('quickly', 5.828333737102303), ('ran', 5.030826541218116), ('car', 4.464157181236033), ('my', 3.5357989799617595)]
+Nearest to completion: [('car', 0.5131707787513733), ('ran', 0.446306973695755), ('sped', 0.42079219222068787), ('vehicle', 0.3895891606807709), ('quickly', 0.3684883415699005), ('driver', 0.3624615967273712), ('cars', 0.3615695536136627), ('SUV', 0.3604179918766022), ('truck', 0.3491800129413605), ('my', 0.3484119176864624)]
+
+--------------------------------------------------------------------------
+
+I was walking down the street.
+I noticed there was a new restaurant.
+It was Chinese.
+I walked in.
+> But then I realized it was too expensive.
+
+__About the match__
+Rarest shared words: [('street', (5.460244414937927, 5.460244414937927)), ('walking', (5.02411250843679, 5.02411250843679)), ('noticed', (4.698565830365763, 4.698565830365763)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.5337512459038939
+
+__About the completion__
+Rarest in completion: [('expensive', 6.713852810309705), ('realized', 5.003062403615317), ('too', 4.812197670258433), ('then', 4.392059443677392), ('but', 3.4639482432028115)]
+Nearest to completion: [('expensive', 0.6048727631568909), ('costly', 0.5040686130523682), ('too', 0.49678629636764526), ('pricey', 0.45389220118522644), ('realized', 0.4190496802330017), ('so', 0.3985043168067932), ('cheaper', 0.37544623017311096), ('cheap', 0.3634454905986786), ('but', 0.35298797488212585), ('consequently', 0.34941133856773376)]
+
+--------------------------------------------------------------------------
+
+Maya walked down the street and heard some chirping.
+A bird was lying on the sidewalk.
+It appeared to be injured.
+Maya wrapped the bird up in her shirt and took it home.
+> After a few weeks, Maya nursed it back to health.
+
+__About the match__
+Rarest shared words: [('lying', (7.437791648936423, 7.437791648936423)), ('street', (5.460244414937927, 5.460244414937927)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.5292392915453284
+
+__About the completion__
+Rarest in completion: [('nursed', 9.517213191216241), ('health', 7.676663557818753), ('weeks', 5.8208617222636025), ('few', 5.000874218934764), ('back', 4.3399341530452595), ('after', 3.9503965716331964)]
+Nearest to completion: [('weeks', 0.621829092502594), ('months', 0.5241451859474182), ('days', 0.49426770210266113), ('after', 0.48193874955177307), ('few', 0.4715198874473572), ('fortnight', 0.45264288783073425), ('health', 0.4326449930667877), ('week', 0.4320537745952606), ('month', 0.37864935398101807), ('years', 0.3777976334095001)]
+
+--------------------------------------------------------------------------
+
+Frank was walking home from work at night.
+A man approached him and told him to give him his wallet.
+Frank was scared but obeyed.
+The strange man then walked away from Frank.
+> Frank was upset but thankful that he is still alive.
+
+__About the match__
+Rarest shared words: [('wallet', (6.822606009846189, 6.822606009846189)), ('walking', (5.02411250843679, 5.02411250843679))]
+Score: 0.5251695424974803
+
+__About the completion__
+Rarest in completion: [('alive', 8.354062381410559), ('thankful', 7.63014354218386), ('upset', 6.083225986731094), ('still', 5.390078806171148), ('is', 4.0817459865209695), ('but', 3.4639482432028115)]
+Nearest to completion: [('alive', 0.5955292582511902), ('thankful', 0.5247601866722107), ('grateful', 0.47693246603012085), ('upset', 0.47625502943992615), ('still', 0.44281068444252014), ('hopeful', 0.4186841547489166), ('glad', 0.39501553773880005), ('happy', 0.39453715085983276), ('appreciative', 0.38098084926605225), ('proud', 0.3768632411956787)]
+
+--------------------------------------------------------------------------
+
+Lisa was walking into the store.
+She spotted a dog sitting in a parked car.
+She panicked and broke the window.
+The dog was in distress.
+> She rushed him to the vet for care.
+
+__About the match__
+Rarest shared words: [('walking', (5.02411250843679, 5.02411250843679))]
+Score: 0.5211054394073429
+
+__About the completion__
+Rarest in completion: [('vet', 7.413079036946033), ('rushed', 6.843064541789712), ('care', 6.294345345078502), ('him', 3.3907807836977737)]
+Nearest to completion: [('vet', 0.6792551279067993), ('rushed', 0.5326374173164368), ('veterinary', 0.5178744196891785), ('veterinarian', 0.5174538493156433), ('care', 0.5060660243034363), ('vets', 0.4877716898918152), ('medical', 0.4616599977016449), ('doctor', 0.434928834438324), ('ambulance', 0.4224931597709656), ('hospital', 0.41143617033958435)]
+
+--------------------------------------------------------------------------
+
+

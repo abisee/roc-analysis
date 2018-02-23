@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Andy was invited to a Halloween party.
+Andy figured that for dramatic effect, he should color his hair.
+Since Andy's costume was green, Andy decided on that color.
+After the stylist finished the coloring, Andy regretted it.
+> Andy was disappointed with his new, bold, green hair color.
+
+__About the context__
+Rarest in context: [('dramatic', 9.740376741930469), ('effect', 9.047229561370523), ('stylist', 8.354082380810578), ('coloring', 8.354082380810578), ('regretted', 8.293457758994144), ('costume', 7.298029706561264), ('figured', 6.836211661901968), ('green', 6.757223250583338), ('color', 6.572794211449819), ('should', 5.96761580383583), ('finished', 5.8536715444866125), ('hair', 5.554517070872595), ('invited', 5.422888628394158), ('since', 5.170833733585528), ('party', 5.1105139433520055), ('after', 3.6847643749987347)]
+Nearest to context: [('color', 0.4642106294631958), ('costume', 0.45398491621017456), ('hair', 0.4112124741077423), ('colors', 0.3540569543838501), ('costumes', 0.34341853857040405), ('Color', 0.33681777119636536), ('regretted', 0.3367137610912323), ('makeup', 0.33309292793273926), ('green', 0.3301772475242615), ('dramatic', 0.3283902108669281)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('costume', 10621, 9379, 0.4831836521625519), ('prize', 3269, 16731, 0.45983901619911194), ('winner', 1134, 18866, 0.45282208919525146), ('contest', 1889, 18111, 0.43012866377830505), ('winners', 2462, 17538, 0.40841904282569885), ('prizes', 5701, 14299, 0.3867950439453125), ('award', 1285, 18715, 0.3838159441947937), ('dress', 4914, 15086, 0.38340356945991516), ('Contest', 14990, 5010, 0.367343932390213), ('Winners', 12978, 7022, 0.36212357878685)]
+Nearest words to completions' keywords: [('happy', 1049, 18951, 0.5983515977859497), ('glad', 4258, 15742, 0.5649914145469666), ('thrilled', 5437, 14563, 0.563002347946167), ('winner', 1134, 18866, 0.5502558946609497), ('winners', 2462, 17538, 0.5501853227615356), ('ecstatic', 17056, 2944, 0.5434275269508362), ('proud', 1913, 18087, 0.541877269744873), ('win', 202, 19798, 0.5289931297302246), ('humbled', 17967, 2033, 0.5272185206413269), ('lucky', 3566, 16434, 0.5227064490318298)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7135521173477173), ('wanted', 583, 19417, 0.6805019378662109), ('knew', 1039, 18961, 0.6679412126541138), ('had', 35, 19965, 0.657370388507843), ('got', 193, 19807, 0.648261547088623), ('came', 256, 19744, 0.6163998246192932), ('thought', 572, 19428, 0.6090195178985596), ("wasn'ta", 11067, 8933, 0.6062257885932922), ('did', 92, 19908, 0.6047564148902893), ('felt', 1040, 18960, 0.5932701826095581)]
+
+==========================================================================
+Neighbors
+==========================================================================
+I went to a costume party.
+I glued leaves to my head.
+I also wore a green cape.
+Everyone laughed at my costume.
+> However, I won first prize in the costume contest.
+
+__About the match__
+Rarest shared words: [('costume', (7.298029706561264, 7.298029706561264)), ('green', (6.757223250583338, 6.757223250583338)), ('party', (5.1105139433520055, 5.1105139433520055))]
+Score: 0.4683516909559342
+
+__About the completion__
+Rarest in completion: [('prize', 7.660915200850614), ('costume', 7.645411014314648), ('contest', 7.049113659744621), ('won', 5.467168887890719), ('however', 5.312520571825274), ('first', 4.4744334437934175)]
+Nearest to completion: [('prize', 0.6659586429595947), ('contest', 0.6478228569030762), ('winner', 0.5831748843193054), ('prizes', 0.5478051900863647), ('won', 0.5336055159568787), ('winners', 0.5307444930076599), ('costume', 0.5303919315338135), ('Contest', 0.5125241279602051), ('contests', 0.5102928876876831), ('Winners', 0.4638694226741791)]
+
+--------------------------------------------------------------------------
+
+Susan was invited to a Halloween party.
+She planned her costume for weeks.
+The day of the party, Susan donned her costume.
+Everyone loved Susan's costume.
+> Susan won first place in the costume contest.
+
+__About the match__
+Rarest shared words: [('costume', (7.298029706561264, 7.298029706561264)), ('invited', (5.422888628394158, 5.422888628394158)), ('party', (5.1105139433520055, 5.1105139433520055))]
+Score: 0.4420240128159035
+
+__About the completion__
+Rarest in completion: [('costume', 7.645411014314648), ('contest', 7.049113659744621), ('place', 5.682071230124052), ('won', 5.467168887890719), ('first', 4.4744334437934175)]
+Nearest to completion: [('contest', 0.6229560971260071), ('costume', 0.5819833278656006), ('won', 0.5604875087738037), ('contests', 0.5209287405014038), ('winner', 0.4905504286289215), ('Contest', 0.4468151032924652), ('win', 0.4217069745063782), ('winners', 0.4197537302970886), ('wins', 0.4175770878791809), ('winning', 0.40635061264038086)]
+
+--------------------------------------------------------------------------
+
+Andy recently attended a ugly sweater contest.
+Andy could not wait to see the different sweaters that were present.
+Andy saw sweaters of different color, shapes, and sizes.
+However, one sweater that was made from hair weave stood out to Andy.
+> Andy was convinced that the weave sweater was going to win the prize.
+
+__About the match__
+Rarest shared words: [('color', (6.572794211449819, 6.572794211449819)), ('hair', (5.554517070872595, 5.554517070872595))]
+Score: 0.43892317549763055
+
+__About the completion__
+Rarest in completion: [('weave', 9.74035674253045), ('sweater', 8.130918830096348), ('prize', 7.660915200850614), ('convinced', 7.502310170673975), ('win', 6.386076280656046), ('going', 4.676970883048665)]
+Nearest to completion: [('prize', 0.6752634048461914), ('win', 0.5849797129631042), ('winner', 0.5289220809936523), ('winning', 0.5188665986061096), ('wins', 0.5087636709213257), ('prizes', 0.4763184189796448), ('winners', 0.4625375270843506), ('Prize', 0.453894704580307), ('Winning', 0.44921645522117615), ('clinch', 0.433687686920166)]
+
+--------------------------------------------------------------------------
+
+Gail was thinking on a color for her bridesmaids dresses.
+After serious contemplation, Gail decided on purple.
+Gail decided she would tell her bridesmaids about the color choice.
+After talking, the bridesmaids were thrilled with the color.
+> Gail was glad that her bridesmaids loved the color she picked.
+
+__About the match__
+Rarest shared words: [('color', (6.572794211449819, 6.572794211449819)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.43696232349104147
+
+__About the completion__
+Rarest in completion: [('bridesmaids', 9.517213191216241), ('color', 7.024007738613545), ('glad', 5.993798176829835), ('picked', 5.597222016138917), ('loved', 4.425305176991248)]
+Nearest to completion: [('color', 0.5430959463119507), ('loved', 0.5299414396286011), ('thrilled', 0.4500499367713928), ('glad', 0.44359415769577026), ('liked', 0.4402696192264557), ('proud', 0.4197900593280792), ('delighted', 0.40896090865135193), ('colors', 0.4021525979042053), ('thankful', 0.38178926706314087), ('wonderful', 0.37717124819755554)]
+
+--------------------------------------------------------------------------
+
+Scarlett, in spite of her name, didn't like the color red.
+He parents always bought her red dresses and red ribbons.
+What she wanted the most was something that was green.
+She asked for a green dress on her birthday.
+> But she received a red one and sighed with sadness.
+
+__About the match__
+Rarest shared words: [('green', (6.757223250583338, 6.757223250583338)), ('color', (6.572794211449819, 6.572794211449819))]
+Score: 0.43610955676704544
+
+__About the completion__
+Rarest in completion: [('sadness', 9.517213191216241), ('sighed', 8.452502454223811), ('received', 6.386076280656046), ('red', 6.3559664791846755), ('but', 3.4639482432028115), ('one', 3.351585275015767)]
+Nearest to completion: [('sadness', 0.6368393301963806), ('sorrow', 0.5511202216148376), ('red', 0.48643213510513306), ('received', 0.4470289349555969), ('disappointment', 0.3922179639339447), ('purple', 0.3861886262893677), ('grief', 0.3847164511680603), ('gratitude', 0.3770501911640167), ('receiving', 0.3630576431751251), ('regret', 0.3574620187282562)]
+
+--------------------------------------------------------------------------
+
+Barry was confused as to what to wear for Halloween.
+Barry decided he was dressed as a zebra in honor of his daughter.
+Barry even got his face painted in the color of a zebra.
+Barry showed his daughter the costume, and she was happy.
+> Barry was glad with his decision to dress as a zebra.
+
+__About the match__
+Rarest shared words: [('costume', (7.298029706561264, 7.298029706561264)), ('color', (6.572794211449819, 6.572794211449819))]
+Score: 0.41721273648152635
+
+__About the completion__
+Rarest in completion: [('zebra', 9.873888135154973), ('decision', 7.400957676413688), ('dress', 6.467940150734219), ('glad', 5.993798176829835), ('as', 3.9638660844916718)]
+Nearest to completion: [('dress', 0.5643042922019958), ('decision', 0.5173628330230713), ('dresses', 0.48301348090171814), ('attire', 0.4390803277492523), ('gown', 0.41424450278282166), ('glad', 0.40972188115119934), ('dressed', 0.35862767696380615), ('dressing', 0.3367530107498169), ('costume', 0.335846483707428), ('outfits', 0.33393144607543945)]
+
+--------------------------------------------------------------------------
+
+Denise was a popular hair dresser in her home town.
+Denise loved to color hair, but disliked coloring blonde.
+However, blonde was the most requested hair dye color.
+Denise decided to run a special for blonde hair color.
+> Denise was shocked at the amount of people who wanted blonde hair.
+
+__About the match__
+Rarest shared words: [('coloring', (8.354082380810578, 8.354082380810578)), ('color', (6.572794211449819, 6.572794211449819)), ('hair', (5.554517070872595, 5.554517070872595))]
+Score: 0.4163952683852877
+
+__About the completion__
+Rarest in completion: [('blonde', 8.684304068281136), ('amount', 7.725453721988185), ('shocked', 6.999516718605249), ('hair', 5.944867553358256), ('who', 5.401433348274074), ('people', 5.161787238339538), ('wanted', 3.6865044229876522)]
+Nearest to completion: [('hair', 0.5268933773040771), ('shocked', 0.45149514079093933), ('amount', 0.3843436539173126), ('appalled', 0.3634713292121887), ('outraged', 0.35494670271873474), ('saddened', 0.3314029276371002), ('stunned', 0.3238772749900818), ('beard', 0.3221229612827301), ('people', 0.3076333701610565), ('amounts', 0.30670827627182007)]
+
+--------------------------------------------------------------------------
+
+Allie wanted a change in her hair color.
+She decided to dye it dark.
+Too bad for her, it was much too dark.
+Allie was scared.
+> She immediately tried bleaching it to make it lighter.
+
+__About the match__
+Rarest shared words: [('color', (6.572794211449819, 6.572794211449819)), ('hair', (5.554517070872595, 5.554517070872595))]
+Score: 0.4123348207152421
+
+__About the completion__
+Rarest in completion: [('bleaching', 11.12665110365034), ('lighter', 8.684304068281136), ('immediately', 6.073595093670132), ('make', 4.7898253725039), ('tried', 4.57271769962453)]
+Nearest to completion: [('lighter', 0.5875213146209717), ('immediately', 0.45408353209495544), ('heavier', 0.4243377447128296), ('quicker', 0.38173070549964905), ('tried', 0.37856316566467285), ('make', 0.36892592906951904), ('made', 0.33169424533843994), ('softer', 0.33010706305503845), ('attempted', 0.3044559955596924), ('simpler', 0.3027336597442627)]
+
+--------------------------------------------------------------------------
+
+Tom was invited to a costume party.
+He could not think of anything to wear.
+He decided to just dress in his regular clothes.
+When he arrived, he was relieved.
+> Half the people there had dressed normal as well!
+
+__About the match__
+Rarest shared words: [('costume', (7.298029706561264, 7.298029706561264)), ('invited', (5.422888628394158, 5.422888628394158)), ('party', (5.1105139433520055, 5.1105139433520055))]
+Score: 0.41138431576092443
+
+__About the completion__
+Rarest in completion: [('normal', 7.585691779613026), ('dressed', 7.101299412915191), ('half', 6.546798725646539), ('well', 5.318508613669897), ('people', 5.161787238339538), ('there', 4.12267696692766), ('as', 3.9638660844916718), ('!', 3.536809591467683)]
+Nearest to completion: [('normal', 0.5216937065124512), ('dressed', 0.47448477149009705), ('well', 0.41553351283073425), ('as', 0.39954662322998047), ('usual', 0.38315120339393616), ('behaved', 0.3556717038154602), ('clad', 0.3036138713359833), ('reasonably', 0.2971575856208801), ('normally', 0.296102374792099), ('typical', 0.2948243021965027)]
+
+--------------------------------------------------------------------------
+
+Rina went to the hair salon.
+She wanted a change in style.
+After talking with her stylist, she decided on what she wanted.
+Rina opted for a natural bayalage in her hair.
+> She was very excited to change her look up.
+
+__About the match__
+Rarest shared words: [('stylist', (8.354082380810578, 8.354082380810578)), ('hair', (5.554517070872595, 5.554517070872595)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.4038652058981388
+
+__About the completion__
+Rarest in completion: [('change', 6.3559664791846755), ('look', 5.751372695966175), ('excited', 5.146500316442632), ('very', 3.793301345264873)]
+Nearest to completion: [('excited', 0.6577869653701782), ('exciting', 0.5233270525932312), ('thrilled', 0.5226233601570129), ('pleased', 0.5211765170097351), ('look', 0.5032299160957336), ('very', 0.4874627888202667), ('delighted', 0.48099449276924133), ('proud', 0.47119560837745667), ('extremely', 0.4190588593482971), ('change', 0.4143982231616974)]
+
+--------------------------------------------------------------------------
+
+

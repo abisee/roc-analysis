@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Joshua traveled to State College to visit the campus.
+He looked at the dorms and auditoriums.
+He really felt at home.
+He signed up for classes at the end of the visit.
+> He knew this was the school for him!
+
+__About the context__
+Rarest in context: [('auditoriums', 10.433523922490414), ('dorms', 9.740376741930469), ('campus', 7.725473721388203), ('traveled', 7.413099036346051), ('classes', 6.381738974687109), ('signed', 6.214016217314307), ('visit', 5.675632649484658), ('end', 5.621339567117996), ('felt', 4.342214040412715), ('really', 4.303384980694672), ('looked', 4.167272590916383), ('home', 3.7389618639693185)]
+Nearest to context: [('visit', 0.45962733030319214), ('campus', 0.44036275148391724), ('visited', 0.4372200667858124), ('traveled', 0.40143075585365295), ('signed', 0.39399057626724243), ('campuses', 0.38516664505004883), ('toured', 0.35801494121551514), ('Campus', 0.3490372598171234), ('visits', 0.33896785974502563), ('felt', 0.33810773491859436)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('visit', 633, 19367, 0.5335214138031006), ('visits', 3710, 16290, 0.44054022431373596), ('visiting', 2509, 17491, 0.4221925139427185), ('internship', 19368, 632, 0.4212661683559418), ('visited', 2693, 17307, 0.4146944284439087), ('trip', 1138, 18862, 0.40270721912384033), ('Visit', 6954, 13046, 0.3489075303077698), ('graduates', 6051, 13949, 0.3368687927722931), ('trips', 3977, 16023, 0.33440476655960083), ('residency', 12624, 7376, 0.32742178440093994)]
+Nearest words to completions' keywords: [('trip', 1138, 18862, 0.6042335033416748), ('visit', 633, 19367, 0.6013264060020447), ('visits', 3710, 16290, 0.5889381766319275), ('visited', 2693, 17307, 0.5490787029266357), ('visiting', 2509, 17491, 0.5486676692962646), ('trips', 3977, 16023, 0.544369101524353), ('travels', 7616, 12384, 0.5324115753173828), ('traveled', 3844, 16156, 0.505962073802948), ('graduate', 2716, 17284, 0.4804731607437134), ('vacation', 4562, 15438, 0.47981029748916626)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7118043899536133), ('had', 35, 19965, 0.6751422882080078), ('came', 256, 19744, 0.6514760255813599), ('went', 297, 19703, 0.6040762066841125), ('visited', 2693, 17307, 0.5989876985549927), ('met', 1007, 18993, 0.5916311144828796), ('stayed', 2936, 17064, 0.586958646774292), ('arrived', 1550, 18450, 0.5808119177818298), ('wanted', 583, 19417, 0.5692911148071289), ('moved', 895, 19105, 0.5640334486961365)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Stacy had to travel a very long distance to visit her parents.
+This was do to her living away from home attending college.
+She enjoyed her visits home but not the long commute.
+She decided to attend college closer home to stop end the commuting.
+> Now Stacy can visit her parents every day.
+
+__About the match__
+Rarest shared words: [('visit', (5.675632649484658, 5.675632649484658)), ('end', (5.621339567117996, 5.621339567117996)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.48582518590188006
+
+__About the completion__
+Rarest in completion: [('visit', 6.225086904608447), ('can', 6.060896510333005), ('parents', 5.059383593126858), ('every', 4.763623000109876), ('now', 4.716476221684173), ('day', 3.3461390948177767)]
+Nearest to completion: [('visit', 0.5661896467208862), ('every', 0.41486552357673645), ('visits', 0.4028278589248657), ('Visit', 0.39429622888565063), ('day', 0.3936401605606079), ('parents', 0.3927920162677765), ('visiting', 0.3764619827270508), ('Parents', 0.3423107862472534), ('daily', 0.3405712842941284), ('anytime', 0.3315161466598511)]
+
+--------------------------------------------------------------------------
+
+The new library was set to be unveiled.
+The college had been working on it for 3 years.
+All of the students and faculty were excited to see it.
+The day arrived and the doors were opened.
+> Everyone agreed the new library was beautiful.
+
+__About the match__
+Rarest shared words: []
+Score: 0.466014542672466
+
+__About the completion__
+Rarest in completion: [('library', 6.871038393832118), ('beautiful', 6.017679908833223), ('agreed', 5.993798176829835), ('everyone', 5.197061960260446), ('new', 3.7799959404738015)]
+Nearest to completion: [('library', 0.5768976211547852), ('Library', 0.45434802770614624), ('beautiful', 0.45156416296958923), ('libraries', 0.44648316502571106), ('Public_Library', 0.41890478134155273), ('new', 0.408330500125885), ('gorgeous', 0.3901602327823639), ('wonderful', 0.3803268074989319), ('agreed', 0.3658349812030792), ('lovely', 0.35956820845603943)]
+
+--------------------------------------------------------------------------
+
+Mathilda wanted to learn the language of her forefathers.
+She watched a lot of Spanish TV after school to learn the language.
+She also visited her grandma to practice with her.
+When she was fluent, she took a trip to Mexico.
+> And she visited the place where her ancestors had come from.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4512793395575488
+
+__About the completion__
+Rarest in completion: [('ancestors', 10.721185995542177), ('visited', 6.615791597133491), ('where', 5.976253867178926), ('come', 5.7606750886284885), ('place', 5.682071230124052), ('from', 3.996552593524763)]
+Nearest to completion: [('ancestors', 0.5932024717330933), ('visited', 0.5105606913566589), ('descendants', 0.4476054012775421), ('place', 0.43056681752204895), ('where', 0.4072089195251465), ('visit', 0.3923724293708801), ('inhabitants', 0.37350019812583923), ('birthplace', 0.37226736545562744), ('origins', 0.3675946295261383), ('ancient', 0.36617764830589294)]
+
+--------------------------------------------------------------------------
+
+Scott and his Father went on a road trip last summer.
+They traveled throughout the United States.
+New York was their destination since their relatives live there.
+After they visited their family, they headed back home.
+> They greatly enjoyed their trip and the time spent with one another.
+
+__About the match__
+Rarest shared words: [('traveled', (7.413099036346051, 7.413099036346051)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.44584693999802155
+
+__About the completion__
+Rarest in completion: [('greatly', 8.72875583085197), ('enjoyed', 6.002687124247082), ('spent', 5.45849580663729), ('another', 5.448186436978429), ('trip', 5.311029147238604), ('their', 4.437673918472774), ('time', 3.981849368185002), ('one', 3.351585275015767)]
+Nearest to completion: [('spent', 0.5358951091766357), ('enjoyed', 0.4531863331794739), ('trip', 0.44504934549331665), ('trips', 0.42811840772628784), ('greatly', 0.4191770851612091), ('spend', 0.3990600109100342), ('spends', 0.3446390926837921), ('visiting', 0.34410303831100464), ('visits', 0.32917287945747375), ('enjoying', 0.32140129804611206)]
+
+--------------------------------------------------------------------------
+
+The girl signed up for summer school.
+She skipped a lot of classes.
+She decided to enjoy her summer.
+She dropped all of her classes.
+> She laid by the pool all summer long.
+
+__About the match__
+Rarest shared words: [('classes', (6.381738974687109, 6.381738974687109)), ('signed', (6.214016217314307, 6.214016217314307))]
+Score: 0.4275536107612678
+
+__About the completion__
+Rarest in completion: [('laid', 7.146969449748379), ('pool', 6.4585061185008605), ('summer', 5.903596221602851), ('long', 5.222652582323634), ('by', 4.4228496815892715), ('all', 3.5398475684877595)]
+Nearest to completion: [('pool', 0.509057343006134), ('laid', 0.5072452425956726), ('summer', 0.43537637591362), ('pools', 0.4311789274215698), ('laying', 0.4134150743484497), ('lay', 0.38068652153015137), ('lays', 0.3433135151863098), ('by', 0.32571732997894287), ('winter', 0.31098082661628723), ('Pool', 0.3086399734020233)]
+
+--------------------------------------------------------------------------
+
+Dan wanted to visit Norway.
+Dan arranged to take time from work for a trip to Norway.
+Dan and his wife flew to Norway that Summer.
+They had a fantastic time visiting Norway.
+> Now, Dan and his wife visit Norway every Summer, without fail.
+
+__About the match__
+Rarest shared words: [('visit', (5.675632649484658, 5.675632649484658))]
+Score: 0.4273804091533725
+
+__About the completion__
+Rarest in completion: [('fail', 8.561701746188803), ('visit', 6.225086904608447), ('without', 6.005667752385219), ('wife', 5.17731148284303), ('every', 4.763623000109876), ('now', 4.716476221684173)]
+Nearest to completion: [('visit', 0.4831071197986603), ('fail', 0.39056217670440674), ('without', 0.3641519248485565), ('wife', 0.360722154378891), ('every', 0.3536119759082794), ('Visit', 0.33777564764022827), ('visits', 0.33355712890625), ('fails', 0.31956449151039124), ('daughters', 0.3167203366756439), ('failure', 0.2954643666744232)]
+
+--------------------------------------------------------------------------
+
+Justin always wanted to move away from home.
+He got his opportunity after he graduated college.
+He started an internship 1250 miles away from his hometown.
+He missed his family and friends.
+> He moved back home when the internship was over.
+
+__About the match__
+Rarest shared words: [('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.4196821261441054
+
+__About the completion__
+Rarest in completion: [('internship', 9.421903011411915), ('moved', 5.861373591180504), ('over', 4.367395832986647), ('back', 4.3399341530452595), ('home', 4.002978318445733), ('when', 3.4368224349138567)]
+Nearest to completion: [('internship', 0.5911977291107178), ('back', 0.40412136912345886), ('intern', 0.40180376172065735), ('home', 0.3859439492225647), ('moved', 0.3656199872493744), ('stint', 0.3593623638153076), ('graduating', 0.35585498809814453), ('relocated', 0.34146595001220703), ('master_degree', 0.3391527235507965), ('MBA', 0.33623024821281433)]
+
+--------------------------------------------------------------------------
+
+Amanda decided to take a Europe vacation.
+She joined up with a travel agent.
+They sold a tour to her friends and family.
+Amanda enjoyed traveling through Europe.
+> Her favorite thing was that the trip was free.
+
+__About the match__
+Rarest shared words: []
+Score: 0.419587902722036
+
+__About the completion__
+Rarest in completion: [('thing', 6.435303221421197), ('free', 6.322630058917084), ('favorite', 5.385251765422833), ('trip', 5.311029147238604)]
+Nearest to completion: [('favorite', 0.5722110271453857), ('trip', 0.5690857172012329), ('favorites', 0.45242637395858765), ('free', 0.4448328912258148), ('trips', 0.4372047781944275), ('visit', 0.3774991035461426), ('Free', 0.36784592270851135), ('trek', 0.3644820749759674), ('tour', 0.34570059180259705), ('itinerary', 0.34221455454826355)]
+
+--------------------------------------------------------------------------
+
+Ronald decided to enroll in medical school.
+He knew it would be difficult.
+He worked very hard in his classes.
+Once he graduated he felt great.
+> Ronald was proud to have graduated from medical school.
+
+__About the match__
+Rarest shared words: [('classes', (6.381738974687109, 6.381738974687109)), ('felt', (4.342214040412715, 4.342214040412715))]
+Score: 0.4191367507096479
+
+__About the completion__
+Rarest in completion: [('medical', 8.236279345754177), ('graduated', 7.3311619144781455), ('proud', 6.0452467386658775), ('school', 4.401617461483498), ('have', 4.400417701291594), ('from', 3.996552593524763)]
+Nearest to completion: [('graduated', 0.6508198380470276), ('graduating', 0.6275498270988464), ('graduate', 0.584429144859314), ('school', 0.49615857005119324), ('graduates', 0.476960688829422), ('diploma', 0.46261686086654663), ('bachelor_degree', 0.454607754945755), ('graduation', 0.4428091049194336), ('medical', 0.4363658130168915), ('master_degree', 0.41112321615219116)]
+
+--------------------------------------------------------------------------
+
+The students gathered outside the classroom.
+They sat on the quad and talked about the lecture.
+The quad was their favorite place to meet.
+After they discussed their class, they went home.
+> They agreed to meet after every class.
+
+__About the match__
+Rarest shared words: [('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.4175374380455269
+
+__About the completion__
+Rarest in completion: [('meet', 6.4967883050718775), ('agreed', 5.993798176829835), ('class', 5.244722443610666), ('every', 4.763623000109876), ('after', 3.9503965716331964)]
+Nearest to completion: [('meet', 0.5681053400039673), ('meets', 0.4778670072555542), ('class', 0.4548712968826294), ('agreed', 0.4498381018638611), ('every', 0.41182568669319153), ('met', 0.39547407627105713), ('each', 0.36119577288627625), ('meeting', 0.35265249013900757), ('agreeing', 0.33922743797302246), ('finalize', 0.3351602554321289)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+This afternoon, I was very intent on going to Big Sur.
+I took my car and drove for hours.
+Midway, I stopped to take some refreshments at a diner.
+When I came out, it was raining.
+> I finally arrived in the middle of a storm, but I was still happy.
+
+__About the context__
+Rarest in context: [('intent', 9.740376741930469), ('refreshments', 9.740376741930469), ('diner', 7.543152164594249), ('raining', 6.850004984034304), ('afternoon', 6.214016217314307), ('stopped', 5.280232327992635), ('drove', 5.105647753700833), ('hours', 4.835101963492039), ('take', 4.402838662229151), ('this', 4.174898938651448), ('going', 4.13549421592915), ('car', 4.085259439255548), ('came', 4.084384931110616), ('took', 3.6015703569245585), ('some', 3.566590638028532), ('very', 3.353497422567824)]
+Nearest to context: [('took', 0.48037415742874146), ('afternoon', 0.4405227303504944), ('drove', 0.4140351712703705), ('refreshments', 0.4017796516418457), ('morning', 0.38784492015838623), ('evening', 0.38325929641723633), ('came', 0.38052627444267273), ('went', 0.36441513895988464), ('proceeded', 0.3621040880680084), ('resumed', 0.3577897846698761)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cancel', 7794, 12206, 0.45243141055107117), ('postpone', 12431, 7569, 0.4186643064022064), ('continue', 395, 19605, 0.3749236762523651), ('tomorrow', 1936, 18064, 0.3652704358100891), ('embark', 14670, 5330, 0.35553276538848877), ('suspend', 8701, 11299, 0.3483613133430481), ('rejoin', 18455, 1545, 0.3458746075630188), ('postponement', 18328, 1672, 0.33192622661590576), ('decision', 402, 19598, 0.33157360553741455), ('join', 1409, 18591, 0.3301472067832947)]
+Nearest words to completions' keywords: [('going', 125, 19875, 0.533505380153656), ('anyway', 4231, 15769, 0.5325523614883423), ('just', 76, 19924, 0.5237239599227905), ('do', 58, 19942, 0.5162010788917542), ('go', 152, 19848, 0.5153273940086365), ('want', 189, 19811, 0.5022739171981812), ('me', 170, 19830, 0.501201868057251), ('leave', 785, 19215, 0.49929386377334595), ('day', 113, 19887, 0.49820974469184875), ('happy', 1049, 18951, 0.4981357753276825)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.733590304851532), ('had', 35, 19965, 0.721021831035614), ('got', 193, 19807, 0.6598254442214966), ('came', 256, 19744, 0.6375871896743774), ('went', 297, 19703, 0.6197727918624878), ('wanted', 583, 19417, 0.6187955141067505), ('stayed', 2936, 17064, 0.6102256178855896), ('did', 92, 19908, 0.6001070737838745), ('knew', 1039, 18961, 0.5879849195480347), ('took', 263, 19737, 0.5841037631034851)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Mark purchased two tickets for the nine o'clock show.
+Mary saw him exit the line and headed to the concession.
+Mark joined Mary on the concession stand line.
+When it was their turn, they ordered refreshments.
+> Mark and Marty took their snacks into the theater.
+
+__About the match__
+Rarest shared words: [('refreshments', (9.740376741930469, 9.740376741930469))]
+Score: 0.4970375258284743
+
+__About the completion__
+Rarest in completion: [('snacks', 7.725453721988185), ('theater', 7.475992862356602), ('their', 4.437673918472774), ('into', 4.270189119055754), ('took', 4.067463120907994)]
+Nearest to completion: [('snacks', 0.49781396985054016), ('theater', 0.49114614725112915), ('snack', 0.4213365912437439), ('into', 0.4209504723548889), ('entertainment', 0.38585856556892395), ('beverages', 0.37846440076828003), ('theatrical', 0.36424747109413147), ('Theater', 0.34648066759109497), ('their', 0.34630757570266724), ('took', 0.34145671129226685)]
+
+--------------------------------------------------------------------------
+
+Carlos decided he wanted to start making coffee at home.
+He tried making it one morning.
+It came out very well.
+Charles enjoyed drinking his coffee.
+> He decided to continue to make coffee each day.
+
+__About the match__
+Rarest shared words: [('came', (4.084384931110616, 4.084384931110616)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.38997488612266307
+
+__About the completion__
+Rarest in completion: [('continue', 7.927977986099659), ('coffee', 6.24384918106397), ('each', 5.825836856903717), ('make', 4.7898253725039), ('decided', 3.495461951503386), ('day', 3.3461390948177767)]
+Nearest to completion: [('coffee', 0.4991934299468994), ('continue', 0.4765516519546509), ('each', 0.39149051904678345), ('daily', 0.3712709844112396), ('Coffee', 0.35467246174812317), ('day', 0.3355955183506012), ('continues', 0.32729408144950867), ('decide', 0.32419630885124207), ('will', 0.32371002435684204), ('yearly', 0.3183882236480713)]
+
+--------------------------------------------------------------------------
+
+We went away all day yesterday.
+Our cat eats in the afternoon.
+Our son volunteered to drop in.
+He came at two pm and put cat food into the tray.
+> We got home at night and saw the cat had refused to eat.
+
+__About the match__
+Rarest shared words: [('afternoon', (6.214016217314307, 6.214016217314307)), ('came', (4.084384931110616, 4.084384931110616))]
+Score: 0.3810056566059842
+
+__About the completion__
+Rarest in completion: [('refused', 6.399263284938), ('cat', 5.756013075522677), ('eat', 5.446478494633273), ('night', 4.471210753282693), ('saw', 4.402217881795742), ('we', 4.354142974076229), ('home', 4.002978318445733), ('got', 3.390344007102055)]
+Nearest to completion: [('cat', 0.42262810468673706), ('refused', 0.37938347458839417), ('cats', 0.37212809920310974), ('ate', 0.3451839089393616), ('eat', 0.3234096169471741), ('night', 0.3163726329803467), ('dog', 0.306683212518692), ('saw', 0.3008546233177185), ('dogs', 0.2921266555786133), ('refusing', 0.2768522799015045)]
+
+--------------------------------------------------------------------------
+
+Kate and a group of girl friends were on a road trip.
+They had only been driving for 3 hours.
+They had already stopped for snacks and gas.
+Twenty minutes later they were stopping at Mcdonalds.
+> Kate was beginning to regret her decision to join this road trip.
+
+__About the match__
+Rarest shared words: [('stopped', (5.280232327992635, 5.280232327992635)), ('hours', (4.835101963492039, 4.835101963492039))]
+Score: 0.37931584489548015
+
+__About the completion__
+Rarest in completion: [('regret', 8.156236638080639), ('beginning', 7.948597273302394), ('decision', 7.400957676413688), ('join', 6.983516377258808), ('road', 5.93369425276013), ('trip', 5.311029147238604), ('this', 4.607503815709945)]
+Nearest to completion: [('decision', 0.508703887462616), ('trip', 0.4954715669155121), ('embark', 0.4558667838573456), ('regret', 0.43200254440307617), ('rejoin', 0.4117905795574188), ('join', 0.4105580151081085), ('road', 0.4014764726161957), ('trek', 0.40138259530067444), ('journey', 0.3831133544445038), ('visit', 0.3717295229434967)]
+
+--------------------------------------------------------------------------
+
+Tom planned a picnic with friends.
+When it came time to go it started to rain.
+Tom hoped it would pass.
+Unfortunately it didn't for hours.
+> Tom had to cancel plans and stay in.
+
+__About the match__
+Rarest shared words: [('hours', (4.835101963492039, 4.835101963492039)), ('came', (4.084384931110616, 4.084384931110616))]
+Score: 0.3716844743352848
+
+__About the completion__
+Rarest in completion: [('cancel', 8.64174445386234), ('plans', 7.214628098222194), ('stay', 6.270722199315066)]
+Nearest to completion: [('cancel', 0.7559064030647278), ('postpone', 0.61971116065979), ('canceling', 0.5699202418327332), ('canceled', 0.5446789264678955), ('cancellation', 0.5360667705535889), ('stay', 0.5269932746887207), ('plans', 0.5190363526344299), ('suspend', 0.5022306442260742), ('reconsider', 0.45965421199798584), ('terminate', 0.45484840869903564)]
+
+--------------------------------------------------------------------------
+
+Jack called and said he had a surprise for dinner last night.
+He asked me to meet him at 5pm.
+I drove to his house to meet him.
+He had made a very special five course meal.
+> It sure was a surprise.
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.3667597353285309
+
+__About the completion__
+Rarest in completion: [('surprise', 6.394848266728883), ('sure', 5.993798176829835)]
+Nearest to completion: [('surprise', 0.749413788318634), ('sure', 0.5605368614196777), ('surprising', 0.4684635400772095), ('surprised', 0.4663405418395996), ('surprises', 0.46046245098114014), ('shock', 0.39367449283599854), ('wonder', 0.3699733316898346), ('disappointment', 0.3564860224723816), ('coincidence', 0.35488489270210266), ('aware', 0.34658196568489075)]
+
+--------------------------------------------------------------------------
+
+Yesterday during my lunch break I went to get tacos.
+I drove for 20 minutes to get some tacos.
+They took too long to make the tacos, so I had to take them to work.
+It took so long that I was late getting back to work.
+> My boss was mad at me for being so late.
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833)), ('take', (4.402838662229151, 4.402838662229151)), ('took', (3.6015703569245585, 3.6015703569245585)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.3655784192202063
+
+__About the completion__
+Rarest in completion: [('mad', 6.769942276960749), ('boss', 5.93369425276013), ('late', 5.59326161492282), ('being', 5.502633597463002), ('me', 4.441414571213571), ('so', 3.628612279567497), ('my', 3.5357989799617595)]
+Nearest to completion: [('me', 0.542442798614502), ('my', 0.4885041117668152), ('boss', 0.44758549332618713), ('My', 0.4199710488319397), ('mad', 0.41795921325683594), ('myself', 0.4106278419494629), ('I', 0.4048624336719513), ('him', 0.372926265001297), ('pal', 0.34185275435447693), ('bosses', 0.3292802572250366)]
+
+--------------------------------------------------------------------------
+
+The family was taking a trip.
+They were going to the amusement park that had just opened in town.
+They rode all the rides.
+They also ate some great snacks.
+> It was a fun day as a family.
+
+__About the match__
+Rarest shared words: [('going', (4.13549421592915, 4.13549421592915)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.3604760663673487
+
+__About the completion__
+Rarest in completion: [('fun', 5.29917715665159), ('family', 4.6880997737433745), ('as', 3.9638660844916718), ('day', 3.3461390948177767)]
+Nearest to completion: [('fun', 0.6049488186836243), ('family', 0.5290539264678955), ('day', 0.40963220596313477), ('enjoyable', 0.4092080891132355), ('friends', 0.388576477766037), ('Fun', 0.36088234186172485), ('Family', 0.3328337073326111), ('loved', 0.32903853058815), ('entertaining', 0.32902419567108154), ('adventure', 0.32630160450935364)]
+
+--------------------------------------------------------------------------
+
+Jill planned a camping trip with her friends.
+They arrived at the campsite at noon.
+Jill helped her friends set up their tents.
+They went for a hike and looked around.
+> In the evening, they returned to build a campfire.
+
+__About the match__
+Rarest shared words: []
+Score: 0.35872030454652326
+
+__About the completion__
+Rarest in completion: [('campfire', 8.561701746188803), ('build', 7.175407385068913), ('evening', 6.7322019489779015), ('returned', 6.225086904608447)]
+Nearest to completion: [('returned', 0.5776038765907288), ('evening', 0.5281587839126587), ('afternoon', 0.48646992444992065), ('build', 0.4768076241016388), ('return', 0.4491158723831177), ('returning', 0.4091273546218872), ('morning', 0.3932034373283386), ('night', 0.3864150941371918), ('construct', 0.37306341528892517), ('Saturday', 0.37217772006988525)]
+
+--------------------------------------------------------------------------
+
+Dave drove an ice cream truck.
+One morning he realized the freezers weren't working.
+Dave called a repairman immediately.
+The repairman arrived within an hour.
+> Dave was able to get back on the road in no time!
+
+__About the match__
+Rarest shared words: [('drove', (5.105647753700833, 5.105647753700833))]
+Score: 0.344657650515308
+
+__About the completion__
+Rarest in completion: [('road', 5.93369425276013), ('able', 5.284557013196627), ('no', 4.72556343828553), ('back', 4.3399341530452595), ('get', 4.052534287452978), ('time', 3.981849368185002), ('!', 3.536809591467683)]
+Nearest to completion: [('road', 0.460007905960083), ('able', 0.4019533097743988), ('no', 0.3664742112159729), ('time', 0.34156927466392517), ('get', 0.3310988247394562), ('back', 0.2965964674949646), ('unable', 0.29152369499206543), ('there', 0.27400535345077515), ('Getting', 0.27391907572746277), ('ready', 0.26566433906555176)]
+
+--------------------------------------------------------------------------
+
+

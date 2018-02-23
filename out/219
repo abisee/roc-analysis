@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jimmy had never played football before.
+He was finally old enough for flag football.
+He got out on the field, excited to play.
+He threw the ball to his friend running down the field.
+> He caught it and scored a touchdown.
+
+__About the context__
+Rarest in context: [('flag', 8.293457758994144), ('field', 6.2746408391307416), ('football', 6.185028680441055), ('ball', 5.581493658570797), ('running', 5.419560838301483), ('threw', 5.419560838301483), ('enough', 5.312540571225293), ('played', 4.948726988999759), ('excited', 4.666766648672825), ('play', 4.525440984321483), ('before', 4.482881369902687), ('never', 4.437071833871393), ('old', 4.424710737047819), ('finally', 4.312128205790401), ('friend', 3.9405267985280337), ('down', 3.854967396162991)]
+Nearest to context: [('ball', 0.6062690019607544), ('football', 0.4772725999355316), ('play', 0.4747011661529541), ('played', 0.44498947262763977), ('playing', 0.43340447545051575), ('game', 0.43041113018989563), ('fullback', 0.41854414343833923), ('scrimmage', 0.41793736815452576), ('punt', 0.3997916579246521), ('player', 0.39863958954811096)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('ball', 589, 19411, 0.5282401442527771), ('game', 94, 19906, 0.5159436464309692), ('misses', 9694, 10306, 0.4565761983394623), ('loses', 6971, 13029, 0.45579734444618225), ('play', 172, 19828, 0.4540281891822815), ('clinch', 9754, 10246, 0.45134684443473816), ('plays', 1200, 18800, 0.4425388276576996), ('scrimmage', 9891, 10109, 0.44122084975242615), ('throws', 7618, 12382, 0.4382532835006714), ('opener', 2966, 17034, 0.4278095066547394)]
+Nearest words to completions' keywords: [('ball', 589, 19411, 0.6079044342041016), ('yarder', 14245, 5755, 0.6003855466842651), ('game', 94, 19906, 0.599683940410614), ('touchdown', 3101, 16899, 0.5796287655830383), ('touchdown_pass', 17631, 2369, 0.5733588933944702), ('fumbled', 14279, 5721, 0.5701640248298645), ('play', 172, 19828, 0.5557314157485962), ('scored', 463, 19537, 0.548212468624115), ('throws', 7618, 12382, 0.5378961563110352), ('plays', 1200, 18800, 0.5370112657546997)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.69803386926651), ('loses', 6971, 13029, 0.603111207485199), ('came', 256, 19744, 0.6008481979370117), ('had', 35, 19965, 0.5866439342498779), ('gave', 573, 19427, 0.5827412009239197), ('lost', 377, 19623, 0.571986198425293), ('went', 297, 19703, 0.5694794654846191), ('get', 91, 19909, 0.5588229298591614), ('dropped', 1066, 18934, 0.5584794878959656), ('gets', 1002, 18998, 0.5581942796707153)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Karly was really excited about the Olympics.
+She'd watched the soccer team play all week.
+She took a soccer ball out into the yard to practice.
+She kicked it all evening until it deflated.
+> She was ready to buy a new one and practice some more!
+
+__About the match__
+Rarest shared words: [('ball', (5.581493658570797, 5.581493658570797)), ('excited', (4.666766648672825, 4.666766648672825)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.6663111369282375
+
+__About the completion__
+Rarest in completion: [('practice', 6.51649337615121), ('ready', 5.798774934860759), ('buy', 4.985689545396447), ('more', 4.774893167080915), ('some', 4.142861138392206), ('new', 3.7799959404738015), ('!', 3.536809591467683), ('one', 3.351585275015767)]
+Nearest to completion: [('new', 0.4664382338523865), ('more', 0.4502529799938202), ('buy', 0.4097379446029663), ('practice', 0.3946186304092407), ('some', 0.3758793771266937), ('sell', 0.3670022785663605), ('ready', 0.3657739460468292), ('purchase', 0.36333510279655457), ('fewer', 0.3411317467689514), ('newer', 0.33190488815307617)]
+
+--------------------------------------------------------------------------
+
+The man was tackled in the open field.
+He fumbled the football.
+The other team picked up the ball.
+They ran it back for a touchdown.
+> That touchdown made them win the game.
+
+__About the match__
+Rarest shared words: [('field', (6.2746408391307416, 6.2746408391307416)), ('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6590263045546711
+
+__About the completion__
+Rarest in completion: [('touchdown', 8.824066010656296), ('win', 6.386076280656046), ('game', 5.066360365612506), ('made', 4.267560996649484), ('them', 3.9905657466666935)]
+Nearest to completion: [('touchdown', 0.7655295133590698), ('touchdown_pass', 0.664970338344574), ('touchdowns', 0.6611332893371582), ('interception', 0.6217519640922546), ('yard_touchdown', 0.6168345212936401), ('touchdown_passes', 0.6080834269523621), ('yard_TD', 0.6006209850311279), ('yarder', 0.593387246131897), ('win', 0.5760743618011475), ('fumble', 0.5755071640014648)]
+
+--------------------------------------------------------------------------
+
+Luke is playing in a football game.
+Luke is the star receiver for the team.
+Luke knows the ball is coming his way to score a touchdown.
+Luke runs deep and the ball is thrown to him.
+> Luke drops the pass and loses the game.
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6562129593783497
+
+__About the completion__
+Rarest in completion: [('drops', 9.047209561970504), ('loses', 8.323290722743806), ('pass', 6.929449155988532), ('game', 5.066360365612506)]
+Nearest to completion: [('drops', 0.7011088132858276), ('loses', 0.6942512392997742), ('falls', 0.5040112137794495), ('throws', 0.48077285289764404), ('passes', 0.4664480686187744), ('slips', 0.4654974639415741), ('gets', 0.4488964080810547), ('pulls', 0.4472193717956543), ('misses', 0.4434315860271454), ('pushes', 0.4313010275363922)]
+
+--------------------------------------------------------------------------
+
+Charles was playing football.
+He went out for a pass.
+He caught the ball.
+But he landed on a window.
+> He had to let his arm heal.
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6476767046763038
+
+__About the completion__
+Rarest in completion: [('heal', 8.92942652631412), ('arm', 7.007613928837868), ('let', 5.763014270981661)]
+Nearest to completion: [('heal', 0.7519826889038086), ('arm', 0.6137151718139648), ('healing', 0.48899707198143005), ('spine', 0.42177850008010864), ('wrist', 0.3791547119617462), ('recover', 0.3781714141368866), ('leg', 0.37481480836868286), ('shoulder', 0.37372612953186035), ('elbow', 0.369858056306839), ('neck', 0.3543631136417389)]
+
+--------------------------------------------------------------------------
+
+Dave was playing flag football.
+He wanted to win.
+So he played aggressively.
+He attacked a girl.
+> So he got kicked out of the game.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144)), ('football', (6.185028680441055, 6.185028680441055)), ('played', (4.948726988999759, 4.948726988999759))]
+Score: 0.6293228113957372
+
+__About the completion__
+Rarest in completion: [('kicked', 7.175407385068913), ('game', 5.066360365612506), ('so', 3.628612279567497), ('got', 3.390344007102055), ('out', 3.3165011979861596)]
+Nearest to completion: [('kicked', 0.5383192300796509), ('game', 0.5039966106414795), ('kicks', 0.4239920675754547), ('kicking', 0.4237077534198761), ('got', 0.4153667986392975), ('kick', 0.40404489636421204), ('games', 0.3689012825489044), ('booted', 0.3579314947128296), ('opener', 0.3432929217815399), ('match', 0.3360079228878021)]
+
+--------------------------------------------------------------------------
+
+Fred was playing in a basketball game.
+It was the championship game.
+Fred wanted the ball for the last shot.
+The ball is passed to Fred.
+> He shoots and misses and loses the game for the team.
+
+__About the match__
+Rarest shared words: [('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6286898961871912
+
+__About the completion__
+Rarest in completion: [('shoots', 9.873888135154973), ('misses', 8.452502454223811), ('loses', 8.323290722743806), ('team', 5.479438980482533), ('game', 5.066360365612506)]
+Nearest to completion: [('misses', 0.6563973426818848), ('loses', 0.6508995890617371), ('shoots', 0.6307014226913452), ('pulls', 0.46713221073150635), ('earns', 0.46277615427970886), ('beats', 0.4620981216430664), ('defends', 0.45290428400039673), ('gets', 0.44959214329719543), ('drops', 0.44608309864997864), ('game', 0.4350919723510742)]
+
+--------------------------------------------------------------------------
+
+Carly loved playing sports.
+She bought a football to play with at home.
+She gathered her friends up and they threw the ball.
+They played for hours.
+> Carly was happy she had bought the fun new ball.
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797)), ('threw', (5.419560838301483, 5.419560838301483)), ('played', (4.948726988999759, 4.948726988999759)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.6227911947680732
+
+__About the completion__
+Rarest in completion: [('ball', 6.011655794229842), ('fun', 5.29917715665159), ('happy', 4.78013793434821), ('bought', 4.408241996399123), ('new', 3.7799959404738015)]
+Nearest to completion: [('fun', 0.5536594986915588), ('ball', 0.47631508111953735), ('excited', 0.43032529950141907), ('happy', 0.417418897151947), ('fantastic', 0.4136280119419098), ('neat', 0.4045184552669525), ('nice', 0.39627012610435486), ('fabulous', 0.39548608660697937), ('exciting', 0.39228737354278564), ('enjoyable', 0.37830236554145813)]
+
+--------------------------------------------------------------------------
+
+Jake was playing football at school.
+During practice, he ran for the ball and was trampled.
+He felt his leg snap.
+Jake could not move and was carried off the field.
+> Jake broke his leg in two places and cannot play football.
+
+__About the match__
+Rarest shared words: [('field', (6.2746408391307416, 6.2746408391307416)), ('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6184396007420535
+
+__About the completion__
+Rarest in completion: [('places', 7.645411014314648), ('leg', 6.967768020290668), ('football', 6.769942276960749), ('can', 6.060896510333005), ('broke', 5.548809852351987), ('play', 5.007453190032807), ('two', 4.891260466045621), ('not', 3.8329533830489027)]
+Nearest to completion: [('football', 0.47983020544052124), ('leg', 0.45086395740509033), ('Football', 0.37995344400405884), ('matches', 0.3774547278881073), ('broke', 0.3771742582321167), ('play', 0.3716979920864105), ('game', 0.36568230390548706), ('broken', 0.35799968242645264), ('soccer', 0.3526880443096161), ('league', 0.3518407642841339)]
+
+--------------------------------------------------------------------------
+
+Steve went a baseball game.
+He was sitting in right field.
+One of the players hit a homerun over the fence.
+Steve caught the ball.
+> Steve gave the ball to a kid sitting nearby.
+
+__About the match__
+Rarest shared words: [('field', (6.2746408391307416, 6.2746408391307416)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6106921623971766
+
+__About the completion__
+Rarest in completion: [('nearby', 7.092410465497945), ('kid', 6.551940125146958), ('sitting', 6.526493459485794), ('ball', 6.011655794229842), ('gave', 4.8834555483762365)]
+Nearest to completion: [('ball', 0.5699579119682312), ('kid', 0.44734710454940796), ('balls', 0.39351600408554077), ('youngster', 0.35608169436454773), ('teammate', 0.3536297380924225), ('nearby', 0.34402620792388916), ('corner', 0.3327588737010956), ('deflected', 0.3288407623767853), ('lad', 0.3262898921966553), ('fumbled', 0.323284387588501)]
+
+--------------------------------------------------------------------------
+
+It was the championship football game.
+David was the star receiver at his school.
+David told the quarterback to throw it up to him.
+The ball flew up in the air for what seemed like an eternity.
+> David reached about the defender to snag the winning catch!
+
+__About the match__
+Rarest shared words: [('football', (6.185028680441055, 6.185028680441055)), ('ball', (5.581493658570797, 5.581493658570797))]
+Score: 0.6094035185591653
+
+__About the completion__
+Rarest in completion: [('snag', 10.721185995542177), ('defender', 10.210360371776185), ('winning', 7.015777239477029), ('reached', 6.944600961009134), ('catch', 6.701804471793531), ('about', 4.124950211825675), ('!', 3.536809591467683)]
+Nearest to completion: [('snag', 0.5177090764045715), ('defender', 0.498466819524765), ('reached', 0.4761238992214203), ('clinch', 0.45006510615348816), ('catch', 0.4344187080860138), ('reach', 0.41608548164367676), ('winning', 0.3917189836502075), ('clinching', 0.3873327374458313), ('reaching', 0.37267327308654785), ('defenders', 0.3702561557292938)]
+
+--------------------------------------------------------------------------
+
+

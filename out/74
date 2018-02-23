@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Anna went to pick apples.
+She tried to pluck the low-hanging fruits.
+But she could reach very few.
+At the end of the trip, she had only ten apples.
+> Anna wished she had been able to reach more apples!
+
+__About the context__
+Rarest in context: [('low-hanging', 10.433523922490414), ('pluck', 10.02805881438225), ('fruits', 8.082148665326937), ('apples', 7.759375273063885), ('reach', 7.3654709873567965), ('ten', 5.996772388127286), ('end', 5.621339567117996), ('pick', 5.589336836031823), ('trip', 4.87476721988447), ('only', 4.719791116981044), ('few', 4.548809745329312), ('tried', 3.9806866353359713), ('could', 3.4004584525428303), ('very', 3.353497422567824)]
+Nearest to context: [('fruits', 0.4765785038471222), ('apples', 0.47275203466415405), ('fruit', 0.4390828311443329), ('reach', 0.3828608989715576), ('ten', 0.34901535511016846), ('apple', 0.33401089906692505), ('grapes', 0.3310650587081909), ('seeds', 0.3270350992679596), ('pick', 0.321567565202713), ('harvested', 0.30541011691093445)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('apples', 13731, 6269, 0.6701061725616455), ('fruit', 5169, 14831, 0.6436179876327515), ('tomatoes', 12693, 7307, 0.5852774977684021), ('grapes', 16903, 3097, 0.5472924709320068), ('vegetables', 6359, 13641, 0.5451850295066833), ('apple', 13467, 6533, 0.5444759130477905), ('fruits', 9831, 10169, 0.5315844416618347), ('tomato', 17675, 2325, 0.5273733139038086), ('potatoes', 13370, 6630, 0.46893149614334106), ('potato', 18712, 1288, 0.449496328830719)]
+Nearest words to completions' keywords: [('fruit', 5169, 14831, 0.6178277730941772), ('vegetables', 6359, 13641, 0.6048792600631714), ('apples', 13731, 6269, 0.5998928546905518), ('tomatoes', 12693, 7307, 0.5901891589164734), ('eat', 2785, 17215, 0.5877397060394287), ('potatoes', 13370, 6630, 0.5731247067451477), ('apple', 13467, 6533, 0.5705453753471375), ('grapes', 16903, 3097, 0.5699301958084106), ('salad', 12291, 7709, 0.562744140625), ('tomato', 17675, 2325, 0.5594514012336731)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6992695927619934), ('went', 297, 19703, 0.6464899778366089), ('came', 256, 19744, 0.6392476558685303), ('got', 193, 19807, 0.639066219329834), ('stayed', 2936, 17064, 0.6103053689002991), ('ate', 9337, 10663, 0.5970392227172852), ('was', 10, 19990, 0.5877429842948914), ('turned', 760, 19240, 0.567842960357666), ('gave', 573, 19427, 0.563101053237915), ('took', 263, 19737, 0.5600327849388123)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Barry has a grand garden in his backyard.
+Barry noticed a lot of fruits were ready to be picked.
+Barry got his basket and picked apples from the tree.
+Barry realized he had more fruit than he can personally eat.
+> Barry decided he would give some of his fruit to his neighbors.
+
+__About the match__
+Rarest shared words: [('fruits', (8.082148665326937, 8.082148665326937)), ('apples', (7.759375273063885, 7.759375273063885))]
+Score: 0.5400197601165134
+
+__About the completion__
+Rarest in completion: [('fruit', 7.353890165555702), ('neighbors', 6.856953653950378), ('give', 5.961865129726826), ('some', 4.142861138392206), ('would', 3.922873627941421), ('decided', 3.495461951503386)]
+Nearest to completion: [('fruit', 0.5374828577041626), ('fruits', 0.4174550175666809), ('neighbors', 0.36870962381362915), ('growers', 0.3672250509262085), ('would', 0.3643810749053955), ('decided', 0.3423421084880829), ('grapes', 0.32727333903312683), ('apples', 0.3245912790298462), ('persuaded', 0.3200000822544098), ('allow', 0.31699004769325256)]
+
+--------------------------------------------------------------------------
+
+Cindy really likes apples.
+She liked apples so much that she wanted to grow an apple tree.
+She planted a tree with seeds from a local gardening store.
+After 10 years, her tree finally started to grow fruit!
+> Now she has more apples than she can eat.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885))]
+Score: 0.5130480918191128
+
+__About the completion__
+Rarest in completion: [('apples', 8.130918830096348), ('can', 6.060896510333005), ('than', 5.6973054746958995), ('eat', 5.446478494633273), ('has', 4.937360813212439), ('more', 4.774893167080915), ('now', 4.716476221684173)]
+Nearest to completion: [('more', 0.5175778865814209), ('than', 0.5140555500984192), ('apples', 0.5053107142448425), ('less', 0.4489031732082367), ('consume', 0.4018804430961609), ('eat', 0.39777472615242004), ('varieties', 0.36396944522857666), ('apple', 0.3633584976196289), ('fruit', 0.3605704605579376), ('can', 0.3506944477558136)]
+
+--------------------------------------------------------------------------
+
+Mary had an apple tree in her garden.
+The tree was full of apples.
+Mary climbed up the tree to pick the apples.
+She fell down from the tree.
+> Mary broke her leg when she fell.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885)), ('pick', (5.589336836031823, 5.589336836031823))]
+Score: 0.48983224863297553
+
+__About the completion__
+Rarest in completion: [('leg', 6.967768020290668), ('broke', 5.548809852351987), ('fell', 5.1553892638598775), ('when', 3.4368224349138567)]
+Nearest to completion: [('broke', 0.6605545878410339), ('fell', 0.655544102191925), ('slipped', 0.5519576668739319), ('tumbled', 0.5496191382408142), ('slid', 0.5260104537010193), ('leg', 0.5130212306976318), ('plunged', 0.5059419274330139), ('edged', 0.4924425780773163), ('sank', 0.4887836277484894), ('jumped', 0.48826929926872253)]
+
+--------------------------------------------------------------------------
+
+Kyle was at his grandfather's apple orchard.
+He decided to climb a tree and pick a few apples.
+The limb Kyle was on broke and Kyle fell.
+Kyle landed on his arm.
+> Kyle had to go to the doctor to reset his shoulder.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885)), ('pick', (5.589336836031823, 5.589336836031823)), ('few', (4.548809745329312, 4.548809745329312))]
+Score: 0.48620146120838137
+
+__About the completion__
+Rarest in completion: [('reset', 9.873888135154973), ('shoulder', 7.948597273302394), ('doctor', 5.72622851416515), ('go', 4.110041419756121)]
+Nearest to completion: [('reset', 0.5517321228981018), ('shoulder', 0.5386183261871338), ('doctor', 0.5055508613586426), ('knee', 0.4952724874019623), ('elbow', 0.4916519224643707), ('groin', 0.42742565274238586), ('ankle', 0.4202934205532074), ('surgery', 0.4128279685974121), ('wrist', 0.410929799079895), ('hip', 0.4099818468093872)]
+
+--------------------------------------------------------------------------
+
+I went apple picking the other day with my friends.
+We picked a whole bunch of apples.
+A lot of my apples had worms in them.
+I was really upset about this.
+> My friends shared some of their apples with me.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885))]
+Score: 0.4657956901601583
+
+__About the completion__
+Rarest in completion: [('apples', 8.130918830096348), ('shared', 7.708924420036975), ('me', 4.441414571213571), ('their', 4.437673918472774), ('friends', 4.1620430130754205), ('some', 4.142861138392206), ('my', 3.5357989799617595)]
+Nearest to completion: [('my', 0.5481166243553162), ('My', 0.43354037404060364), ('your', 0.42174962162971497), ('friends', 0.41444066166877747), ('their', 0.412314772605896), ('shared', 0.4114982783794403), ('apples', 0.4051918089389801), ('me', 0.39619240164756775), ('our', 0.3853849172592163), ('yours', 0.37769362330436707)]
+
+--------------------------------------------------------------------------
+
+Kate wanted some fruit.
+She purchased some grapes, and some bananas.
+She ate the grapes and got full.
+She put the bananas on the table and forgot about them.
+> Three days later there were fruit flies in the dining room.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4637296805443514
+
+__About the completion__
+Rarest in completion: [('flies', 8.600922459342085), ('dining', 8.561701746188803), ('fruit', 7.353890165555702), ('three', 5.73075340876344), ('days', 5.677760878622929), ('room', 5.358330107856569), ('later', 5.235006891824569), ('there', 4.12267696692766), ('were', 3.60343995182413)]
+Nearest to completion: [('dining', 0.49582284688949585), ('fruit', 0.45086735486984253), ('flies', 0.39911824464797974), ('rooms', 0.35798346996307373), ('dining_room', 0.35127347707748413), ('room', 0.34463706612586975), ('grapes', 0.3200686275959015), ('three', 0.3135644197463989), ('restaurants', 0.31307679414749146), ('five', 0.3120424747467041)]
+
+--------------------------------------------------------------------------
+
+Timothy and Katherine decided to make seasonal treats for Autumn.
+They both loved fruit so they decided to make candy apples.
+They went to the market to get all of the ingredients they needed.
+Once they returned home, they made the candy apples.
+> The treats turned out delicious.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885))]
+Score: 0.4611808027298163
+
+__About the completion__
+Rarest in completion: [('treats', 8.236279345754177), ('delicious', 6.719931856386087), ('turned', 5.363028628638123), ('out', 3.3165011979861596)]
+Nearest to completion: [('treats', 0.7319076657295227), ('delicious', 0.6781660914421082), ('tasty', 0.6218652725219727), ('desserts', 0.5411872863769531), ('goodies', 0.467141330242157), ('dessert', 0.457954078912735), ('treat', 0.45179399847984314), ('delightful', 0.45013976097106934), ('cakes', 0.42309117317199707), ('baked', 0.4122183322906494)]
+
+--------------------------------------------------------------------------
+
+Growing up in a farm we always had fresh fruit and vegetables.
+One day my brother's and I decided to do more than just eat them.
+We picked tomatoes and started a tomato fight.
+We hid in the fields and hurled the tomatoes at each other.
+> Our mother was unhappy to see her tomatoes splashed across our shirts.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4550900609213417
+
+__About the completion__
+Rarest in completion: [('shirts', 8.824066010656296), ('tomatoes', 8.64174445386234), ('splashed', 8.487593774035082), ('unhappy', 7.90777527878214), ('across', 6.412626512750167), ('our', 5.481204206007103), ('mother', 5.47416192338169), ('see', 4.749074176950009)]
+Nearest to completion: [('tomatoes', 0.6247531175613403), ('tomato', 0.5009905695915222), ('vegetables', 0.48537710309028625), ('shirts', 0.47889387607574463), ('potatoes', 0.39954352378845215), ('grapes', 0.3863883912563324), ('T_shirts', 0.3716091215610504), ('vegetable', 0.3708513379096985), ('apples', 0.35899609327316284), ('fruit', 0.35849857330322266)]
+
+--------------------------------------------------------------------------
+
+I went apple picking with my sweetheart the other day.
+We had a great time picking apples.
+She fell and dropped her basket.
+Her apples spilled all over the ground.
+> We had to clean them off before we ate them!
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885))]
+Score: 0.4534001208526078
+
+__About the completion__
+Rarest in completion: [('clean', 6.24384918106397), ('ate', 5.493648811055187), ('before', 4.900114434362875), ('off', 4.4887379789916535), ('we', 4.354142974076229), ('them', 3.9905657466666935), ('!', 3.536809591467683)]
+Nearest to completion: [('clean', 0.4705635905265808), ('ate', 0.4043281376361847), ('off', 0.3622269630432129), ('cleaned', 0.36122453212738037), ('eat', 0.33375611901283264), ('them', 0.32306480407714844), ('before', 0.30388617515563965), ('promptly', 0.30133458971977234), ('eaten', 0.282277911901474), ('contaminated', 0.27704918384552)]
+
+--------------------------------------------------------------------------
+
+Molly was visiting her grandma.
+She noticed a big apple tree in the yard.
+Her grandma asked if she'd like to pick apples.
+Molly said yes.
+> They spent the whole afternoon picking them.
+
+__About the match__
+Rarest shared words: [('apples', (7.759375273063885, 7.759375273063885)), ('pick', (5.589336836031823, 5.589336836031823))]
+Score: 0.44406066918386505
+
+__About the completion__
+Rarest in completion: [('picking', 7.463089457520694), ('afternoon', 6.713852810309705), ('whole', 5.863960914745455), ('spent', 5.45849580663729), ('them', 3.9905657466666935)]
+Nearest to completion: [('spent', 0.5380880832672119), ('picking', 0.4615934491157532), ('spend', 0.39600419998168945), ('spends', 0.3751797378063202), ('afternoon', 0.3719702363014221), ('sorting', 0.31852367520332336), ('entire', 0.303840696811676), ('morning', 0.3020033538341522), ('whole', 0.29826226830482483), ('midday', 0.28872033953666687)]
+
+--------------------------------------------------------------------------
+
+

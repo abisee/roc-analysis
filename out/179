@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bea yelled out that the computer was broken again.
+Mike walked into their shared office and looked at her,  exasperated.
+Mike rolled his eyes.
+He approached Bea and the computer, sighing a long suffering sigh.
+> Mike switched on the computer monitor.
+
+__About the context__
+Rarest in context: [('sighing', 10.433523922490414), ('exasperated', 10.02805881438225), ('sigh', 9.740376741930469), ('suffering', 8.824086010056313), ('shared', 7.3890014847669905), ('rolled', 6.850004984034304), ('approached', 6.426190737257943), ('yelled', 6.34754760993883), ('eyes', 6.116035808954104), ('broken', 6.026804675226161), ('computer', 5.838404072355824), ('again', 5.633609659709811), ('office', 5.617282766422382), ('long', 4.7214426450195175), ('walked', 4.692124584262906), ('looked', 4.167272590916383), ('their', 4.071358259710607), ('into', 3.75707038252395)]
+Nearest to context: [('walked', 0.49441343545913696), ('exited', 0.45193541049957275), ('screamed', 0.4422942101955414), ('flashed', 0.4421086013317108), ('rolled', 0.43013110756874084), ('leaned', 0.42820993065834045), ('shoved', 0.4170903265476227), ('yelled', 0.4079272449016571), ('hugged', 0.40627989172935486), ('shouted', 0.40201327204704285)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('policeman', 10349, 9651, 0.4371598958969116), ('man', 251, 19749, 0.41665565967559814), ('woman', 641, 19359, 0.4091486930847168), ('handcuffed', 16217, 3783, 0.3676663637161255), ('walked', 1850, 18150, 0.3490940034389496), ('girl', 1408, 18592, 0.3349737823009491), ('stabbed', 6979, 13021, 0.3305826187133789), ('motorist', 15995, 4005, 0.32737794518470764), ('gentleman', 14333, 5667, 0.3267233371734619), ('assaulted', 10641, 9359, 0.31753233075141907)]
+Nearest words to completions' keywords: [('girl', 1408, 18592, 0.563130259513855), ('man', 251, 19749, 0.5609453916549683), ('woman', 641, 19359, 0.5603824853897095), ('boy', 1556, 18444, 0.5430465340614319), ('teenager', 5212, 14788, 0.5210971236228943), ('walked', 1850, 18150, 0.5104475021362305), ('policeman', 10349, 9651, 0.510072648525238), ('dog', 2043, 17957, 0.5075351595878601), ('mother', 852, 19148, 0.502316951751709), ('just', 76, 19924, 0.49324196577072144)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7251704335212708), ('came', 256, 19744, 0.7064785361289978), ('turned', 760, 19240, 0.6671556234359741), ('walked', 1850, 18150, 0.6662577390670776), ('ran', 1256, 18744, 0.6468963623046875), ('got', 193, 19807, 0.6366897821426392), ('took', 263, 19737, 0.6326619982719421), ('had', 35, 19965, 0.6266578435897827), ('was', 10, 19990, 0.61870276927948), ('saw', 653, 19347, 0.6177341938018799)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Felicia was walking down the street when a man bumped into her.
+He was scary looking and she screamed when she looked at him.
+People around her gathered in case she needed help.
+The man removed his Halloween mask and smiled at her.
+> Felicia smiled too but her heart was still beating strong.
+
+__About the match__
+Rarest shared words: [('looked', (4.167272590916383, 4.167272590916383)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.5353160818761974
+
+__About the completion__
+Rarest in completion: [('beating', 8.824066010656296), ('strong', 7.585691779613026), ('heart', 6.967768020290668), ('smiled', 6.789360362817851), ('still', 5.390078806171148), ('too', 4.812197670258433), ('but', 3.4639482432028115)]
+Nearest to completion: [('beating', 0.4891153872013092), ('heart', 0.4196010231971741), ('strong', 0.3990757465362549), ('beat', 0.364885538816452), ('surprisingly', 0.3473462462425232), ('hearts', 0.3392783999443054), ('too', 0.33832019567489624), ('nevertheless', 0.33049526810646057), ('Still', 0.33005595207214355), ('weak', 0.3292028307914734)]
+
+--------------------------------------------------------------------------
+
+Mary was walking down her school hallway.
+She accidentally bumped into a frail girl and knocked coffee over her.
+The girl fled with tears in her eyes.
+Mary felt absolutely atrocious for the accident.
+> She followed the girl, apologized, and offered to be her friend.
+
+__About the match__
+Rarest shared words: [('eyes', (6.116035808954104, 6.116035808954104)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.5070664877148708
+
+__About the completion__
+Rarest in completion: [('followed', 7.18506929598065), ('apologized', 6.999516718605249), ('offered', 6.213996217914288), ('girl', 5.502633597463002), ('friend', 4.4228496815892715), ('be', 4.0931446193626435)]
+Nearest to completion: [('apologized', 0.5794875621795654), ('friend', 0.4439319372177124), ('girl', 0.42928653955459595), ('apologize', 0.4220010042190552), ('apology', 0.4065597951412201), ('boy', 0.3842586576938629), ('classmate', 0.3726820647716522), ('girlfriend', 0.3643137216567993), ('offered', 0.36176520586013794), ('niece', 0.3607535660266876)]
+
+--------------------------------------------------------------------------
+
+Jill heard the school bus approaching as she walked to the bus stop.
+She hurried her walking.
+Jill saw the bus pull away as she reached the stop.
+Jill ran to the street and waved her arms.
+> The bus stopped for Jill.
+
+__About the match__
+Rarest shared words: [('walked', (4.692124584262906, 4.692124584262906))]
+Score: 0.49531876675705594
+
+__About the completion__
+Rarest in completion: [('bus', 6.506592305168499), ('stopped', 5.619289110167595)]
+Nearest to completion: [('bus', 0.7671829462051392), ('buses', 0.6229445338249207), ('stopped', 0.5987950563430786), ('Bus', 0.5659267902374268), ('van', 0.5174272656440735), ('taxi', 0.4908480644226074), ('stop', 0.46112099289894104), ('train', 0.44873717427253723), ('cab', 0.435147225856781), ('vans', 0.4162607192993164)]
+
+--------------------------------------------------------------------------
+
+The man leaned in for a kiss.
+The woman turned her head.
+The man grabbed the woman.
+The woman slapped the man.
+> The man let go of the woman.
+
+__About the match__
+Rarest shared words: []
+Score: 0.49382530141368514
+
+__About the completion__
+Rarest in completion: [('let', 5.763014270981661), ('woman', 5.684233393128547), ('man', 4.481560134144697), ('go', 4.110041419756121)]
+Nearest to completion: [('woman', 0.7249581813812256), ('man', 0.7134417295455933), ('girl', 0.5444461703300476), ('boy', 0.4856114685535431), ('teenager', 0.4627346098423004), ('lady', 0.4434373676776886), ('robber', 0.43622833490371704), ('Woman', 0.41843315958976746), ('person', 0.4173392653465271), ('motorist', 0.3944474756717682)]
+
+--------------------------------------------------------------------------
+
+Mel kissed Tom's forehead.
+A tear slid silently down Tom's cheek.
+It was hard to leave, but Mel turned and walked quickly away.
+Tom said nothing as he watched her go.
+> Finally, he too, turned and walked away.
+
+__About the match__
+Rarest shared words: [('walked', (4.692124584262906, 4.692124584262906))]
+Score: 0.4778959225885785
+
+__About the completion__
+Rarest in completion: [('turned', 5.363028628638123), ('walked', 5.178616114469694), ('away', 4.824948298377215), ('too', 4.812197670258433), ('finally', 4.562795577118213)]
+Nearest to completion: [('walked', 0.5757853388786316), ('turned', 0.5086909532546997), ('chased', 0.4194682836532593), ('wandered', 0.40738925337791443), ('exited', 0.39449986815452576), ('sped', 0.3927886188030243), ('bowed', 0.38634008169174194), ('drifted', 0.37686505913734436), ('turning', 0.3670750558376312), ('away', 0.36694103479385376)]
+
+--------------------------------------------------------------------------
+
+William didn't like walking alone at night.
+He always kept a flashlight with him to see ahead of him.
+One night, he lost his flashlight while running away from someone.
+He jumped and cried as soon as someone tapped his shoulder.
+> When he turned, he saw a policeman who was holding his flashlight.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4693660337717571
+
+__About the completion__
+Rarest in completion: [('policeman', 9.047209561970504), ('flashlight', 8.775275846486863), ('holding', 7.849506370658164), ('who', 5.401433348274074), ('turned', 5.363028628638123), ('saw', 4.402217881795742), ('when', 3.4368224349138567)]
+Nearest to completion: [('policeman', 0.5714899301528931), ('holding', 0.43398183584213257), ('turned', 0.43024924397468567), ('policemen', 0.3865489661693573), ('snatched', 0.37253591418266296), ('saw', 0.3503333628177643), ('grabbed', 0.34942999482154846), ('pulled', 0.34247472882270813), ('officer', 0.3418392241001129), ('sergeant', 0.3366588056087494)]
+
+--------------------------------------------------------------------------
+
+Cheryl walked into the coffee shop with a frown.
+She demanded a large coffee from the barista and snapped her fingers.
+After a minute, she asked the barista what was taking so long.
+When her coffee was ready, she grabbed it and rushed out the door.
+> The coffee patrons grumbled with disapproval.
+
+__About the match__
+Rarest shared words: [('long', (4.7214426450195175, 4.7214426450195175)), ('walked', (4.692124584262906, 4.692124584262906)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.4660082016022692
+
+__About the completion__
+Rarest in completion: [('disapproval', 11.12665110365034), ('grumbled', 10.028038814982231), ('patrons', 9.180740954595027), ('coffee', 6.24384918106397)]
+Nearest to completion: [('patrons', 0.7539086937904358), ('coffee', 0.7507408857345581), ('diners', 0.578073263168335), ('Coffee', 0.5510619282722473), ('coffee_shop', 0.5495786070823669), ('Starbucks', 0.5074551105499268), ('cafe', 0.5023171305656433), ('drinks', 0.48653391003608704), ('beverages', 0.47933924198150635), ('Café', 0.4766053557395935)]
+
+--------------------------------------------------------------------------
+
+I let the dog out when I woke up.
+She came back in and sat in the doorway.
+I tried to close the door but she ran back out.
+I waited and tried again.
+> We fought like that for over an hour.
+
+__About the match__
+Rarest shared words: [('again', (5.633609659709811, 5.633609659709811))]
+Score: 0.4621561101326144
+
+__About the completion__
+Rarest in completion: [('fought', 7.742260840304566), ('hour', 5.830836867320422), ('like', 4.781014742821744), ('over', 4.367395832986647), ('we', 4.354142974076229), ('an', 3.8221351571901856)]
+Nearest to completion: [('fought', 0.45619067549705505), ('hour', 0.403820276260376), ('thirty', 0.3645441234111786), ('over', 0.3545830547809601), ('twenty', 0.3528079390525818), ('forty', 0.3340209424495697), ('fifteen', 0.33282434940338135), ('an', 0.32885822653770447), ('battled', 0.3194615840911865), ('fighting', 0.3006226718425751)]
+
+--------------------------------------------------------------------------
+
+The dog stood by the door and waited to be walked.
+The boy saw his dog and grabbed the leash.
+They walked around the block and returned home.
+The boy put the leash away.
+> The dog went lie down in his bed.
+
+__About the match__
+Rarest shared words: [('walked', (4.692124584262906, 4.692124584262906))]
+Score: 0.46041472914618237
+
+__About the completion__
+Rarest in completion: [('lie', 8.236279345754177), ('bed', 5.863960914745455), ('dog', 5.026332151630276), ('down', 4.370882181666085), ('went', 3.303005172815388)]
+Nearest to completion: [('bed', 0.5481743216514587), ('lie', 0.509120762348175), ('dog', 0.49643123149871826), ('dogs', 0.4178953170776367), ('puppy', 0.3988822400569916), ('cat', 0.37783291935920715), ('down', 0.34669896960258484), ('lying', 0.3455560505390167), ('couch', 0.34443390369415283), ('Dog', 0.34177154302597046)]
+
+--------------------------------------------------------------------------
+
+He had lost control of his focus.
+He sat staring at the computer screen.
+He yelled that he couldn't think.
+I laughed at him and he glared at me.
+> He said he really just needed a nap.
+
+__About the match__
+Rarest shared words: [('yelled', (6.34754760993883, 6.34754760993883)), ('computer', (5.838404072355824, 5.838404072355824))]
+Score: 0.45755583290965035
+
+__About the completion__
+Rarest in completion: [('nap', 7.571303042160927), ('needed', 4.868983515767702), ('really', 4.8267831612773255), ('just', 4.707470839499374), ('said', 4.667529428177747)]
+Nearest to completion: [('really', 0.5059910416603088), ('said', 0.49325335025787354), ('needed', 0.4710600972175598), ('Added', 0.4303755462169647), ('definitely', 0.41794174909591675), ('added', 0.40633827447891235), ('says', 0.378156840801239), ('adding', 0.368707537651062), ('obviously', 0.36727985739707947), ('explained', 0.36186525225639343)]
+
+--------------------------------------------------------------------------
+
+

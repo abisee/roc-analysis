@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Tom had a very short temper.
+One day a guest made him very angry.
+He punched a hole in the wall of his house.
+Tom's guest became afraid and left quickly.
+> Tom sat on his couch filled with regret about his actions.
+
+__About the context__
+Rarest in context: [('temper', 9.047229561370523), ('guest', 8.418620901948149), ('punched', 7.794466592875155), ('wall', 6.719951855786106), ('hole', 6.684019846560043), ('short', 6.355986478584694), ('angry', 6.1708440454490985), ('afraid', 5.6799337313840494), ('quickly', 5.535684122539503), ('became', 5.155409263259896), ('left', 4.680951283664781), ('house', 4.016791639978088), ('made', 3.9565515596007312), ('very', 3.353497422567824)]
+Nearest to context: [('punched', 0.5037474632263184), ('temper', 0.4145623445510864), ('angry', 0.36645638942718506), ('wall', 0.3646667003631592), ('shoved', 0.3640417456626892), ('hole', 0.35041749477386475), ('outspoken', 0.34123361110687256), ('confronted', 0.3251569867134094), ('furious', 0.3181464970111847), ('angered', 0.30223238468170166)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('apologized', 7004, 12996, 0.36377257108688354), ('anger', 4546, 15454, 0.36266860365867615), ('apologize', 7509, 12491, 0.3373230993747711), ('lashed', 14994, 5006, 0.293535053730011), ('unconscious', 12256, 7744, 0.2917817533016205), ('fury', 17688, 2312, 0.2834917902946472), ('slammed', 7122, 12878, 0.2803271412849426), ('apologies', 18731, 1269, 0.2738594710826874), ('tried', 940, 19060, 0.27269330620765686), ('forgive', 13041, 6959, 0.26673024892807007)]
+Nearest words to completions' keywords: [('cried', 11408, 8592, 0.49104100465774536), ('just', 76, 19924, 0.4818557798862457), ('scared', 6037, 13963, 0.4763420522212982), ('knew', 1039, 18961, 0.4742840826511383), ('mother', 852, 19148, 0.472598671913147), ('embarrassed', 9623, 10377, 0.4699889123439789), ('boy', 1556, 18444, 0.4689730703830719), ('him', 93, 19907, 0.46832790970802307), ('stabbed', 6979, 13021, 0.4680297076702118), ('fell', 594, 19406, 0.4673849046230316)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7150803208351135), ('came', 256, 19744, 0.6929775476455688), ('got', 193, 19807, 0.6694796681404114), ('had', 35, 19965, 0.6631028056144714), ('was', 10, 19990, 0.6590558886528015), ('ran', 1256, 18744, 0.6163517832756042), ('landed', 4035, 15965, 0.6148790717124939), ('fell', 594, 19406, 0.6024541854858398), ('broke', 1506, 18494, 0.599820077419281), ('knocked', 3488, 16512, 0.5954193472862244)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The man punched the wall.
+He hit a stud.
+He broke his hand.
+He felt stupid about how he broke it.
+> He made up a lie to tell his friends about how he broke it.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155)), ('wall', (6.719951855786106, 6.719951855786106))]
+Score: 0.5772032223369254
+
+__About the completion__
+Rarest in completion: [('lie', 8.236279345754177), ('tell', 6.335001350719631), ('broke', 5.548809852351987), ('how', 4.945599788756992), ('made', 4.267560996649484), ('friends', 4.1620430130754205), ('about', 4.124950211825675)]
+Nearest to completion: [('tell', 0.4563642144203186), ('lie', 0.4523272216320038), ('about', 0.38936397433280945), ('Tell', 0.35850074887275696), ('how', 0.33428290486335754), ('broke', 0.3308354914188385), ('truth', 0.3259841203689575), ('telling', 0.32444024085998535), ('lies', 0.3168719410896301), ('lied', 0.31584233045578003)]
+
+--------------------------------------------------------------------------
+
+Erin punched the wall.
+She made a hole the shape of her fist.
+She bought some putty to fix the hole.
+She fixed the hole.
+> She worked on her anger management.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155)), ('wall', (6.719951855786106, 6.719951855786106)), ('hole', (6.684019846560043, 6.684019846560043)), ('made', (3.9565515596007312, 3.9565515596007312))]
+Score: 0.525581010888823
+
+__About the completion__
+Rarest in completion: [('management', 8.684304068281136), ('anger', 8.156236638080639), ('worked', 5.214500363262084)]
+Nearest to completion: [('anger', 0.658429741859436), ('management', 0.5704430341720581), ('resentment', 0.5290853381156921), ('worked', 0.4905511140823364), ('discontent', 0.47189852595329285), ('frustration', 0.4681275486946106), ('dissatisfaction', 0.4675348997116089), ('outrage', 0.4241539537906647), ('disgust', 0.41838914155960083), ('fury', 0.4176314175128937)]
+
+--------------------------------------------------------------------------
+
+Nate walked to his locker.
+A jock accidentally tripped on Nate's shoe lace.
+He fell on the floor.
+Since the jock was angry, he punched Nate.
+> Nate was knocked unconscious.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155)), ('angry', (6.1708440454490985, 6.1708440454490985))]
+Score: 0.4881805020170762
+
+__About the completion__
+Rarest in completion: [('unconscious', 9.873888135154973), ('knocked', 6.914523505771856)]
+Nearest to completion: [('unconscious', 0.7975663542747498), ('knocked', 0.6604299545288086), ('punched', 0.4955052137374878), ('knocking', 0.4910590648651123), ('assaulted', 0.4836489260196686), ('pronounced_dead', 0.47980639338493347), ('stabbed', 0.46202409267425537), ('coma', 0.4534551501274109), ('airlifted', 0.43112829327583313), ('strangled', 0.41175559163093567)]
+
+--------------------------------------------------------------------------
+
+Frank had a bad temper.
+If he got angry, he would yell at everyone around him.
+Frank decided to work on his issues.
+But once someone made him angry, he started screaming again.
+> He apologized and promised to try harder next time.
+
+__About the match__
+Rarest shared words: [('temper', (9.047229561370523, 9.047229561370523)), ('angry', (6.1708440454490985, 6.1708440454490985)), ('made', (3.9565515596007312, 3.9565515596007312))]
+Score: 0.4590282329654499
+
+__About the completion__
+Rarest in completion: [('harder', 7.759355273663867), ('promised', 7.156359190098219), ('apologized', 6.999516718605249), ('try', 5.504440282687951), ('next', 4.72639365834152), ('time', 3.981849368185002)]
+Nearest to completion: [('vowed', 0.534934937953949), ('apologized', 0.5334675908088684), ('promised', 0.5127622485160828), ('pledged', 0.4973582923412323), ('vowing', 0.44627559185028076), ('apologize', 0.4455173909664154), ('harder', 0.4416061341762543), ('urged', 0.43168529868125916), ('hoped', 0.4178886115550995), ('pledging', 0.4076213836669922)]
+
+--------------------------------------------------------------------------
+
+People were at a party.
+Suddenly, someone got punched.
+The person was caught.
+The attacker got kicked out.
+> The party was fine after that.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155))]
+Score: 0.45535572292056725
+
+__About the completion__
+Rarest in completion: [('fine', 6.959985879848613), ('party', 5.569823041950802), ('after', 3.9503965716331964)]
+Nearest to completion: [('fine', 0.602076530456543), ('party', 0.5995972752571106), ('Party', 0.4415596127510071), ('after', 0.4313649833202362), ('fines', 0.3760589361190796), ('fined', 0.3615504801273346), ('parties', 0.36140143871307373), ('Democratic_Party', 0.3141051232814789), ('Fine', 0.2882617115974426), ('imprisonment', 0.28624260425567627)]
+
+--------------------------------------------------------------------------
+
+In grade school, I had a bully.
+One day, I had enough.
+After he pushed me, I punched him.
+The punch hurt my hand tremendously.
+> I never had the urge to hit anyone ever again.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155))]
+Score: 0.4482131565687345
+
+__About the completion__
+Rarest in completion: [('urge', 9.622573706874066), ('anyone', 7.024007738613545), ('ever', 6.106065478700916), ('hit', 5.52453228277064), ('again', 5.046717908554751), ('never', 4.624610964031577)]
+Nearest to completion: [('ever', 0.5568554997444153), ('anyone', 0.5151885747909546), ('never', 0.47409409284591675), ('Never', 0.4716997742652893), ('urge', 0.4062907099723816), ('anybody', 0.38916561007499695), ('anything', 0.38496094942092896), ('again', 0.3807995021343231), ('Nobody', 0.35063499212265015), ('nobody', 0.3396844267845154)]
+
+--------------------------------------------------------------------------
+
+Miles had a short temper.
+He got angry as soon as his kids were making too much noise.
+As he was rough and violent too, his wife left him and took the kids.
+Suddenly alone, Miles started thinking.
+> He went to therapy and mended things with his wife eventually.
+
+__About the match__
+Rarest shared words: [('temper', (9.047229561370523, 9.047229561370523)), ('short', (6.355986478584694, 6.355986478584694)), ('angry', (6.1708440454490985, 6.1708440454490985)), ('left', (4.680951283664781, 4.680951283664781))]
+Score: 0.43049264647205465
+
+__About the completion__
+Rarest in completion: [('mended', 10.210360371776185), ('therapy', 8.130918830096348), ('things', 5.699500865259336), ('eventually', 5.556400021618662), ('wife', 5.17731148284303), ('went', 3.303005172815388)]
+Nearest to completion: [('therapy', 0.6478188037872314), ('therapies', 0.5123741626739502), ('treatments', 0.5062735080718994), ('wife', 0.4589865505695343), ('therapist', 0.4347194731235504), ('chemotherapy', 0.43331217765808105), ('treatment', 0.42344918847084045), ('husband', 0.3689773678779602), ('medication', 0.35982459783554077), ('medications', 0.35539916157722473)]
+
+--------------------------------------------------------------------------
+
+The boy teased the girl.
+The girl got mad.
+She punched the boy.
+The boy told on the girl.
+> The girl got in trouble.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155))]
+Score: 0.4284942870731526
+
+__About the completion__
+Rarest in completion: [('trouble', 6.24384918106397), ('girl', 5.502633597463002), ('got', 3.390344007102055)]
+Nearest to completion: [('girl', 0.6186979413032532), ('trouble', 0.5702305436134338), ('boy', 0.532899796962738), ('teenager', 0.44255080819129944), ('woman', 0.40474894642829895), ('toddler', 0.3675956428050995), ('girls', 0.33633631467819214), ('teen', 0.3354468047618866), ('man', 0.33343082666397095), ('daughter', 0.3208421766757965)]
+
+--------------------------------------------------------------------------
+
+Ben was carrying his lunch tray to the table.
+Sam bumped into him.
+Both of their trays fell on the floor.
+Sam was mad and punched Ben.
+> He fell and landed on the food.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155))]
+Score: 0.42423160350943634
+
+__About the completion__
+Rarest in completion: [('landed', 6.757203251183319), ('fell', 5.1553892638598775), ('food', 5.1080578891541055)]
+Nearest to completion: [('fell', 0.6945976614952087), ('landed', 0.6155464053153992), ('tumbled', 0.6105813980102539), ('slid', 0.5754850506782532), ('slipped', 0.5691542029380798), ('climbed', 0.5611928105354309), ('plunged', 0.5582287907600403), ('rose', 0.5342861413955688), ('dropped', 0.5315468907356262), ('plummeted', 0.5242223739624023)]
+
+--------------------------------------------------------------------------
+
+The new guy at work is odd.
+Just yesterday, he yelled at a co-worker.
+Then when he apologized, he ended up yelling even more!
+His co-worker took offense and punched him.
+> Now, the new guy at work is much, much more quiet.
+
+__About the match__
+Rarest shared words: [('punched', (7.794466592875155, 7.794466592875155))]
+Score: 0.4170438872499002
+
+__About the completion__
+Rarest in completion: [('quiet', 7.400957676413688), ('guy', 6.713852810309705), ('much', 4.895185888161725), ('more', 4.774893167080915), ('now', 4.716476221684173), ('work', 4.3399341530452595), ('is', 4.0817459865209695), ('new', 3.7799959404738015)]
+Nearest to completion: [('much', 0.4470185339450836), ('is', 0.4224529564380646), ('more', 0.4153371751308441), ('quiet', 0.4146367609500885), ('now', 0.3629572093486786), ('less', 0.3552977442741394), ('seems', 0.33749818801879883), ('than', 0.33682385087013245), ('little', 0.3235209882259369), ('new', 0.32245779037475586)]
+
+--------------------------------------------------------------------------
+
+

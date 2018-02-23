@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+In 2014, Marcy adopted a poodle.
+She named her Cookie, because she resembled an oatmeal cookie.
+Cookie learned to protect Marcy's two daughters from harm.
+She went for walks with them every evening, and was allowed to swim.
+> Cookie made the kids very happy that year.
+
+__About the context__
+Rarest in context: [('harm', 10.02805881438225), ('resembled', 9.740376741930469), ('poodle', 9.180760953995046), ('oatmeal', 9.180760953995046), ('2014', 8.824086010056313), ('protect', 8.824086010056313), ('daughters', 8.4876137734351), ('cookie', 7.660935200250632), ('walks', 7.463109456920713), ('adopted', 7.137687056486085), ('allowed', 6.63803473331822), ('swim', 6.5215009170622675), ('evening', 6.298357365748058), ('named', 5.863980914145474), ('learned', 5.692949099496119), ('because', 4.688919453313957), ('two', 4.452109711235933), ('every', 4.228966159921724), ('them', 3.5707660094390126), ('from', 3.533800815205541), ('an', 3.319567812924379)]
+Nearest to context: [('protect', 0.4298233091831207), ('walks', 0.363372802734375), ('safeguard', 0.3619295656681061), ('adopted', 0.3548225462436676), ('protects', 0.35025304555892944), ('protected', 0.34499591588974), ('swim', 0.3327009975910187), ('protecting', 0.3314361274242401), ('harm', 0.3270750641822815), ('allowed', 0.31661659479141235)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('siblings', 9194, 10806, 0.43106216192245483), ('daughters', 5080, 14920, 0.42829760909080505), ('sons', 4420, 15580, 0.3988434374332428), ('mother', 852, 19148, 0.38058367371559143), ('family', 244, 19756, 0.3756328225135803), ('grandchildren', 5842, 14158, 0.37543413043022156), ('sister', 2407, 17593, 0.3749331533908844), ('grandparents', 9974, 10026, 0.37420785427093506), ('sisters', 5919, 14081, 0.36666783690452576), ('loving', 6576, 13424, 0.36298564076423645)]
+Nearest words to completions' keywords: [('daughters', 5080, 14920, 0.5569846630096436), ('mother', 852, 19148, 0.5557939410209656), ('kids', 809, 19191, 0.5522423386573792), ('loved', 3069, 16931, 0.5485962629318237), ('dad', 3924, 16076, 0.5460286736488342), ('grandchildren', 5842, 14158, 0.5435803532600403), ('just', 76, 19924, 0.5374459624290466), ('grandmother', 6547, 13453, 0.5350091457366943), ('mom', 3994, 16006, 0.533056378364563), ('wonderful', 3057, 16943, 0.5299919247627258)]
+Nearest words to completions' verbs: [('knew', 1039, 18961, 0.6869613528251648), ('had', 35, 19965, 0.6685713529586792), ('was', 10, 19990, 0.6457078456878662), ('got', 193, 19807, 0.6265801191329956), ('came', 256, 19744, 0.5977610349655151), ('wanted', 583, 19417, 0.5904786586761475), ('went', 297, 19703, 0.578302800655365), ('liked', 3988, 16012, 0.5749757289886475), ('saw', 653, 19347, 0.5681541562080383), ('stayed', 2936, 17064, 0.559965968132019)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jane loved cookies as a child.
+Her mother taught her how to make cookies.
+She made them for her friends one evening.
+Her friends loved them.
+> Now Jane has her own bakery where she sells her cookies.
+
+__About the match__
+Rarest shared words: [('evening', (6.298357365748058, 6.298357365748058)), ('them', (3.5707660094390126, 3.5707660094390126))]
+Score: 0.391442625008141
+
+__About the completion__
+Rarest in completion: [('sells', 9.111748083108075), ('bakery', 8.487593774035082), ('cookies', 7.024007738613545), ('where', 5.976253867178926), ('own', 5.73757937383384), ('has', 4.937360813212439), ('now', 4.716476221684173)]
+Nearest to completion: [('bakery', 0.6044527292251587), ('sells', 0.5761085152626038), ('cookies', 0.5310066342353821), ('buys', 0.46197623014450073), ('cakes', 0.432165265083313), ('baking', 0.42656129598617554), ('ice_cream', 0.4099757969379425), ('cookie', 0.4074345827102661), ('distributes', 0.4022846519947052), ('owns', 0.3963867425918579)]
+
+--------------------------------------------------------------------------
+
+Julie got her son, Jason,  Legos for his birthday.
+Jason loved his Legos, but would leave them strewn across the floor.
+Julie often stepped on the Legos, which was very painful.
+She decided to wear slippers to protect her feet from Jason's toys.
+> Jason grew up to be a messy, disorganized adult.
+
+__About the match__
+Rarest shared words: [('protect', (8.824086010056313, 8.824086010056313)), ('them', (3.5707660094390126, 3.5707660094390126)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.36250481332438855
+
+__About the completion__
+Rarest in completion: [('disorganized', 10.721185995542177), ('messy', 8.058598168516724), ('adult', 8.013135794439966), ('grew', 6.343334732278775), ('be', 4.0931446193626435)]
+Nearest to completion: [('grew', 0.5597900748252869), ('adult', 0.5186000466346741), ('messy', 0.480930358171463), ('grown', 0.4666484296321869), ('grow', 0.4398621618747711), ('Growing', 0.40434232354164124), ('grows', 0.3960747718811035), ('be', 0.34683355689048767), ('mature', 0.3350219428539276), ('growing', 0.3328406810760498)]
+
+--------------------------------------------------------------------------
+
+Tim loved eating cookies.
+His parents always tried to stop him.
+They would hide them in different places.
+One day they noticed Tim was covered in cookie crumbs.
+> They lectured him again to no avail.
+
+__About the match__
+Rarest shared words: [('cookie', (7.660935200250632, 7.660935200250632)), ('them', (3.5707660094390126, 3.5707660094390126))]
+Score: 0.35983253628702
+
+__About the completion__
+Rarest in completion: [('lectured', 9.622573706874066), ('avail', 8.323290722743806), ('again', 5.046717908554751), ('no', 4.72556343828553), ('him', 3.3907807836977737)]
+Nearest to completion: [('avail', 0.7132763862609863), ('no', 0.4718589186668396), ('whatsoever', 0.38332420587539673), ('No', 0.3401569724082947), ('again', 0.33753451704978943), ('repeatedly', 0.3295471668243408), ('whenever', 0.3200853765010834), ('him', 0.3185494542121887), ('nobody', 0.30740979313850403), ('immediate', 0.29566580057144165)]
+
+--------------------------------------------------------------------------
+
+Barry and his wife were having fertility issues.
+Barry and his wife decided to adopt a baby.
+Barry and his wife adopted a little girl from Africa.
+Barry and his wife were named her Abigail, after his mom.
+> Barry and his wife were so excited to finally be parents.
+
+__About the match__
+Rarest shared words: [('adopted', (7.137687056486085, 7.137687056486085)), ('named', (5.863980914145474, 5.863980914145474)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.3487096933363343
+
+__About the completion__
+Rarest in completion: [('wife', 5.17731148284303), ('excited', 5.146500316442632), ('parents', 5.059383593126858), ('finally', 4.562795577118213), ('be', 4.0931446193626435), ('so', 3.628612279567497), ('were', 3.60343995182413)]
+Nearest to completion: [('parents', 0.4691126048564911), ('wife', 0.4633193612098694), ('daughters', 0.43362799286842346), ('excited', 0.42812201380729675), ('thrilled', 0.40677762031555176), ('daughter', 0.40616288781166077), ('mother', 0.3761901259422302), ('husband', 0.3639669716358185), ('siblings', 0.36171582341194153), ('be', 0.355435311794281)]
+
+--------------------------------------------------------------------------
+
+Paula was 26 years old when her sister died.
+Her sister had 4 kids and the father was not around.
+No one was able to take the kids in.
+Paula stepped up and adopted the kids.
+> She did a great job and raised 4 happy kids.
+
+__About the match__
+Rarest shared words: [('adopted', (7.137687056486085, 7.137687056486085))]
+Score: 0.34830273172630516
+
+__About the completion__
+Rarest in completion: [('raised', 7.676663557818753), ('4', 7.63014354218386), ('kids', 5.176008551062614), ('job', 4.864205675813988), ('great', 4.843450213762537), ('happy', 4.78013793434821), ('did', 3.6104898725633485)]
+Nearest to completion: [('great', 0.4261847734451294), ('happy', 0.40680360794067383), ('terrific', 0.38828331232070923), ('kids', 0.3764325678348541), ('fantastic', 0.36503344774246216), ('job', 0.36145174503326416), ('proud', 0.36040252447128296), ('phenomenal', 0.35393795371055603), ('excited', 0.353720098733902), ('good', 0.35101139545440674)]
+
+--------------------------------------------------------------------------
+
+Glenn had never learned to swim as a child.
+He wanted to go to the pool with his friends.
+His apprehension prevented him from having fun.
+One day he went to the pool for private lessons.
+> This gave Glenn the courage to go swimming with his friends.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('learned', (5.692949099496119, 5.692949099496119)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.3466601701318691
+
+__About the completion__
+Rarest in completion: [('courage', 8.082128665926916), ('swimming', 6.7446244689764585), ('gave', 4.8834555483762365), ('this', 4.607503815709945), ('friends', 4.1620430130754205), ('go', 4.110041419756121)]
+Nearest to completion: [('courage', 0.579222559928894), ('swimming', 0.5255964398384094), ('swim', 0.4839777648448944), ('bravery', 0.4524562358856201), ('swimmers', 0.4221148192882538), ('swimmer', 0.38979360461235046), ('courageous', 0.37936002016067505), ('swam', 0.3717000484466553), ('kindness', 0.35468387603759766), ('generosity', 0.3429160416126251)]
+
+--------------------------------------------------------------------------
+
+Frank was the oldest child in a family of six.
+When he was an adult, his mom said she had a secret to tell him.
+Frank's mom said she had given up a baby for adoption.
+Frank wasn't the oldest child after all!
+> Two weeks later, Frank met the big sister he never knew he had.
+
+__About the match__
+Rarest shared words: [('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.34099345444385754
+
+__About the completion__
+Rarest in completion: [('sister', 5.982067837044346), ('met', 5.890209140820391), ('weeks', 5.8208617222636025), ('later', 5.235006891824569), ('knew', 5.226753750067849), ('big', 5.114159189350283), ('two', 4.891260466045621), ('never', 4.624610964031577)]
+Nearest to completion: [('later', 0.44246906042099), ('ago', 0.41291648149490356), ('met', 0.4052620530128479), ('sister', 0.3825215995311737), ('weeks', 0.37656742334365845), ('two', 0.3388431668281555), ('sisters', 0.32727769017219543), ('earlier', 0.32131513953208923), ('three', 0.3120575547218323), ('years', 0.3028446435928345)]
+
+--------------------------------------------------------------------------
+
+Jeff wanted a dog.
+His wife also wanted a dog.
+They researched dogs together and decided on a German Shepard.
+They adopted a black German Shepherd named Lucy.
+> Lucy is loving her new life at their house.
+
+__About the match__
+Rarest shared words: [('adopted', (7.137687056486085, 7.137687056486085)), ('named', (5.863980914145474, 5.863980914145474))]
+Score: 0.33822526945421255
+
+__About the completion__
+Rarest in completion: [('loving', 8.452502454223811), ('life', 5.637713377493654), ('house', 4.506577897119985), ('their', 4.437673918472774), ('is', 4.0817459865209695), ('new', 3.7799959404738015)]
+Nearest to completion: [('life', 0.5504312515258789), ('loving', 0.5433356761932373), ('lives', 0.45612141489982605), ('caring', 0.3862195611000061), ('family', 0.38448604941368103), ('house', 0.3823396563529968), ('living', 0.37240317463874817), ('new', 0.36164385080337524), ('lifestyle', 0.3583087921142578), ('lifestyles', 0.3549753725528717)]
+
+--------------------------------------------------------------------------
+
+Ben dug a large pond in his backyard.
+His kids liked to swim and play in the pond.
+One day Ben found a snake in the pond.
+Ben was scared the snake would harm his kids.
+> He told his kids not to play in the pond.
+
+__About the match__
+Rarest shared words: [('harm', (10.02805881438225, 10.02805881438225)), ('swim', (6.5215009170622675, 6.5215009170622675))]
+Score: 0.3347293433784265
+
+__About the completion__
+Rarest in completion: [('pond', 7.776747016375736), ('kids', 5.176008551062614), ('play', 5.007453190032807), ('told', 4.259717819188459), ('not', 3.8329533830489027)]
+Nearest to completion: [('pond', 0.5640291571617126), ('ponds', 0.47249913215637207), ('kids', 0.43001991510391235), ('lake', 0.3955487310886383), ('play', 0.38812947273254395), ('creek', 0.3823506534099579), ('told', 0.35542768239974976), ('Pond', 0.3319565951824188), ('lakes', 0.3173958361148834), ('playing', 0.3147313892841339)]
+
+--------------------------------------------------------------------------
+
+One day, Ben's mother told him they were getting a puppy.
+Excitedly, they made the drive to a friend's house.
+Their friend's dog had given birth to eight puppies.
+Ben was allowed to pick out which puppy he wanted.
+> He spotted a red one he loved and in eight weeks, he took it home.
+
+__About the match__
+Rarest shared words: [('allowed', (6.63803473331822, 6.63803473331822))]
+Score: 0.3334216496233812
+
+__About the completion__
+Rarest in completion: [('eight', 7.794446593475136), ('spotted', 7.660915200850614), ('red', 6.3559664791846755), ('weeks', 5.8208617222636025), ('loved', 4.425305176991248), ('took', 4.067463120907994), ('home', 4.002978318445733), ('one', 3.351585275015767)]
+Nearest to completion: [('spotted', 0.4916991591453552), ('red', 0.409089595079422), ('eight', 0.3975484371185303), ('four', 0.39653658866882324), ('seven', 0.39116358757019043), ('six', 0.3886735737323761), ('nine', 0.37897107005119324), ('three', 0.3778759837150574), ('five', 0.3766835629940033), ('yellow', 0.3525601923465729)]
+
+--------------------------------------------------------------------------
+
+

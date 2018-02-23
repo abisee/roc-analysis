@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Ava was six years old.
+She wanted to learn to swim.
+Her mom took her to the pool.
+There, she patiently taught Ava the basics.
+> Soon Ava was paddling all by herself!
+
+__About the context__
+Rarest in context: [('basics', 8.824086010056313), ('patiently', 7.725473721388203), ('taught', 6.695854304207046), ('swim', 6.5215009170622675), ('six', 6.417140901738025), ('pool', 5.985007546547699), ('learn', 5.558326599289263), ('years', 4.671472539710237), ('old', 4.424710737047819), ('mom', 4.373233184452579), ('there', 3.6031897904768617), ('took', 3.6015703569245585)]
+Nearest to context: [('taught', 0.5739678740501404), ('teach', 0.5364884734153748), ('swim', 0.49126583337783813), ('lessons', 0.479931116104126), ('teaches', 0.4740423560142517), ('learn', 0.46988266706466675), ('swimming', 0.46210914850234985), ('teaching', 0.42793187499046326), ('basics', 0.4217548072338104), ('instructor', 0.41532835364341736)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('swimming', 5887, 14113, 0.7357161045074463), ('swim', 6920, 13080, 0.6946172118186951), ('swimmers', 11943, 8057, 0.5931530594825745), ('swam', 16621, 3379, 0.5167917013168335), ('swimmer', 14949, 5051, 0.5042104125022888), ('divers', 15471, 4529, 0.431403785943985), ('pool', 2832, 17168, 0.4186657965183258), ('pools', 10033, 9967, 0.3782641291618347), ('boating', 18179, 1821, 0.37374672293663025), ('gymnastics', 16176, 3824, 0.3706384301185608)]
+Nearest words to completions' keywords: [('swimming', 5887, 14113, 0.7539991140365601), ('swim', 6920, 13080, 0.7473809719085693), ('swimmers', 11943, 8057, 0.681219756603241), ('swam', 16621, 3379, 0.6270871162414551), ('swimmer', 14949, 5051, 0.6197188496589661), ('divers', 15471, 4529, 0.5257290601730347), ('gymnastics', 16176, 3824, 0.48235559463500977), ('pool', 2832, 17168, 0.46433207392692566), ('kids', 809, 19191, 0.4593581259250641), ('diving', 7972, 12028, 0.45777660608291626)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6547408699989319), ('swam', 16621, 3379, 0.6379954218864441), ('knew', 1039, 18961, 0.610909104347229), ('swim', 6920, 13080, 0.5840390920639038), ('swimming', 5887, 14113, 0.578458309173584), ('came', 256, 19744, 0.566672146320343), ('had', 35, 19965, 0.5622024536132812), ('became', 819, 19181, 0.5509424805641174), ('saw', 653, 19347, 0.5435724854469299), ('wanted', 583, 19417, 0.5434909462928772)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Maria wanted to learn how to swim.
+She asked her mother to sign her up for swimming lessons.
+Her mom signed her up and she began taking classes.
+Maria got better and better at swimming.
+> She became the best in her class.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('learn', (5.558326599289263, 5.558326599289263)), ('mom', (4.373233184452579, 4.373233184452579))]
+Score: 0.7012884919424994
+
+__About the completion__
+Rarest in completion: [('became', 5.378851743577365), ('best', 5.3230232940244235), ('class', 5.244722443610666)]
+Nearest to completion: [('class', 0.6352765560150146), ('became', 0.5867854952812195), ('best', 0.4927504360675812), ('becoming', 0.47283801436424255), ('become', 0.46895739436149597), ('becomes', 0.38907891511917114), ('arguably', 0.37608566880226135), ('foremost', 0.3563162386417389), ('finest', 0.3441198468208313), ('highest', 0.33854159712791443)]
+
+--------------------------------------------------------------------------
+
+Tim was terrified of swimming.
+His parents desperately wanted him to learn to swim.
+Tim's parents signed him up for swimming lessons at the local pool.
+At first, Tim was too scared to get into the pool.
+> After a month, Tim was swimming on his own and started to enjoy it!
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('pool', (5.985007546547699, 5.985007546547699)), ('learn', (5.558326599289263, 5.558326599289263))]
+Score: 0.6317623719118027
+
+__About the completion__
+Rarest in completion: [('enjoy', 7.25545009274245), ('swimming', 6.7446244689764585), ('month', 6.119354710819599), ('own', 5.73757937383384), ('started', 4.383181018976059), ('after', 3.9503965716331964), ('!', 3.536809591467683)]
+Nearest to completion: [('swimming', 0.5168660879135132), ('swim', 0.43448692560195923), ('enjoy', 0.4216834604740143), ('enjoying', 0.3990284204483032), ('enjoyed', 0.38512733578681946), ('began', 0.3756617605686188), ('after', 0.36958572268486023), ('month', 0.35228997468948364), ('summer', 0.35221412777900696), ('started', 0.33564242720603943)]
+
+--------------------------------------------------------------------------
+
+One day Aaron decided to teach himself how to juggle.
+He looked up lessons on the Internet.
+He taught himself over a course of three days.
+Eventually he was a master!
+> He loved to entertain kids.
+
+__About the match__
+Rarest shared words: [('taught', (6.695854304207046, 6.695854304207046))]
+Score: 0.6132203303608568
+
+__About the completion__
+Rarest in completion: [('entertain', 9.622573706874066), ('kids', 5.176008551062614), ('loved', 4.425305176991248)]
+Nearest to completion: [('entertain', 0.6340493559837341), ('loved', 0.5870319604873657), ('kids', 0.5549388527870178), ('entertained', 0.4985315501689911), ('fun', 0.4704616069793701), ('entertaining', 0.4484192728996277), ('loves', 0.4297572374343872), ('children', 0.42676228284835815), ('love', 0.41300803422927856), ('youngsters', 0.41254910826683044)]
+
+--------------------------------------------------------------------------
+
+Horatio had always wanted to learn how to swim.
+He was the only one of his friends who didn't know how.
+One summer he decided to take swimming lessons.
+Finally at the end of the summer he was a confident swimmer.
+> Horatio was glad he had learned how to swim.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('learn', (5.558326599289263, 5.558326599289263))]
+Score: 0.6131269311662371
+
+__About the completion__
+Rarest in completion: [('swim', 6.952263833754704), ('glad', 5.993798176829835), ('learned', 5.793932310384972), ('how', 4.945599788756992)]
+Nearest to completion: [('swim', 0.6241446137428284), ('swimming', 0.5157292485237122), ('learned', 0.4739006757736206), ('swimmers', 0.44755318760871887), ('swam', 0.42961472272872925), ('how', 0.4295452833175659), ('learn', 0.4198000133037567), ('glad', 0.41410157084465027), ('swimmer', 0.4076981246471405), ('lessons', 0.3524428606033325)]
+
+--------------------------------------------------------------------------
+
+I wanted to learn how to juggle so I signed up for a class.
+I showed up for the first class and the instructor was a clown.
+He taught us the basics of juggling three balls.
+He then asked us to try juggling like he taught us.
+> After a lot of practice, I was able to juggle!
+
+__About the match__
+Rarest shared words: [('basics', (8.824086010056313, 8.824086010056313)), ('taught', (6.695854304207046, 6.695854304207046)), ('learn', (5.558326599289263, 5.558326599289263))]
+Score: 0.6034530097427903
+
+__About the completion__
+Rarest in completion: [('juggle', 9.74035674253045), ('practice', 6.51649337615121), ('able', 5.284557013196627), ('lot', 4.749074176950009), ('after', 3.9503965716331964), ('!', 3.536809591467683)]
+Nearest to completion: [('practice', 0.637284517288208), ('practicing', 0.4647834300994873), ('lot', 0.41156643629074097), ('practiced', 0.39569181203842163), ('Practice', 0.3884657621383667), ('able', 0.3839038610458374), ('practices', 0.37988173961639404), ('workouts', 0.3220407962799072), ('drills', 0.304472416639328), ('harder', 0.29533010721206665)]
+
+--------------------------------------------------------------------------
+
+Foster lived in a large home by the sea.
+Despite not being able to swim, he longed to explore the waves.
+Foster hired a swimming instructor to teach him how to swim.
+After a year of training, he finally took to the water.
+> Foster swam all day before leaving the waters.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5918163227879794
+
+__About the completion__
+Rarest in completion: [('waters', 9.873888135154973), ('swam', 7.543132165194231), ('leaving', 7.03230654142824), ('before', 4.900114434362875), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('waters', 0.6718356013298035), ('swam', 0.6440890431404114), ('swimming', 0.5511547923088074), ('swim', 0.5501030087471008), ('swimmers', 0.5083536505699158), ('divers', 0.4515356421470642), ('swimmer', 0.44951263070106506), ('sea', 0.4333558976650238), ('seas', 0.4190840423107147), ('ocean', 0.410189151763916)]
+
+--------------------------------------------------------------------------
+
+Ken never learned to swim.
+His parents couldn't afford lessons when he was a kid.
+He decided to take lessons as an adult.
+He learned rather quickly.
+> Soon enough Ken was out swimming everywhere he could.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675))]
+Score: 0.5879928970329829
+
+__About the completion__
+Rarest in completion: [('swimming', 6.7446244689764585), ('everywhere', 6.521480917662249), ('enough', 5.723973721778061), ('soon', 5.263019928052244), ('could', 3.8258407366367204), ('out', 3.3165011979861596)]
+Nearest to completion: [('soon', 0.4735226333141327), ('swimming', 0.46457037329673767), ('everywhere', 0.4312979280948639), ('enough', 0.38798442482948303), ('could', 0.35822564363479614), ('swim', 0.35097819566726685), ('swimmers', 0.3485848307609558), ('anytime_soon', 0.3167944848537445), ('quickly', 0.30402809381484985), ('wherever', 0.30030009150505066)]
+
+--------------------------------------------------------------------------
+
+Aya did not know how to swim.
+She decided to sign up for a local class.
+There, they taught her basics like dog-paddling.
+Then she advanced to breast strokes and butterflies.
+> Soon, Aya was swimming like an expert!
+
+__About the match__
+Rarest shared words: [('basics', (8.824086010056313, 8.824086010056313)), ('taught', (6.695854304207046, 6.695854304207046)), ('swim', (6.5215009170622675, 6.5215009170622675)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.5843279772371006
+
+__About the completion__
+Rarest in completion: [('expert', 8.684304068281136), ('swimming', 6.7446244689764585), ('soon', 5.263019928052244), ('like', 4.781014742821744), ('an', 3.8221351571901856), ('!', 3.536809591467683)]
+Nearest to completion: [('expert', 0.5987529754638672), ('swimming', 0.5371671915054321), ('swimmer', 0.4548945128917694), ('swim', 0.4263896942138672), ('Expert', 0.41738051176071167), ('researcher', 0.3849276006221771), ('experts', 0.3845694661140442), ('swimmers', 0.3696288466453552), ('specialist', 0.36600276827812195), ('consultant', 0.36335518956184387)]
+
+--------------------------------------------------------------------------
+
+The girls wanted to take horseback riding lessons.
+They went to a stable and learned the basics.
+Soon they were ready to ride!
+They learned a lot the first lesson.
+> They decided to come back every week and learn more!
+
+__About the match__
+Rarest shared words: [('basics', (8.824086010056313, 8.824086010056313))]
+Score: 0.5693866808362685
+
+__About the completion__
+Rarest in completion: [('learn', 6.136218516871605), ('come', 5.7606750886284885), ('week', 5.050156307357783), ('more', 4.774893167080915), ('every', 4.763623000109876), ('back', 4.3399341530452595), ('!', 3.536809591467683), ('decided', 3.495461951503386)]
+Nearest to completion: [('learn', 0.49653393030166626), ('more', 0.3814244568347931), ('every', 0.3790546655654907), ('Every', 0.32439059019088745), ('Learn', 0.323432981967926), ('decided', 0.29527804255485535), ('decide', 0.29462936520576477), ('week', 0.2908753454685211), ('learned', 0.29003065824508667), ('this', 0.28542816638946533)]
+
+--------------------------------------------------------------------------
+
+Olga had been afraid of the water all of her life.
+When her grandchildren began to learn to swim she felt it was time.
+Olga took lessons at the community center.
+Once she got over the fear she picked up the skill rapidly.
+> Olga surprised her grandchildren by jumping in the pool last week.
+
+__About the match__
+Rarest shared words: [('swim', (6.5215009170622675, 6.5215009170622675)), ('learn', (5.558326599289263, 5.558326599289263)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5618440766532077
+
+__About the completion__
+Rarest in completion: [('grandchildren', 9.25484892674875), ('jumping', 7.948597273302394), ('pool', 6.4585061185008605), ('surprised', 6.426170737857924), ('week', 5.050156307357783), ('last', 5.030826541218116), ('by', 4.4228496815892715)]
+Nearest to completion: [('pool', 0.42803892493247986), ('jumping', 0.40224453806877136), ('grandchildren', 0.37215858697891235), ('surprised', 0.35358726978302), ('pools', 0.3432055115699768), ('last', 0.33029139041900635), ('shocked', 0.32644590735435486), ('by', 0.32546767592430115), ('swimming', 0.3105892837047577), ('week', 0.30906033515930176)]
+
+--------------------------------------------------------------------------
+
+

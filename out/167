@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The family arrived at the port to take their cruise.
+They were so excited!
+At their first port, they got terribly lost.
+They missed the cruise leaving.
+> They were stranded in Italy.
+
+__About the context__
+Rarest in context: [('port', 9.517233190616258), ('terribly', 8.182232123883919), ('cruise', 7.489084943323974), ('leaving', 6.695854304207046), ('missed', 6.251473779849207), ('arrived', 5.165665763427086), ('lost', 4.890301512846655), ('excited', 4.666766648672825), ('take', 4.402838662229151), ('family', 4.230988405302492), ('their', 4.071358259710607), ('first', 3.9673791982527944), ('!', 3.7291095675263066), ('so', 3.307436649191289)]
+Nearest to context: [('lost', 0.41286617517471313), ('missed', 0.41276782751083374), ('port', 0.39780402183532715), ('cruise', 0.3964066803455353), ('depart', 0.38702091574668884), ('departing', 0.37965741753578186), ('departed', 0.3584517240524292), ('returning', 0.3538978695869446), ('miss', 0.3538058400154114), ('leaving', 0.34135621786117554)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cruise', 7667, 12333, 0.7139009237289429), ('ferry', 9382, 10618, 0.5520999431610107), ('cruising', 14828, 5172, 0.5290406942367554), ('voyage', 18210, 1790, 0.4828823208808899), ('sail', 11848, 8152, 0.4677906930446625), ('sailing', 9785, 10215, 0.43742915987968445), ('ship', 2666, 17334, 0.4349169135093689), ('passengers', 2394, 17606, 0.42964377999305725), ('boat', 2776, 17224, 0.4136906564235687), ('Cruise', 13539, 6461, 0.4122317433357239)]
+Nearest words to completions' keywords: [('cruise', 7667, 12333, 0.6113377213478088), ('boat', 2776, 17224, 0.6031976342201233), ('ship', 2666, 17334, 0.591878354549408), ('sail', 11848, 8152, 0.5890129804611206), ('ferry', 9382, 10618, 0.575227677822113), ('ships', 5011, 14989, 0.5626273155212402), ('boats', 5161, 14839, 0.5617133378982544), ('sailing', 9785, 10215, 0.5611673593521118), ('passengers', 2394, 17606, 0.5428107976913452), ('voyage', 18210, 1790, 0.5418663024902344)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.674045205116272), ('went', 297, 19703, 0.6635010838508606), ('had', 35, 19965, 0.6592075228691101), ('got', 193, 19807, 0.6496475338935852), ('knew', 1039, 18961, 0.6396341919898987), ('stayed', 2936, 17064, 0.6347474455833435), ('wanted', 583, 19417, 0.6211606860160828), ('was', 10, 19990, 0.6070696115493774), ('saw', 653, 19347, 0.595565140247345), ('took', 263, 19737, 0.5852295160293579)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The family had never been on a cruise.
+They decided to give it a try.
+Their cabin was tiny and cramped.
+They enjoyed the different ports, though.
+> They decided never to cruise again.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('family', (4.230988405302492, 4.230988405302492)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.49801273442887944
+
+__About the completion__
+Rarest in completion: [('cruise', 7.948597273302394), ('again', 5.046717908554751), ('never', 4.624610964031577), ('decided', 3.495461951503386)]
+Nearest to completion: [('cruise', 0.6455805897712708), ('Cruise', 0.4115232527256012), ('again', 0.390033096075058), ('cruising', 0.377359539270401), ('never', 0.37446853518486023), ('decided', 0.35308408737182617), ('Carnival', 0.32722461223602295), ('Never', 0.30952000617980957), ('sail', 0.3070097267627716), ('sailing', 0.2911176383495331)]
+
+--------------------------------------------------------------------------
+
+Ben went on a cruise with his family.
+He had fun each day, and at every port.
+While on the way home, it was announced that someone on board was ill.
+The cruise ship doubled its speed to get back to shore.
+> They made it in time, and Ben learned that the passenger was okay.
+
+__About the match__
+Rarest shared words: [('port', (9.517233190616258, 9.517233190616258)), ('cruise', (7.489084943323974, 7.489084943323974)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.4957025409099747
+
+__About the completion__
+Rarest in completion: [('passenger', 8.875359305043844), ('okay', 7.645411014314648), ('learned', 5.793932310384972), ('made', 4.267560996649484), ('time', 3.981849368185002)]
+Nearest to completion: [('passenger', 0.5620300769805908), ('passengers', 0.4327161908149719), ('made', 0.401663213968277), ('learned', 0.33285799622535706), ('okay', 0.295888215303421), ('Passengers', 0.29458755254745483), ('airline', 0.2923872768878937), ('TSA', 0.27844589948654175), ('seat_belt', 0.27536332607269287), ('airlines', 0.2735849618911743)]
+
+--------------------------------------------------------------------------
+
+The family approached the terminal to check out the new cruise ship.
+The boys were excited to see the ship they had been reading about.
+They begged their mother to let them sail on that ship some day.
+Their mother told them that she had a surprise for them.
+> She said they were returning to the USA on that ship today.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('excited', (4.666766648672825, 4.666766648672825)), ('family', (4.230988405302492, 4.230988405302492)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.48206355784695587
+
+__About the completion__
+Rarest in completion: [('returning', 8.64174445386234), ('ship', 8.130918830096348), ('today', 5.312520571825274), ('said', 4.667529428177747), ('were', 3.60343995182413)]
+Nearest to completion: [('ship', 0.5641738772392273), ('ships', 0.46223631501197815), ('were', 0.42418891191482544), ('vessel', 0.42047080397605896), ('returning', 0.4190526604652405), ('vessels', 0.3817639946937561), ('sailors', 0.3343331217765808), ('aboard', 0.33167770504951477), ('departing', 0.32958516478538513), ('today', 0.32673412561416626)]
+
+--------------------------------------------------------------------------
+
+Emma and Finn were on vacation in Africa.
+They decided they wanted to go on a boat cruise down the Nile.
+They booked the boat cruise and showed up on the dock.
+The trip down the Nile was beautiful.
+> They had a wonderful time that day cruising down the river.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974))]
+Score: 0.46416385671626836
+
+__About the completion__
+Rarest in completion: [('cruising', 10.028038814982231), ('river', 7.365450987956778), ('wonderful', 7.265921392609745), ('down', 4.370882181666085), ('time', 3.981849368185002), ('day', 3.3461390948177767)]
+Nearest to completion: [('river', 0.5631918907165527), ('cruising', 0.549752414226532), ('rivers', 0.43885236978530884), ('lake', 0.4268190562725067), ('scenic', 0.4033714234828949), ('waterways', 0.4014883041381836), ('creek', 0.3972596526145935), ('canal', 0.3833065330982208), ('Mississippi_River', 0.37260937690734863), ('River', 0.3715915381908417)]
+
+--------------------------------------------------------------------------
+
+Fredrick and his Dad were excited.
+Today was the day they were going to take a ride on a boat.
+They arrived and got on the boat, ready to depart.
+The boat left the dock and sped off towards the ocean.
+> They spent the entire day riding around and having a great time.
+
+__About the match__
+Rarest shared words: [('arrived', (5.165665763427086, 5.165665763427086)), ('excited', (4.666766648672825, 4.666766648672825)), ('take', (4.402838662229151, 4.402838662229151))]
+Score: 0.45926221345811197
+
+__About the completion__
+Rarest in completion: [('riding', 6.9914845469079845), ('entire', 6.453822269188434), ('spent', 5.45849580663729), ('having', 5.335163048575033), ('around', 4.892240377931969), ('great', 4.843450213762537), ('time', 3.981849368185002), ('day', 3.3461390948177767)]
+Nearest to completion: [('spent', 0.47794413566589355), ('entire', 0.417718768119812), ('riding', 0.4002692699432373), ('time', 0.3802092969417572), ('spends', 0.3761020302772522), ('spend', 0.34177619218826294), ('considerable', 0.3390997052192688), ('enjoying', 0.3379814624786377), ('incredible', 0.33059293031692505), ('around', 0.3262707591056824)]
+
+--------------------------------------------------------------------------
+
+Frederick had never been on a cruise ship before.
+His family was on vacation.
+They were cruising in the Caribbean.
+Frederick had a great time on board going swimming and playing games.
+> He would always remember that first cruise.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.45770971005687794
+
+__About the completion__
+Rarest in completion: [('cruise', 7.948597273302394), ('remember', 7.28719879105703), ('always', 4.653532310076647), ('first', 4.4744334437934175), ('would', 3.922873627941421)]
+Nearest to completion: [('cruise', 0.6507099866867065), ('Cruise', 0.40487539768218994), ('remember', 0.3554181456565857), ('cruising', 0.34685638546943665), ('always', 0.33870574831962585), ('first', 0.3089022636413574), ('voyage', 0.29569071531295776), ('sail', 0.28545400500297546), ('Carnival', 0.2838357985019684), ('forget', 0.27631884813308716)]
+
+--------------------------------------------------------------------------
+
+Tina had to go back on the ferry.
+Her vacation was coming to an end.
+So she was excited about it.
+When she went home she told her friends about it.
+> They then wanted to go themselves.
+
+__About the match__
+Rarest shared words: [('excited', (4.666766648672825, 4.666766648672825)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.44974591181905144
+
+__About the completion__
+Rarest in completion: [('themselves', 8.264450222720871), ('then', 4.392059443677392), ('go', 4.110041419756121), ('wanted', 3.6865044229876522)]
+Nearest to completion: [('themselves', 0.639356255531311), ('ourselves', 0.47712722420692444), ('go', 0.4414723515510559), ('them', 0.43542951345443726), ('wanted', 0.4084800183773041), ('want', 0.40037503838539124), ('they', 0.37483641505241394), ('try', 0.3597284257411957), ('yourself', 0.3276408016681671), ('their', 0.32651835680007935)]
+
+--------------------------------------------------------------------------
+
+Susan was very excited to take a dolphin cruise while in Florida.
+She bought the tickets in advance.
+She boarded the boat with a life jacket.
+On the water, she felt extremely sea sick.
+> She came back to land feeling disappointed at not seeing an dolphins.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974)), ('excited', (4.666766648672825, 4.666766648672825)), ('take', (4.402838662229151, 4.402838662229151))]
+Score: 0.43294343913068745
+
+__About the completion__
+Rarest in completion: [('dolphins', 9.622573706874066), ('land', 8.1822121244839), ('seeing', 7.007613928837868), ('disappointed', 6.62130125294446), ('feeling', 5.982067837044346), ('came', 4.538412620640003), ('back', 4.3399341530452595), ('not', 3.8329533830489027), ('an', 3.8221351571901856)]
+Nearest to completion: [('disappointed', 0.5046479105949402), ('feeling', 0.4746153950691223), ('seeing', 0.4094599485397339), ('felt', 0.3870011568069458), ('pleased', 0.3673887252807617), ('surprised', 0.36651259660720825), ('saddened', 0.36152923107147217), ('ecstatic', 0.3593970239162445), ('disappointing', 0.3567418158054352), ('shocked', 0.3509780466556549)]
+
+--------------------------------------------------------------------------
+
+Jacque was the captain of a large cruise ship.
+He wanted to impress his mistress with the hope of later intimacy.
+Jacque steered his ship too close to the rocks along the coast.
+The reef tore into it and sunk the boat killing many people.
+> Jacque lived because he was the first one to flee from it.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974))]
+Score: 0.43238506225632684
+
+__About the completion__
+Rarest in completion: [('flee', 10.721185995542177), ('lived', 6.247644252032521), ('because', 4.980321845981443), ('first', 4.4744334437934175), ('from', 3.996552593524763), ('one', 3.351585275015767)]
+Nearest to completion: [('flee', 0.6312833428382874), ('lived', 0.5508097410202026), ('fled', 0.5228984951972961), ('fleeing', 0.4836735725402832), ('residing', 0.4147023558616638), ('escape', 0.4058785140514374), ('refuge', 0.36644238233566284), ('reside', 0.357900470495224), ('living', 0.35723546147346497), ('escaping', 0.35029280185699463)]
+
+--------------------------------------------------------------------------
+
+Misty wanted to surprise her children with a cruise.
+She took them on a trip to another city on the coast.
+They watched the ferries that went between islands.
+The kids asked if they would be able to go on a ferry the next day.
+> She took them to the cruise terminal instead of the ferry terminal.
+
+__About the match__
+Rarest shared words: [('cruise', (7.489084943323974, 7.489084943323974))]
+Score: 0.4225104106592804
+
+__About the completion__
+Rarest in completion: [('terminal', 9.873888135154973), ('ferry', 9.047209561970504), ('cruise', 7.948597273302394), ('instead', 5.508063475057371), ('took', 4.067463120907994), ('them', 3.9905657466666935)]
+Nearest to completion: [('ferry', 0.7147469520568848), ('cruise', 0.6500639915466309), ('terminal', 0.6151981949806213), ('port', 0.545209527015686), ('passengers', 0.48516646027565), ('terminals', 0.47837090492248535), ('ship', 0.4694088399410248), ('barge', 0.4661448299884796), ('vessel', 0.45947393774986267), ('ships', 0.4589303731918335)]
+
+--------------------------------------------------------------------------
+
+

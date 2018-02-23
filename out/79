@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bill's wife, Carly, warned him that it would rain today.
+Bill disregarded this, and began mowing the lawn.
+Within minutes, rain began pouring down on Billy.
+Billy hurried to get the tools inside the shed and went in the house.
+> Carly was there, giving Billy the look that says I told you so.
+
+__About the context__
+Rarest in context: [('disregarded', 9.740376741930469), ('pouring', 8.182232123883919), ('tools', 7.948617272702413), ('mowing', 7.868574565028877), ('shed', 7.868574565028877), ('hurried', 7.630163541583879), ('billy', 7.175427384468931), ('warned', 7.06622809250394), ('lawn', 6.952283833154722), ('within', 6.672323806796851), ('rain', 5.933714252160149), ('minutes', 5.499049989359722), ('inside', 5.32153613413387), ('wife', 4.716496221084192), ('today', 4.708306167114148), ('began', 4.6435637515931605), ('this', 4.174898938651448), ('house', 4.016791639978088), ('down', 3.854967396162991), ('get', 3.618432328371696), ('would', 3.429095756248016)]
+Nearest to context: [('lawn', 0.4124135971069336), ('rain', 0.3952183723449707), ('shed', 0.38954558968544006), ('basement', 0.3158460259437561), ('heavy_rain', 0.3156663477420807), ('afternoon', 0.31217968463897705), ('rains', 0.30818119645118713), ('hours', 0.3016114830970764), ('down', 0.2887774109840393), ('heavy_rains', 0.28785017132759094)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('rain', 2272, 17728, 0.5922354459762573), ('wet', 5893, 14107, 0.516413688659668), ('rains', 10184, 9816, 0.5033527612686157), ('heavy_rain', 13074, 6926, 0.485066294670105), ('rained', 18412, 1588, 0.48271870613098145), ('soil', 4699, 15301, 0.4617042541503906), ('Rain', 11250, 8750, 0.454934298992157), ('heavy_rains', 15277, 4723, 0.452308714389801), ('grass', 5376, 14624, 0.45168277621269226), ('rainfall', 10717, 9283, 0.43392881751060486)]
+Nearest words to completions' keywords: [('rain', 2272, 17728, 0.6631011962890625), ('rains', 10184, 9816, 0.6273588538169861), ('heavy_rain', 13074, 6926, 0.6217271089553833), ('heavy_rains', 15277, 4723, 0.5996478199958801), ('wet', 5893, 14107, 0.5971429347991943), ('rained', 18412, 1588, 0.5728005170822144), ('rainfall', 10717, 9283, 0.5457137227058411), ('dry', 3636, 16364, 0.5353844165802002), ('Rain', 11250, 8750, 0.5112189054489136), ('precipitation', 16224, 3776, 0.5085920095443726)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6808359026908875), ('came', 256, 19744, 0.6680439710617065), ('had', 35, 19965, 0.650942325592041), ('got', 193, 19807, 0.6489636301994324), ('went', 297, 19703, 0.607602596282959), ('knew', 1039, 18961, 0.5935124754905701), ('stayed', 2936, 17064, 0.5685504078865051), ('did', 92, 19908, 0.5658532381057739), ("wasn'ta", 11067, 8933, 0.5547144412994385), ('pulled', 1565, 18435, 0.5368450284004211)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jessie was in the middle of a long hike.
+Suddenly it started pouring down rain.
+She had to take cover under a tree trunk.
+She waited there for thirty minutes as it rained.
+> Finally things cleared up and she was able to finish her hike.
+
+__About the match__
+Rarest shared words: [('pouring', (8.182232123883919, 8.182232123883919)), ('rain', (5.933714252160149, 5.933714252160149)), ('minutes', (5.499049989359722, 5.499049989359722)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.489239846557683
+
+__About the completion__
+Rarest in completion: [('cleared', 8.41860090254813), ('hike', 7.676663557818753), ('finish', 6.863971226609025), ('things', 5.699500865259336), ('able', 5.284557013196627), ('finally', 4.562795577118213)]
+Nearest to completion: [('hike', 0.49753305315971375), ('cleared', 0.4801972210407257), ('finish', 0.43716275691986084), ('hikes', 0.37901633977890015), ('clears', 0.36484113335609436), ('hiked', 0.33549705147743225), ('able', 0.3350251317024231), ('resolved', 0.3333759307861328), ('rate_hikes', 0.3233727812767029), ('finishes', 0.3095623850822449)]
+
+--------------------------------------------------------------------------
+
+Dori took the lawn mower out of the shed to mow the lawn.
+Suddenly she saw storm clouds on the horizon.
+It started to rain.
+Dori was disappointed because she could not mow the lawn as planned.
+> Dori put the lawn mower back in the shed.
+
+__About the match__
+Rarest shared words: [('shed', (7.868574565028877, 7.868574565028877)), ('lawn', (6.952283833154722, 6.952283833154722)), ('rain', (5.933714252160149, 5.933714252160149))]
+Score: 0.48552020406853064
+
+__About the completion__
+Rarest in completion: [('mower', 8.523961418205957), ('shed', 8.20888037156606), ('lawn', 7.413079036946033), ('put', 4.652760407298066), ('back', 4.3399341530452595)]
+Nearest to completion: [('shed', 0.662541925907135), ('lawn', 0.5575926303863525), ('shedding', 0.4345158338546753), ('put', 0.390699565410614), ('garden', 0.34769192337989807), ('trim', 0.3355943262577057), ('back', 0.32744312286376953), ('porch', 0.32706254720687866), ('grass', 0.3262341618537903), ('reclaim', 0.3222198188304901)]
+
+--------------------------------------------------------------------------
+
+Alex fell asleep outside under the tree.
+The storm clouds began to roll in.
+Alex didn't notice the weather because he was sleeping.
+The rain started pouring down.
+> Alex was surprised to get soaked in the middle of his nap.
+
+__About the match__
+Rarest shared words: [('pouring', (8.182232123883919, 8.182232123883919)), ('rain', (5.933714252160149, 5.933714252160149)), ('began', (4.6435637515931605, 4.6435637515931605)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.4845539599687531
+
+__About the completion__
+Rarest in completion: [('soaked', 8.293437759594124), ('nap', 7.571303042160927), ('middle', 6.551940125146958), ('surprised', 6.426170737857924), ('get', 4.052534287452978)]
+Nearest to completion: [('soaked', 0.5788074731826782), ('surprised', 0.44581830501556396), ('middle', 0.3766952455043793), ('shocked', 0.34693658351898193), ('disappointed', 0.3304401934146881), ('saturated', 0.3285093307495117), ('stunned', 0.3279878497123718), ('pumped', 0.3172149658203125), ('frustrated', 0.3097744882106781), ('overwhelmed', 0.30892708897590637)]
+
+--------------------------------------------------------------------------
+
+Sam kept a herb garden in his kitchen for cooking.
+He noticed the plants' soil was looking dry.
+Sam gathered the pots and put them outside in the rain.
+Once the rain stopped Sam brought them inside.
+> The soil was perfectly wet now.
+
+__About the match__
+Rarest shared words: [('rain', (5.933714252160149, 5.933714252160149)), ('inside', (5.32153613413387, 5.32153613413387))]
+Score: 0.4520228128201133
+
+__About the completion__
+Rarest in completion: [('soil', 9.334891634422286), ('perfectly', 7.776747016375736), ('wet', 7.3311619144781455), ('now', 4.716476221684173)]
+Nearest to completion: [('soil', 0.6883241534233093), ('wet', 0.5958073139190674), ('perfectly', 0.49130240082740784), ('surface', 0.45517221093177795), ('dry', 0.4417082667350769), ('surfaces', 0.415020227432251), ('muddy', 0.4105904996395111), ('moisture', 0.4036202132701874), ('sand', 0.4026182293891907), ('grass', 0.4004979133605957)]
+
+--------------------------------------------------------------------------
+
+I was a very rainy day.
+Marci noticed water was dripping from her ceiling.
+When she looked outside she noticed water spilling over her gutters.
+When the rain stopped she climbed a ladder and cleaned the gutter.
+> The ceiling did not leak the next time it rained.
+
+__About the match__
+Rarest shared words: [('rain', (5.933714252160149, 5.933714252160149))]
+Score: 0.4397145299371833
+
+__About the completion__
+Rarest in completion: [('ceiling', 8.600922459342085), ('leak', 8.323290722743806), ('rained', 8.058598168516724), ('next', 4.72639365834152), ('time', 3.981849368185002), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('leak', 0.5841270685195923), ('leaking', 0.5289197564125061), ('leaks', 0.5224937200546265), ('rained', 0.49424394965171814), ('ceiling', 0.47282883524894714), ('leaked', 0.3716018795967102), ('rain', 0.35943660140037537), ('spill', 0.3533492684364319), ('rescheduled', 0.3024446368217468), ('postponed', 0.2911280393600464)]
+
+--------------------------------------------------------------------------
+
+The plants in Ralph's garden were dying.
+The ground was dry and cracked.
+It had not rained in days.
+The sky got dark and it started to pour.
+> Ralph's plants came back to life.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4377354472199767
+
+__About the completion__
+Rarest in completion: [('plants', 7.759355273663867), ('life', 5.637713377493654), ('came', 4.538412620640003), ('back', 4.3399341530452595), ("'s", 3.3551623435327245)]
+Nearest to completion: [('plants', 0.6761236190795898), ('plant', 0.5402409434318542), ('Plant', 0.41214582324028015), ('life', 0.40289750695228577), ('factories', 0.3884696364402771), ('reactors', 0.36072081327438354), ('gardens', 0.32148250937461853), ('refineries', 0.3204667270183563), ('crops', 0.31177085638046265), ('came', 0.311748206615448)]
+
+--------------------------------------------------------------------------
+
+Ellie went for a walk one summer day.
+It suddenly started pouring down rain.
+Ellie looked around for shelter.
+She ran to a pavilion to avoid getting wet.
+> When the rain stopped, she finished her walk in the park.
+
+__About the match__
+Rarest shared words: [('pouring', (8.182232123883919, 8.182232123883919)), ('rain', (5.933714252160149, 5.933714252160149)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.4349782139531003
+
+__About the completion__
+Rarest in completion: [('rain', 6.38171897528709), ('finished', 6.17082404604908), ('walk', 5.772426105164008), ('park', 5.715005051795301), ('stopped', 5.619289110167595), ('when', 3.4368224349138567)]
+Nearest to completion: [('rain', 0.6053110361099243), ('heavy_rain', 0.5118147730827332), ('walk', 0.464687705039978), ('park', 0.45489931106567383), ('rains', 0.4385190010070801), ('Rain', 0.424784392118454), ('heavy_rains', 0.413066029548645), ('rainfall', 0.3966286778450012), ('walking', 0.3837100565433502), ('stopped', 0.38296210765838623)]
+
+--------------------------------------------------------------------------
+
+It was midnight when it started down pouring outside.
+My husband and I stayed in bed, not thinking twice about the rain.
+When we woke up the next morning we found water in the basement.
+My husband ran to get fans while I stopped up water with towels.
+> In the end, we had to hire a carpet cleaner.
+
+__About the match__
+Rarest shared words: [('pouring', (8.182232123883919, 8.182232123883919)), ('rain', (5.933714252160149, 5.933714252160149)), ('down', (3.854967396162991, 3.854967396162991)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.4326107610719839
+
+__About the completion__
+Rarest in completion: [('cleaner', 8.824066010656296), ('hire', 8.035608650292025), ('carpet', 7.88797265148596), ('end', 5.695114893316081), ('we', 4.354142974076229)]
+Nearest to completion: [('cleaner', 0.5896868705749512), ('carpet', 0.582288920879364), ('hire', 0.4644254446029663), ('greener', 0.4052399694919586), ('environmentally_friendly', 0.393026202917099), ('clean', 0.38733160495758057), ('cleaning', 0.36478692293167114), ('hiring', 0.3583890497684479), ('eco_friendly', 0.3296365737915039), ('paint', 0.3285881578922272)]
+
+--------------------------------------------------------------------------
+
+Grant started the lawn mower.
+The lawn mower stopped after a few minutes.
+Grant realized that it was out of gas.
+Grant put the lawnmower away.
+> Grant bought a donkey to eat the grass.
+
+__About the match__
+Rarest shared words: [('lawn', (6.952283833154722, 6.952283833154722)), ('minutes', (5.499049989359722, 5.499049989359722))]
+Score: 0.4302170170239492
+
+__About the completion__
+Rarest in completion: [('donkey', 9.74035674253045), ('grass', 7.25545009274245), ('eat', 5.446478494633273), ('bought', 4.408241996399123)]
+Nearest to completion: [('grass', 0.6172573566436768), ('eat', 0.5825253129005432), ('bought', 0.4765503704547882), ('eaten', 0.4638000726699829), ('ate', 0.4620361924171448), ('eating', 0.4537062346935272), ('buy', 0.4306795597076416), ('eats', 0.42956098914146423), ('purchased', 0.42709943652153015), ('sold', 0.40411871671676636)]
+
+--------------------------------------------------------------------------
+
+Eddy went to school one morning.
+He looked out the window as the rain poured down.
+He saw the playground slowly get flooded.
+Eddy's teacher suddenly made an announcement.
+> School was being canceled due to the rain.
+
+__About the match__
+Rarest shared words: [('rain', (5.933714252160149, 5.933714252160149)), ('down', (3.854967396162991, 3.854967396162991)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.42380726316285144
+
+__About the completion__
+Rarest in completion: [('canceled', 8.824066010656296), ('due', 6.713852810309705), ('rain', 6.38171897528709), ('being', 5.502633597463002)]
+Nearest to completion: [('canceled', 0.6681548953056335), ('rain', 0.6435650587081909), ('heavy_rain', 0.5956921577453613), ('rescheduled', 0.5900319814682007), ('postponed', 0.5650708079338074), ('cancellation', 0.537453293800354), ('due', 0.534031093120575), ('heavy_rains', 0.5221560597419739), ('Rain', 0.5181843042373657), ('postponement', 0.5086821913719177)]
+
+--------------------------------------------------------------------------
+
+

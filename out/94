@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The boys were so excited they couldn't even sleep that night.
+It was Christmas morning and they sprang out of bed.
+They ran downstairs to the tree.
+There it was!
+> The brand new Go Cart they had wanted.
+
+__About the context__
+Rarest in context: [('sprang', 10.433523922490414), ('downstairs', 7.660935200250632), ('boys', 6.562322911582523), ('tree', 5.756033074922696), ('sleep', 5.662839298024749), ('bed', 5.4329389642476595), ('even', 5.1503201937524254), ('morning', 4.760200655318922), ('excited', 4.666766648672825), ('ran', 4.606049975491663), ('night', 4.007035465032724), ('!', 3.7291095675263066), ('there', 3.6031897904768617), ('could', 3.4004584525428303), ('so', 3.307436649191289)]
+Nearest to context: [('bed', 0.5597330927848816), ('downstairs', 0.5109660029411316), ('sleep', 0.4936024248600006), ('morning', 0.4492201805114746), ('asleep', 0.42623022198677063), ('sleeping', 0.41449350118637085), ('slept', 0.39900633692741394), ('awake', 0.397797554731369), ('night', 0.3880782127380371), ('upstairs', 0.3852362632751465)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('bed', 3126, 16874, 0.4584774971008301), ('asleep', 12307, 7693, 0.43990930914878845), ('woke', 10199, 9801, 0.43103837966918945), ('waking', 16882, 3118, 0.3904820382595062), ('sleep', 3629, 16371, 0.38029107451438904), ('sleeping', 6911, 13089, 0.34941747784614563), ('slept', 11443, 8557, 0.338927686214447), ('morning', 565, 19435, 0.3264462649822235), ('couch', 12337, 7663, 0.30387741327285767), ("o'clock", 13966, 6034, 0.303585410118103)]
+Nearest words to completions' keywords: [('slept', 11443, 8557, 0.6061970591545105), ('just', 76, 19924, 0.6049037575721741), ('woke', 10199, 9801, 0.6042184829711914), ('sleeping', 6911, 13089, 0.6035364866256714), ('sleep', 3629, 16371, 0.5872573256492615), ('asleep', 12307, 7693, 0.5743042230606079), ('waking', 16882, 3118, 0.5637069344520569), ('bed', 3126, 16874, 0.553592324256897), ('I', 20, 19980, 0.526662290096283), ('maybe', 1864, 18136, 0.5258802175521851)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7969197034835815), ('went', 297, 19703, 0.7135991454124451), ('came', 256, 19744, 0.7111220359802246), ('knew', 1039, 18961, 0.6922568082809448), ('saw', 653, 19347, 0.6830857396125793), ('got', 193, 19807, 0.6810462474822998), ('had', 35, 19965, 0.6722817420959473), ('woke', 10199, 9801, 0.6639017462730408), ('looked', 1115, 18885, 0.6457833051681519), ('thought', 572, 19428, 0.6367216110229492)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Marge lived in a very small house.
+She would sleep on a very small mattress.
+Marge woke up every morning with terrible bed head.
+She went to the bathroom like always to come it out.
+> Marge looked into the mirror and saw her hair was really tangled.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('morning', (4.760200655318922, 4.760200655318922))]
+Score: 0.5898656014013677
+
+__About the completion__
+Rarest in completion: [('marge', 10.721185995542177), ('tangled', 9.74035674253045), ('mirror', 7.502310170673975), ('hair', 5.944867553358256), ('really', 4.8267831612773255), ('looked', 4.6993539118177985), ('saw', 4.402217881795742), ('into', 4.270189119055754)]
+Nearest to completion: [('tangled', 0.5124413371086121), ('mirror', 0.4952101409435272), ('hair', 0.4864397943019867), ('looked', 0.4288167357444763), ('saw', 0.3470449149608612), ('twisted', 0.3406100869178772), ('clipped', 0.3354719579219818), ('beard', 0.33389317989349365), ('look', 0.33089593052864075), ('mirrors', 0.3308660387992859)]
+
+--------------------------------------------------------------------------
+
+Tina was on her way to bed.
+She had a late night.
+She slept for eight hours.
+When she woke up it was ten.
+> She was two hours late for school.
+
+__About the match__
+Rarest shared words: [('bed', (5.4329389642476595, 5.4329389642476595)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.5504558697221424
+
+__About the completion__
+Rarest in completion: [('late', 5.59326161492282), ('hours', 5.268717949166882), ('two', 4.891260466045621), ('school', 4.401617461483498)]
+Nearest to completion: [('hours', 0.5662314295768738), ('school', 0.4956754446029663), ('hour', 0.45833635330200195), ('late', 0.4518272578716278), ('four', 0.4328238070011139), ('elementary', 0.42850470542907715), ('two', 0.42607229948043823), ('days', 0.4203623831272125), ('five', 0.4203474521636963), ('six', 0.41569745540618896)]
+
+--------------------------------------------------------------------------
+
+Teddy had a nightmare.
+He woke up and couldn't go back to sleep.
+Teddy crept into his parents bedroom.
+He climbed into bed with them.
+> Teddy fell asleep quickly with his parents near him.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.5400931276471262
+
+__About the completion__
+Rarest in completion: [('asleep', 6.4585061185008605), ('near', 6.3559664791846755), ('quickly', 5.828333737102303), ('fell', 5.1553892638598775), ('parents', 5.059383593126858), ('him', 3.3907807836977737)]
+Nearest to completion: [('asleep', 0.5454607009887695), ('fell', 0.38860589265823364), ('slumped', 0.37302279472351074), ('near', 0.3680943250656128), ('slid', 0.35940322279930115), ('unconscious', 0.35747087001800537), ('tumbled', 0.35718822479248047), ('parents', 0.3562510907649994), ('falling', 0.3416196405887604), ('slipped', 0.32295072078704834)]
+
+--------------------------------------------------------------------------
+
+Shannon woke up excited because her family was going to the beach.
+She got out of bed and put on her swimsuit and gathered her toys.
+Shannon ran down the stairs only to see it had started to rain.
+She was sad and her parents told her maybe tomorrow would be better .
+> Shannon got changed and played board games instead.
+
+__About the match__
+Rarest shared words: [('bed', (5.4329389642476595, 5.4329389642476595)), ('excited', (4.666766648672825, 4.666766648672825)), ('ran', (4.606049975491663, 4.606049975491663))]
+Score: 0.5360891560756745
+
+__About the completion__
+Rarest in completion: [('board', 7.119317918417869), ('changed', 6.6898995692872125), ('games', 6.143044481942004), ('instead', 5.508063475057371), ('played', 5.490077378687589), ('got', 3.390344007102055)]
+Nearest to completion: [('games', 0.5790631771087646), ('played', 0.541976809501648), ('game', 0.4838692545890808), ('changed', 0.464354544878006), ('play', 0.422660231590271), ('playing', 0.40381890535354614), ('matches', 0.39843183755874634), ('plays', 0.36214640736579895), ('board', 0.3568321168422699), ('players', 0.3490518629550934)]
+
+--------------------------------------------------------------------------
+
+At midnight, Jocelyn woke to his wife's screaming.
+He rushed downstairs to the living room, where she stood on a chair.
+She pointed to the couch and told him a rat was in the house.
+Jocelyn used a flashlight to see under the couch.
+> There was no rat, only a hairy, rotten potato.
+
+__About the match__
+Rarest shared words: [('downstairs', (7.660935200250632, 7.660935200250632))]
+Score: 0.5351605669054671
+
+__About the completion__
+Rarest in completion: [('hairy', 10.210360371776185), ('potato', 8.92942652631412), ('rat', 8.875359305043844), ('rotten', 8.824066010656296), ('only', 5.17081373418551), ('no', 4.72556343828553), ('there', 4.12267696692766)]
+Nearest to completion: [('potato', 0.5581420063972473), ('rat', 0.5427563786506653), ('no', 0.521325409412384), ('potatoes', 0.4299437403678894), ('there', 0.4089643955230713), ('tomato', 0.38403934240341187), ('rats', 0.38299769163131714), ('pig', 0.3764660060405731), ('banana', 0.3739994168281555), ('chicken', 0.37160080671310425)]
+
+--------------------------------------------------------------------------
+
+Marc had a problem with sleepwalking.
+One night, as he was sleeping, he went outside.
+He walked to his uncle's house and rang the bell.
+His uncle opened the door and let him sleep on the couch.
+> Marc woke up the next morning, not knowing where he was.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.5321775901737972
+
+__About the completion__
+Rarest in completion: [('knowing', 7.88797265148596), ('where', 5.976253867178926), ('woke', 5.706116104378054), ('morning', 5.271579181447914), ('next', 4.72639365834152), ('not', 3.8329533830489027)]
+Nearest to completion: [('woke', 0.5732618570327759), ('morning', 0.5670015215873718), ('waking', 0.4701875150203705), ('afternoon', 0.45085036754608154), ("o'clock", 0.4152529239654541), ('tomorrow', 0.39763543009757996), ('night', 0.36696794629096985), ('wake', 0.3385617733001709), ('Monday', 0.3348758816719055), ('sometime', 0.3284514844417572)]
+
+--------------------------------------------------------------------------
+
+I was very busy yesterday.
+I was out all day.
+When I went to sleep I was pooped.
+When I woke up I realized something.
+> I never did my homework.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749))]
+Score: 0.5293830466815257
+
+__About the completion__
+Rarest in completion: [('homework', 7.28719879105703), ('never', 4.624610964031577), ('did', 3.6104898725633485), ('my', 3.5357989799617595)]
+Nearest to completion: [('homework', 0.5577289462089539), ('my', 0.4894740581512451), ('I', 0.3814850151538849), ('never', 0.37797707319259644), ('My', 0.359158456325531), ('anything', 0.35672709345817566), ('did', 0.34727051854133606), ('honestly', 0.3449535369873047), ('not', 0.33030322194099426), ('your', 0.32134774327278137)]
+
+--------------------------------------------------------------------------
+
+Bill's buddy Marty invited him to a sleep over.
+Bill and Marty stayed up all night watching horror movies and talking.
+They finally fell asleep around 4 in the morning.
+The boys slept until noon.
+> The next day Bill went home and thought about how fun it all was.
+
+__About the match__
+Rarest shared words: [('boys', (6.562322911582523, 6.562322911582523)), ('sleep', (5.662839298024749, 5.662839298024749)), ('morning', (4.760200655318922, 4.760200655318922)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.5289213711420405
+
+__About the completion__
+Rarest in completion: [('fun', 5.29917715665159), ('how', 4.945599788756992), ('thought', 4.810389351501649), ('next', 4.72639365834152), ('about', 4.124950211825675), ('home', 4.002978318445733), ('all', 3.5398475684877595), ('day', 3.3461390948177767), ('went', 3.303005172815388)]
+Nearest to completion: [('how', 0.39879685640335083), ('fun', 0.39543870091438293), ('about', 0.39156463742256165), ('day', 0.32604271173477173), ('what', 0.26494741439819336), ('next', 0.25882285833358765), ('How', 0.25428295135498047), ('Fun', 0.24608930945396423), ('weekend', 0.24283047020435333), ('Tomorrow', 0.24159082770347595)]
+
+--------------------------------------------------------------------------
+
+As an adult I continued to sleep walk.
+I walked out of my house while asleep.
+I went into the yard in the rain.
+The rain did not wake me up.
+> I realized when I woke up in bed, soaking wet.
+
+__About the match__
+Rarest shared words: [('sleep', (5.662839298024749, 5.662839298024749))]
+Score: 0.5249497454517621
+
+__About the completion__
+Rarest in completion: [('soaking', 9.517213191216241), ('wet', 7.3311619144781455), ('bed', 5.863960914745455), ('woke', 5.706116104378054), ('realized', 5.003062403615317), ('when', 3.4368224349138567)]
+Nearest to completion: [('woke', 0.6338364481925964), ('bed', 0.6080008149147034), ('waking', 0.5214449763298035), ('wet', 0.47116655111312866), ('asleep', 0.43042394518852234), ('awake', 0.40923741459846497), ('sleeping', 0.39205580949783325), ('realized', 0.3872178792953491), ('sleep', 0.38321131467819214), ('slept', 0.37301576137542725)]
+
+--------------------------------------------------------------------------
+
+Guy wasn't feeling well.
+He decided to take a nap on the couch.
+He fell asleep for hours.
+His wife got home and woke him.
+> It was time to go to bed.
+
+__About the match__
+Rarest shared words: []
+Score: 0.5216269173342631
+
+__About the completion__
+Rarest in completion: [('bed', 5.863960914745455), ('go', 4.110041419756121), ('time', 3.981849368185002)]
+Nearest to completion: [('bed', 0.7075991630554199), ('beds', 0.5093309879302979), ('sleep', 0.4427083134651184), ('go', 0.38821443915367126), ('couch', 0.361348420381546), ('time', 0.35570186376571655), ('sleeping', 0.340679794549942), ('room', 0.3195004165172577), ('rooms', 0.314140260219574), ('awake', 0.30651694536209106)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Wendy was working at her local fast food establishment.
+She pretty much hated her Job.
+Wendy was having a rough day and her employees were annoying her.
+The cook decided to defy her orders when she said go clean the trash.
+> Wendy flew off the handle and fired him on the spot.
+
+__About the context__
+Rarest in context: [('defy', 10.433523922490414), ('establishment', 10.02805881438225), ('annoying', 7.948617272702413), ('employees', 7.907795278182158), ('orders', 7.630163541583879), ('rough', 7.5157531904061345), ('trash', 6.684019846560043), ('pretty', 6.102790582204083), ('cook', 6.045266738065896), ('clean', 5.97337950855258), ('hated', 5.770084828378347), ('fast', 5.609218206585652), ('working', 4.993273060053711), ('having', 4.867089638985436), ('local', 4.861369890312649), ('food', 4.668332819705569), ('much', 4.6208870429221305), ('said', 4.286124573761672), ('go', 3.6524662965542345)]
+Nearest to context: [('food', 0.3974425792694092), ('cook', 0.3775707185268402), ('cooks', 0.35604628920555115), ('clean', 0.35440459847450256), ('trash', 0.3331727981567383), ('meals', 0.32589977979660034), ('dirty', 0.3197064995765686), ('sanitation', 0.3170894682407379), ('restaurants', 0.3091226816177368), ('garbage', 0.2951226234436035)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('outage', 16529, 3471, 0.37474524974823), ('outages', 16664, 3336, 0.3245137929916382), ('exploded', 7348, 12652, 0.32032206654548645), ('fired', 1655, 18345, 0.29580190777778625), ('cooking', 5195, 14805, 0.2875617444515228), ('explosion', 3622, 16378, 0.2772347629070282), ('cook', 7022, 12978, 0.2728789448738098), ('served', 1085, 18915, 0.26912423968315125), ('power_outages', 19746, 254, 0.25521746277809143), ('downed', 12112, 7888, 0.2542814314365387)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.512870728969574), ('laughing', 7953, 12047, 0.4869166314601898), ('laughed', 9168, 10832, 0.4830094873905182), ('yelled', 12007, 7993, 0.4781765639781952), ('joked', 7926, 12074, 0.46924737095832825), ('kidding', 15339, 4661, 0.46574661135673523), ('maybe', 1864, 18136, 0.4569072425365448), ('shouted', 9655, 10345, 0.45482689142227173), ('laugh', 5585, 14415, 0.45333579182624817), ('yell', 19716, 284, 0.4488956034183502)]
+Nearest words to completions' verbs: [('knew', 1039, 18961, 0.6675389409065247), ('had', 35, 19965, 0.6366159915924072), ('got', 193, 19807, 0.6305530667304993), ('felt', 1040, 18960, 0.625159740447998), ('came', 256, 19744, 0.6159237623214722), ('laughed', 9168, 10832, 0.6157868504524231), ('was', 10, 19990, 0.6085442304611206), ('thought', 572, 19428, 0.5920091271400452), ('went', 297, 19703, 0.590805172920227), ('looked', 1115, 18885, 0.5805255174636841)]
+
+==========================================================================
+Neighbors
+==========================================================================
+One day charlie was washing the dishes at Taco Bell where we worked.
+His boss April was very mean to him.
+She was talking bad about how slow he was.
+Charlie couldn't keep it in any longer.
+> He exploded on April and put her in her place.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4038551570514309
+
+__About the completion__
+Rarest in completion: [('exploded', 8.600922459342085), ('place', 5.682071230124052), ('put', 4.652760407298066)]
+Nearest to completion: [('exploded', 0.7167164087295532), ('put', 0.5152976512908936), ('place', 0.5087205767631531), ('placed', 0.48456552624702454), ('ignited', 0.4738876223564148), ('detonated', 0.4698002338409424), ('explode', 0.4548377990722656), ('explosion', 0.42790165543556213), ('exploding', 0.4277213215827942), ('propelled', 0.42451635003089905)]
+
+--------------------------------------------------------------------------
+
+Ron was a fast food worker at wendy's.
+He was working as a cashier one day.
+A customer comes up to complain to him.
+Ron gets an attitude with the customer and tells them off.
+> Ron is shouted at by his boss and fired on the spot.
+
+__About the match__
+Rarest shared words: [('fast', (5.609218206585652, 5.609218206585652)), ('working', (4.993273060053711, 4.993273060053711)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.399315699240264
+
+__About the completion__
+Rarest in completion: [('shouted', 9.047209561970504), ('fired', 6.914523505771856), ('spot', 6.695834304807027), ('boss', 5.93369425276013), ('by', 4.4228496815892715), ('is', 4.0817459865209695)]
+Nearest to completion: [('fired', 0.5621837377548218), ('shouted', 0.557608425617218), ('yelled', 0.472357839345932), ('boss', 0.4617089331150055), ('firing', 0.45226773619651794), ('shouting', 0.4336870312690735), ('screamed', 0.4057753384113312), ('chanted', 0.3914855718612671), ('yelling', 0.3607284724712372), ('shout', 0.3603537082672119)]
+
+--------------------------------------------------------------------------
+
+Jim wanted to improve his health.
+So he went on a strict diet.
+It was difficult to resist overeating and indulging in certain foods.
+But Jim's hard work paid off.
+> And after a month, he felt more healthy than he ever felt in his life.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3963777003959903
+
+__About the completion__
+Rarest in completion: [('healthy', 7.049113659744621), ('month', 6.119354710819599), ('ever', 6.106065478700916), ('than', 5.6973054746958995), ('life', 5.637713377493654), ('more', 4.774893167080915), ('felt', 4.558573192238365), ('after', 3.9503965716331964)]
+Nearest to completion: [('than', 0.5828617811203003), ('more', 0.5259974002838135), ('less', 0.4801260232925415), ('ever', 0.4341588616371155), ('Less', 0.41950494050979614), ('decade', 0.393056720495224), ('healthier', 0.39037418365478516), ('More', 0.3900640308856964), ('life', 0.3594984710216522), ('month', 0.3550754487514496)]
+
+--------------------------------------------------------------------------
+
+Kim was a bad cook, but her parents were coming for dinner!
+She decided to make pasta, since it was hard to mess that up.
+But she over boiled the noodles - they were inedible!
+She and her parents had to order pizza for dinner!
+> Luckily, everyone just jokingly laughed off Kim's cooking.
+
+__About the match__
+Rarest shared words: [('cook', (6.045266738065896, 6.045266738065896))]
+Score: 0.3838332417739737
+
+__About the completion__
+Rarest in completion: [('jokingly', 9.74035674253045), ('cooking', 6.707810495853742), ('laughed', 6.2066701778222155), ('luckily', 6.153371596097854), ('everyone', 5.197061960260446), ('just', 4.707470839499374), ('off', 4.4887379789916535), ("'s", 3.3551623435327245)]
+Nearest to completion: [('cooking', 0.5356234908103943), ('laughed', 0.4251883924007416), ('everyone', 0.42446157336235046), ('cook', 0.4126923978328705), ('baking', 0.4000813663005829), ('laugh', 0.3891516923904419), ('laughing', 0.3853346109390259), ('everybody', 0.3637050986289978), ('Everyone', 0.35050395131111145), ('cooks', 0.3467503488063812)]
+
+--------------------------------------------------------------------------
+
+Terrance is craving some food.
+He hasn't eaten all day long.
+Terrance chooses to go get a burger.
+Terrance orders two because he's so hungry.
+> Terrance enjoys his classic hamburgers.
+
+__About the match__
+Rarest shared words: [('orders', (7.630163541583879, 7.630163541583879)), ('food', (4.668332819705569, 4.668332819705569)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.38329020695256977
+
+__About the completion__
+Rarest in completion: [('classic', 9.180740954595027), ('hamburgers', 8.775275846486863), ('terrance', 8.775275846486863), ('enjoys', 7.991156887721191)]
+Nearest to completion: [('enjoys', 0.7852344512939453), ('classic', 0.6224275827407837), ('loves', 0.556226372718811), ('enjoyed', 0.5363589525222778), ('likes', 0.5188791155815125), ('classics', 0.47017115354537964), ('enjoy', 0.46939027309417725), ('enjoying', 0.4634016454219818), ('retains', 0.442718505859375), ('prefers', 0.43606218695640564)]
+
+--------------------------------------------------------------------------
+
+Allie was hungry.
+She decided to get some fast food.
+She went to the new one.
+Allie ordered a burger.
+> She ate it in ten minutes.
+
+__About the match__
+Rarest shared words: [('fast', (5.609218206585652, 5.609218206585652)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.3780452379240824
+
+__About the completion__
+Rarest in completion: [('ten', 6.417120902338007), ('minutes', 5.925395449945435), ('ate', 5.493648811055187)]
+Nearest to completion: [('minutes', 0.678983747959137), ('ate', 0.5788108110427856), ('ten', 0.5226779580116272), ('fifteen', 0.5147314071655273), ('minute', 0.49732813239097595), ('hour', 0.4922764003276825), ('twenty', 0.477196604013443), ('forty', 0.4680889844894409), ('thirty', 0.46475738286972046), ('hours', 0.46090078353881836)]
+
+--------------------------------------------------------------------------
+
+Julia loved cooking.
+She was hired by a local restaurant.
+She worked very hard to create a great menu.
+All of the people in town loved the food.
+> She became well known as a cook.
+
+__About the match__
+Rarest shared words: [('local', (4.861369890312649, 4.861369890312649)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.36805993617451616
+
+__About the completion__
+Rarest in completion: [('known', 7.794446593475136), ('cook', 6.588689667355699), ('became', 5.378851743577365), ('well', 5.318508613669897), ('as', 3.9638660844916718)]
+Nearest to completion: [('known', 0.6144344806671143), ('as', 0.5624172687530518), ('became', 0.49292483925819397), ('Known', 0.4860232472419739), ('regarded', 0.4805675446987152), ('cook', 0.4772476851940155), ('well', 0.4544764459133148), ('become', 0.42835766077041626), ('formerly', 0.4147224724292755), ('served', 0.40634408593177795)]
+
+--------------------------------------------------------------------------
+
+Last Tuesday we tried to order takeout food.
+We decided on Chinese food.
+Both of our restaurants' phones were not working.
+Frustrated, we ordered pizza.
+> Later we learned Comcast had an outage and many phone lines were down.
+
+__About the match__
+Rarest shared words: [('working', (4.993273060053711, 4.993273060053711)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.36562105586803717
+
+__About the completion__
+Rarest in completion: [('outage', 9.622573706874066), ('lines', 8.013135794439966), ('learned', 5.793932310384972), ('phone', 5.470659292830488), ('later', 5.235006891824569), ('many', 5.191756908030753), ('down', 4.370882181666085), ('we', 4.354142974076229), ('an', 3.8221351571901856), ('were', 3.60343995182413)]
+Nearest to completion: [('outage', 0.656854510307312), ('outages', 0.6008789539337158), ('power_outages', 0.5050637125968933), ('lines', 0.4861046075820923), ('blackout', 0.45544615387916565), ('telephone', 0.41167253255844116), ('disruptions', 0.3915371298789978), ('phone', 0.3831033706665039), ('Telephone', 0.3676389455795288), ('wires', 0.3568122088909149)]
+
+--------------------------------------------------------------------------
+
+My father was a cook in Chinese restaurants.
+He was temperamental and changed jobs often.
+Luckily he was a good cook and could get work easily.
+One day he quit and was unable to find work.
+> He retired on social security.
+
+__About the match__
+Rarest shared words: [('cook', (6.045266738065896, 6.045266738065896))]
+Score: 0.3625612135543111
+
+__About the completion__
+Rarest in completion: [('retired', 8.236279345754177), ('social', 8.013135794439966), ('security', 7.90777527878214)]
+Nearest to completion: [('security', 0.6298794746398926), ('social', 0.6286389827728271), ('retired', 0.5270832777023315), ('welfare', 0.4103628695011139), ('retiring', 0.40869975090026855), ('retirement', 0.40356913208961487), ('pensions', 0.3940337598323822), ('Retired', 0.38751736283302307), ('Security', 0.38242146372795105), ('health', 0.3715320825576782)]
+
+--------------------------------------------------------------------------
+
+Tim is a cook at a fast food place.
+He daydreams about being rich.
+He wants to start his own business one day.
+One day his boss asks him to come into the office.
+> His boss offered him the chance to help run the store.
+
+__About the match__
+Rarest shared words: [('cook', (6.045266738065896, 6.045266738065896)), ('fast', (5.609218206585652, 5.609218206585652)), ('food', (4.668332819705569, 4.668332819705569))]
+Score: 0.3559688689073835
+
+__About the completion__
+Rarest in completion: [('chance', 7.25545009274245), ('offered', 6.213996217914288), ('run', 6.064056070623374), ('boss', 5.93369425276013), ('help', 5.105627754300814), ('store', 4.766212557016609), ('him', 3.3907807836977737)]
+Nearest to completion: [('boss', 0.46473708748817444), ('offered', 0.4091652035713196), ('offer', 0.4058261215686798), ('chance', 0.3999333083629608), ('store', 0.3924589455127716), ('help', 0.37703201174736023), ('shop', 0.3224841356277466), ('opportunity', 0.3188016414642334), ('Shop', 0.313273549079895), ('Store', 0.3078828752040863)]
+
+--------------------------------------------------------------------------
+
+

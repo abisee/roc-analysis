@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+When Clint first began working, he wanted to be a storm chaser.
+He decked out his truck, and followed storms with his camera.
+After years of near misses, he got some really great tornado shots.
+His most popular images were of lightning, and he got an amazing view.
+> He ended up quitting storm chasing to be a photographer.
+
+__About the context__
+Rarest in context: [('decked', 10.02805881438225), ('chaser', 9.740376741930469), ('storms', 9.334911633822305), ('images', 8.824086010056313), ('misses', 8.182232123883919), ('shots', 8.035628649692043), ('tornado', 7.630163541583879), ('lightning', 7.630163541583879), ('view', 7.630163541583879), ('camera', 7.413099036346051), ('popular', 6.809182989514049), ('followed', 6.6493342885721525), ('amazing', 6.364497168252603), ('storm', 6.355986478584694), ('truck', 5.939285297209604), ('near', 5.733043556697997), ('most', 5.621339567117996), ('working', 4.993273060053711), ('great', 4.728076168515152), ('years', 4.671472539710237), ('began', 4.6435637515931605), ('really', 4.303384980694672), ('first', 3.9673791982527944), ('be', 3.714510768105154), ('after', 3.6847643749987347), ('some', 3.566590638028532), ('an', 3.319567812924379)]
+Nearest to context: [('tornado', 0.6062478423118591), ('storms', 0.5806609392166138), ('tornadoes', 0.561173141002655), ('storm', 0.5422388315200806), ('lightning', 0.50825035572052), ('thunderstorms', 0.4721399247646332), ('hurricane', 0.4090684652328491), ('hurricanes', 0.403690904378891), ('Hurricane', 0.40092140436172485), ('cyclone', 0.3827771842479706)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('tornado', 8759, 11241, 0.6148723363876343), ('storm', 1896, 18104, 0.5936701893806458), ('tornadoes', 14536, 5464, 0.5547617673873901), ('storms', 5633, 14367, 0.5394229292869568), ('winds', 4188, 15812, 0.4897668957710266), ('hurricane', 4405, 15595, 0.47735488414764404), ('thunderstorms', 13613, 6387, 0.43667829036712646), ('tropical_storm', 18437, 1563, 0.428234338760376), ('National_Weather_Service', 7984, 12016, 0.42698556184768677), ('cyclone', 18642, 1358, 0.4231095016002655)]
+Nearest words to completions' keywords: [('storm', 1896, 18104, 0.6921561360359192), ('storms', 5633, 14367, 0.6715271472930908), ('tornado', 8759, 11241, 0.64018714427948), ('hurricane', 4405, 15595, 0.6215972304344177), ('tornadoes', 14536, 5464, 0.6092910170555115), ('tropical_storm', 18437, 1563, 0.5710304379463196), ('thunderstorms', 13613, 6387, 0.5596246719360352), ('hurricanes', 9495, 10505, 0.5469067096710205), ('winds', 4188, 15812, 0.5385711193084717), ('flooding', 4479, 15521, 0.5157015323638916)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6746713519096375), ('knew', 1039, 18961, 0.6469720602035522), ('did', 92, 19908, 0.6443411111831665), ('was', 10, 19990, 0.6342494487762451), ('got', 193, 19807, 0.63168865442276), ('came', 256, 19744, 0.6166300177574158), ('saw', 653, 19347, 0.6137481927871704), ('thought', 572, 19428, 0.606993556022644), ('wanted', 583, 19417, 0.6011796593666077), ('went', 297, 19703, 0.59108567237854)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jill was almost killed by a tornado when she was a child.
+This sparked her interest in studying weather.
+She grew up to be a storm chaser.
+Her and her team chased tornadoes every spring across the Midwest.
+> Her storm research lead to advancement in tornado warning systems.
+
+__About the match__
+Rarest shared words: [('chaser', (9.740376741930469, 9.740376741930469)), ('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.6506816523969201
+
+__About the completion__
+Rarest in completion: [('advancement', 11.12665110365034), ('systems', 10.433503923090395), ('tornado', 8.035608650292025), ('warning', 7.8308142376460115), ('lead', 7.676663557818753), ('research', 7.543132165194231), ('storm', 6.769942276960749)]
+Nearest to completion: [('tornado', 0.6516383290290833), ('storm', 0.6094851493835449), ('tornadoes', 0.5921658277511597), ('storms', 0.5921024084091187), ('hurricane', 0.507566511631012), ('National_Weather_Service', 0.4820413887500763), ('thunderstorms', 0.47402313351631165), ('cyclone', 0.46673062443733215), ('tropical_storm', 0.46145573258399963), ('hurricanes', 0.43886393308639526)]
+
+--------------------------------------------------------------------------
+
+Robert's hobby is chasing storms.
+One day, he drove 300 miles to drive into the eye of a tornado.
+He went too close to the eye of the storm.
+His car was swept away by the tornado.
+> The winds blew him over a mile from where he started.
+
+__About the match__
+Rarest shared words: [('storms', (9.334911633822305, 9.334911633822305)), ('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.6367479051878255
+
+__About the completion__
+Rarest in completion: [('winds', 9.25484892674875), ('mile', 7.794446593475136), ('blew', 7.245087305706903), ('where', 5.976253867178926), ('started', 4.383181018976059), ('over', 4.367395832986647), ('from', 3.996552593524763), ('him', 3.3907807836977737)]
+Nearest to completion: [('winds', 0.5700082778930664), ('blew', 0.4944921135902405), ('mile', 0.48292064666748047), ('miles', 0.46631520986557007), ('blowing', 0.4410197138786316), ('wind', 0.4261169135570526), ('kilometers', 0.40304049849510193), ('north', 0.3801361322402954), ('en_route', 0.3769931197166443), ('east', 0.37600719928741455)]
+
+--------------------------------------------------------------------------
+
+One time I was in a very scary storm.
+I was driving home from work and it was raining very hard.
+It was also thundering and lightning.
+Every time it would thunder I would get very spooked.
+> I did not enjoy driving in that storm at all.
+
+__About the match__
+Rarest shared words: [('lightning', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5906433244437161
+
+__About the completion__
+Rarest in completion: [('enjoy', 7.25545009274245), ('storm', 6.769942276960749), ('driving', 5.686400241213637), ('not', 3.8329533830489027), ('did', 3.6104898725633485), ('all', 3.5398475684877595)]
+Nearest to completion: [('storm', 0.5210946202278137), ('driving', 0.44271203875541687), ('storms', 0.4133383631706238), ('hurricane', 0.40514546632766724), ('enjoy', 0.3762035667896271), ('blizzard', 0.35221657156944275), ('tropical_storm', 0.3497990369796753), ('weather', 0.3425932824611664), ('Driving', 0.32756322622299194), ('not', 0.3255770802497864)]
+
+--------------------------------------------------------------------------
+
+The weather was bad at Todd's house.
+A bolt of lightning struck somewhere close to his house.
+All the power in the house zapped off.
+Todd's television was shorted out in the storm.
+> Todd had to buy a new television.
+
+__About the match__
+Rarest shared words: [('lightning', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5783481841026373
+
+__About the completion__
+Rarest in completion: [('television', 7.365450987956778), ('buy', 4.985689545396447), ('new', 3.7799959404738015)]
+Nearest to completion: [('buy', 0.6241656541824341), ('television', 0.6028224229812622), ('TV', 0.5721539855003357), ('sell', 0.5520250797271729), ('purchase', 0.5042781829833984), ('new', 0.47424086928367615), ('buying', 0.46851953864097595), ('buys', 0.417240709066391), ('broadcast', 0.4028177857398987), ('invest', 0.39376071095466614)]
+
+--------------------------------------------------------------------------
+
+A tornado came through here yesterday.
+It was really scary.
+All the weather channels were sending warnings.
+We went down to the basement during the storm.
+> Everyone was okay.
+
+__About the match__
+Rarest shared words: [('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694)), ('really', (4.303384980694672, 4.303384980694672))]
+Score: 0.566003457779738
+
+__About the completion__
+Rarest in completion: [('okay', 7.645411014314648), ('everyone', 5.197061960260446)]
+Nearest to completion: [('everyone', 0.6802962422370911), ('okay', 0.6651481986045837), ('everybody', 0.6180201768875122), ('ok', 0.6003276705741882), ('Everyone', 0.5161827802658081), ('OK', 0.48541712760925293), ('Everybody', 0.4742780923843384), ('everything', 0.4501937925815582), ('nobody', 0.4411270022392273), ('yeah', 0.43272513151168823)]
+
+--------------------------------------------------------------------------
+
+Tom was out playing golf.
+A lightning storm started to hit.
+Tom wanted to finish his game.
+He was hight by lightning.
+> Tom did not survive the hit.
+
+__About the match__
+Rarest shared words: [('lightning', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5510776189600115
+
+__About the completion__
+Rarest in completion: [('survive', 9.421903011411915), ('hit', 5.52453228277064), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('survive', 0.6033676266670227), ('hit', 0.5074495673179626), ('did', 0.4367276430130005), ('withstand', 0.4120390713214874), ('not', 0.40844106674194336), ('survives', 0.40349000692367554), ('survived', 0.3997087776660919), ('sustain', 0.3948693573474884), ('hurt', 0.37761157751083374), ('does', 0.3640446960926056)]
+
+--------------------------------------------------------------------------
+
+Michael was a storm chaser.
+He drove through a strong thunderstorm in search of a tornado.
+When he cleared the sheets of rain, he saw the tornado ahead of him.
+Michael turned his vehicle around and drove away as fast as he could.
+> He filmed the tornado's destructive path from a safe distance.
+
+__About the match__
+Rarest shared words: [('chaser', (9.740376741930469, 9.740376741930469)), ('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5356208194206383
+
+__About the completion__
+Rarest in completion: [('destructive', 10.028038814982231), ('filmed', 9.873888135154973), ('path', 8.20888037156606), ('tornado', 8.035608650292025), ('distance', 7.948597273302394), ('safe', 7.3311619144781455), ('from', 3.996552593524763), ("'s", 3.3551623435327245)]
+Nearest to completion: [('tornado', 0.5816947221755981), ('tornadoes', 0.4924275279045105), ('destructive', 0.45059266686439514), ('path', 0.43936052918434143), ('distance', 0.42490431666374207), ('devastation', 0.3851074278354645), ('storm', 0.3783074915409088), ('storms', 0.36303213238716125), ('destruction', 0.35714587569236755), ('safe', 0.34972912073135376)]
+
+--------------------------------------------------------------------------
+
+Annette was afraid of tornadoes.
+When her husband got a job in Oklahoma, she was afraid to relocate.
+She was worried that a tornado would hit their home.
+Her husband promised her that they would have a storm shelter.
+> This reassured Annette, and she agreed to the move.
+
+__About the match__
+Rarest shared words: [('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5219032546839362
+
+__About the completion__
+Rarest in completion: [('reassured', 9.334891634422286), ('move', 6.177891213272172), ('agreed', 5.993798176829835), ('this', 4.607503815709945)]
+Nearest to completion: [('agreed', 0.6271456480026245), ('reassured', 0.5948212742805481), ('agreeing', 0.47964081168174744), ('assured', 0.4795852601528168), ('pledged', 0.47036030888557434), ('reiterated', 0.4637206196784973), ('welcomed', 0.4589666426181793), ('move', 0.45856618881225586), ('urged', 0.4578303396701813), ('reaffirmed', 0.4411790370941162)]
+
+--------------------------------------------------------------------------
+
+There was a tornado warning in Lisa's town.
+Lisa freaked out.
+She hated tornados.
+They totally freaked her out.
+> Luckily it was not that bad after all however.
+
+__About the match__
+Rarest shared words: [('tornado', (7.630163541583879, 7.630163541583879))]
+Score: 0.519718586919339
+
+__About the completion__
+Rarest in completion: [('luckily', 6.153371596097854), ('bad', 5.390078806171148), ('however', 5.312520571825274), ('after', 3.9503965716331964), ('not', 3.8329533830489027), ('all', 3.5398475684877595)]
+Nearest to completion: [('bad', 0.5506324172019958), ('however', 0.5060378909111023), ('not', 0.4312242567539215), ('Bad', 0.40365728735923767), ('necessarily', 0.3897583484649658), ('only', 0.3779546320438385), ('neither', 0.37038350105285645), ('that', 0.363547146320343), ('unfortunately', 0.35743963718414307), ('generally', 0.35465341806411743)]
+
+--------------------------------------------------------------------------
+
+Julie lived in Kansas.
+One night Julie heard the tornado alarm going off.
+She ran down to her storm cellar.
+Julie waited in the cellar while the wind blew around her.
+> She came out of the basement to see her house had been blown away.
+
+__About the match__
+Rarest shared words: [('tornado', (7.630163541583879, 7.630163541583879)), ('storm', (6.355986478584694, 6.355986478584694))]
+Score: 0.5191771976989876
+
+__About the completion__
+Rarest in completion: [('blown', 8.1822121244839), ('basement', 7.529338843061895), ('away', 4.824948298377215), ('see', 4.749074176950009), ('been', 4.657400786854568), ('came', 4.538412620640003), ('house', 4.506577897119985), ('out', 3.3165011979861596)]
+Nearest to completion: [('basement', 0.5309997797012329), ('house', 0.4564448297023773), ('blown', 0.448659747838974), ('attic', 0.39582282304763794), ('upstairs', 0.38176873326301575), ('houses', 0.3505914807319641), ('garage', 0.3443742096424103), ('away', 0.33608636260032654), ('closet', 0.3294824957847595), ('downstairs', 0.3207845091819763)]
+
+--------------------------------------------------------------------------
+
+

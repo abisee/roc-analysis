@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Joanne loves country music.
+She listens to country music during her commute every day.
+She hears on the radio that her favorite artist is coming to town.
+Joanne buys tickets to her favorite country artist's concert.
+> Joanne attends the concert and has a fun time.
+
+__About the context__
+Rarest in context: [('listens', 9.517233190616258), ('commute', 9.047229561370523), ('hears', 7.907795278182158), ('buys', 7.3654709873567965), ('artist', 7.10131941231521), ('radio', 7.04913365914464), ('tickets', 6.330880557453618), ('concert', 6.206690177222234), ('country', 6.199417417893154), ('loves', 6.064076070023392), ('music', 5.650207551118848), ('coming', 5.383667915240877), ('during', 5.3306133522849874), ('town', 5.13270967574379), ('favorite', 4.857574819344098), ('every', 4.228966159921724), ('is', 3.859843755529768)]
+Nearest to context: [('listens', 0.6086475849151611), ('hears', 0.4798857271671295), ('music', 0.4790131449699402), ('sings', 0.45757028460502625), ('attends', 0.4565573036670685), ('concerts', 0.4444119334220886), ('musician', 0.426438570022583), ('travels', 0.42609935998916626), ('classical_music', 0.4251343607902527), ('performs', 0.42458590865135193)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('artist', 3038, 16962, 0.48904791474342346), ('songwriter', 17705, 2295, 0.4861781597137451), ('album', 2067, 17933, 0.485451877117157), ('albums', 7662, 12338, 0.4723135828971863), ('music', 636, 19364, 0.4698834717273712), ('singer_songwriter', 17488, 2512, 0.451191782951355), ('songs', 2404, 17596, 0.4403879940509796), ('musician', 8064, 11936, 0.4401729106903076), ('label', 4166, 15834, 0.43069934844970703), ('song', 2216, 17784, 0.41840487718582153)]
+Nearest words to completions' keywords: [('songwriter', 17705, 2295, 0.6439633369445801), ('songs', 2404, 17596, 0.6266573667526245), ('musician', 8064, 11936, 0.6159518361091614), ('song', 2216, 17784, 0.6031769514083862), ('singer_songwriter', 17488, 2512, 0.5985386371612549), ('music', 636, 19364, 0.587035059928894), ('tunes', 10153, 9847, 0.5789167284965515), ('artist', 3038, 16962, 0.5764355063438416), ('album', 2067, 17933, 0.5763484835624695), ('albums', 7662, 12338, 0.5693556666374207)]
+Nearest words to completions' verbs: [('goes', 1047, 18953, 0.6730806827545166), ('going', 125, 19875, 0.6560096144676208), ('do', 58, 19942, 0.6445716023445129), ('is', 4, 19996, 0.6445431709289551), ('happens', 2190, 17810, 0.6383461952209473), ('gets', 1002, 18998, 0.6346092820167542), ('got', 193, 19807, 0.6306578516960144), ('does', 183, 19817, 0.6145356297492981), ("'ll", 314, 19686, 0.603874683380127), ('want', 189, 19811, 0.6015067100524902)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Cathy loves Christmas Songs.
+Cathy is ridiculed because she listens to Christmas music all year.
+In fact, Cathy's favorite Christmas song is Jingle Bells.
+Cathy cannot wait for Christmas time to hear music everywhere.
+> Cathy is proud to be a lover of Christmas songs.
+
+__About the match__
+Rarest shared words: [('listens', (9.517233190616258, 9.517233190616258)), ('loves', (6.064076070023392, 6.064076070023392)), ('music', (5.650207551118848, 5.650207551118848)), ('favorite', (4.857574819344098, 4.857574819344098)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.6898074080228915
+
+__About the completion__
+Rarest in completion: [('lover', 9.334891634422286), ('songs', 7.794446593475136), ('proud', 6.0452467386658775), ('be', 4.0931446193626435), ('is', 4.0817459865209695)]
+Nearest to completion: [('songs', 0.5240243077278137), ('lover', 0.51169353723526), ('song', 0.4816301763057709), ('tunes', 0.4593501389026642), ('lyrics', 0.44958460330963135), ('songwriter', 0.4487167298793793), ('proud', 0.4392310678958893), ('musician', 0.41492989659309387), ('singer_songwriter', 0.4111993908882141), ('composer', 0.40278637409210205)]
+
+--------------------------------------------------------------------------
+
+Randy was a small town music player.
+Randy was playing a gig one evening.
+A man from a record company hears him.
+The man loves Randy's sound.
+> The man signs him to the label.
+
+__About the match__
+Rarest shared words: [('hears', (7.907795278182158, 7.907795278182158)), ('loves', (6.064076070023392, 6.064076070023392)), ('music', (5.650207551118848, 5.650207551118848)), ('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.6242528561324107
+
+__About the completion__
+Rarest in completion: [('label', 9.622573706874066), ('signs', 8.293437759594124), ('man', 4.481560134144697), ('him', 3.3907807836977737)]
+Nearest to completion: [('label', 0.6111769080162048), ('signs', 0.5802732110023499), ('labels', 0.5206673741340637), ('Signs', 0.47245460748672485), ('sign', 0.45554161071777344), ('man', 0.43584775924682617), ('him', 0.3963918089866638), ('Records', 0.3833077549934387), ('billboard', 0.3691255748271942), ('banners', 0.34805095195770264)]
+
+--------------------------------------------------------------------------
+
+Jeff listens to music while working out at the gym.
+He hates how the cord of his headphones always gets in the way.
+He saw a guy at the gym with wireless headphones.
+Jeff looked them up on amazon and bought a pair.
+> He now works out cord free and with no distractions.
+
+__About the match__
+Rarest shared words: [('listens', (9.517233190616258, 9.517233190616258)), ('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.6017545382761812
+
+__About the completion__
+Rarest in completion: [('distractions', 11.12665110365034), ('cord', 8.824066010656296), ('works', 7.4503504317432645), ('free', 6.322630058917084), ('no', 4.72556343828553), ('now', 4.716476221684173), ('out', 3.3165011979861596)]
+Nearest to completion: [('distractions', 0.5406740307807922), ('free', 0.5212622284889221), ('Free', 0.40477317571640015), ('no', 0.37582772970199585), ('distraction', 0.34108245372772217), ('avoids', 0.29723137617111206), ('plenty', 0.2876451909542084), ('eliminates', 0.28734201192855835), ("isn'ta", 0.2872828245162964), ('hassle', 0.28038400411605835)]
+
+--------------------------------------------------------------------------
+
+Dean loves making music.
+Whenever Dean has free time, he writes new songs.
+One day, he finds a flier for a talent show in his town.
+He decides to participate in the talent show with an original song.
+> Dean wins after his stellar performance and gets a standing ovation.
+
+__About the match__
+Rarest shared words: [('loves', (6.064076070023392, 6.064076070023392)), ('music', (5.650207551118848, 5.650207551118848)), ('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.564148540391843
+
+__About the completion__
+Rarest in completion: [('stellar', 10.210360371776185), ('ovation', 9.25484892674875), ('wins', 8.130918830096348), ('performance', 7.8308142376460115), ('standing', 7.585691779613026), ('gets', 6.386076280656046), ('after', 3.9503965716331964)]
+Nearest to completion: [('wins', 0.6493412256240845), ('stellar', 0.5887784957885742), ('performance', 0.5647684931755066), ('finishes', 0.4675981402397156), ('victories', 0.4534814655780792), ('performances', 0.4498218894004822), ('earns', 0.44663089513778687), ('winning', 0.4428766667842865), ('impressive', 0.4266599714756012), ('win', 0.40745723247528076)]
+
+--------------------------------------------------------------------------
+
+Mary listens to her music way too loud.
+It really bothers her roommates.
+Her roommates asked her the other day to turn her music down.
+Mary said that she would turn her music down.
+> Even though she didn't want to, Mary turned her music down.
+
+__About the match__
+Rarest shared words: [('listens', (9.517233190616258, 9.517233190616258)), ('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.5544379203489878
+
+__About the completion__
+Rarest in completion: [('music', 6.149917361229766), ('though', 6.083225986731094), ('want', 5.717239689596717), ('even', 5.482972553063845), ('turned', 5.363028628638123), ('down', 4.370882181666085), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('did', 0.40987610816955566), ('music', 0.39687204360961914), ('though', 0.3789536654949188), ('does', 0.3663734197616577), ('even', 0.3493264615535736), ('inclined', 0.3237261474132538), ('refuses', 0.31678929924964905), ('dare', 0.31209230422973633), ('want', 0.31032922863960266), ('not', 0.2999899089336395)]
+
+--------------------------------------------------------------------------
+
+Dale really like heavy metal, but Stacey does not.
+Dale buys Stacey some heavy metal albums to listen to.
+After listening to them, Stacey decides she likes heavy metal too.
+Stacey tells Dale that she really does like heavy metal after all.
+> Dale is so happy that Stacey also likes heavy metal.
+
+__About the match__
+Rarest shared words: [('buys', (7.3654709873567965, 7.3654709873567965))]
+Score: 0.5264191557871082
+
+__About the completion__
+Rarest in completion: [('metal', 8.035608650292025), ('heavy', 7.413079036946033), ('likes', 6.9369963616239145), ('also', 5.8208617222636025), ('happy', 4.78013793434821), ('is', 4.0817459865209695), ('so', 3.628612279567497)]
+Nearest to completion: [('heavy', 0.5833398699760437), ('metal', 0.5117204189300537), ('likes', 0.4408992528915405), ('Heavy', 0.4360332787036896), ('heavier', 0.410602331161499), ('Metal', 0.37538018822669983), ('metals', 0.3440929651260376), ('also', 0.32212314009666443), ('currently', 0.3190765678882599), ('heavily', 0.3187074661254883)]
+
+--------------------------------------------------------------------------
+
+Tony loves music.
+He learns how to play several instruments at a young age.
+He spends all his free time listening to and playing music.
+Tony goes to college for music production.
+> Tony is now a famous music producer.
+
+__About the match__
+Rarest shared words: [('loves', (6.064076070023392, 6.064076070023392)), ('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.5154850918672034
+
+__About the completion__
+Rarest in completion: [('producer', 9.25484892674875), ('famous', 7.245087305706903), ('music', 6.149917361229766), ('now', 4.716476221684173), ('is', 4.0817459865209695)]
+Nearest to completion: [('producer', 0.6676874756813049), ('music', 0.5285947918891907), ('famous', 0.4719133973121643), ('songwriter', 0.47064438462257385), ('producers', 0.46701106429100037), ('composer', 0.4626821279525757), ('musician', 0.4473588764667511), ('Producer', 0.4341023862361908), ('renowned', 0.4236234426498413), ('creator', 0.41144508123397827)]
+
+--------------------------------------------------------------------------
+
+Sam was on her way to see her favorite music artist.
+She couldn't wait to get to the concert.
+She gets there and gives her ticket to get in.
+Her ticket is not accepted and she is not allowed in.
+> Sam went home crying after not seeing her favorite artist.
+
+__About the match__
+Rarest shared words: [('artist', (7.10131941231521, 7.10131941231521)), ('concert', (6.206690177222234, 6.206690177222234)), ('music', (5.650207551118848, 5.650207551118848)), ('favorite', (4.857574819344098, 4.857574819344098)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5141027259767516
+
+__About the completion__
+Rarest in completion: [('artist', 7.5571184071689705), ('crying', 7.224678434075696), ('seeing', 7.007613928837868), ('favorite', 5.385251765422833), ('home', 4.002978318445733), ('after', 3.9503965716331964), ('not', 3.8329533830489027), ('went', 3.303005172815388)]
+Nearest to completion: [('artist', 0.470365047454834), ('favorite', 0.43899112939834595), ('crying', 0.43786776065826416), ('Artist', 0.3794300854206085), ('favorites', 0.37826767563819885), ('painter', 0.3716703951358795), ('artists', 0.3226598799228668), ('hero', 0.310384601354599), ('home', 0.30605509877204895), ('cries', 0.30449700355529785)]
+
+--------------------------------------------------------------------------
+
+Johnny loved to listen to rock music.
+He would listen to it very loud when he would go jogging.
+One day johnny was listening to his favorite song.
+He had the volume up as loud as it would go.
+> Johnny didn't see a truck that hit him and sent him to the hospital.
+
+__About the match__
+Rarest shared words: [('music', (5.650207551118848, 5.650207551118848)), ('favorite', (4.857574819344098, 4.857574819344098))]
+Score: 0.5102838043774108
+
+__About the completion__
+Rarest in completion: [('truck', 6.368759830644585), ('sent', 6.1993974184931355), ('hospital', 6.17082404604908), ('hit', 5.52453228277064), ('see', 4.749074176950009), ('did', 3.6104898725633485), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('hospital', 0.5313826203346252), ('truck', 0.4675171971321106), ('ambulance', 0.4421917796134949), ('Hospital', 0.4214940667152405), ('seriously_injured', 0.4025511145591736), ('sent', 0.39097464084625244), ('hit', 0.3866049647331238), ('airlifted', 0.376956045627594), ('hospitals', 0.37253114581108093), ('transported', 0.35384097695350647)]
+
+--------------------------------------------------------------------------
+
+Kenny was  poor boy from the country.
+He had a dream of becoming a singer.
+One day singing at his job a musician hears him.
+He tells Kenny to come with him to the record company.
+> Kenny goes to the record company to record a hit album.
+
+__About the match__
+Rarest shared words: [('hears', (7.907795278182158, 7.907795278182158)), ('country', (6.199417417893154, 6.199417417893154))]
+Score: 0.4996881301469869
+
+__About the completion__
+Rarest in completion: [('album', 8.236279345754177), ('record', 7.377147027719969), ('goes', 6.594051610497084), ('company', 6.11268801946141), ('hit', 5.52453228277064)]
+Nearest to completion: [('album', 0.6968224048614502), ('albums', 0.5835357904434204), ('Album', 0.513622522354126), ('record', 0.5107163190841675), ('CD', 0.5069257020950317), ('song', 0.4833771586418152), ('EP', 0.47946232557296753), ('hit', 0.44265350699424744), ('singer_songwriter', 0.43573036789894104), ('songs', 0.43536150455474854)]
+
+--------------------------------------------------------------------------
+
+

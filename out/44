@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Nick was trying to buy a house.
+He lived with a roommate that he couldn't trust.
+His stuff always ended up missing from his bedroom.
+He knew it had to be Nick so he decided he would move out.
+> He found a place and moved out as fast as he could.
+
+__About the context__
+Rarest in context: [('trust', 8.4876137734351), ('stuff', 6.983536376658827), ('roommate', 6.967788019690687), ('bedroom', 6.482280203908987), ('missing', 6.259136652594776), ('move', 5.779563572332891), ('lived', 5.706136103778073), ('ended', 5.2773463231035), ('trying', 5.2104690404429235), ('knew', 4.833251824203877), ('buy', 4.528162074435843), ('always', 4.054249202512988), ('house', 4.016791639978088), ('be', 3.714510768105154), ('from', 3.533800815205541), ('would', 3.429095756248016), ('could', 3.4004584525428303), ('so', 3.307436649191289)]
+Nearest to context: [('bedroom', 0.43707284331321716), ('apartment', 0.42322641611099243), ('lived', 0.4100096523761749), ('house', 0.38521337509155273), ('roommate', 0.36002132296562195), ('apartment_complex', 0.3371025323867798), ('apartments', 0.32484763860702515), ('dwelling', 0.3228863775730133), ('condo', 0.3099084496498108), ('condominium', 0.3047632873058319)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('lawyer', 1855, 18145, 0.4139553904533386), ('landlord', 12908, 7092, 0.4137231409549713), ('sued', 5440, 14560, 0.39232972264289856), ('agent', 1922, 18078, 0.3887084722518921), ('estate', 5298, 14702, 0.38276398181915283), ('attorney', 1171, 18829, 0.38145387172698975), ('solicitor', 18758, 1242, 0.3596745729446411), ('tenant', 11729, 8271, 0.3551626205444336), ('alleges', 10080, 9920, 0.34796208143234253), ('inspector', 10806, 9194, 0.34545159339904785)]
+Nearest words to completions' keywords: [('house', 541, 19459, 0.5491641759872437), ('apartment', 2743, 17257, 0.5262916684150696), ('friend', 1269, 18731, 0.5036749839782715), ('neighbor', 4143, 15857, 0.5016357898712158), ('landlord', 12908, 7092, 0.493851900100708), ('uncle', 8185, 11815, 0.48951104283332825), ('husband', 1292, 18708, 0.4819134771823883), ('wife', 783, 19217, 0.4812409579753876), ('wanted', 583, 19417, 0.4810806214809418), ('bedroom', 5133, 14867, 0.47493618726730347)]
+Nearest words to completions' verbs: [('did', 92, 19908, 0.5942219495773315), ('agreed', 887, 19113, 0.5856292247772217), ('went', 297, 19703, 0.5665535926818848), ('came', 256, 19744, 0.5609614253044128), ('wanted', 583, 19417, 0.560543417930603), ('got', 193, 19807, 0.5566312670707703), ('tried', 940, 19060, 0.552537202835083), ('figured', 6111, 13889, 0.5520974397659302), ('knew', 1039, 18961, 0.5456241369247437), ('saw', 653, 19347, 0.5327723026275635)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Tom lived with his girlfriend.
+She bought a new decoration for the apartment.
+She really liked it and put it in the living room.
+Tom hated it and asked her to move it.
+> She reluctantly agreed to do so.
+
+__About the match__
+Rarest shared words: [('move', (5.779563572332891, 5.779563572332891)), ('lived', (5.706136103778073, 5.706136103778073))]
+Score: 0.6126856734219484
+
+__About the completion__
+Rarest in completion: [('reluctantly', 7.991156887721191), ('agreed', 5.993798176829835), ('do', 4.865159419329299), ('so', 3.628612279567497)]
+Nearest to completion: [('agreed', 0.6636213660240173), ('reluctantly', 0.632960319519043), ('agreeing', 0.5270373225212097), ('agree', 0.5108288526535034), ('agrees', 0.4494881331920624), ('reluctant', 0.4341437518596649), ('persuaded', 0.4294174611568451), ('refuse', 0.427134245634079), ('decided', 0.4169321656227112), ('refused', 0.41460949182510376)]
+
+--------------------------------------------------------------------------
+
+Three guys were living in an apartment.
+They decided that they wanted another roommate.
+They found someone but didn't realize they were a girl.
+They weren't sure if they should let her move in, but eventually did.
+> They all became best friends.
+
+__About the match__
+Rarest shared words: [('roommate', (6.967788019690687, 6.967788019690687)), ('move', (5.779563572332891, 5.779563572332891))]
+Score: 0.5540678891634317
+
+__About the completion__
+Rarest in completion: [('became', 5.378851743577365), ('best', 5.3230232940244235), ('friends', 4.1620430130754205), ('all', 3.5398475684877595)]
+Nearest to completion: [('became', 0.5089459419250488), ('best', 0.48848867416381836), ('friends', 0.47033581137657166), ('becoming', 0.38978272676467896), ('become', 0.38043808937072754), ('favorite', 0.35074469447135925), ('most', 0.34277504682540894), ('greatest', 0.32887086272239685), ('pals', 0.32403889298439026), ('closest', 0.323154091835022)]
+
+--------------------------------------------------------------------------
+
+Guillermo never did anything.
+He stayed at this friend's house.
+He never paid his rent.
+So his roommate got fed up.
+> And kicked him out of the house.
+
+__About the match__
+Rarest shared words: [('roommate', (6.967788019690687, 6.967788019690687)), ('house', (4.016791639978088, 4.016791639978088)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.5413979278048657
+
+__About the completion__
+Rarest in completion: [('kicked', 7.175407385068913), ('house', 4.506577897119985), ('him', 3.3907807836977737), ('out', 3.3165011979861596)]
+Nearest to completion: [('kicked', 0.5348758101463318), ('house', 0.48609060049057007), ('kicking', 0.3934554159641266), ('out', 0.3565286099910736), ('him', 0.34733083844184875), ('kick', 0.33457857370376587), ('bedroom', 0.32867705821990967), ('door', 0.32371827960014343), ('apartment', 0.31846871972084045), ('residence', 0.3153979778289795)]
+
+--------------------------------------------------------------------------
+
+Manuel was having a difficult time paying his rent.
+He knew that he would be evicted if he didn't figure something out.
+He then remembered that his friend was looking for a house.
+Manuel asked him to move in and be his roommate.
+> His friend agreed and Manuel kept his house.
+
+__About the match__
+Rarest shared words: [('roommate', (6.967788019690687, 6.967788019690687)), ('move', (5.779563572332891, 5.779563572332891)), ('knew', (4.833251824203877, 4.833251824203877)), ('house', (4.016791639978088, 4.016791639978088)), ('be', (3.714510768105154, 3.714510768105154)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.5016203541188006
+
+__About the completion__
+Rarest in completion: [('agreed', 5.993798176829835), ('kept', 5.746753750109881), ('house', 4.506577897119985), ('friend', 4.4228496815892715)]
+Nearest to completion: [('friend', 0.495983749628067), ('house', 0.49421796202659607), ('agreed', 0.4274381697177887), ('kept', 0.3949880301952362), ('neighbor', 0.3714852035045624), ('pal', 0.37111324071884155), ('aunt', 0.34823501110076904), ('residence', 0.3448621332645416), ('wife', 0.3415277302265167), ('cousin', 0.3401467502117157)]
+
+--------------------------------------------------------------------------
+
+Mitch and Polly needed a sofa for their apartment.
+Their friend had one for sale at a good price.
+Mitch and Polly drove to his apartment to buy it.
+They had forgotten that their friend lived on the third floor.
+> Their friend helped Mitch and Polly carry the sofa down the stairs.
+
+__About the match__
+Rarest shared words: [('lived', (5.706136103778073, 5.706136103778073)), ('buy', (4.528162074435843, 4.528162074435843))]
+Score: 0.46589126535649183
+
+__About the completion__
+Rarest in completion: [('sofa', 8.600922459342085), ('carry', 7.991156887721191), ('stairs', 7.90777527878214), ('helped', 6.0767950964008035), ('their', 4.437673918472774), ('friend', 4.4228496815892715), ('down', 4.370882181666085)]
+Nearest to completion: [('stairs', 0.6143187880516052), ('helped', 0.3698406517505646), ('carry', 0.31266072392463684), ('down', 0.28878939151763916), ('hallway', 0.2864539325237274), ('downstairs', 0.2799370586872101), ('help', 0.2745981812477112), ('friend', 0.27123692631721497), ('onto', 0.26259878277778625), ('upstairs', 0.2606063485145569)]
+
+--------------------------------------------------------------------------
+
+The couple knew that their house was too small.
+They liked the neighborhood and did not want to move.
+The decided to convert the attic into a bedroom.
+They had plans drawn and hired an engineer to go over them.
+> The engineer said the house would collapse under the extra weight.
+
+__About the match__
+Rarest shared words: [('bedroom', (6.482280203908987, 6.482280203908987)), ('move', (5.779563572332891, 5.779563572332891)), ('knew', (4.833251824203877, 4.833251824203877)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.43862617137159066
+
+__About the completion__
+Rarest in completion: [('collapse', 10.210360371776185), ('engineer', 8.92942652631412), ('extra', 6.5365945554722975), ('weight', 6.501678290366069), ('under', 6.122704797704881), ('said', 4.667529428177747), ('house', 4.506577897119985), ('would', 3.922873627941421)]
+Nearest to completion: [('engineer', 0.49808430671691895), ('collapse', 0.47512251138687134), ('weight', 0.44111528992652893), ('under', 0.3847314417362213), ('architect', 0.3770892024040222), ('Engineer', 0.37269318103790283), ('engineering', 0.3529464900493622), ('collapsed', 0.3414301574230194), ('inspector', 0.3220113217830658), ('collapsing', 0.31022173166275024)]
+
+--------------------------------------------------------------------------
+
+We lived in a condo in Brighton for years.
+In 1993 I saw a neighbor in the ambulance.
+I asked my neighbors what happened.
+His new girlfriend's ex came by and beat him up.
+> He did not press charges .
+
+__About the match__
+Rarest shared words: [('lived', (5.706136103778073, 5.706136103778073))]
+Score: 0.43257118558314045
+
+__About the completion__
+Rarest in completion: [('press', 9.421903011411915), ('charges', 9.111748083108075), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('charges', 0.6110739707946777), ('press', 0.504967987537384), ('did', 0.46080702543258667), ('not', 0.44445139169692993), ('charge', 0.43338125944137573), ('indictments', 0.41109925508499146), ('Charges', 0.40676048398017883), ('allegations', 0.40442243218421936), ('comment', 0.3908923864364624), ('indictment', 0.3807234764099121)]
+
+--------------------------------------------------------------------------
+
+Herman bought a vacation home in Florida.
+He didn't know the house was built on swampland.
+In March, Herman went with his family to stay in the home.
+When they arrived they found alligators living in the bathroom.
+> Herman promptly sued the seller and the real estate agent.
+
+__About the match__
+Rarest shared words: [('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.4303078843607506
+
+__About the completion__
+Rarest in completion: [('estate', 9.180740954595027), ('promptly', 9.111748083108075), ('seller', 8.775275846486863), ('sued', 8.561701746188803), ('agent', 7.948597273302394), ('real', 7.03230654142824)]
+Nearest to completion: [('estate', 0.596699595451355), ('seller', 0.5849330425262451), ('agent', 0.5704604387283325), ('sued', 0.4987918436527252), ('Estate', 0.4523279666900635), ('landlord', 0.4487844407558441), ('buyer', 0.4481051564216614), ('agents', 0.4402586817741394), ('estates', 0.41967323422431946), ('suing', 0.409988671541214)]
+
+--------------------------------------------------------------------------
+
+I bumped into an old neighbor today.
+Siobhan lived in our building until this year.
+She and her husband bought a house in Westford, MA.
+She said she was having second thoughts about living in.
+> She found the suburbs boring and missed city life.
+
+__About the match__
+Rarest shared words: [('lived', (5.706136103778073, 5.706136103778073)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.4183031912864643
+
+__About the completion__
+Rarest in completion: [('suburbs', 9.421903011411915), ('boring', 7.812465098977815), ('missed', 6.521480917662249), ('city', 6.417120902338007), ('life', 5.637713377493654), ('found', 4.202038707601781)]
+Nearest to completion: [('suburbs', 0.6140685081481934), ('city', 0.5012561678886414), ('suburb', 0.4876585304737091), ('suburban', 0.4704906642436981), ('neighborhoods', 0.4661295711994171), ('cities', 0.4124307930469513), ('urban', 0.40817561745643616), ('metropolitan', 0.40261995792388916), ('boring', 0.3933638334274292), ('life', 0.39296382665634155)]
+
+--------------------------------------------------------------------------
+
+Charlie was a 35 year old virgin.
+He lived with his parents house.
+One day Charlie was looking at pretty girl at work.
+Charlie drooled over the girl as he watched in the closet.
+> Charlie's manager found him and fired him on the spot.
+
+__About the match__
+Rarest shared words: [('lived', (5.706136103778073, 5.706136103778073)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.4177592684641063
+
+__About the completion__
+Rarest in completion: [('manager', 6.921958484259375), ('fired', 6.914523505771856), ('spot', 6.695834304807027), ('found', 4.202038707601781), ('him', 3.3907807836977737), ("'s", 3.3551623435327245)]
+Nearest to completion: [('fired', 0.5936389565467834), ('manager', 0.5218203663825989), ('spot', 0.48172008991241455), ('firing', 0.4430874288082123), ('assistant', 0.37695372104644775), ('vice_president', 0.35530391335487366), ('supervisor', 0.35438627004623413), ('boss', 0.33932948112487793), ('resigned', 0.33121564984321594), ('shot', 0.3287167251110077)]
+
+--------------------------------------------------------------------------
+
+

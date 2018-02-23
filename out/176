@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Abe heard some scratching on the door.
+He opened it and found a tiny kitten.
+He scooped her up and gave her a bowl of milk.
+He tried to pet her but she scratched him and hissed.
+> Abe put the kitten back outside and told her to scram.
+
+__About the context__
+Rarest in context: [('hissed', 9.517233190616258), ('scooped', 8.418620901948149), ('scratching', 8.082148665326937), ('scratched', 7.630163541583879), ('tiny', 6.907163397874252), ('kitten', 6.809182989514049), ('bowl', 6.672323806796851), ('milk', 6.615811596533509), ('pet', 5.803661123911951), ('opened', 5.4533478358788665), ('door', 5.1944259156023485), ('heard', 4.9140650072988405), ('gave', 4.575590768006954), ('tried', 3.9806866353359713), ('found', 3.802181123701827), ('some', 3.566590638028532)]
+Nearest to context: [('scratched', 0.4823881685733795), ('scooped', 0.44266477227211), ('scratching', 0.43324869871139526), ('popped', 0.3426666855812073), ('opened', 0.3246921896934509), ('discovered', 0.31941255927085876), ('stuffed', 0.3156365752220154), ('cracked', 0.3150654137134552), ('cat', 0.30770647525787354), ('snatched', 0.3065706193447113)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dog', 2043, 17957, 0.3844781517982483), ('cat', 5947, 14053, 0.3626296818256378), ('bleeding', 9109, 10891, 0.35142236948013306), ('dogs', 2766, 17234, 0.3364354372024536), ('soup', 12406, 7594, 0.2925926148891449), ('Dog', 9760, 10240, 0.2849660813808441), ('pig', 13283, 6717, 0.2839384377002716), ('vicious', 12467, 7533, 0.2821454107761383), ('rid', 5611, 14389, 0.27997279167175293), ('animal', 2801, 17199, 0.2747917175292969)]
+Nearest words to completions' keywords: [('dog', 2043, 17957, 0.7302294969558716), ('dogs', 2766, 17234, 0.696231484413147), ('cat', 5947, 14053, 0.6763421893119812), ('puppy', 16503, 3497, 0.6548371315002441), ('pet', 4804, 15196, 0.649691641330719), ('cats', 7107, 12893, 0.6435279250144958), ('pets', 7137, 12863, 0.6248853802680969), ('animals', 2418, 17582, 0.5640867948532104), ('animal', 2801, 17199, 0.5583092570304871), ('eat', 2785, 17215, 0.5490669012069702)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7219255566596985), ('had', 35, 19965, 0.6967232823371887), ('knew', 1039, 18961, 0.643785834312439), ('was', 10, 19990, 0.6434123516082764), ('came', 256, 19744, 0.6197260618209839), ('thought', 572, 19428, 0.6071150898933411), ('stayed', 2936, 17064, 0.5956705808639526), ('were', 37, 19963, 0.5852200388908386), ('went', 297, 19703, 0.5835592150688171), ('get', 91, 19909, 0.5749228000640869)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Bailey heard a scratching at her door.
+She opened it to find a very cute dog!
+She brought it inside and gave it food and water.
+He made himself at home.
+> She decided to keep him.
+
+__About the match__
+Rarest shared words: [('scratching', (8.082148665326937, 8.082148665326937)), ('opened', (5.4533478358788665, 5.4533478358788665)), ('door', (5.1944259156023485, 5.1944259156023485)), ('heard', (4.9140650072988405, 4.9140650072988405)), ('gave', (4.575590768006954, 4.575590768006954))]
+Score: 0.646226022115424
+
+__About the completion__
+Rarest in completion: [('keep', 6.255277876887592), ('decided', 3.495461951503386), ('him', 3.3907807836977737)]
+Nearest to completion: [('keep', 0.5348861217498779), ('decided', 0.4909450113773346), ('keeping', 0.40653926134109497), ('stay', 0.39617690443992615), ('him', 0.3947012424468994), ('kept', 0.3914869725704193), ('opted', 0.35914573073387146), ('persuade', 0.3529137372970581), ('decide', 0.35138335824012756), ('Keeping', 0.34464940428733826)]
+
+--------------------------------------------------------------------------
+
+Tammy had a cat.
+It went by the door scratching to get out.
+Tammy tried to let it out.
+The cat decided not to.
+> It repeated it four more times.
+
+__About the match__
+Rarest shared words: [('scratching', (8.082148665326937, 8.082148665326937)), ('door', (5.1944259156023485, 5.1944259156023485)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.5313856157408856
+
+__About the completion__
+Rarest in completion: [('repeated', 9.622573706874066), ('four', 6.567524856163656), ('times', 6.403697882005866), ('more', 4.774893167080915)]
+Nearest to completion: [('repeated', 0.6037987470626831), ('times', 0.5813978314399719), ('three', 0.4941052198410034), ('five', 0.4926285743713379), ('four', 0.4916501045227051), ('more', 0.4814678430557251), ('six', 0.4728642404079437), ('multiple', 0.4662547707557678), ('seven', 0.4590179920196533), ('past', 0.4451025128364563)]
+
+--------------------------------------------------------------------------
+
+The dog scratched his ear all the time.
+It's owner checked the dog's ear.
+The dog had fleas.
+The owner gave the dog medicine.
+> The dog got rid of the fleas.
+
+__About the match__
+Rarest shared words: [('scratched', (7.630163541583879, 7.630163541583879)), ('gave', (4.575590768006954, 4.575590768006954))]
+Score: 0.5297250881239663
+
+__About the completion__
+Rarest in completion: [('fleas', 8.92942652631412), ('rid', 7.63014354218386), ('dog', 5.026332151630276), ('got', 3.390344007102055)]
+Nearest to completion: [('rid', 0.6384263038635254), ('dog', 0.5773866176605225), ('dogs', 0.49576321244239807), ('puppy', 0.45970186591148376), ('cat', 0.44934794306755066), ('cats', 0.3975665271282196), ('Dog', 0.38501808047294617), ('pet', 0.38070785999298096), ('monkey', 0.361910879611969), ('animal', 0.3591587543487549)]
+
+--------------------------------------------------------------------------
+
+Chris wanted to make his own ice cream sundae at home.
+He found a bowl and scooped up two scoops of vanilla ice cream.
+He poured caramel syrup over the top of the ice cream.
+Chris topped that with nuts, whipped cream and a cherry.
+> He ate the entire sundae and he thought it was delicious!
+
+__About the match__
+Rarest shared words: [('scooped', (8.418620901948149, 8.418620901948149)), ('bowl', (6.672323806796851, 6.672323806796851)), ('found', (3.802181123701827, 3.802181123701827))]
+Score: 0.5205350055253319
+
+__About the completion__
+Rarest in completion: [('sundae', 10.028038814982231), ('delicious', 6.719931856386087), ('entire', 6.453822269188434), ('ate', 5.493648811055187), ('thought', 4.810389351501649), ('!', 3.536809591467683)]
+Nearest to completion: [('delicious', 0.6715431809425354), ('ate', 0.670773983001709), ('tasty', 0.5669905543327332), ('eaten', 0.5336335897445679), ('eat', 0.482136607170105), ('dessert', 0.4743430018424988), ('eating', 0.47251394391059875), ('desserts', 0.46582651138305664), ('salad', 0.4422009289264679), ('meal', 0.4421333074569702)]
+
+--------------------------------------------------------------------------
+
+The dog whined.
+He kept pawing at his bowl.
+His owner noticed it was empty.
+The owner poured food in.
+> The dog gobbled it up.
+
+__About the match__
+Rarest shared words: [('bowl', (6.672323806796851, 6.672323806796851))]
+Score: 0.5201812762025392
+
+__About the completion__
+Rarest in completion: [('gobbled', 8.72875583085197), ('dog', 5.026332151630276)]
+Nearest to completion: [('dog', 0.9431277513504028), ('dogs', 0.8183351755142212), ('puppy', 0.7504040598869324), ('cat', 0.6992595791816711), ('Dog', 0.6821051836013794), ('pet', 0.6685402989387512), ('cats', 0.615613579750061), ('animal', 0.6094829440116882), ('pets', 0.6037120223045349), ('Dogs', 0.5261833667755127)]
+
+--------------------------------------------------------------------------
+
+A stray kitten came to my door.
+I gave the kitten a bowl of milk because it looked hungry.
+The kitten stayed around my door so I adopted it.
+I named the kitty Pussy.
+> Pussy and I are best friends now.
+
+__About the match__
+Rarest shared words: [('kitten', (6.809182989514049, 6.809182989514049)), ('bowl', (6.672323806796851, 6.672323806796851)), ('milk', (6.615811596533509, 6.615811596533509)), ('door', (5.1944259156023485, 5.1944259156023485)), ('gave', (4.575590768006954, 4.575590768006954))]
+Score: 0.5106854123484288
+
+__About the completion__
+Rarest in completion: [('are', 6.0767950964008035), ('best', 5.3230232940244235), ('now', 4.716476221684173), ('friends', 4.1620430130754205)]
+Nearest to completion: [('are', 0.5553686022758484), ('best', 0.4951191246509552), ('friends', 0.4672382175922394), ('now', 0.3972383439540863), ('currently', 0.3883579969406128), ("'re", 0.3652719557285309), ('Are', 0.355575293302536), ('finest', 0.31944015622138977), ('presently', 0.3186614215373993), ('loved_ones', 0.31581953167915344)]
+
+--------------------------------------------------------------------------
+
+Jim wanted to get a cat as a pet.
+He went to the shelter to get a cat.
+He picked one out and took the cat home.
+The instant the cat arrived, it scratched all of Jim's furniture.
+> Jim instantly regretted getting a cat.
+
+__About the match__
+Rarest shared words: [('scratched', (7.630163541583879, 7.630163541583879)), ('pet', (5.803661123911951, 5.803661123911951))]
+Score: 0.5001622138485804
+
+__About the completion__
+Rarest in completion: [('instantly', 7.927977986099659), ('regretted', 7.812465098977815), ('cat', 5.756013075522677), ('getting', 5.3336374952661965)]
+Nearest to completion: [('cat', 0.5322229266166687), ('instantly', 0.49395570158958435), ('regretted', 0.42763620615005493), ('cats', 0.3767980933189392), ('dog', 0.36872008442878723), ('puppy', 0.36769455671310425), ('pet', 0.3664432466030121), ('pets', 0.30745723843574524), ('animal', 0.2981116771697998), ('mouse', 0.29617926478385925)]
+
+--------------------------------------------------------------------------
+
+Tom noticed a stray cat.
+He thought it might be friendly.
+Tom tried to go up and pet it.
+The cat scratched at him.
+> Tom left it alone.
+
+__About the match__
+Rarest shared words: [('scratched', (7.630163541583879, 7.630163541583879)), ('pet', (5.803661123911951, 5.803661123911951)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.49119251791245694
+
+__About the completion__
+Rarest in completion: [('alone', 6.3559664791846755), ('left', 4.930206975855819)]
+Nearest to completion: [('alone', 0.7005103826522827), ('left', 0.6302079558372498), ('leaving', 0.42783430218696594), ('empty', 0.36139538884162903), ('untouched', 0.3490251898765564), ('leave', 0.34494104981422424), ('remaining', 0.33783119916915894), ('leaves', 0.32601842284202576), ('behind', 0.2993476986885071), ('helpless', 0.28001800179481506)]
+
+--------------------------------------------------------------------------
+
+Sarah was giving her cat a bath.
+Her cat squirmed as she put him in the bathtub.
+All of a sudden, her cat jumped out of the bathtub.
+Her cat scratched Sarah's arm on his way down.
+> Sarah had to bandage her arm in order to stop the bleeding.
+
+__About the match__
+Rarest shared words: [('scratched', (7.630163541583879, 7.630163541583879))]
+Score: 0.4910286669716126
+
+__About the completion__
+Rarest in completion: [('bandage', 9.334891634422286), ('bleeding', 8.64174445386234), ('arm', 7.007613928837868), ('order', 6.403697882005866), ('stop', 5.866554949922501)]
+Nearest to completion: [('bleeding', 0.6522769331932068), ('arm', 0.5879732966423035), ('stop', 0.46422627568244934), ('chest', 0.4088234007358551), ('abdomen', 0.3924924433231354), ('forehead', 0.35547810792922974), ('spine', 0.3499372899532318), ('neck', 0.34709927439689636), ('leg', 0.3396519124507904), ('order', 0.339097797870636)]
+
+--------------------------------------------------------------------------
+
+Rachel made a delicious soup.
+She got a big ladle out of the drawer.
+She scooped up the soup with it.
+Just as she went to pour it into the bowl, she dropped the ladle.
+> The soup splattered everywhere.
+
+__About the match__
+Rarest shared words: [('scooped', (8.418620901948149, 8.418620901948149)), ('bowl', (6.672323806796851, 6.672323806796851))]
+Score: 0.49062991078575846
+
+__About the completion__
+Rarest in completion: [('splattered', 9.517213191216241), ('soup', 7.5571184071689705), ('everywhere', 6.521480917662249)]
+Nearest to completion: [('soup', 0.7223761081695557), ('everywhere', 0.5956206917762756), ('salad', 0.443773090839386), ('sauce', 0.43048545718193054), ('sandwiches', 0.4288307726383209), ('cakes', 0.4050437808036804), ('pasta', 0.39822623133659363), ('delicious', 0.3950868546962738), ('sandwich', 0.38506796956062317), ('bread', 0.38345852494239807)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+It was my first time cooking dinner for myself.
+I decided to stay simple and cooked a hamburger.
+As the meat cooked, my nose was treated with a wondrous smell.
+After it finished, I took it off the grill and slapped it on a bun.
+> I wasted no time and took a huge bite of my perfect burger.
+
+__About the context__
+Rarest in context: [('wondrous', 10.433523922490414), ('bun', 9.047229561370523), ('slapped', 8.293457758994144), ('hamburger', 8.082148665326937), ('treated', 7.907795278182158), ('simple', 7.692683898565213), ('nose', 7.3654709873567965), ('grill', 7.3654709873567965), ('meat', 7.194845470326033), ('myself', 6.769962276360768), ('smell', 6.604882526001319), ('cooked', 6.5519601245469765), ('cooking', 6.143064481342023), ('finished', 5.8536715444866125), ('stay', 5.823366194991284), ('dinner', 5.147785338149237), ('off', 4.097583538900697), ('first', 3.9673791982527944), ('after', 3.6847643749987347), ('time', 3.6473714652675255), ('took', 3.6015703569245585), ('as', 3.5598426238420284)]
+Nearest to context: [('cooked', 0.6512231826782227), ('grill', 0.5630729794502258), ('cook', 0.5435977578163147), ('cooking', 0.5349889993667603), ('steak', 0.5029398798942566), ('dish', 0.48064419627189636), ('oven', 0.4641571044921875), ('grilled', 0.46240562200546265), ('meat', 0.4489646255970001), ('chicken', 0.44213464856147766)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cooked', 9960, 10040, 0.36354607343673706), ('perfectly', 5575, 14425, 0.3508935570716858), ('delicious', 10595, 9405, 0.3425501883029938), ('plate', 3415, 16585, 0.3305792808532715), ('everything', 838, 19162, 0.32368332147598267), ('soup', 12406, 7594, 0.31508415937423706), ('myself', 2021, 17979, 0.30658039450645447), ('nicely', 10373, 9627, 0.29973310232162476), ('ingredients', 6121, 13879, 0.29635488986968994), ('tasted', 18312, 1688, 0.28769922256469727)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.6142645478248596), ('really', 230, 19770, 0.5833278298377991), ('happy', 1049, 18951, 0.5525055527687073), ('so', 85, 19915, 0.5433539748191833), ('nice', 1535, 18465, 0.5427483320236206), ("'d", 609, 19391, 0.5397269129753113), ('wonderful', 3057, 16943, 0.5374225378036499), ('I', 20, 19980, 0.5344838500022888), ('going', 125, 19875, 0.5254814028739929), ('wanted', 583, 19417, 0.5220279097557068)]
+Nearest words to completions' verbs: [('looked', 1115, 18885, 0.6840976476669312), ('came', 256, 19744, 0.6418662071228027), ('wanted', 583, 19417, 0.6349490880966187), ('went', 297, 19703, 0.6307744979858398), ('saw', 653, 19347, 0.6288294792175293), ('had', 35, 19965, 0.6131753325462341), ('seemed', 1617, 18383, 0.6090768575668335), ('turned', 760, 19240, 0.6068920493125916), ('was', 10, 19990, 0.6064943671226501), ('threw', 2143, 17857, 0.6062187552452087)]
+
+==========================================================================
+Neighbors
+==========================================================================
+James lit the grill to get it ready for the cookout.
+The guests arrived, and he began to cook the meat on the grill.
+James chatted as cooked the food.
+He took the food off of the grill and put it on the table.
+> Everyone made a plate and enjoyed the food over conversation.
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965)), ('meat', (7.194845470326033, 7.194845470326033)), ('cooked', (6.5519601245469765, 6.5519601245469765)), ('off', (4.097583538900697, 4.097583538900697)), ('took', (3.6015703569245585, 3.6015703569245585)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.7179575356943715
+
+__About the completion__
+Rarest in completion: [('conversation', 8.058598168516724), ('plate', 7.353890165555702), ('enjoyed', 6.002687124247082), ('everyone', 5.197061960260446), ('food', 5.1080578891541055), ('over', 4.367395832986647), ('made', 4.267560996649484)]
+Nearest to completion: [('plate', 0.5022711753845215), ('conversation', 0.42049896717071533), ('food', 0.41541939973831177), ('enjoyed', 0.39352700114250183), ('dinners', 0.3666081130504608), ('meal', 0.365546852350235), ('dinner', 0.3340107500553131), ('beverages', 0.33202415704727173), ('meals', 0.32790809869766235), ('beverage', 0.3212467133998871)]
+
+--------------------------------------------------------------------------
+
+I fired up the grill to make turkey burgers.
+The turkey meat smelled a little funny.
+I cooked the patties anyways.
+My brother ate them first, he was fine.
+> I tried them and ended up sick for three days.
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965)), ('meat', (7.194845470326033, 7.194845470326033)), ('cooked', (6.5519601245469765, 6.5519601245469765)), ('first', (3.9673791982527944, 3.9673791982527944))]
+Score: 0.7178872004034175
+
+__About the completion__
+Rarest in completion: [('sick', 5.911715346041355), ('three', 5.73075340876344), ('days', 5.677760878622929), ('ended', 5.160504364526648), ('tried', 4.57271769962453), ('them', 3.9905657466666935)]
+Nearest to completion: [('ended', 0.460549533367157), ('six', 0.4344879686832428), ('days', 0.42517176270484924), ('nine', 0.4187542796134949), ('sick', 0.41419845819473267), ('seven', 0.3933670222759247), ('three', 0.39091408252716064), ('months', 0.3862338066101074), ('eight', 0.3850405812263489), ('five', 0.3797500431537628)]
+
+--------------------------------------------------------------------------
+
+Gina prepared food for the family.
+She cooked lasagna, grilled chicken and garlic bread.
+As soon as we started to eat, Her mom became nauseous.
+Afterwards, everyone started to feel queasy.
+> They eventually threw away the food and ordered Chinese food.
+
+__About the match__
+Rarest shared words: [('cooked', (6.5519601245469765, 6.5519601245469765)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.6338362929739592
+
+__About the completion__
+Rarest in completion: [('chinese', 7.692663899165194), ('ordered', 6.023740533444914), ('threw', 5.767709115285869), ('eventually', 5.556400021618662), ('food', 5.1080578891541055), ('away', 4.824948298377215)]
+Nearest to completion: [('ordered', 0.5711540579795837), ('threw', 0.49567562341690063), ('ordering', 0.41218093037605286), ('tossed', 0.41026782989501953), ('food', 0.40072011947631836), ('demanded', 0.369733065366745), ('hurled', 0.3619324862957001), ('thrown', 0.3379038870334625), ('hauled', 0.3343242406845093), ('throwing', 0.33120542764663696)]
+
+--------------------------------------------------------------------------
+
+I cooked dinner last night.
+I made some chicken with a sauce on top.
+I am not usually a good cook.
+This meal was good.
+> I was so very proud of myself.
+
+__About the match__
+Rarest shared words: [('cooked', (6.5519601245469765, 6.5519601245469765)), ('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.6328630495778731
+
+__About the completion__
+Rarest in completion: [('myself', 7.137667057086066), ('proud', 6.0452467386658775), ('very', 3.793301345264873), ('so', 3.628612279567497)]
+Nearest to completion: [('proud', 0.6545672416687012), ('very', 0.5506497025489807), ('extremely', 0.5301958322525024), ('incredibly', 0.523523211479187), ('myself', 0.5141359567642212), ('delighted', 0.47107890248298645), ('I', 0.4690227806568146), ('pleased', 0.45492613315582275), ('tremendously', 0.4413820505142212), ('grateful', 0.43931645154953003)]
+
+--------------------------------------------------------------------------
+
+Will fired up the grill.
+He was ready for his Independence Day barbecue.
+The hot dogs began to sizzle as they were put on the grill.
+The smell of the meat made Will's mouth water.
+> He couldn't wait.
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965)), ('meat', (7.194845470326033, 7.194845470326033)), ('smell', (6.604882526001319, 6.604882526001319)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.6298968020184768
+
+__About the completion__
+Rarest in completion: [('wait', 5.733023557297979), ('could', 3.8258407366367204), ("n't", 3.334508641807057)]
+Nearest to completion: [('wait', 0.7334900498390198), ('waiting', 0.5450276732444763), ('waits', 0.5412639379501343), ('waited', 0.5220036506652832), ('could', 0.49408596754074097), ('Wait', 0.4214206337928772), ('can', 0.40753117203712463), ('may', 0.4062632620334625), ('will', 0.40288645029067993), ('might', 0.3896409869194031)]
+
+--------------------------------------------------------------------------
+
+Kerry wanted to cook on the grill.
+He asked his wife what kind of meat she wanted.
+Kerry went to the store.
+He picked up meat for his wife and himself.
+> Kerry cooked supper for himself and his wife.
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965)), ('meat', (7.194845470326033, 7.194845470326033))]
+Score: 0.6145344922834256
+
+__About the completion__
+Rarest in completion: [('supper', 8.98658494015407), ('cooked', 7.040674791098756), ('himself', 5.695114893316081), ('wife', 5.17731148284303)]
+Nearest to completion: [('wife', 0.6252992749214172), ('cooked', 0.584270715713501), ('himself', 0.5618891716003418), ('husband', 0.4770638942718506), ('herself', 0.4686819612979889), ('cook', 0.46822094917297363), ('mother', 0.43648359179496765), ('widow', 0.4357665777206421), ('son', 0.4289867877960205), ('father', 0.42508020997047424)]
+
+--------------------------------------------------------------------------
+
+Adam threw a summer party.
+His job was to man the grill.
+He cooked up burgers and hot dogs.
+Everyone loved his food.
+> They all agreed it was a great party!
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965)), ('cooked', (6.5519601245469765, 6.5519601245469765))]
+Score: 0.6034225953743473
+
+__About the completion__
+Rarest in completion: [('agreed', 5.993798176829835), ('party', 5.569823041950802), ('great', 4.843450213762537), ('all', 3.5398475684877595), ('!', 3.536809591467683)]
+Nearest to completion: [('agreed', 0.517069399356842), ('party', 0.5133026242256165), ('parties', 0.5034631490707397), ('great', 0.4279358386993408), ('agreeing', 0.39999645948410034), ('Party', 0.3673405349254608), ('all', 0.360856831073761), ('agree', 0.35116228461265564), ('pledged', 0.33949014544487), ('tremendous', 0.3332671821117401)]
+
+--------------------------------------------------------------------------
+
+Josh had the grill going.
+He put a huge steak on it.
+He grilled it until it was medium-well.
+He put it on the plate and got ready to take a bite.
+> He'd looked forward to this all day!
+
+__About the match__
+Rarest shared words: [('grill', (7.3654709873567965, 7.3654709873567965))]
+Score: 0.6032408326546712
+
+__About the completion__
+Rarest in completion: [('forward', 7.0662080931039215), ("'d", 5.479438980482533), ('looked', 4.6993539118177985), ('this', 4.607503815709945), ('all', 3.5398475684877595), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('forward', 0.5687991380691528), ('looked', 0.41479653120040894), ('this', 0.39611971378326416), ('looks', 0.3534071445465088), ('look', 0.3480381369590759), ("'d", 0.33941665291786194), ('we', 0.30076178908348083), ('seemed', 0.28082677721977234), ('looking', 0.2699522078037262), ('Forward', 0.2633989453315735)]
+
+--------------------------------------------------------------------------
+
+Trina decided to make steak tacos for dinner tonight.
+She grilled the corn first, then the steak.
+The rice simmered on the stove while everything cooked.
+Trina mixed all the ingredients in a large bowl.
+> Everything looked great inside the taco shells with sour cream on top.
+
+__About the match__
+Rarest shared words: [('cooked', (6.5519601245469765, 6.5519601245469765)), ('dinner', (5.147785338149237, 5.147785338149237)), ('first', (3.9673791982527944, 3.9673791982527944))]
+Score: 0.6024825491217124
+
+__About the completion__
+Rarest in completion: [('shells', 8.824066010656296), ('sour', 8.600922459342085), ('taco', 8.561701746188803), ('cream', 6.4967883050718775), ('top', 6.408152232355246), ('everything', 5.796350691249253), ('inside', 5.78431685168553), ('great', 4.843450213762537), ('looked', 4.6993539118177985)]
+Nearest to completion: [('cream', 0.5527366399765015), ('shells', 0.5019758343696594), ('sour', 0.4014764428138733), ('top', 0.3983035683631897), ('mixture', 0.36484262347221375), ('shell', 0.3521604537963867), ('nicely', 0.3436683118343353), ('fabulous', 0.3273186981678009), ('Top', 0.3244844675064087), ('sparkling', 0.3225490152835846)]
+
+--------------------------------------------------------------------------
+
+Julie wanted to cook her boyfriend dinner.
+She decided to cook spaghetti.
+She made the sauce from scratch and boiled the noodles.
+She even grated fresh parmesan cheese.
+> Everything turned out perfectly and he loved it.
+
+__About the match__
+Rarest shared words: [('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5976248352813978
+
+__About the completion__
+Rarest in completion: [('perfectly', 7.776747016375736), ('everything', 5.796350691249253), ('turned', 5.363028628638123), ('loved', 4.425305176991248), ('out', 3.3165011979861596)]
+Nearest to completion: [('perfectly', 0.6272212266921997), ('everything', 0.5292608737945557), ('beautifully', 0.5254386067390442), ('Everything', 0.4485786259174347), ('brilliantly', 0.4484303295612335), ('nicely', 0.4317256808280945), ('perfection', 0.3870932459831238), ('loved', 0.378187358379364), ('perfect', 0.3703981637954712), ('lovely', 0.328252911567688)]
+
+--------------------------------------------------------------------------
+
+

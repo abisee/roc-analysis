@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Fred is painting his room red.
+After stepping down from the ladder he knocks over the paint bucket.
+He spills paint all over his room.
+Fred quickly tries to clean the spill up.
+> After it is clean, he resumes painting.
+
+__About the context__
+Rarest in context: [('knocks', 9.517233190616258), ('spills', 9.334911633822305), ('stepping', 8.824086010056313), ('spill', 8.824086010056313), ('bucket', 7.600310578434198), ('ladder', 7.3890014847669905), ('tries', 7.119337917817888), ('painting', 7.032326540828258), ('paint', 6.660762984395776), ('clean', 5.97337950855258), ('red', 5.884924087990717), ('quickly', 5.535684122539503), ('room', 4.882504202386623), ('over', 3.8982826514767552), ('is', 3.859843755529768), ('down', 3.854967396162991), ('after', 3.6847643749987347), ('from', 3.533800815205541)]
+Nearest to context: [('spills', 0.5480588674545288), ('spill', 0.5038462281227112), ('paint', 0.4248083233833313), ('bucket', 0.4049034118652344), ('oil_spill', 0.40408146381378174), ('buckets', 0.383392870426178), ('clean', 0.37495487928390503), ('paints', 0.36218392848968506), ('spilled', 0.35675135254859924), ('knocks', 0.35426610708236694)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('paint', 4392, 15608, 0.518462598323822), ('glass', 3490, 16510, 0.40485262870788574), ('wood', 4975, 15025, 0.3526763916015625), ('cleaning', 5267, 14733, 0.3326345980167389), ('spray', 12694, 7306, 0.3263630270957947), ('walls', 4406, 15594, 0.3223608732223511), ('carpet', 12594, 7406, 0.30649131536483765), ('nail', 12373, 7627, 0.3046240210533142), ('ladder', 10060, 9940, 0.30201128125190735), ('nails', 15638, 4362, 0.29959025979042053)]
+Nearest words to completions' keywords: [('do', 58, 19942, 0.5813927054405212), ('just', 76, 19924, 0.5804656147956848), ('anyway', 4231, 15769, 0.5382894277572632), ('maybe', 1864, 18136, 0.5210099816322327), ('going', 125, 19875, 0.5191211700439453), ('really', 230, 19770, 0.5159865617752075), ('want', 189, 19811, 0.5135138034820557), ('not', 13, 19987, 0.5127424597740173), ('get', 91, 19909, 0.511809229850769), ('wash', 8514, 11486, 0.508815586566925)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.733026385307312), ('get', 91, 19909, 0.7076514363288879), ('come', 216, 19784, 0.6157712340354919), ('just', 76, 19924, 0.6114841103553772), ('go', 152, 19848, 0.6033008098602295), ('had', 35, 19965, 0.6029792428016663), ('gotten', 3328, 16672, 0.6022533774375916), ('do', 58, 19942, 0.593396782875061), ('came', 256, 19744, 0.5933319926261902), ('going', 125, 19875, 0.5839999914169312)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Kate's mom had forced her to help paint the living room.
+Kate really didn't want to help.
+While moaning she knocked a pail of paint off a ladder.
+The paint spilled all over her shoulder and part of her head.
+> She spent an hour cleaning paint out of her hair.
+
+__About the match__
+Rarest shared words: [('ladder', (7.3890014847669905, 7.3890014847669905)), ('paint', (6.660762984395776, 6.660762984395776)), ('room', (4.882504202386623, 4.882504202386623)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.5087874897530776
+
+__About the completion__
+Rarest in completion: [('paint', 7.156359190098219), ('cleaning', 7.03230654142824), ('hair', 5.944867553358256), ('hour', 5.830836867320422), ('spent', 5.45849580663729), ('an', 3.8221351571901856), ('out', 3.3165011979861596)]
+Nearest to completion: [('cleaning', 0.562498152256012), ('paint', 0.5274156928062439), ('hair', 0.4815923571586609), ('washing', 0.3937969505786896), ('spent', 0.3898380398750305), ('makeup', 0.3774383068084717), ('paints', 0.3631255030632019), ('wash', 0.3618428111076355), ('spray', 0.3511485755443573), ('salon', 0.3412093222141266)]
+
+--------------------------------------------------------------------------
+
+I had to do a lot of yard work the other day.
+I had to rake the leaves and clean the gutters.
+While I was cleaning the gutter a squirrel popped out.
+It startled me and I fell off my ladder.
+> Good thing it wasn't a tall ladder or I could've been hurt real bad!
+
+__About the match__
+Rarest shared words: [('ladder', (7.3890014847669905, 7.3890014847669905)), ('clean', (5.97337950855258, 5.97337950855258))]
+Score: 0.5067420566072043
+
+__About the completion__
+Rarest in completion: [('ladder', 7.948597273302394), ('tall', 7.725453721988185), ("'ve", 7.234830805539714), ('real', 7.03230654142824), ('thing', 6.435303221421197), ('hurt', 6.298337366348039), ('or', 6.08645700731254), ('bad', 5.390078806171148), ('good', 4.6993539118177985), ('been', 4.657400786854568), ('could', 3.8258407366367204), ('!', 3.536809591467683), ("n't", 3.334508641807057)]
+Nearest to completion: [('bad', 0.5325850248336792), ('good', 0.48558005690574646), ('ladder', 0.3808688223361969), ('hurts', 0.3742505609989166), ('hurt', 0.3565419316291809), ('tall', 0.34341779351234436), ('Bad', 0.3397870659828186), ("'ve", 0.3324287533760071), ('detrimental', 0.3317739963531494), ('great', 0.3190579116344452)]
+
+--------------------------------------------------------------------------
+
+Josh accidentally spilled a carton of milk sitting on the counter.
+He turned to get a rag to wipe up the spill.
+When he turned around, his two cats were lapping it up.
+They didn't mind his accident at all.
+> He gave them a minute to enjoy their treat before cleaning it up.
+
+__About the match__
+Rarest shared words: [('spill', (8.824086010056313, 8.824086010056313))]
+Score: 0.49628670589702006
+
+__About the completion__
+Rarest in completion: [('treat', 7.5571184071689705), ('minute', 7.308938777693435), ('enjoy', 7.25545009274245), ('cleaning', 7.03230654142824), ('before', 4.900114434362875), ('gave', 4.8834555483762365), ('their', 4.437673918472774), ('them', 3.9905657466666935)]
+Nearest to completion: [('their', 0.416009783744812), ('give', 0.408321350812912), ('enjoy', 0.40308669209480286), ('treat', 0.39827460050582886), ('giving', 0.39117175340652466), ('cleaning', 0.3693310618400574), ('minute', 0.34499046206474304), ('gave', 0.33550044894218445), ('indulge', 0.3235275149345398), ('provide', 0.31009209156036377)]
+
+--------------------------------------------------------------------------
+
+Pete wanted to help his father wash the car.
+He filled a big bucket with soapy water.
+He and his father using car brushes wiped all over the car.
+Pete accidentally spilled the bucket over his father feet.
+> Instead of getting mad his father only laughed about it.
+
+__About the match__
+Rarest shared words: [('bucket', (7.600310578434198, 7.600310578434198)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.492296011980999
+
+__About the completion__
+Rarest in completion: [('mad', 6.769942276960749), ('laughed', 6.2066701778222155), ('father', 6.096213182257905), ('instead', 5.508063475057371), ('getting', 5.3336374952661965), ('only', 5.17081373418551), ('about', 4.124950211825675)]
+Nearest to completion: [('laughed', 0.4568084180355072), ('mad', 0.4297509789466858), ('father', 0.3804512023925781), ('dad', 0.3752821087837219), ('joking', 0.362174928188324), ('stupid', 0.36032336950302124), ('annoyed', 0.3587075173854828), ('laughing', 0.357734352350235), ('brother', 0.35678860545158386), ('about', 0.34780779480934143)]
+
+--------------------------------------------------------------------------
+
+Carlos wants a cup of coffee for breakfast.
+He pours a cup for himself.
+Unfortunately, he spills it all over the table.
+Carlos spends a few minutes cleaning up.
+> He still wants some coffee.
+
+__About the match__
+Rarest shared words: [('spills', (9.334911633822305, 9.334911633822305)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.48527188381364006
+
+__About the completion__
+Rarest in completion: [('wants', 6.638014733918201), ('coffee', 6.24384918106397), ('still', 5.390078806171148), ('some', 4.142861138392206)]
+Nearest to completion: [('coffee', 0.6075682640075684), ('wants', 0.4627186357975006), ('Coffee', 0.45533373951911926), ('Starbucks', 0.38843291997909546), ('still', 0.3822079300880432), ('cocoa', 0.3618185520172119), ('prefers', 0.3313671052455902), ('tea', 0.32605627179145813), ('juice', 0.32103362679481506), ('beer', 0.3110298812389374)]
+
+--------------------------------------------------------------------------
+
+Bobby set up his easel and canvas.
+He was painting a landscape for his friend.
+As Bobby opened one of his paints it spilled all over the canvas.
+It was covered with blue paint.
+> Bobby decided to paint the sky.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.4768610030857662
+
+__About the completion__
+Rarest in completion: [('sky', 7.475992862356602), ('paint', 7.156359190098219), ('decided', 3.495461951503386)]
+Nearest to completion: [('sky', 0.6372711062431335), ('paint', 0.6272605657577515), ('skies', 0.46676525473594666), ('paints', 0.4323633313179016), ('painted', 0.4320036768913269), ('clouds', 0.38320407271385193), ('colors', 0.380794495344162), ('color', 0.3690904974937439), ('painting', 0.36830195784568787), ('graffiti', 0.3308262526988983)]
+
+--------------------------------------------------------------------------
+
+The other day I went downstairs for a glass of water.
+I got my water from the sink.
+On my way back upstairs I spilled my glass all over the floor.
+I had to get a towel to clean it up.
+> I also had to go get a whole new glass of water.
+
+__About the match__
+Rarest shared words: [('clean', (5.97337950855258, 5.97337950855258)), ('over', (3.8982826514767552, 3.8982826514767552)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.47116927732045044
+
+__About the completion__
+Rarest in completion: [('glass', 7.1284504019811425), ('whole', 5.863960914745455), ('also', 5.8208617222636025), ('water', 5.264441392399621), ('go', 4.110041419756121), ('get', 4.052534287452978), ('new', 3.7799959404738015)]
+Nearest to completion: [('glass', 0.5476477146148682), ('water', 0.460421621799469), ('wastewater', 0.35661372542381287), ('whole', 0.34487438201904297), ('stainless_steel', 0.33548662066459656), ('new', 0.3330976068973541), ('sewage', 0.31714725494384766), ('Water', 0.3154449164867401), ('get', 0.30687475204467773), ('go', 0.30668166279792786)]
+
+--------------------------------------------------------------------------
+
+Carla was cleaning her laundry room.
+She scrubbed the wash sink with a sponge.
+Her ring slipped off and went down the drain.
+Carla was frantic!
+> She pulled apart the drain but couldn't find the ring.
+
+__About the match__
+Rarest shared words: [('room', (4.882504202386623, 4.882504202386623)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.47084769228974593
+
+__About the completion__
+Rarest in completion: [('drain', 8.98658494015407), ('apart', 7.692663899165194), ('ring', 7.165837934052762), ('pulled', 5.858792944587012), ('find', 5.045574397852671), ('could', 3.8258407366367204), ('but', 3.4639482432028115), ("n't", 3.334508641807057)]
+Nearest to completion: [('drain', 0.5143297910690308), ('ring', 0.43238815665245056), ('pull', 0.4059494733810425), ('apart', 0.4053707718849182), ('draining', 0.3802070915699005), ('pulled', 0.3546113073825836), ('pulling', 0.3470896780490875), ('flush', 0.3336367607116699), ('rings', 0.31476694345474243), ('rip', 0.3110637962818146)]
+
+--------------------------------------------------------------------------
+
+Jules bought a bottle of blue nail polish.
+As she was painting her nails, she got startled.
+She spilled the bottle on her pink carpet.
+She scrubbed the carpet as quickly as she could.
+> The polish would not come out and left a stain.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('quickly', (5.535684122539503, 5.535684122539503))]
+Score: 0.46673867982499384
+
+__About the completion__
+Rarest in completion: [('polish', 8.561701746188803), ('stain', 8.487593774035082), ('come', 5.7606750886284885), ('left', 4.930206975855819), ('would', 3.922873627941421), ('not', 3.8329533830489027), ('out', 3.3165011979861596)]
+Nearest to completion: [('would', 0.43716949224472046), ('left', 0.4046819508075714), ('could', 0.39919987320899963), ('not', 0.3777320683002472), ('does', 0.3554435074329376), ('will', 0.3531482517719269), ('come', 0.3511427044868469), ('might', 0.3391260504722595), ('did', 0.3281845450401306), ('may', 0.32377001643180847)]
+
+--------------------------------------------------------------------------
+
+Trisha's mom warned her not to spill anything on the hardwood floor.
+Trisha was careless and spilled some soda.
+She tried to mop it up but didn't do a very thorough job.
+The floor was stained from being wet for a long time.
+> This weekend, Trisha will be taught how to spot finish a wood floor.
+
+__About the match__
+Rarest shared words: [('spill', (8.824086010056313, 8.824086010056313)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.46466241514207157
+
+__About the completion__
+Rarest in completion: [('wood', 7.90777527878214), ('taught', 7.214628098222194), ('finish', 6.863971226609025), ('spot', 6.695834304807027), ('weekend', 6.270722199315066), ('floor', 6.236301975428587), ('will', 6.119354710819599), ('how', 4.945599788756992), ('this', 4.607503815709945), ('be', 4.0931446193626435)]
+Nearest to completion: [('finish', 0.43413645029067993), ('spot', 0.42281875014305115), ('wood', 0.4202446937561035), ('finishes', 0.41786786913871765), ('floor', 0.40424948930740356), ('floors', 0.3770868182182312), ('place', 0.3597232401371002), ('spots', 0.34013649821281433), ('standings', 0.3345355689525604), ('weekend', 0.3344971537590027)]
+
+--------------------------------------------------------------------------
+
+

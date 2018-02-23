@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Teddy was looking for a new car.
+He decided to head to the dealership.
+He wanted to pick out the best one for him.
+He chose the ford mustang.
+> Ted was so happy with his new car.
+
+__About the context__
+Rarest in context: [('ford', 10.433523922490414), ('mustang', 9.180760953995046), ('dealership', 7.3654709873567965), ('chose', 6.482280203908987), ('head', 5.7194993315902405), ('pick', 5.589336836031823), ('best', 5.017423520285994), ('looking', 4.961253248818939), ('car', 4.085259439255548), ('new', 3.4017826637272854)]
+Nearest to context: [('dealership', 0.5251555442810059), ('showroom', 0.42018923163414), ('car', 0.41673874855041504), ('dealerships', 0.4034787118434906), ('Chevrolet', 0.40041592717170715), ('pick', 0.3977769911289215), ('BMW', 0.3843432366847992), ('vehicle', 0.3786201477050781), ('Mazda', 0.3773607909679413), ('Car', 0.37275776267051697)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('car', 385, 19615, 0.48114556074142456), ('vehicle', 1024, 18976, 0.3978364169597626), ('pickup_truck', 11490, 8510, 0.3901416063308716), ('van', 5040, 14960, 0.37776491045951843), ('Chevrolet', 11076, 8924, 0.37160634994506836), ('Car', 6589, 13411, 0.370187371969223), ('minivan', 16220, 3780, 0.3697030544281006), ('SUV', 7072, 12928, 0.36851122975349426), ('truck', 2084, 17916, 0.3663022816181183), ('Mercedes', 11642, 8358, 0.36069563031196594)]
+Nearest words to completions' keywords: [('car', 385, 19615, 0.677400529384613), ('vehicle', 1024, 18976, 0.6145300269126892), ('SUV', 7072, 12928, 0.6114611625671387), ('pickup_truck', 11490, 8510, 0.6047323346138), ('minivan', 16220, 3780, 0.6029053926467896), ('truck', 2084, 17916, 0.6001503467559814), ('cars', 1159, 18841, 0.551337718963623), ('Jeep', 16895, 3105, 0.5501502752304077), ('van', 5040, 14960, 0.5384832620620728), ('sport_utility', 13340, 6660, 0.5221375823020935)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6494452357292175), ('had', 35, 19965, 0.6458524465560913), ('wanted', 583, 19417, 0.6332520842552185), ('knew', 1039, 18961, 0.6199184060096741), ('got', 193, 19807, 0.6144495606422424), ('saw', 653, 19347, 0.5962955951690674), ('came', 256, 19744, 0.5884657502174377), ('liked', 3988, 16012, 0.5746012330055237), ('gave', 573, 19427, 0.5695780515670776), ('went', 297, 19703, 0.5642684102058411)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Bill needs  new car.
+He decides to head down to the dealership.
+He picks out a red car.
+He's so happy with his choice.
+> Bill buys the car and doesn't look back.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('head', (5.7194993315902405, 5.7194993315902405)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.7133145704470563
+
+__About the completion__
+Rarest in completion: [('buys', 7.676663557818753), ('does', 6.286408795482766), ('look', 5.751372695966175), ('car', 4.464157181236033), ('back', 4.3399341530452595), ("n't", 3.334508641807057)]
+Nearest to completion: [('buys', 0.6326693892478943), ('sells', 0.47901400923728943), ('does', 0.47827988862991333), ('acquires', 0.4571775496006012), ('looks', 0.4440854489803314), ('pulls', 0.4278710186481476), ('sees', 0.40985384583473206), ('chooses', 0.3859221637248993), ('loses', 0.3818150758743286), ('pays', 0.37862440943717957)]
+
+--------------------------------------------------------------------------
+
+Nick had a 20 year old car.
+It began to give him problems.
+So he went to a car dealership.
+He chose a Cadillac escalade.
+> Nick handed over $30,000 in cash and now owns a new car.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('chose', (6.482280203908987, 6.482280203908987)), ('car', (4.085259439255548, 4.085259439255548))]
+Score: 0.6205383000006082
+
+__About the completion__
+Rarest in completion: [('30,000', 11.12665110365034), ('owns', 8.775275846486863), ('cash', 7.515733191006116), ('handed', 7.074866155847036), ('$', 6.3063695380453035), ('now', 4.716476221684173), ('car', 4.464157181236033), ('over', 4.367395832986647), ('new', 3.7799959404738015)]
+Nearest to completion: [('cash', 0.5847875475883484), ('$', 0.5653730034828186), ('owns', 0.5195066928863525), ('million', 0.4290979206562042), ('owned', 0.4218931496143341), ('buys', 0.40915730595588684), ('sells', 0.40047746896743774), ('totaling', 0.3995053172111511), ('###,###', 0.3984467387199402), ('sold', 0.3940054178237915)]
+
+--------------------------------------------------------------------------
+
+Greg was very excited to get his new car.
+He wanted to get one that was really fast.
+He decided to get down to the dealership.
+They offered him 4 to choose from.
+> Greg picked the Blue car and loved it!
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.6168286438361559
+
+__About the completion__
+Rarest in completion: [('picked', 5.597222016138917), ('car', 4.464157181236033), ('loved', 4.425305176991248), ('!', 3.536809591467683)]
+Nearest to completion: [('car', 0.5389693379402161), ('loved', 0.49471616744995117), ('picked', 0.45158514380455017), ('Jeep', 0.42282673716545105), ('pickup_truck', 0.41010648012161255), ('minivan', 0.40676188468933105), ('Car', 0.4044545292854309), ('vehicle', 0.40342772006988525), ('truck', 0.4029856324195862), ('SUV', 0.396239697933197)]
+
+--------------------------------------------------------------------------
+
+Judy is in need of a new car.
+She heads to the dealership to find the perfect one.
+She chooses the Ford Mustang.
+She couldn't be happier with her choice.
+> She finally had her dream car she always wanted.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.6060014112560435
+
+__About the completion__
+Rarest in completion: [('dream', 6.892544599053081), ('always', 4.653532310076647), ('finally', 4.562795577118213), ('car', 4.464157181236033), ('wanted', 3.6865044229876522)]
+Nearest to completion: [('dream', 0.676925539970398), ('dreams', 0.5473989248275757), ('dreamed', 0.41662952303886414), ('ambition', 0.3896515369415283), ('car', 0.38947200775146484), ('aspirations', 0.36633196473121643), ('dreaming', 0.3548395037651062), ('ambitions', 0.34736764430999756), ('finally', 0.3467046022415161), ('desire', 0.33880484104156494)]
+
+--------------------------------------------------------------------------
+
+I wanted to buy a car.
+I went to the dealership to pick one out.
+They said that I didn't have enough money for a car.
+I decided to work very hard for three months.
+> Finally I had the money for a car.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('pick', (5.589336836031823, 5.589336836031823)), ('car', (4.085259439255548, 4.085259439255548))]
+Score: 0.5660580200206833
+
+__About the completion__
+Rarest in completion: [('money', 4.903083263856677), ('finally', 4.562795577118213), ('car', 4.464157181236033)]
+Nearest to completion: [('car', 0.6177732944488525), ('money', 0.5743802785873413), ('vehicle', 0.47559088468551636), ('SUV', 0.4547880291938782), ('Car', 0.45167744159698486), ('cars', 0.44462454319000244), ('minivan', 0.43811729550361633), ('monies', 0.43498462438583374), ('truck', 0.4312822222709656), ('funds', 0.41908732056617737)]
+
+--------------------------------------------------------------------------
+
+Adam wanted a brand new car.
+He looked online and found the one he wanted.
+He got to the dealership and test drove the car.
+He loved the car and decided to purchase it.
+> Adam was happy with his new car.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5443705900887208
+
+__About the completion__
+Rarest in completion: [('happy', 4.78013793434821), ('car', 4.464157181236033), ('new', 3.7799959404738015)]
+Nearest to completion: [('car', 0.6168519258499146), ('Car', 0.5085598230361938), ('happy', 0.48581254482269287), ('vehicle', 0.48050981760025024), ('cars', 0.47384095191955566), ('Mercedes', 0.4476966857910156), ('new', 0.4464918375015259), ('BMW', 0.437745600938797), ('SUV', 0.41929763555526733), ('Mercedes_Benz', 0.41500359773635864)]
+
+--------------------------------------------------------------------------
+
+Tim always wanted to drive a red car.
+When his current car broke down he decided to get a new one.
+Tim started looking for the perfect red car.
+He looked at every dealership in the area.
+> Tim eventually found and purchased the perfect red car.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('looking', (4.961253248818939, 4.961253248818939)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.538401023988177
+
+__About the completion__
+Rarest in completion: [('purchased', 6.899817358382161), ('red', 6.3559664791846755), ('perfect', 6.259116653194758), ('eventually', 5.556400021618662), ('car', 4.464157181236033), ('found', 4.202038707601781)]
+Nearest to completion: [('purchased', 0.5471667051315308), ('found', 0.44739359617233276), ('red', 0.4237847924232483), ('sold', 0.41397011280059814), ('bought', 0.4050065577030182), ('discovered', 0.3749743402004242), ('purchase', 0.3663424849510193), ('yellow', 0.3591557741165161), ('car', 0.3528272807598114), ('blue', 0.3447692394256592)]
+
+--------------------------------------------------------------------------
+
+Jacob asked his parents for a car for his birthday.
+They decided to buy one for him.
+They went to the dealership and looked around.
+After looking for hours, they decided on a Mustang.
+> Jacob was excited and thanked his parents profusely.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('looking', (4.961253248818939, 4.961253248818939)), ('car', (4.085259439255548, 4.085259439255548))]
+Score: 0.5323084146005481
+
+__About the completion__
+Rarest in completion: [('profusely', 8.64174445386234), ('thanked', 7.040674791098756), ('excited', 5.146500316442632), ('parents', 5.059383593126858)]
+Nearest to completion: [('thanked', 0.7236635684967041), ('grateful', 0.6386121511459351), ('excited', 0.6175056099891663), ('thanking', 0.6109514236450195), ('appreciative', 0.5955081582069397), ('thank', 0.5847606062889099), ('thrilled', 0.5819729566574097), ('commended', 0.563850462436676), ('congratulated', 0.5597456097602844), ('thankful', 0.5404294729232788)]
+
+--------------------------------------------------------------------------
+
+Ryan went to the dealership to purchase a brand new car.
+As he went in, he was greeted by a friendly salesman.
+After discussing what kind of car Ryan should get they went to go look at the options.
+Ryan enthralled, picked the first one he saw.
+> He was handed the keys, and drove off into the sunset excited!
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5277032490418315
+
+__About the completion__
+Rarest in completion: [('sunset', 8.684304068281136), ('keys', 7.463089457520694), ('handed', 7.074866155847036), ('drove', 5.558306599889243), ('excited', 5.146500316442632), ('off', 4.4887379789916535), ('into', 4.270189119055754), ('!', 3.536809591467683)]
+Nearest to completion: [('keys', 0.4641215205192566), ('sped', 0.3758554458618164), ('drove', 0.37464678287506104), ('handed', 0.3683216869831085), ('flipped', 0.34163805842399597), ('off', 0.33382779359817505), ('sunset', 0.32689040899276733), ('onto', 0.31744471192359924), ('excited', 0.3139321208000183), ('into', 0.3079414367675781)]
+
+--------------------------------------------------------------------------
+
+Kia went to the car dealership with her parents.
+They wanted to teach her about credit.
+So they helped Kia sign up for a car lease.
+Then they helped her pick a brand new car!
+> Kia was happy with her car - and her lesson in responsibility.
+
+__About the match__
+Rarest shared words: [('dealership', (7.3654709873567965, 7.3654709873567965)), ('pick', (5.589336836031823, 5.589336836031823)), ('car', (4.085259439255548, 4.085259439255548)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5196167190234435
+
+__About the completion__
+Rarest in completion: [('responsibility', 8.98658494015407), ('lesson', 7.475992862356602), ('-', 6.83619166250195), ('happy', 4.78013793434821), ('car', 4.464157181236033)]
+Nearest to completion: [('responsibility', 0.619709849357605), ('lesson', 0.5399984121322632), ('lessons', 0.449038565158844), ('responsibilities', 0.42799678444862366), ('car', 0.40029558539390564), ('responsible', 0.359451025724411), ('accountable', 0.3560858368873596), ('consequences', 0.32956457138061523), ('vehicle', 0.32809093594551086), ('accountability', 0.32053735852241516)]
+
+--------------------------------------------------------------------------
+
+

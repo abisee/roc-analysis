@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bobby wanted to take his family to the beach.
+He planned the itinerary carefully.
+When it was time to leave, they loaded up the car.
+THey spent the next five days relaxing on the sand.
+> It was a great family trip!
+
+__About the context__
+Rarest in context: [('itinerary', 10.433523922490414), ('relaxing', 7.571323041560945), ('loaded', 7.119337917817888), ('sand', 6.8925645984531), ('carefully', 6.73222194837792), ('planned', 6.282484016591768), ('leave', 5.869175731022578), ('five', 5.779563572332891), ('beach', 5.306588172697998), ('days', 5.2405670716002035), ('spent', 4.999801918936174), ('next', 4.649698740160677), ('take', 4.402838662229151), ('family', 4.230988405302492), ('car', 4.085259439255548), ('time', 3.6473714652675255)]
+Nearest to context: [('itinerary', 0.4912865459918976), ('vacation', 0.4666966199874878), ('beach', 0.44258442521095276), ('relaxing', 0.39807337522506714), ('spend', 0.3884594738483429), ('vacations', 0.37224847078323364), ('beaches', 0.36813127994537354), ('getaway', 0.35243985056877136), ('sand', 0.34914904832839966), ('relaxation', 0.3476226031780243)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('trip', 1138, 18862, 0.4447241723537445), ('vacation', 4562, 15438, 0.3885047733783722), ('tour', 1374, 18626, 0.3859216272830963), ('memories', 4829, 15171, 0.3832208514213562), ('reunion', 9554, 10446, 0.37780338525772095), ('pilgrimage', 18420, 1580, 0.36725011467933655), ('itinerary', 19763, 237, 0.3640529215335846), ('vacations', 14361, 5639, 0.3635387122631073), ('adventure', 6522, 13478, 0.3592369556427002), ('experiences', 3457, 16543, 0.35278525948524475)]
+Nearest words to completions' keywords: [('trip', 1138, 18862, 0.5756031274795532), ('wonderful', 3057, 16943, 0.5080671310424805), ('trips', 3977, 16023, 0.504307746887207), ('traveling', 2672, 17328, 0.4907711446285248), ('enjoy', 1755, 18245, 0.4870317876338959), ('vacation', 4562, 15438, 0.4844757318496704), ('trek', 14072, 5928, 0.47193917632102966), ('fun', 1260, 18740, 0.47185057401657104), ('journey', 3899, 16101, 0.4646930992603302), ('tour', 1374, 18626, 0.46137139201164246)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.753702700138092), ('got', 193, 19807, 0.6412823796272278), ('came', 256, 19744, 0.6309852004051208), ('went', 297, 19703, 0.6272147297859192), ('was', 10, 19990, 0.6174720525741577), ('wanted', 583, 19417, 0.6080558896064758), ('stayed', 2936, 17064, 0.5898010730743408), ('knew', 1039, 18961, 0.5864723324775696), ('did', 92, 19908, 0.581476092338562), ('returned', 1095, 18905, 0.5757980346679688)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Elmer was going on vacation.
+He was taking his family to the beach.
+They had a great time but spent a lot of time in the sand.
+Elmer and his family returned home.
+> He had to clean all the sand from his car.
+
+__About the match__
+Rarest shared words: [('sand', (6.8925645984531, 6.8925645984531)), ('beach', (5.306588172697998, 5.306588172697998)), ('spent', (4.999801918936174, 4.999801918936174)), ('family', (4.230988405302492, 4.230988405302492)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.585731254733216
+
+__About the completion__
+Rarest in completion: [('sand', 7.388981485366972), ('clean', 6.24384918106397), ('car', 4.464157181236033), ('from', 3.996552593524763), ('all', 3.5398475684877595)]
+Nearest to completion: [('sand', 0.6045044660568237), ('clean', 0.5396747589111328), ('gravel', 0.44559359550476074), ('car', 0.4403442144393921), ('cars', 0.41524237394332886), ('asphalt', 0.4080728590488434), ('dirt', 0.39935240149497986), ('Clean', 0.39417916536331177), ('vehicle', 0.37909460067749023), ('debris', 0.3765016198158264)]
+
+--------------------------------------------------------------------------
+
+The Smith family had planned a vacation to the Black Hills for months.
+They loaded up their car and drove many hours to their destination.
+The Smith's stayed in a large cabin and visited many historical sites.
+They had a lot of fun doing outdoor and adventure activities.
+> The family had a great time and plans to return in the future.
+
+__About the match__
+Rarest shared words: [('loaded', (7.119337917817888, 7.119337917817888)), ('planned', (6.282484016591768, 6.282484016591768)), ('family', (4.230988405302492, 4.230988405302492)), ('car', (4.085259439255548, 4.085259439255548))]
+Score: 0.5424709693626306
+
+__About the completion__
+Rarest in completion: [('future', 7.63014354218386), ('plans', 7.214628098222194), ('return', 6.871038393832118), ('great', 4.843450213762537), ('family', 4.6880997737433745), ('time', 3.981849368185002)]
+Nearest to completion: [('future', 0.6216558814048767), ('plans', 0.48723655939102173), ('return', 0.4360329508781433), ('family', 0.39966413378715515), ('upcoming', 0.3630177676677704), ('legacy', 0.3417043089866638), ('immediate', 0.335187703371048), ('Future', 0.33503594994544983), ('plan', 0.33501678705215454), ('potential', 0.33118191361427307)]
+
+--------------------------------------------------------------------------
+
+Ryan hadn't been on a vacation in years.
+Work rarely allowed him to get away.
+One day he decided he needed some time off to relax.
+He planned a trip to the beach.
+> The trip was fun and allowed Ryan to rest before returning to work.
+
+__About the match__
+Rarest shared words: [('planned', (6.282484016591768, 6.282484016591768)), ('beach', (5.306588172697998, 5.306588172697998)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.5296237732345945
+
+__About the completion__
+Rarest in completion: [('returning', 8.64174445386234), ('allowed', 7.007613928837868), ('rest', 6.318540073665559), ('trip', 5.311029147238604), ('fun', 5.29917715665159), ('before', 4.900114434362875), ('work', 4.3399341530452595)]
+Nearest to completion: [('trip', 0.586956262588501), ('returning', 0.49793341755867004), ('trips', 0.4827885925769806), ('trek', 0.4540451467037201), ('depart', 0.4008016884326935), ('traveling', 0.4004214406013489), ('journey', 0.3975224792957306), ('return', 0.395908921957016), ('rest', 0.382512629032135), ('tour', 0.3797810971736908)]
+
+--------------------------------------------------------------------------
+
+The couple was planning a trip.
+They went away every year for their anniversary.
+This year, they decided to go to Jamaica.
+They were ready to relax on the beach.
+> Their anniversary trip was their favorite time of the year!
+
+__About the match__
+Rarest shared words: [('beach', (5.306588172697998, 5.306588172697998))]
+Score: 0.5208083743719703
+
+__About the completion__
+Rarest in completion: [('anniversary', 8.082128665926916), ('favorite', 5.385251765422833), ('trip', 5.311029147238604), ('year', 5.152841491781079), ('their', 4.437673918472774), ('time', 3.981849368185002), ('!', 3.536809591467683)]
+Nearest to completion: [('anniversary', 0.6071106791496277), ('trip', 0.49503031373023987), ('##th_anniversary', 0.49077656865119934), ('birthday', 0.4427998960018158), ('year', 0.42123183608055115), ('weekend', 0.4182373881340027), ('month', 0.4110850989818573), ('favorite', 0.3921876847743988), ('time', 0.39072874188423157), ('visit', 0.38930878043174744)]
+
+--------------------------------------------------------------------------
+
+Our family decided it was time to take a relaxing family vacation.
+We rented a cabin in the woods in Northern Minnesota for a week.
+We spent much of our time there swimming and fishing.
+We all cooked our suppers together and had relaxing evenings.
+> Our family enjoyed the beauty of nature and our time together.
+
+__About the match__
+Rarest shared words: [('relaxing', (7.571323041560945, 7.571323041560945)), ('spent', (4.999801918936174, 4.999801918936174)), ('take', (4.402838662229151, 4.402838662229151)), ('family', (4.230988405302492, 4.230988405302492)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.5194744016024719
+
+__About the completion__
+Rarest in completion: [('nature', 8.264450222720871), ('beauty', 8.058598168516724), ('enjoyed', 6.002687124247082), ('our', 5.481204206007103), ('together', 5.43967574731052), ('family', 4.6880997737433745), ('time', 3.981849368185002)]
+Nearest to completion: [('nature', 0.5205700993537903), ('beauty', 0.49833717942237854), ('together', 0.4284081757068634), ('enjoy', 0.4118058681488037), ('enjoyment', 0.4076686203479767), ('enjoyed', 0.4002656638622284), ('our', 0.37617918848991394), ('family', 0.3693401515483856), ('unique', 0.3682018220424652), ('harmony', 0.3675220012664795)]
+
+--------------------------------------------------------------------------
+
+The Smiths decided to go to Florida for vacation.
+They packed up the car and started out on the road.
+It took them two days to get there.
+When they arrived, they went to the hotel and unpacked.
+> They had a great vacation and made great memories.
+
+__About the match__
+Rarest shared words: [('days', (5.2405670716002035, 5.2405670716002035)), ('car', (4.085259439255548, 4.085259439255548))]
+Score: 0.5189417253252002
+
+__About the completion__
+Rarest in completion: [('memories', 7.991156887721191), ('vacation', 6.177891213272172), ('great', 4.843450213762537), ('made', 4.267560996649484)]
+Nearest to completion: [('memories', 0.6624450087547302), ('vacation', 0.5135214328765869), ('vacations', 0.47872665524482727), ('nostalgia', 0.429491251707077), ('memorable', 0.41642531752586365), ('wonderful', 0.4160691797733307), ('experiences', 0.41002362966537476), ('great', 0.37896257638931274), ('holidays', 0.35232022404670715), ('remembering', 0.3464876115322113)]
+
+--------------------------------------------------------------------------
+
+Linda had been waiting all year for her summer vacation.
+She had already purchased her plane ticket.
+She was going to stay at a beachfront resort.
+The day before her trip she packed her bag.
+> She realized she needed to go out and buy a bathing suit.
+
+__About the match__
+Rarest shared words: []
+Score: 0.5113167020342508
+
+__About the completion__
+Rarest in completion: [('bathing', 8.98658494015407), ('suit', 7.742260840304566), ('realized', 5.003062403615317), ('buy', 4.985689545396447), ('needed', 4.868983515767702), ('go', 4.110041419756121), ('out', 3.3165011979861596)]
+Nearest to completion: [('suit', 0.49841833114624023), ('buy', 0.47847312688827515), ('suits', 0.3869721293449402), ('sell', 0.3865267038345337), ('purchase', 0.3633611798286438), ('invest', 0.3572727143764496), ('bought', 0.35188713669776917), ('acquire', 0.3472452461719513), ('purchased', 0.3366476893424988), ('utilize', 0.3280653953552246)]
+
+--------------------------------------------------------------------------
+
+The family had packed their bags.
+They were leaving for a two week vacation.
+They planning on visited several European countries.
+It was the trip of a lifetime!
+> They gathered their things and headed towards the airport.
+
+__About the match__
+Rarest shared words: [('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.508392062743877
+
+__About the completion__
+Rarest in completion: [('airport', 7.4503504317432645), ('gathered', 7.0662080931039215), ('towards', 6.907143398474234), ('headed', 6.7446244689764585), ('things', 5.699500865259336), ('their', 4.437673918472774)]
+Nearest to completion: [('gathered', 0.5433543920516968), ('headed', 0.4743015766143799), ('towards', 0.4727414548397064), ('airport', 0.4507221579551697), ('Airport', 0.4257432222366333), ('toward', 0.41214874386787415), ('heading', 0.4067820608615875), ('International_Airport', 0.3956484794616699), ('converged', 0.384970486164093), ('gather', 0.37408336997032166)]
+
+--------------------------------------------------------------------------
+
+One day the Zither family went on vacation to LA.
+First they went to the beach.
+Then they went to the mall.
+Next they got lunch at a Chinese place.
+> They had tons of fun.
+
+__About the match__
+Rarest shared words: [('beach', (5.306588172697998, 5.306588172697998)), ('next', (4.649698740160677, 4.649698740160677)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.5080834586496141
+
+__About the completion__
+Rarest in completion: [('tons', 8.38581107972514), ('fun', 5.29917715665159)]
+Nearest to completion: [('tons', 0.7545422911643982), ('fun', 0.5916641354560852), ('metric_tons', 0.5866416096687317), ('tonnes', 0.5700517296791077), ('ton', 0.5003699660301208), ('kilograms', 0.4203897714614868), ('cubic_meters', 0.4102948009967804), ('barrels', 0.40846386551856995), ('enjoyable', 0.40127402544021606), ('Fun', 0.39717113971710205)]
+
+--------------------------------------------------------------------------
+
+My family was on vacation in Florida.
+We had decided to spend the day taking a glass bottom boat tour.
+We got on the ship and headed downstairs.
+The entire trip the water was cloudy and we did not see much.
+> We left the tour feeling disappointed.
+
+__About the match__
+Rarest shared words: [('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.5074073772537407
+
+__About the completion__
+Rarest in completion: [('tour', 7.742260840304566), ('disappointed', 6.62130125294446), ('feeling', 5.982067837044346), ('left', 4.930206975855819), ('we', 4.354142974076229)]
+Nearest to completion: [('disappointed', 0.5603346228599548), ('tour', 0.5206133723258972), ('feeling', 0.49140381813049316), ('touring', 0.3896498382091522), ('saddened', 0.3886476755142212), ('pleased', 0.38546568155288696), ('tours', 0.3532620072364807), ('disappointing', 0.3508707582950592), ('sad', 0.34986844658851624), ('ecstatic', 0.3496271073818207)]
+
+--------------------------------------------------------------------------
+
+

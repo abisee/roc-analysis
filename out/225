@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Shane worked as an accountant for a large company.
+Shane felt that he was not being paid enough for his work.
+Shane decided to start altering the accounts at work and hiding money.
+Shane took the money he hid from work.
+> Shane stole over 4 million dollars from his employer.
+
+__About the context__
+Rarest in context: [('altering', 10.02805881438225), ('accountant', 9.334911633822305), ('accounts', 9.180760953995046), ('hiding', 8.130938829496369), ('hid', 6.822606009846189), ('paid', 6.1227247971049), ('company', 5.692949099496119), ('large', 5.449917300782078), ('start', 5.333657494666215), ('enough', 5.312540571225293), ('being', 5.168246410020577), ('worked', 4.680951283664781), ('money', 4.53774462551684), ('felt', 4.342214040412715), ('work', 3.8703738633596787), ('took', 3.6015703569245585), ('as', 3.5598426238420284), ('from', 3.533800815205541), ('not', 3.4656147206885297), ('an', 3.319567812924379)]
+Nearest to context: [('hid', 0.4359835386276245), ('accounts', 0.4178355634212494), ('concealed', 0.40149247646331787), ('conceal', 0.3840515613555908), ('accountant', 0.37218964099884033), ('paid', 0.36749690771102905), ('disclosing', 0.36679592728614807), ('hiding', 0.3665625751018524), ('hidden', 0.3466365933418274), ('hide', 0.3261691629886627)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('refund', 9313, 10687, 0.41488155722618103), ('audit', 5008, 14992, 0.3967778980731964), ('refunds', 13704, 6296, 0.38947638869285583), ('auditor', 11894, 8106, 0.3751305937767029), ('jail', 1762, 18238, 0.3720530867576599), ('received', 510, 19490, 0.3706952929496765), ('owed', 7483, 12517, 0.3573499917984009), ('prison', 1091, 18909, 0.35049521923065186), ('fraudulent', 9935, 10065, 0.3490246534347534), ('payment', 2314, 17686, 0.34371432662010193)]
+Nearest words to completions' keywords: [('jail', 1762, 18238, 0.6354209780693054), ('prison', 1091, 18909, 0.6026137471199036), ('behind_bars', 10487, 9513, 0.578784704208374), ('jailed', 5807, 14193, 0.5609568357467651), ('incarcerated', 19009, 991, 0.548801600933075), ('convicted', 2246, 17754, 0.5263807773590088), ('probation', 4667, 15333, 0.5163524746894836), ('sentenced', 2433, 17567, 0.5160236954689026), ('imprisoned', 12227, 7773, 0.5140633583068848), ('parole', 7037, 12963, 0.5109655261039734)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7515749931335449), ('came', 256, 19744, 0.6765150427818298), ('went', 297, 19703, 0.6710343956947327), ('took', 263, 19737, 0.6630346775054932), ('had', 35, 19965, 0.6492206454277039), ('gave', 573, 19427, 0.6476131677627563), ('received', 510, 19490, 0.6382923126220703), ('was', 10, 19990, 0.6009253263473511), ('gotten', 3328, 16672, 0.5869176387786865), ('saw', 653, 19347, 0.5736494064331055)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Don was an accountant.
+He worked with a very prominent company.
+One day, the CEO of the company came to Don's office.
+The CEO asked Don to lie in a report about the company's holdings.
+> Don refused.
+
+__About the match__
+Rarest shared words: [('accountant', (9.334911633822305, 9.334911633822305)), ('company', (5.692949099496119, 5.692949099496119)), ('worked', (4.680951283664781, 4.680951283664781)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.49399192537579845
+
+__About the completion__
+Rarest in completion: [('refused', 6.399263284938)]
+Nearest to completion: [('refused', 0.9379258751869202), ('refusing', 0.7817244529724121), ('refuses', 0.6876610517501831), ('refusal', 0.6606851816177368), ('declined', 0.5964727997779846), ('refuse', 0.5590731501579285), ('reluctant', 0.5464264750480652), ('rebuffed', 0.5439233779907227), ('unwilling', 0.5397600531578064), ('rejected', 0.5011184215545654)]
+
+--------------------------------------------------------------------------
+
+Markus originally loved his job, but became bitter on Wall Street.
+While reviewing accounts, he noticed a way to 'make a little extra'.
+He began siphoning money into an offshore account.
+He thought he was being careful, and rejoiced in his new largesse.
+> He received a rude awakening when cops showed up at his office door.
+
+__About the match__
+Rarest shared words: [('accounts', (9.180760953995046, 9.180760953995046)), ('being', (5.168246410020577, 5.168246410020577)), ('money', (4.53774462551684, 4.53774462551684)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.46176414283450185
+
+__About the completion__
+Rarest in completion: [('awakening', 10.721185995542177), ('cops', 7.742260840304566), ('rude', 7.676663557818753), ('received', 6.386076280656046), ('office', 6.146475017038793), ('showed', 6.005667752385219), ('door', 5.641854170159686), ('when', 3.4368224349138567)]
+Nearest to completion: [('rude', 0.4785868525505066), ('door', 0.46803587675094604), ('office', 0.4422096908092499), ('cops', 0.4383097290992737), ('received', 0.39455193281173706), ('doors', 0.3738429546356201), ('police', 0.3683305084705353), ('officers', 0.3539876937866211), ('cop', 0.33929207921028137), ('harassing', 0.31018394231796265)]
+
+--------------------------------------------------------------------------
+
+Marvin always told his friends that he wanted to be an accountant.
+When he got to college, he took a course in accounting.
+He thought he would like it, but he found it very boring.
+He transferred to a course in meteorology.
+> He loved that class, and ended up becoming a weatherman.
+
+__About the match__
+Rarest shared words: [('accountant', (9.334911633822305, 9.334911633822305)), ('took', (3.6015703569245585, 3.6015703569245585)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.45048684745834283
+
+__About the completion__
+Rarest in completion: [('weatherman', 9.622573706874066), ('becoming', 7.725453721988185), ('class', 5.244722443610666), ('ended', 5.160504364526648), ('loved', 4.425305176991248)]
+Nearest to completion: [('becoming', 0.5327746868133545), ('class', 0.5076050162315369), ('became', 0.4892371892929077), ('become', 0.4176630675792694), ('ended', 0.4041985869407654), ('loved', 0.4028325080871582), ('grew', 0.35452568531036377), ('becomes', 0.33167901635169983), ('ending', 0.31305548548698425), ('classes', 0.2995333671569824)]
+
+--------------------------------------------------------------------------
+
+Suzie wanted to save money.
+She decided to lie on her income taxes.
+The IRS audited her.
+The IRS found out she lied.
+> Now Susie's in jail.
+
+__About the match__
+Rarest shared words: [('money', (4.53774462551684, 4.53774462551684))]
+Score: 0.4369712754508295
+
+__About the completion__
+Rarest in completion: [('jail', 7.571303042160927), ('now', 4.716476221684173), ("'s", 3.3551623435327245)]
+Nearest to completion: [('jail', 0.896100640296936), ('prison', 0.7611342072486877), ('behind_bars', 0.735851526260376), ('Jail', 0.657971203327179), ('jails', 0.6163122653961182), ('incarcerated', 0.6138752102851868), ('jailed', 0.5747147798538208), ('Prison', 0.5743810534477234), ('County_Jail', 0.5672436952590942), ('detention', 0.5544255971908569)]
+
+--------------------------------------------------------------------------
+
+Bill ran a bookshop with his partner, Sam.
+Every day, Bill emptied the registers and put the money in a safe.
+Bill had some gambling debt so he secretly stole from the register.
+Weeks had gone by and Sam was unaware.
+> Bill's mistake was when he got too brazen and took everything.
+
+__About the match__
+Rarest shared words: [('money', (4.53774462551684, 4.53774462551684)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.43573988277286857
+
+__About the completion__
+Rarest in completion: [('brazen', 11.12665110365034), ('mistake', 7.489064943923955), ('everything', 5.796350691249253), ('too', 4.812197670258433), ('took', 4.067463120907994), ('when', 3.4368224349138567), ('got', 3.390344007102055), ("'s", 3.3551623435327245)]
+Nearest to completion: [('mistake', 0.5834218263626099), ('mistakes', 0.4985533058643341), ('took', 0.383784681558609), ('too', 0.36985963582992554), ('error', 0.3697604835033417), ('got', 0.3289686441421509), ('errors', 0.32066085934638977), ('everything', 0.308575302362442), ('lapse', 0.301777720451355), ('forgot', 0.30000752210617065)]
+
+--------------------------------------------------------------------------
+
+Ruby was notified that her taxes were being audited.
+She was very upset, and she called her accountant.
+He reassured her that everything was in order.
+Her accountant gave her the supporting documentation she needed.
+> Ruby's audit went well, and she actually received a bigger refund.
+
+__About the match__
+Rarest shared words: [('accountant', (9.334911633822305, 9.334911633822305)), ('being', (5.168246410020577, 5.168246410020577))]
+Score: 0.42762667921031705
+
+__About the completion__
+Rarest in completion: [('audit', 11.12665110365034), ('refund', 8.20888037156606), ('bigger', 8.013135794439966), ('actually', 7.024007738613545), ('received', 6.386076280656046), ('well', 5.318508613669897), ("'s", 3.3551623435327245), ('went', 3.303005172815388)]
+Nearest to completion: [('refund', 0.6124287843704224), ('audit', 0.5903234481811523), ('refunds', 0.5442637205123901), ('audits', 0.4912531077861786), ('auditor', 0.4491211175918579), ('auditors', 0.4477626383304596), ('audited', 0.4376114308834076), ('receipt', 0.4326598346233368), ('reimburse', 0.42855915427207947), ('auditing', 0.42583167552948)]
+
+--------------------------------------------------------------------------
+
+Tim played Monopoly with his friends.
+He offered to be the banker for the game.
+While distributing money, he hid some under the board.
+During the game, Tim snuck the money into his hand.
+> Because of his deceit he won the game.
+
+__About the match__
+Rarest shared words: [('hid', (6.822606009846189, 6.822606009846189)), ('money', (4.53774462551684, 4.53774462551684))]
+Score: 0.42679983580280856
+
+__About the completion__
+Rarest in completion: [('deceit', 11.12665110365034), ('won', 5.467168887890719), ('game', 5.066360365612506), ('because', 4.980321845981443)]
+Nearest to completion: [('won', 0.6582798957824707), ('game', 0.6297047734260559), ('games', 0.5798649787902832), ('win', 0.5645780563354492), ('winning', 0.5207602381706238), ('wins', 0.5039531588554382), ('played', 0.4900217354297638), ('clinched', 0.4864049255847931), ('contests', 0.4550599753856659), ('clinch', 0.4549415409564972)]
+
+--------------------------------------------------------------------------
+
+Tommy went to the bank.
+He deposited $200 into his savings account.
+When he check his account online, he was mad.
+The transaction shows that $200 dollars was taken out of his credit.
+> Fortunately, the credit card company fixed the mistake.
+
+__About the match__
+Rarest shared words: []
+Score: 0.41897040676446623
+
+__About the completion__
+Rarest in completion: [('fortunately', 7.868554565628858), ('mistake', 7.489064943923955), ('credit', 7.353890165555702), ('fixed', 6.878155861600981), ('card', 6.477464032245475), ('company', 6.11268801946141)]
+Nearest to completion: [('card', 0.5697100758552551), ('credit', 0.5587536096572876), ('cards', 0.48071470856666565), ('credit_card', 0.46616044640541077), ('credit_cards', 0.4589111804962158), ('mistake', 0.4497237205505371), ('fixed', 0.43913334608078003), ('Credit', 0.43039214611053467), ('borrower', 0.41375598311424255), ('prepaid', 0.413494735956192)]
+
+--------------------------------------------------------------------------
+
+I wanted to make a lot of money as CEO of my company.
+Unconcerned with stability, I focused on short-term deals.
+I made losing deals, but hid them in the financial statements.
+Only after a whistleblower reported me did I confess.
+> I am now serving time in prison.
+
+__About the match__
+Rarest shared words: [('hid', (6.822606009846189, 6.822606009846189)), ('company', (5.692949099496119, 5.692949099496119)), ('money', (4.53774462551684, 4.53774462551684)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.41779817762627713
+
+__About the completion__
+Rarest in completion: [('serving', 8.452502454223811), ('prison', 8.20888037156606), ('am', 6.6898995692872125), ('now', 4.716476221684173), ('time', 3.981849368185002)]
+Nearest to completion: [('prison', 0.6264600157737732), ('serving', 0.6192914843559265), ('behind_bars', 0.5356245040893555), ('jail', 0.5137958526611328), ('incarcerated', 0.4983593821525574), ('Prison', 0.4834897816181183), ('sentence', 0.48219969868659973), ('am', 0.45348405838012695), ('parole', 0.43287813663482666), ('sentenced', 0.4169642925262451)]
+
+--------------------------------------------------------------------------
+
+Larry and Bud went for a walk.
+They found a bank envelope with 500 dollars in cash inside.
+They were honest, and they took the money to the bank.
+The manager said that they could have it if no one claimed it.
+> They waited six weeks, and when no one claimed it they got the money.
+
+__About the match__
+Rarest shared words: [('money', (4.53774462551684, 4.53774462551684)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.41676162460752736
+
+__About the completion__
+Rarest in completion: [('claimed', 8.1822121244839), ('six', 6.907143398474234), ('waited', 5.999715353857924), ('weeks', 5.8208617222636025), ('money', 4.903083263856677), ('no', 4.72556343828553), ('when', 3.4368224349138567), ('got', 3.390344007102055), ('one', 3.351585275015767)]
+Nearest to completion: [('six', 0.43536806106567383), ('weeks', 0.4297591745853424), ('seven', 0.4030226767063141), ('months', 0.4012966454029083), ('five', 0.40038368105888367), ('waited', 0.39004290103912354), ('eight', 0.3814428746700287), ('four', 0.3735727071762085), ('nine', 0.3691226541996002), ('three', 0.3676777780056)]
+
+--------------------------------------------------------------------------
+
+

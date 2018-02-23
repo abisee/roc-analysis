@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The crowd waited at the turtle nest, as the eggs would hatch soon.
+An egg began to crack open, and the crowd got very quiet.
+The crowd cleared a path for the baby turtle to enter the water.
+The turtle entered the water successfully and the crowd cheered.
+> They then went back to wait for the next egg to hatch.
+
+__About the context__
+Rarest in context: [('hatch', 9.180760953995046), ('successfully', 8.824086010056313), ('cleared', 8.082148665326937), ('nest', 7.794466592875155), ('egg', 7.759375273063885), ('turtle', 7.759375273063885), ('path', 7.692683898565213), ('cheered', 7.600310578434198), ('crack', 7.600310578434198), ('enter', 7.194845470326033), ('quiet', 7.032326540828258), ('crowd', 6.719951855786106), ('eggs', 6.5833763207803555), ('entered', 6.228831303099447), ('open', 5.728508401532606), ('baby', 5.597242015538936), ('waited', 5.491881499881109), ('soon', 4.993273060053711), ('water', 4.833251824203877), ('began', 4.6435637515931605), ('as', 3.5598426238420284), ('would', 3.429095756248016), ('very', 3.353497422567824), ('an', 3.319567812924379)]
+Nearest to context: [('eggs', 0.5063439011573792), ('egg', 0.4579460322856903), ('enter', 0.38332173228263855), ('nest', 0.3814370036125183), ('cheered', 0.34611621499061584), ('entered', 0.336525022983551), ('entering', 0.28744933009147644), ('descended', 0.28388795256614685), ('enters', 0.27939265966415405), ('cheers', 0.2788899838924408)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('birds', 4377, 15623, 0.5085282921791077), ('nest', 17235, 2765, 0.4800657629966736), ('eggs', 6337, 13663, 0.4482692778110504), ('feeding', 7437, 12563, 0.4173797369003296), ('bird', 6510, 13490, 0.40021246671676636), ('insects', 14485, 5515, 0.3867447078227997), ('creatures', 11781, 8219, 0.3854268193244934), ('bees', 16922, 3078, 0.38192328810691833), ('chickens', 12163, 7837, 0.37642204761505127), ('egg', 9757, 10243, 0.37421658635139465)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.5715808272361755), ('lovely', 8279, 11721, 0.5167030692100525), ('beautiful', 2814, 17186, 0.5132647752761841), ('eat', 2785, 17215, 0.5013569593429565), ('so', 85, 19915, 0.48577141761779785), ('birds', 4377, 15623, 0.4852527976036072), ('eaten', 11812, 8188, 0.474816232919693), ('little', 286, 19714, 0.4736776351928711), ('wonderful', 3057, 16943, 0.47206437587738037), ('really', 230, 19770, 0.46364831924438477)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.651138186454773), ('was', 10, 19990, 0.6489748358726501), ('came', 256, 19744, 0.6260490417480469), ('stayed', 2936, 17064, 0.6165897250175476), ('had', 35, 19965, 0.6133880019187927), ('got', 193, 19807, 0.5845952033996582), ('saw', 653, 19347, 0.5756626129150391), ('ran', 1256, 18744, 0.5731596946716309), ('spent', 794, 19206, 0.5612301826477051), ('started', 443, 19557, 0.5538918972015381)]
+
+==========================================================================
+Neighbors
+==========================================================================
+There was a bird nest outside the family's door.
+It had four eggs in it.
+The family checked each day.
+Soon, the babies had hatched!
+> A week later, the babies flew out of the nest.
+
+__About the match__
+Rarest shared words: [('nest', (7.794466592875155, 7.794466592875155)), ('eggs', (6.5833763207803555, 6.5833763207803555)), ('soon', (4.993273060053711, 4.993273060053711))]
+Score: 0.4952601471081852
+
+__About the completion__
+Rarest in completion: [('babies', 8.561701746188803), ('nest', 8.293437759594124), ('flew', 6.952263833754704), ('later', 5.235006891824569), ('week', 5.050156307357783), ('out', 3.3165011979861596)]
+Nearest to completion: [('nest', 0.6034200191497803), ('babies', 0.5039480924606323), ('flew', 0.4473927915096283), ('newborn', 0.40227362513542175), ('birds', 0.40190595388412476), ('infants', 0.40163013339042664), ('baby', 0.3968607783317566), ('flies', 0.36979302763938904), ('fly', 0.3448677361011505), ('later', 0.3349539339542389)]
+
+--------------------------------------------------------------------------
+
+Emma bought a hen for her new farm.
+She waited patiently for her to lay her first egg.
+Soon, Emma found an egg waiting in the coop!
+She took it inside and set it on the counter.
+> She didn't have the heart to crack it so she kept it for weeks.
+
+__About the match__
+Rarest shared words: [('egg', (7.759375273063885, 7.759375273063885)), ('waited', (5.491881499881109, 5.491881499881109)), ('soon', (4.993273060053711, 4.993273060053711)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4570105073888048
+
+__About the completion__
+Rarest in completion: [('crack', 8.106226217505977), ('heart', 6.967768020290668), ('weeks', 5.8208617222636025), ('kept', 5.746753750109881), ('have', 4.400417701291594), ('so', 3.628612279567497), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('crack', 0.45447540283203125), ('weeks', 0.4317263960838318), ('kept', 0.38521766662597656), ('heart', 0.3812338411808014), ('cracking', 0.35014498233795166), ('months', 0.3447333574295044), ('keep', 0.3344831168651581), ('cracked', 0.33170193433761597), ('have', 0.3267366290092468), ('decades', 0.29686084389686584)]
+
+--------------------------------------------------------------------------
+
+One day, John saw a nest of Pigeon.
+It was hanging loose.
+He tried to reach the nest but all of his efforts were in vain.
+The nest finally fell down and all of the eggs broke.
+> He was very sad although he tried a lot.
+
+__About the match__
+Rarest shared words: [('nest', (7.794466592875155, 7.794466592875155)), ('eggs', (6.5833763207803555, 6.5833763207803555))]
+Score: 0.42993097964920723
+
+__About the completion__
+Rarest in completion: [('although', 7.146969449748379), ('sad', 6.067225645384653), ('lot', 4.749074176950009), ('tried', 4.57271769962453), ('very', 3.793301345264873)]
+Nearest to completion: [('very', 0.5364862680435181), ('sad', 0.5362572073936462), ('extremely', 0.4580179750919342), ('quite', 0.45475757122039795), ('terribly', 0.42877528071403503), ('unfortunate', 0.42410388588905334), ('lot', 0.4218761920928955), ('incredibly', 0.42154660820961), ('unfortunately', 0.40074020624160767), ('obviously', 0.3979901671409607)]
+
+--------------------------------------------------------------------------
+
+Aly planted a tree in her backyard.
+Soon, a bird moved in!
+She built a nest and laid some eggs.
+Aly liked to watch the bird fly in and out.
+> It was a beautiful creature!
+
+__About the match__
+Rarest shared words: [('nest', (7.794466592875155, 7.794466592875155)), ('eggs', (6.5833763207803555, 6.5833763207803555)), ('soon', (4.993273060053711, 4.993273060053711))]
+Score: 0.42682370983041096
+
+__About the completion__
+Rarest in completion: [('creature', 8.824066010656296), ('beautiful', 6.017679908833223), ('!', 3.536809591467683)]
+Nearest to completion: [('creature', 0.7917373776435852), ('beautiful', 0.6889576315879822), ('creatures', 0.6549526453018188), ('gorgeous', 0.5989030599594116), ('lovely', 0.5490677952766418), ('beast', 0.5079631209373474), ('magnificent', 0.4720109701156616), ('charming', 0.46924829483032227), ('delightful', 0.4391579329967499), ('beauty', 0.4353398084640503)]
+
+--------------------------------------------------------------------------
+
+Tom was at a local park.
+It was Easter.
+There was an egg hunt for the kids.
+Tom decided to pick some eggs up.
+> He enjoyed the treats in them.
+
+__About the match__
+Rarest shared words: [('egg', (7.759375273063885, 7.759375273063885)), ('eggs', (6.5833763207803555, 6.5833763207803555)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.41618491240179895
+
+__About the completion__
+Rarest in completion: [('treats', 8.236279345754177), ('enjoyed', 6.002687124247082), ('them', 3.9905657466666935)]
+Nearest to completion: [('treats', 0.7388308048248291), ('enjoyed', 0.579166829586029), ('enjoy', 0.5048044919967651), ('enjoys', 0.4765538275241852), ('treat', 0.4566127061843872), ('enjoying', 0.4432775676250458), ('goodies', 0.41196006536483765), ('treated', 0.38419586420059204), ('Enjoy', 0.3819957971572876), ('delicious', 0.35467103123664856)]
+
+--------------------------------------------------------------------------
+
+The family hid some eggs for Easter.
+The kids searched for the eggs.
+One of the eggs wasn't found.
+The egg rotted for two months.
+> The family found the egg from the smell.
+
+__About the match__
+Rarest shared words: [('egg', (7.759375273063885, 7.759375273063885)), ('eggs', (6.5833763207803555, 6.5833763207803555))]
+Score: 0.41155678000101326
+
+__About the completion__
+Rarest in completion: [('egg', 8.20888037156606), ('smell', 7.05762434941253), ('family', 4.6880997737433745), ('found', 4.202038707601781), ('from', 3.996552593524763)]
+Nearest to completion: [('smell', 0.5956058502197266), ('odor', 0.5072056651115417), ('egg', 0.5051621198654175), ('smells', 0.47569191455841064), ('eggs', 0.46563616394996643), ('scent', 0.4465641975402832), ('found', 0.38058945536613464), ('pig', 0.3505094647407532), ('chickens', 0.3422375023365021), ('discovered', 0.34048330783843994)]
+
+--------------------------------------------------------------------------
+
+Ursula took out several ingredients to prepare eggs.
+She cracked two eggs open and placed them in a pan.
+They started to sizzle.
+Ursula left the eggs for several minutes.
+> However, she wasn't aware when they burned to a crisp.
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('open', (5.728508401532606, 5.728508401532606))]
+Score: 0.41147983213060624
+
+__About the completion__
+Rarest in completion: [('crisp', 9.180740954595027), ('aware', 8.98658494015407), ('burned', 6.967768020290668), ('however', 5.312520571825274), ('when', 3.4368224349138567), ("n't", 3.334508641807057)]
+Nearest to completion: [('crisp', 0.5445021986961365), ('burned', 0.5295713543891907), ('burnt', 0.4868136942386627), ('burning', 0.425392210483551), ('charred', 0.40831154584884644), ('aware', 0.3986969292163849), ('clear', 0.3611118495464325), ('extinguished', 0.3511466085910797), ('burn', 0.3504849374294281), ('burns', 0.3375692069530487)]
+
+--------------------------------------------------------------------------
+
+Alex found a bird's nest in his front yard one day.
+There were three robin eggs inside the nest.
+Alex checked up on the birds every day while getting the mail.
+After a few months, all three eggs hatched!
+> Alex spent time feeding the birds bread crumbs until they grew up.
+
+__About the match__
+Rarest shared words: [('nest', (7.794466592875155, 7.794466592875155)), ('eggs', (6.5833763207803555, 6.5833763207803555))]
+Score: 0.411012593916303
+
+__About the completion__
+Rarest in completion: [('crumbs', 9.334891634422286), ('feeding', 8.354062381410559), ('birds', 7.868554565628858), ('bread', 7.25545009274245), ('grew', 6.343334732278775), ('spent', 5.45849580663729), ('until', 5.39169301152569), ('time', 3.981849368185002)]
+Nearest to completion: [('feeding', 0.542572021484375), ('birds', 0.4911525249481201), ('bread', 0.44306573271751404), ('feed', 0.42083925008773804), ('chickens', 0.4118436276912689), ('bird', 0.4040907621383667), ('spent', 0.39737051725387573), ('grew', 0.38212084770202637), ('eggs', 0.35764628648757935), ('spends', 0.35469523072242737)]
+
+--------------------------------------------------------------------------
+
+Caleb was making scrambled eggs.
+His brother did not believe that he could crack two eggs in one hand.
+When trying to crack them them, he crushed them instead.
+Egg splattered everywhere.
+> The boys spent the next 10 minutes cleaning up.
+
+__About the match__
+Rarest shared words: [('egg', (7.759375273063885, 7.759375273063885)), ('crack', (7.600310578434198, 7.600310578434198)), ('eggs', (6.5833763207803555, 6.5833763207803555))]
+Score: 0.40946460530893175
+
+__About the completion__
+Rarest in completion: [('10', 7.175407385068913), ('cleaning', 7.03230654142824), ('boys', 6.959985879848613), ('minutes', 5.925395449945435), ('spent', 5.45849580663729), ('next', 4.72639365834152)]
+Nearest to completion: [('spent', 0.5257826447486877), ('cleaning', 0.4732199013233185), ('minutes', 0.46082133054733276), ('hours', 0.456132709980011), ('spends', 0.43820720911026), ('spend', 0.4183787405490875), ('boys', 0.3854120969772339), ('days', 0.3594139516353607), ('seconds', 0.34604522585868835), ('hour', 0.3333161771297455)]
+
+--------------------------------------------------------------------------
+
+Uncharacteristically, Malik ran toward the brouhaha.
+He could hear his mother shouting his name as he approached.
+A path cleared in the middle of the crowd cleared for him.
+His mother was finally revealed, sweating and bewildered.
+> He walked slowly toward her, his hand outstretched to make contact.
+
+__About the match__
+Rarest shared words: [('cleared', (8.082148665326937, 8.082148665326937)), ('path', (7.692683898565213, 7.692683898565213)), ('crowd', (6.719951855786106, 6.719951855786106)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.4085516109914151
+
+__About the completion__
+Rarest in completion: [('outstretched', 11.12665110365034), ('contact', 8.058598168516724), ('toward', 7.927977986099659), ('slowly', 6.9914845469079845), ('hand', 6.3063695380453035), ('walked', 5.178616114469694), ('make', 4.7898253725039)]
+Nearest to completion: [('toward', 0.6106516122817993), ('towards', 0.506934642791748), ('slowly', 0.5061236619949341), ('hand', 0.41859903931617737), ('gently', 0.39294639229774475), ('contact', 0.39026734232902527), ('gradually', 0.36034226417541504), ('walked', 0.33334770798683167), ('steadily', 0.33241090178489685), ('leaned', 0.316520631313324)]
+
+--------------------------------------------------------------------------
+
+

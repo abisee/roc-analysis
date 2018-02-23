@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Tom always wondered if he'd ever see Sue again.
+She had decided to marry someone else and they had moved far away.
+Now, she was divorced and would be coming to the class reunion.
+Tom and Sue spent most of the reunion talking with each other.
+> The two reunited lovebirds have been together ever since.
+
+__About the context__
+Rarest in context: [('reunion', 8.130938829496369), ('divorced', 7.948617272702413), ('marry', 7.600310578434198), ('wondered', 6.8925645984531), ('far', 6.501698289766088), ('else', 6.266858698688687), ('ever', 6.08971850063673), ('talking', 6.083245986131113), ('again', 5.633609659709811), ('most', 5.621339567117996), ('now', 5.554517070872595), ('moved', 5.4329389642476595), ('coming', 5.383667915240877), ('each', 5.286029445676961), ('someone', 5.163091759431913), ("'d", 5.044452192673913), ('spent', 4.999801918936174), ('class', 4.7414767040526336), ('if', 4.668332819705569), ('other', 4.589979505459054), ('away', 4.571314211239694), ('see', 4.282921154044134), ('always', 4.054249202512988), ('be', 3.714510768105154), ('would', 3.429095756248016)]
+Nearest to context: [('ever', 0.39851316809654236), ('marry', 0.3418479263782501), ('marrying', 0.334832102060318), ('married', 0.32137760519981384), ('else', 0.32077598571777344), ('surely', 0.3182346224784851), ('perhaps', 0.31191956996917725), ('if', 0.3097648322582245), ('imagined', 0.3086692988872528), ('divorced', 0.30866116285324097)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('married', 2487, 17513, 0.5225082635879517), ('happy', 1049, 18951, 0.4500592052936554), ('divorced', 10757, 9243, 0.41541987657546997), ('marry', 8380, 11620, 0.4067991375923157), ('marrying', 18560, 1440, 0.4031136631965637), ('wed', 18909, 1091, 0.3786028027534485), ('glad', 4258, 15742, 0.36754095554351807), ('marriage', 2724, 17276, 0.3423269987106323), ('happier', 11667, 8333, 0.33940327167510986), ('happily', 12649, 7351, 0.3312930762767792)]
+Nearest words to completions' keywords: [('married', 2487, 17513, 0.7017083764076233), ('divorced', 10757, 9243, 0.634579062461853), ('marry', 8380, 11620, 0.6161867380142212), ('happy', 1049, 18951, 0.6130446791648865), ('marrying', 18560, 1440, 0.5721952319145203), ('wed', 18909, 1091, 0.5720295906066895), ('glad', 4258, 15742, 0.5604609251022339), ('wife', 783, 19217, 0.5495175719261169), ('husband', 1292, 18708, 0.5486475229263306), ('know', 177, 19823, 0.5434319376945496)]
+Nearest words to completions' verbs: [('wanted', 583, 19417, 0.6644495129585266), ('knew', 1039, 18961, 0.6637130975723267), ('got', 193, 19807, 0.6496030688285828), ('going', 125, 19875, 0.6385941505432129), ('thought', 572, 19428, 0.6185109615325928), ('had', 35, 19965, 0.6143217086791992), ('do', 58, 19942, 0.6107391119003296), ('know', 177, 19823, 0.6057605147361755), ('was', 10, 19990, 0.596153974533081), ('did', 92, 19908, 0.5961061716079712)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Raquel met her husband 15 years ago.
+He had a girlfriend he was cheating on that she didn't know about.
+She was already in love with him so she fought to marry him.
+Unfortunately, her husband didn't think that highly of their marriage.
+> He cheated on Raquel the same way he cheated on the girl before her.
+
+__About the match__
+Rarest shared words: [('marry', (7.600310578434198, 7.600310578434198))]
+Score: 0.5317368814112213
+
+__About the completion__
+Rarest in completion: [('cheated', 8.323290722743806), ('same', 6.153371596097854), ('girl', 5.502633597463002), ('way', 5.019628215908086), ('before', 4.900114434362875)]
+Nearest to completion: [('cheated', 0.5759598612785339), ('girl', 0.4975849986076355), ('prostitute', 0.4096457362174988), ('cheating', 0.4092312455177307), ('raped', 0.40237119793891907), ('woman', 0.3837648928165436), ('boy', 0.3760414719581604), ('cheat', 0.35946622490882874), ('bullied', 0.3504318296909332), ('sexually_assaulted', 0.33939895033836365)]
+
+--------------------------------------------------------------------------
+
+Donna wanted to get married.
+She'd been waiting for three years for her boyfriend to propose.
+She decided to break up with him.
+Donna's boyfriend was sad and finally asked her to marry him.
+> Now they've been married for thirty years!
+
+__About the match__
+Rarest shared words: [('marry', (7.600310578434198, 7.600310578434198)), ("'d", (5.044452192673913, 5.044452192673913))]
+Score: 0.5197286249582137
+
+__About the completion__
+Rarest in completion: [('thirty', 7.927977986099659), ("'ve", 7.234830805539714), ('married', 6.364477168852584), ('years', 5.187796506814656), ('now', 4.716476221684173), ('been', 4.657400786854568), ('!', 3.536809591467683)]
+Nearest to completion: [('years', 0.6597465872764587), ('decades', 0.5507909655570984), ('thirty', 0.524567186832428), ('twenty', 0.5211385488510132), ('forty', 0.4968877136707306), ('been', 0.4927350580692291), ('months', 0.48905402421951294), ('decade', 0.48797497153282166), ("'ve", 0.46914735436439514), ('fifteen', 0.44563624262809753)]
+
+--------------------------------------------------------------------------
+
+When Paul was young he bet his dad he would never get married.
+He was so convinced that the idea of marriage was not for him.
+But eventually he fell in love with a beautiful girl.
+They dated for a few years and he eventually asked her to marry him.
+> He paid on his bet, but was so happy for being a happily married man.
+
+__About the match__
+Rarest shared words: [('marry', (7.600310578434198, 7.600310578434198)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.5088517165976504
+
+__About the completion__
+Rarest in completion: [('bet', 7.991156887721191), ('happily', 7.245087305706903), ('married', 6.364477168852584), ('paid', 6.3104099475823086), ('being', 5.502633597463002), ('happy', 4.78013793434821), ('man', 4.481560134144697), ('so', 3.628612279567497), ('but', 3.4639482432028115)]
+Nearest to completion: [('married', 0.49670472741127014), ('happily', 0.4680939316749573), ('bet', 0.41120123863220215), ('happy', 0.4079979956150055), ('marrying', 0.38436785340309143), ('divorced', 0.3841969072818756), ('marry', 0.37405717372894287), ('handsome', 0.3674990236759186), ('wed', 0.35333260893821716), ('happier', 0.34102457761764526)]
+
+--------------------------------------------------------------------------
+
+Seth had always wanted to get married.
+However, he worried that he would never fall in love.
+Eventually he met a nice woman who he liked very much.
+They decided to get married.
+> Seth was happy to finally be getting married.
+
+__About the match__
+Rarest shared words: [('always', (4.054249202512988, 4.054249202512988)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.502921124405614
+
+__About the completion__
+Rarest in completion: [('married', 6.364477168852584), ('getting', 5.3336374952661965), ('happy', 4.78013793434821), ('finally', 4.562795577118213), ('be', 4.0931446193626435)]
+Nearest to completion: [('married', 0.5539688467979431), ('marrying', 0.4935547113418579), ('marry', 0.46267345547676086), ('finally', 0.45630934834480286), ('happy', 0.4507918059825897), ('wed', 0.44189128279685974), ('divorced', 0.4393020570278168), ('getting', 0.39748260378837585), ('marriage', 0.39280247688293457), ('glad', 0.3781093657016754)]
+
+--------------------------------------------------------------------------
+
+Michael was worried he wouldn't have a date for the prom.
+It was only weeks away and nobody had said yes to him.
+As prom came closer he was even more worried.
+Then one day his best friend Jill asked him to go to prom with him.
+> Michael didn't know what to say he was so happy and excited to go!
+
+__About the match__
+Rarest shared words: [('away', (4.571314211239694, 4.571314211239694)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.49384787826105514
+
+__About the completion__
+Rarest in completion: [('say', 7.049113659744621), ('know', 5.57563138354655), ('excited', 5.146500316442632), ('what', 4.895185888161725), ('happy', 4.78013793434821), ('go', 4.110041419756121), ('so', 3.628612279567497), ('did', 3.6104898725633485), ('!', 3.536809591467683), ("n't", 3.334508641807057)]
+Nearest to completion: [('excited', 0.5821163058280945), ('know', 0.5549684762954712), ('happy', 0.5246530771255493), ('thrilled', 0.5013312697410583), ('pleased', 0.49766805768013), ('proud', 0.4707919657230377), ('glad', 0.4695659279823303), ('think', 0.441589891910553), ('confident', 0.43110352754592896), ('concerned', 0.4261494576931)]
+
+--------------------------------------------------------------------------
+
+Crystal and Fred have been engaged for seven years.
+They have finally set a wedding date for next summer.
+People were starting to wonder if they would ever get married.
+Crystal said she wasn't getting married until she was good and ready.
+> Their family and friends are looking forward to the nuptials.
+
+__About the match__
+Rarest shared words: [('ever', (6.08971850063673, 6.08971850063673)), ('if', (4.668332819705569, 4.668332819705569)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.49249055567265
+
+__About the completion__
+Rarest in completion: [('nuptials', 11.12665110365034), ('forward', 7.0662080931039215), ('are', 6.0767950964008035), ('looking', 5.520849037354343), ('family', 4.6880997737433745), ('their', 4.437673918472774), ('friends', 4.1620430130754205)]
+Nearest to completion: [('forward', 0.47985467314720154), ('friends', 0.47645506262779236), ('family', 0.46808069944381714), ('are', 0.4593161940574646), ('relatives', 0.4303593933582306), ('families', 0.414436012506485), ('loved_ones', 0.4086732864379883), ('looking', 0.4060702621936798), ('their', 0.3884780704975128), ('strangers', 0.32324033975601196)]
+
+--------------------------------------------------------------------------
+
+Jane's class reunion was later that month.
+It had been thirty years since graduation day.
+She worried that she wouldn't recognize anyone.
+Maybe they wouldn't recognize her either!
+> She decided it really didn't matter.
+
+__About the match__
+Rarest shared words: [('reunion', (8.130938829496369, 8.130938829496369)), ('class', (4.7414767040526336, 4.7414767040526336)), ('would', (3.429095756248016, 3.429095756248016))]
+Score: 0.4894271910182834
+
+__About the completion__
+Rarest in completion: [('matter', 7.660915200850614), ('really', 4.8267831612773255), ('did', 3.6104898725633485), ('decided', 3.495461951503386), ("n't", 3.334508641807057)]
+Nearest to completion: [('decided', 0.5633366107940674), ('matter', 0.5313831567764282), ('did', 0.5206857323646545), ('does', 0.45702362060546875), ('chose', 0.3815799653530121), ('not', 0.3807442784309387), ('decides', 0.3569210469722748), ('wanted', 0.3566489517688751), ('intend', 0.3536604046821594), ('deciding', 0.3472045660018921)]
+
+--------------------------------------------------------------------------
+
+Tim had been with Kathy for a year.
+He really loved her.
+He wanted to marry her.
+Tim asked for her hand in marriage.
+> She said yes.
+
+__About the match__
+Rarest shared words: [('marry', (7.600310578434198, 7.600310578434198))]
+Score: 0.4876495342665114
+
+__About the completion__
+Rarest in completion: [('yes', 7.204677767369026), ('said', 4.667529428177747)]
+Nearest to completion: [('yes', 0.6149349212646484), ('said', 0.5653626918792725), ('replied', 0.5574283003807068), ('Absolutely', 0.5346267223358154), ('Yes', 0.5142987966537476), ('says', 0.5124714374542236), ('explained', 0.4355993866920471), ('Said', 0.42805734276771545), ('remarked', 0.42472413182258606), ('quipped', 0.42029592394828796)]
+
+--------------------------------------------------------------------------
+
+I had lived with my best friend for four years.
+When I met my fiancee I knew we were going start a life.
+When I asked her to move in with me she said yes.
+I couldn't figure out how to tell my best friend though.
+> So I just moved out while he was working and left a note.
+
+__About the match__
+Rarest shared words: []
+Score: 0.48187614432537207
+
+__About the completion__
+Rarest in completion: [('note', 7.529338843061895), ('moved', 5.861373591180504), ('working', 5.564048242456919), ('left', 4.930206975855819), ('while', 4.812197670258433), ('just', 4.707470839499374), ('so', 3.628612279567497), ('out', 3.3165011979861596)]
+Nearest to completion: [('note', 0.45632603764533997), ('left', 0.36897730827331543), ('while', 0.3392104208469391), ('moved', 0.3390940725803375), ('working', 0.30783602595329285), ('moving', 0.30605122447013855), ('notes', 0.30083736777305603), ('leaving', 0.2903377115726471), ('out', 0.28628987073898315), ('Elsewhere', 0.2761930823326111)]
+
+--------------------------------------------------------------------------
+
+Robbie's parents were divorced.
+He did not like his mom's boyfriend.
+When they announced they'd be getting married, Robbie was upset.
+His mom went through with the wedding anyways.
+> After the wedding, he convinced his dad to let him move in with him.
+
+__About the match__
+Rarest shared words: [('divorced', (7.948617272702413, 7.948617272702413)), ("'d", (5.044452192673913, 5.044452192673913)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.48082151719523913
+
+__About the completion__
+Rarest in completion: [('convinced', 7.502310170673975), ('wedding', 6.594051610497084), ('move', 6.177891213272172), ('let', 5.763014270981661), ('dad', 5.615240521641596), ('after', 3.9503965716331964), ('him', 3.3907807836977737)]
+Nearest to completion: [('wedding', 0.5280412435531616), ('dad', 0.44965773820877075), ('son', 0.44615262746810913), ('father', 0.4402482807636261), ('bride', 0.42877277731895447), ('marry', 0.4153105616569519), ('pal', 0.41019517183303833), ('wed', 0.4023977220058441), ('brother', 0.3984808623790741), ('wife', 0.394756942987442)]
+
+--------------------------------------------------------------------------
+
+

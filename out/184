@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Our 2 year old granddaughter is fussy about shoes.
+She likes to wear only orange Crocs.
+Her day care will not let her wear Crocs for safety reasons.
+Her father took her to a shoe store.
+> After two hours, she picked out a pair of shoes.
+
+__About the context__
+Rarest in context: [('reasons', 9.334911633822305), ('fussy', 9.047229561370523), ('safety', 7.794466592875155), ('granddaughter', 7.692683898565213), ('orange', 7.413099036346051), ('shoe', 7.083619835215809), ('likes', 6.3992832843380185), ('will', 6.282484016591768), ('2', 6.1638264727904515), ('wear', 6.096233181657924), ('shoes', 6.070425297702051), ('care', 5.843467374312371), ('father', 5.6670855889062), ('let', 5.446498494033292), ('our', 5.006373684099409), ('only', 4.719791116981044), ('year', 4.684130936582161), ('old', 4.424710737047819), ('store', 4.2189158240682225), ('is', 3.859843755529768), ('about', 3.625036645166946), ('took', 3.6015703569245585), ('not', 3.4656147206885297)]
+Nearest to context: [('shoes', 0.4695645570755005), ('footwear', 0.4438524842262268), ('shoe', 0.4377524256706238), ('wear', 0.4026426672935486), ('wears', 0.39333489537239075), ('apparel', 0.3709683120250702), ('granddaughter', 0.3488796353340149), ('grandson', 0.3472258448600769), ('clothing', 0.3420518934726715), ('jeans', 0.33151376247406006)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wear', 3015, 16985, 0.6353394389152527), ('dresses', 11648, 8352, 0.6140912175178528), ('dress', 4914, 15086, 0.6073530912399292), ('attire', 19290, 710, 0.5654226541519165), ('clothes', 3874, 16126, 0.539080798625946), ('costumes', 10357, 9643, 0.5289332270622253), ('shoes', 4272, 15728, 0.5288944840431213), ('outfits', 12319, 7681, 0.5274708271026611), ('jeans', 10339, 9661, 0.5164622068405151), ('don', 19599, 401, 0.4799354672431946)]
+Nearest words to completions' keywords: [('dress', 4914, 15086, 0.7506530284881592), ('wear', 3015, 16985, 0.7251120805740356), ('dresses', 11648, 8352, 0.7142281532287598), ('clothes', 3874, 16126, 0.6928688287734985), ('attire', 19290, 710, 0.6906472444534302), ('jeans', 10339, 9661, 0.6773974299430847), ('wearing', 2361, 17639, 0.666166365146637), ('pants', 7945, 12055, 0.6309444308280945), ('outfits', 12319, 7681, 0.6276942491531372), ('wore', 4853, 15147, 0.61227947473526)]
+Nearest words to completions' verbs: [('wear', 3015, 16985, 0.7273820042610168), ('wanted', 583, 19417, 0.6181668639183044), ('wore', 4853, 15147, 0.6160939335823059), ('do', 58, 19942, 0.5930110216140747), ('let', 712, 19288, 0.578593373298645), ('want', 189, 19811, 0.5607724785804749), ('don', 19599, 401, 0.5423491597175598), ('wearing', 2361, 17639, 0.5389874577522278), ('wears', 10478, 9522, 0.5345603227615356), ('chose', 3206, 16794, 0.5324665904045105)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Our granddaughter Anna is very fussy about her clothes.
+She is only two, but wants to pick her outfits.
+Today her mom wanted Anna to wear a dress.
+Anna started crying.
+> They let her wear a t-shirt and shorts instead.
+
+__About the match__
+Rarest shared words: [('fussy', (9.047229561370523, 9.047229561370523)), ('granddaughter', (7.692683898565213, 7.692683898565213)), ('wear', (6.096233181657924, 6.096233181657924)), ('our', (5.006373684099409, 5.006373684099409)), ('only', (4.719791116981044, 4.719791116981044)), ('is', (3.859843755529768, 3.859843755529768)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.5587230333432828
+
+__About the completion__
+Rarest in completion: [('t-shirt', 9.334891634422286), ('shorts', 8.600922459342085), ('wear', 6.4585061185008605), ('let', 5.763014270981661), ('instead', 5.508063475057371)]
+Nearest to completion: [('wear', 0.711182713508606), ('shorts', 0.6957895159721375), ('don', 0.5389764308929443), ('wearing', 0.5074429512023926), ('pants', 0.5043556690216064), ('attire', 0.4736922085285187), ('dress', 0.4727855622768402), ('jeans', 0.4599502980709076), ('shirts', 0.45934686064720154), ('Wearing', 0.4477277398109436)]
+
+--------------------------------------------------------------------------
+
+Artie wanted a new pair of shoes for his birthday.
+His grandmother gave him forty dollars for his gift.
+Artie got his mom to drive him to the mall.
+Artie went to the shoe store in the mall.
+> Artie used the money from his grandmother to buy shoes.
+
+__About the match__
+Rarest shared words: [('shoe', (7.083619835215809, 7.083619835215809)), ('shoes', (6.070425297702051, 6.070425297702051)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.47762081561380104
+
+__About the completion__
+Rarest in completion: [('grandmother', 7.156359190098219), ('shoes', 6.399263284938), ('used', 5.4636906235143945), ('buy', 4.985689545396447), ('money', 4.903083263856677), ('from', 3.996552593524763)]
+Nearest to completion: [('money', 0.5044835209846497), ('shoes', 0.4996488094329834), ('buy', 0.4815276563167572), ('grandmother', 0.4237096309661865), ('clothes', 0.389765202999115), ('used', 0.38485437631607056), ('purchase', 0.38277336955070496), ('purchased', 0.37902045249938965), ('bought', 0.3767436444759369), ('borrowed', 0.37322676181793213)]
+
+--------------------------------------------------------------------------
+
+Dan took his daughter to the shoe store to get some new shoes.
+Dan allowed his daughter to choose her brand new shoes.
+After a hour of searching, Dan's daughter chose shiny red shoes.
+Dan helped his daughter try on her shoes.
+> Dan decided to purchase the shoes, and let her wear them home.
+
+__About the match__
+Rarest shared words: [('shoe', (7.083619835215809, 7.083619835215809)), ('shoes', (6.070425297702051, 6.070425297702051)), ('store', (4.2189158240682225, 4.2189158240682225)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.46777653935373525
+
+__About the completion__
+Rarest in completion: [('purchase', 7.110268082897952), ('wear', 6.4585061185008605), ('shoes', 6.399263284938), ('let', 5.763014270981661), ('home', 4.002978318445733), ('them', 3.9905657466666935), ('decided', 3.495461951503386)]
+Nearest to completion: [('wear', 0.5780027508735657), ('shoes', 0.5713643431663513), ('footwear', 0.4472995400428772), ('socks', 0.4382055699825287), ('don', 0.4323585033416748), ('purchase', 0.4258045256137848), ('boots', 0.42519330978393555), ('clothes', 0.39400312304496765), ('buy', 0.39112675189971924), ('clothing', 0.384861558675766)]
+
+--------------------------------------------------------------------------
+
+My son went on a long bike ride today.
+He went from Cambridge to Boston and back.
+He usually does not wear a helmet.
+Today he wore a helmet for the long ride.
+> His sister was very pleased.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.4598498978858244
+
+__About the completion__
+Rarest in completion: [('pleased', 6.959985879848613), ('sister', 5.982067837044346), ('very', 3.793301345264873)]
+Nearest to completion: [('pleased', 0.734325110912323), ('delighted', 0.6237896084785461), ('thrilled', 0.5739466547966003), ('proud', 0.5583100914955139), ('extremely', 0.519594669342041), ('very', 0.5123486518859863), ('excited', 0.5092425346374512), ('sister', 0.4861302971839905), ('grateful', 0.45385661721229553), ('glad', 0.4406992793083191)]
+
+--------------------------------------------------------------------------
+
+Tina loved the look of sundresses.
+She wore dresses every day.
+Her boss said she would need to wear long pants.
+She had to go home and change into safer clothes.
+> She wishes she could still wear her fun dresses to work.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924))]
+Score: 0.43801455486280355
+
+__About the completion__
+Rarest in completion: [('wishes', 9.334891634422286), ('dresses', 8.487593774035082), ('wear', 6.4585061185008605), ('still', 5.390078806171148), ('fun', 5.29917715665159), ('work', 4.3399341530452595), ('could', 3.8258407366367204)]
+Nearest to completion: [('dresses', 0.6527571082115173), ('wear', 0.6127666234970093), ('dress', 0.6023845672607422), ('attire', 0.5325481295585632), ('costumes', 0.5119031071662903), ('outfits', 0.4958663582801819), ('wears', 0.48703211545944214), ('costume', 0.46688246726989746), ('wardrobe', 0.45335522294044495), ('don', 0.4289637804031372)]
+
+--------------------------------------------------------------------------
+
+Our 2 year old granddaughter loves chocolate milk.
+We love to facetime with her, but she does not.
+We live in Boston and she is in NYC.
+Her mom offered her chocolate milk if she did facetime.
+> Our granddaughter took the bribe.
+
+__About the match__
+Rarest shared words: [('granddaughter', (7.692683898565213, 7.692683898565213)), ('2', (6.1638264727904515, 6.1638264727904515)), ('our', (5.006373684099409, 5.006373684099409)), ('year', (4.684130936582161, 4.684130936582161)), ('old', (4.424710737047819, 4.424710737047819)), ('is', (3.859843755529768, 3.859843755529768)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.43739513136205993
+
+__About the completion__
+Rarest in completion: [('bribe', 11.12665110365034), ('granddaughter', 8.264450222720871), ('our', 5.481204206007103), ('took', 4.067463120907994)]
+Nearest to completion: [('bribe', 0.659621000289917), ('bribes', 0.5685829520225525), ('granddaughter', 0.4812653064727783), ('grandson', 0.4653744101524353), ('niece', 0.4525737166404724), ('bribery', 0.43346643447875977), ('daughter', 0.4062158763408661), ('nephew', 0.40479031205177307), ('son', 0.38511982560157776), ('extortion', 0.35529324412345886)]
+
+--------------------------------------------------------------------------
+
+My sister-in-law texted me today.
+She wanted to get a Pandora bracelet for my wife.
+She asked if her sister had one.
+I texted that my wife cannot wear bracelets due to lymphedema.
+> My sister-in-law said she was sorry.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.4337602832068873
+
+__About the completion__
+Rarest in completion: [('sorry', 8.72875583085197), ('sister-in-law', 8.41860090254813), ('said', 4.667529428177747), ('my', 3.5357989799617595)]
+Nearest to completion: [('sorry', 0.6927484273910522), ('my', 0.527881920337677), ('apologize', 0.46752819418907166), ('My', 0.4627637565135956), ('ashamed', 0.43042656779289246), ('regret', 0.42325106263160706), ('glad', 0.4165835976600647), ('grateful', 0.41530683636665344), ('Sorry', 0.41052624583244324), ('thankful', 0.40896567702293396)]
+
+--------------------------------------------------------------------------
+
+Rene wanted a new pair of shoes.
+She went to the store to get some.
+She found out she could get one free.
+But the shoe would have to fit.
+> Luckily it fit.
+
+__About the match__
+Rarest shared words: [('shoe', (7.083619835215809, 7.083619835215809)), ('shoes', (6.070425297702051, 6.070425297702051)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.424750006074891
+
+__About the completion__
+Rarest in completion: [('fit', 6.776373167291039), ('luckily', 6.153371596097854)]
+Nearest to completion: [('fit', 0.9498313665390015), ('fits', 0.6859702467918396), ('suited', 0.5206706523895264), ('complement', 0.4668155014514923), ('fitting', 0.4636564254760742), ('shape', 0.43499067425727844), ('fitted', 0.423282653093338), ('tailored', 0.41941404342651367), ('compatible', 0.3938981592655182), ('conform', 0.3927871286869049)]
+
+--------------------------------------------------------------------------
+
+My friend lost weight.
+Her jeans didn't fit any more.
+She went to the store and got a new pair.
+She does not like to wear loose clothes.
+> Tight clothes suit her well.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('store', (4.2189158240682225, 4.2189158240682225)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.4236982622349414
+
+__About the completion__
+Rarest in completion: [('tight', 8.013135794439966), ('suit', 7.742260840304566), ('clothes', 6.3063695380453035), ('well', 5.318508613669897)]
+Nearest to completion: [('suit', 0.602416455745697), ('suits', 0.5696954727172852), ('tight', 0.5654891729354858), ('clothes', 0.536931574344635), ('clothing', 0.47900858521461487), ('jeans', 0.4441029131412506), ('attire', 0.4292900562286377), ('dresses', 0.4119528532028198), ('dress', 0.4104944169521332), ('shirts', 0.4054771065711975)]
+
+--------------------------------------------------------------------------
+
+Dan was deliberating what to wear for Halloween this year.
+Dan decided he would go as Mario, and his brother as Luigi.
+In addition, Dan would dress his son up as Yoshi as well.
+Dan was surprised to see his nephew dressed as Bowser.
+> Dan loved the costumes that they decided to wear for Halloween.
+
+__About the match__
+Rarest shared words: [('wear', (6.096233181657924, 6.096233181657924)), ('year', (4.684130936582161, 4.684130936582161))]
+Score: 0.419440753634243
+
+__About the completion__
+Rarest in completion: [('costumes', 9.517213191216241), ('wear', 6.4585061185008605), ('loved', 4.425305176991248), ('decided', 3.495461951503386)]
+Nearest to completion: [('costumes', 0.7252588868141174), ('wear', 0.6253896355628967), ('costume', 0.6162971258163452), ('dress', 0.5715814828872681), ('attire', 0.553890585899353), ('dresses', 0.53524249792099), ('outfits', 0.513555109500885), ('don', 0.5122446417808533), ('wore', 0.495760977268219), ('worn', 0.4655377268791199)]
+
+--------------------------------------------------------------------------
+
+

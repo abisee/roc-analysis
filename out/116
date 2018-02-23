@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Kelly ran into the living room, frantically.
+As she entered, she accidentally bumped into the coffee table.
+The vase on the table crashed to the ground but broke in large pieces.
+Kelly quickly grabbed some glue and put the vase back together.
+> She sat the repaired vase onto the table as if nothing happened.
+
+__About the context__
+Rarest in context: [('glue', 8.561721745588823), ('frantically', 8.293457758994144), ('vase', 7.907795278182158), ('bumped', 7.342481469132098), ('crashed', 7.10131941231521), ('pieces', 6.8925645984531), ('entered', 6.228831303099447), ('accidentally', 6.057766900830128), ('grabbed', 6.045266738065896), ('living', 6.002707123647101), ('table', 5.823366194991284), ('coffee', 5.808551109206142), ('ground', 5.7421760402612705), ('quickly', 5.535684122539503), ('large', 5.449917300782078), ('broke', 5.135206555942377), ('together', 5.103223510089326), ('room', 4.882504202386623), ('ran', 4.606049975491663), ('back', 4.183548680230931), ('put', 4.156880433148769), ('into', 3.75707038252395), ('some', 3.566590638028532), ('as', 3.5598426238420284)]
+Nearest to context: [('shoved', 0.4762241542339325), ('crashed', 0.45731768012046814), ('broke', 0.45122960209846497), ('grabbed', 0.4329294264316559), ('smashed', 0.4266408085823059), ('bumped', 0.42263710498809814), ('entered', 0.41381609439849854), ('exited', 0.4123086929321289), ('onto', 0.4010857045650482), ('stormed', 0.38957491517066956)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('mess', 5368, 14632, 0.41557711362838745), ('slammed', 7122, 12878, 0.41271689534187317), ('cleaned', 9447, 10553, 0.3762218952178955), ('shoved', 19043, 957, 0.3404305577278137), ('slapped', 12298, 7702, 0.33999207615852356), ('clean', 1749, 18251, 0.33810821175575256), ('ripped', 7290, 12710, 0.3296612501144409), ('blasted', 8877, 11123, 0.32292139530181885), ('slid', 6756, 13244, 0.3176077902317047), ('screamed', 14556, 5444, 0.3171024024486542)]
+Nearest words to completions' keywords: [('screamed', 14556, 5444, 0.5307422876358032), ('yelled', 12007, 7993, 0.5279760360717773), ('shoved', 19043, 957, 0.5185917019844055), ('cried', 11408, 8592, 0.5134367942810059), ('slammed', 7122, 12878, 0.4919827878475189), ('shouted', 9655, 10345, 0.490725576877594), ('slid', 6756, 13244, 0.4899500906467438), ('banged', 14885, 5115, 0.48887550830841064), ('slipped', 3983, 16017, 0.4842284619808197), ('got', 193, 19807, 0.4807687997817993)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.6966360211372375), ('went', 297, 19703, 0.6444599032402039), ('had', 35, 19965, 0.6364871263504028), ('ran', 1256, 18744, 0.6285284161567688), ('came', 256, 19744, 0.6228829026222229), ('knew', 1039, 18961, 0.5818166732788086), ('gone', 1133, 18867, 0.5810750126838684), ('put', 238, 19762, 0.5800660252571106), ('turned', 760, 19240, 0.5737199783325195), ('pushed', 2294, 17706, 0.5662143230438232)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Ben was carrying his lunch tray to the table.
+Sam bumped into him.
+Both of their trays fell on the floor.
+Sam was mad and punched Ben.
+> He fell and landed on the food.
+
+__About the match__
+Rarest shared words: [('bumped', (7.342481469132098, 7.342481469132098)), ('table', (5.823366194991284, 5.823366194991284)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.6371604048541093
+
+__About the completion__
+Rarest in completion: [('landed', 6.757203251183319), ('fell', 5.1553892638598775), ('food', 5.1080578891541055)]
+Nearest to completion: [('fell', 0.6945976614952087), ('landed', 0.6155464053153992), ('tumbled', 0.6105813980102539), ('slid', 0.5754850506782532), ('slipped', 0.5691542029380798), ('climbed', 0.5611928105354309), ('plunged', 0.5582287907600403), ('rose', 0.5342861413955688), ('dropped', 0.5315468907356262), ('plummeted', 0.5242223739624023)]
+
+--------------------------------------------------------------------------
+
+Tammy had to get the box from the basement.
+She flipped the light on at the top of the stairs.
+It glowed dimly below as she headed down the stairs.
+She raced to the shelf, grabbed the box and ran to the stairs.
+> She got to the top and slammed the door happy to be done.
+
+__About the match__
+Rarest shared words: [('grabbed', (6.045266738065896, 6.045266738065896)), ('ran', (4.606049975491663, 4.606049975491663)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.5803125531326275
+
+__About the completion__
+Rarest in completion: [('slammed', 8.354062381410559), ('top', 6.408152232355246), ('done', 5.8109850987676905), ('door', 5.641854170159686), ('happy', 4.78013793434821), ('be', 4.0931446193626435), ('got', 3.390344007102055)]
+Nearest to completion: [('slammed', 0.4771088659763336), ('door', 0.4581385850906372), ('slamming', 0.38653287291526794), ('top', 0.35788094997406006), ('slams', 0.35560545325279236), ('blasted', 0.33750468492507935), ('doors', 0.32901763916015625), ('smacked', 0.3147555887699127), ('slam', 0.3092796504497528), ('congratulated', 0.3081173896789551)]
+
+--------------------------------------------------------------------------
+
+John was sitting at his desk.
+He was drinking coffee.
+He accidentally knocked over the coffee.
+He jumped up and grabbed a towel.
+> John cleaned up his mess.
+
+__About the match__
+Rarest shared words: [('accidentally', (6.057766900830128, 6.057766900830128)), ('grabbed', (6.045266738065896, 6.045266738065896)), ('coffee', (5.808551109206142, 5.808551109206142))]
+Score: 0.5280725125955028
+
+__About the completion__
+Rarest in completion: [('mess', 7.024007738613545), ('cleaned', 6.863971226609025)]
+Nearest to completion: [('cleaned', 0.7879355549812317), ('mess', 0.7496719360351562), ('cleaning', 0.5674651861190796), ('clean', 0.5225552320480347), ('messy', 0.42623716592788696), ('washed', 0.4091508388519287), ('Clean', 0.39595484733581543), ('cleanup', 0.3810875415802002), ('fiasco', 0.3747768700122833), ('wash', 0.36383476853370667)]
+
+--------------------------------------------------------------------------
+
+Claire was running down the hallway.
+As she turned the corner, knocked over a vase.
+As the vase fell, she instinctively reached out her hand.
+She caught the vase just in time.
+> Claire learned to be more careful from then on.
+
+__About the match__
+Rarest shared words: [('vase', (7.907795278182158, 7.907795278182158)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.5272752899922086
+
+__About the completion__
+Rarest in completion: [('claire', 9.334891634422286), ('careful', 7.5571184071689705), ('learned', 5.793932310384972), ('more', 4.774893167080915), ('then', 4.392059443677392), ('be', 4.0931446193626435), ('from', 3.996552593524763)]
+Nearest to completion: [('careful', 0.5275663137435913), ('learned', 0.4033515453338623), ('more', 0.4017390012741089), ('carefully', 0.39197906851768494), ('vigilant', 0.3319282531738281), ('learn', 0.3308045268058777), ('be', 0.32844099402427673), ('selective', 0.32149654626846313), ('cautious', 0.3175518810749054), ('wisely', 0.3067576289176941)]
+
+--------------------------------------------------------------------------
+
+Wallace peeled a carrot.
+He put the carrot on the cutting board.
+He accidentally knocked the carrot to the floor.
+He threw that carrot away.
+> Wallace peeled a new carrot.
+
+__About the match__
+Rarest shared words: [('accidentally', (6.057766900830128, 6.057766900830128)), ('put', (4.156880433148769, 4.156880433148769))]
+Score: 0.5241107309546595
+
+__About the completion__
+Rarest in completion: [('carrot', 9.74035674253045), ('peeled', 9.180740954595027), ('new', 3.7799959404738015)]
+Nearest to completion: [('new', 0.9576311111450195), ('newest', 0.5465846657752991), ('revamped', 0.5441235303878784), ('newly', 0.4832625389099121), ('existing', 0.44926902651786804), ('groundbreaking', 0.4428960978984833), ('NEW', 0.44074034690856934), ('newer', 0.4311918616294861), ('long_awaited', 0.43084460496902466), ('revamp', 0.4141263961791992)]
+
+--------------------------------------------------------------------------
+
+Jen got ready to go to sleep.
+She changed into her pajamas and walked into her room.
+Once she landed on the bed, a lizard jumped behind her.
+It crawled behind her back.
+> Jen screamed and ran outside.
+
+__About the match__
+Rarest shared words: [('room', (4.882504202386623, 4.882504202386623)), ('back', (4.183548680230931, 4.183548680230931)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.50656394032895
+
+__About the completion__
+Rarest in completion: [('screamed', 6.856953653950378), ('outside', 5.326044444358599), ('ran', 5.030826541218116)]
+Nearest to completion: [('screamed', 0.7675992250442505), ('shouted', 0.6234127283096313), ('ran', 0.6224073171615601), ('yelled', 0.6220712661743164), ('screaming', 0.5589165687561035), ('shouting', 0.5204217433929443), ('waved', 0.4910861551761627), ('yelling', 0.46862754225730896), ('screams', 0.4633927643299103), ('chanted', 0.46297454833984375)]
+
+--------------------------------------------------------------------------
+
+When my wife was little she went into the garage looking for a book.
+When she pulled the book out from the stack a refrigerator hit her.
+When it her she fell into a can of paint and broke her nose.
+After she woke up she walked back into the house with a broken nose.
+> Her mother said let's go to the hospital.
+
+__About the match__
+Rarest shared words: [('broke', (5.135206555942377, 5.135206555942377)), ('back', (4.183548680230931, 4.183548680230931)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.5043623844238846
+
+__About the completion__
+Rarest in completion: [('hospital', 6.17082404604908), ('let', 5.763014270981661), ('mother', 5.47416192338169), ('said', 4.667529428177747), ('go', 4.110041419756121), ("'s", 3.3551623435327245)]
+Nearest to completion: [('hospital', 0.612094521522522), ('mother', 0.5110085010528564), ('intensive_care', 0.47812288999557495), ('aunt', 0.45128563046455383), ('Hospital', 0.43611931800842285), ('daughter', 0.43262219429016113), ('niece', 0.428508996963501), ('wife', 0.41300272941589355), ('nurse', 0.40565887093544006), ('hospitals', 0.3956267833709717)]
+
+--------------------------------------------------------------------------
+
+Frank carried a tray of food towards the table.
+Another waiter ran into him.
+Frank almost spilled all of the food.
+He set the food on the table.
+> He told his customers that he had almost dropped all of their food.
+
+__About the match__
+Rarest shared words: [('table', (5.823366194991284, 5.823366194991284)), ('ran', (4.606049975491663, 4.606049975491663)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.49810355360950404
+
+__About the completion__
+Rarest in completion: [('customers', 7.502310170673975), ('dropped', 6.326736840869738), ('almost', 6.1957807780229475), ('food', 5.1080578891541055), ('their', 4.437673918472774), ('told', 4.259717819188459), ('all', 3.5398475684877595)]
+Nearest to completion: [('customers', 0.5256848335266113), ('food', 0.44828349351882935), ('consumers', 0.41460150480270386), ('customer', 0.3978184163570404), ('Customers', 0.37529221177101135), ('Customer', 0.3399769067764282), ('dropped', 0.33313149213790894), ('according', 0.32467755675315857), ('clients', 0.32227998971939087), ('Food', 0.3190356194972992)]
+
+--------------------------------------------------------------------------
+
+Mandy had gotten an ant farm for her birthday.
+She kept the ant farm on her desk.
+One day she bumped into her desk really hard.
+The ant farm fell to the floor and broke.
+> Mandy had to clean the mess before the ants spread around her house.
+
+__About the match__
+Rarest shared words: [('bumped', (7.342481469132098, 7.342481469132098)), ('broke', (5.135206555942377, 5.135206555942377)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.49677809999429323
+
+__About the completion__
+Rarest in completion: [('ants', 8.72875583085197), ('spread', 8.058598168516724), ('mess', 7.024007738613545), ('clean', 6.24384918106397), ('before', 4.900114434362875), ('around', 4.892240377931969), ('house', 4.506577897119985)]
+Nearest to completion: [('mess', 0.5673530697822571), ('clean', 0.5247782468795776), ('spread', 0.47742852568626404), ('Clean', 0.41540974378585815), ('spreading', 0.4056285321712494), ('cleaning', 0.4047759771347046), ('around', 0.39297717809677124), ('cleaned', 0.38391730189323425), ('house', 0.37118053436279297), ('spreads', 0.3448035418987274)]
+
+--------------------------------------------------------------------------
+
+I took my wedding ring off to clean it.
+I accidentally dropped it on the ground.
+It rolled away into a corner.
+I searched and found the ring.
+> I put it back on my finger.
+
+__About the match__
+Rarest shared words: [('accidentally', (6.057766900830128, 6.057766900830128)), ('ground', (5.7421760402612705, 5.7421760402612705)), ('into', (3.75707038252395, 3.75707038252395))]
+Score: 0.4885326418950909
+
+__About the completion__
+Rarest in completion: [('finger', 7.776747016375736), ('put', 4.652760407298066), ('back', 4.3399341530452595), ('my', 3.5357989799617595)]
+Nearest to completion: [('finger', 0.6794598698616028), ('fingers', 0.5260739326477051), ('thumb', 0.4735811650753021), ('wrist', 0.4217402935028076), ('hand', 0.3945888876914978), ('back', 0.39448282122612), ('my', 0.38444754481315613), ('put', 0.37592896819114685), ('shoulder', 0.35303056240081787), ('cheek', 0.35200849175453186)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Our apartment building hosted an ice cream party in June.
+They hired an ice cream truck to give out free ice cream.
+The truck was parked in the driveway, which was blocked off to traffic.
+We had ice cream and watched a lot of young children eat.
+> The party lasted two hours, and we had a lot of fun.
+
+__About the context__
+Rarest in context: [('hosted', 8.824086010056313), ('blocked', 8.354082380810578), ('parked', 7.06622809250394), ('driveway', 7.06622809250394), ('traffic', 6.501698289766088), ('hired', 6.2746408391307416), ('cream', 6.143064481342023), ('which', 6.143064481342023), ('apartment', 5.990872666000097), ('children', 5.97337950855258), ('free', 5.97337950855258), ('building', 5.96761580383583), ('truck', 5.939285297209604), ('young', 5.869175731022578), ('ice', 5.8536715444866125), ('give', 5.528249144051984), ('watched', 5.474181922781709), ('party', 5.1105139433520055), ('our', 5.006373684099409), ('eat', 4.991106211968621), ('lot', 4.262867711597405), ('off', 4.097583538900697), ('we', 4.061057739452641), ('an', 3.319567812924379)]
+Nearest to context: [('driveway', 0.5001929402351379), ('parked', 0.49779993295669556), ('roadway', 0.4406997859477997), ('sidewalk', 0.4278682470321655), ('intersection', 0.39855101704597473), ('trucks', 0.39515185356140137), ('parking', 0.39029771089553833), ('northbound', 0.3883230984210968), ('truck', 0.38809734582901), ('eastbound', 0.3808773458003998)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('vehicle', 1024, 18976, 0.6282581090927124), ('pickup_truck', 11490, 8510, 0.6129200458526611), ('SUV', 7072, 12928, 0.5977796316146851), ('minivan', 16220, 3780, 0.59621661901474), ('car', 385, 19615, 0.5960643291473389), ('truck', 2084, 17916, 0.5861081480979919), ('driver', 1172, 18828, 0.5815693736076355), ('van', 5040, 14960, 0.5772950649261475), ('parked', 5753, 14247, 0.5730195045471191), ('towed', 18678, 1322, 0.5441872477531433)]
+Nearest words to completions' keywords: [('pickup_truck', 11490, 8510, 0.7251814007759094), ('truck', 2084, 17916, 0.7104259133338928), ('vehicle', 1024, 18976, 0.71040940284729), ('car', 385, 19615, 0.7017496228218079), ('SUV', 7072, 12928, 0.7008728981018066), ('minivan', 16220, 3780, 0.68807053565979), ('van', 5040, 14960, 0.665632963180542), ('Jeep', 16895, 3105, 0.6252484321594238), ('tractor_trailer', 19976, 24, 0.6074108481407166), ('sport_utility', 13340, 6660, 0.6037102937698364)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7185023427009583), ('had', 35, 19965, 0.684487521648407), ('came', 256, 19744, 0.6841747760772705), ('were', 37, 19963, 0.6522100567817688), ('went', 297, 19703, 0.6399050951004028), ('drove', 2144, 17856, 0.6299646496772766), ('got', 193, 19807, 0.623207151889801), ('stayed', 2936, 17064, 0.5932877063751221), ('saw', 653, 19347, 0.5929763913154602), ('ran', 1256, 18744, 0.5870088934898376)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Today was street cleaning day.
+Any car parked across from our building would be towed.
+At 9 AM, three tow trucks drove up and started towing.
+A woman ran quickly across the street.
+> She was lucky to avoid being towed.
+
+__About the match__
+Rarest shared words: [('parked', (7.06622809250394, 7.06622809250394)), ('building', (5.96761580383583, 5.96761580383583)), ('our', (5.006373684099409, 5.006373684099409))]
+Score: 0.5353403390160303
+
+__About the completion__
+Rarest in completion: [('towed', 8.72875583085197), ('avoid', 7.692663899165194), ('lucky', 7.413079036946033), ('being', 5.502633597463002)]
+Nearest to completion: [('towed', 0.6715244650840759), ('lucky', 0.42398011684417725), ('avoid', 0.4148137867450714), ('escape', 0.37996378540992737), ('transported', 0.37116163969039917), ('rescued', 0.363809734582901), ('being', 0.34591206908226013), ('escaping', 0.34274357557296753), ('avoiding', 0.33672040700912476), ('tow', 0.332913875579834)]
+
+--------------------------------------------------------------------------
+
+The ice cream truck drove down the street.
+Some children ran up to the truck.
+The truck stopped.
+The children bought some ice cream.
+> The ice cream truck driver counted his money.
+
+__About the match__
+Rarest shared words: [('cream', (6.143064481342023, 6.143064481342023)), ('children', (5.97337950855258, 5.97337950855258)), ('truck', (5.939285297209604, 5.939285297209604)), ('ice', (5.8536715444866125, 5.8536715444866125))]
+Score: 0.5193543670920663
+
+__About the completion__
+Rarest in completion: [('counted', 8.600922459342085), ('driver', 6.738393919225823), ('cream', 6.4967883050718775), ('truck', 6.368759830644585), ('ice', 6.210326489025326), ('money', 4.903083263856677)]
+Nearest to completion: [('truck', 0.5619975328445435), ('driver', 0.5199222564697266), ('ice', 0.476703017950058), ('tractor_trailer', 0.469700425863266), ('pickup_truck', 0.43924158811569214), ('cream', 0.4184301197528839), ('trucks', 0.40862923860549927), ('van', 0.40817564725875854), ('drivers', 0.40794679522514343), ('vehicle', 0.40065997838974)]
+
+--------------------------------------------------------------------------
+
+Flanders parked his Recreational Vehicle on the street.
+His niece asked if she could live in it.
+Flanders gave her niece the key.
+The police noticed lights on in the vehicle.
+> They warned Flanders about a possible intruder.
+
+__About the match__
+Rarest shared words: [('parked', (7.06622809250394, 7.06622809250394))]
+Score: 0.506735084281576
+
+__About the completion__
+Rarest in completion: [('flanders', 10.721185995542177), ('intruder', 10.028038814982231), ('possible', 7.708924420036975), ('warned', 7.63014354218386), ('about', 4.124950211825675)]
+Nearest to completion: [('warned', 0.6933059096336365), ('warns', 0.5636002421379089), ('possible', 0.5505561232566833), ('warn', 0.5200293660163879), ('cautioned', 0.5031809210777283), ('expressed_concern', 0.4698120951652527), ('urged', 0.44649142026901245), ('warning', 0.4371139109134674), ('advised', 0.4228041470050812), ('predicted', 0.4161018133163452)]
+
+--------------------------------------------------------------------------
+
+The traffic lights at the intersection stopped working.
+Someone drove straight into the side of Jake's car.
+His car was so smashed it shut down.
+The tow truck had to take Jake's car to the junkyard.
+> His car was totaled.
+
+__About the match__
+Rarest shared words: [('traffic', (6.501698289766088, 6.501698289766088)), ('truck', (5.939285297209604, 5.939285297209604))]
+Score: 0.4979042555923658
+
+__About the completion__
+Rarest in completion: [('totaled', 9.111748083108075), ('car', 4.464157181236033)]
+Nearest to completion: [('totaled', 0.7931246757507324), ('car', 0.5567153096199036), ('vehicle', 0.4920705258846283), ('amounted', 0.4730406701564789), ('###.#', 0.4714776873588562), ('accounted', 0.47067078948020935), ('totaling', 0.4681333601474762), ('Car', 0.4659414291381836), ('##.#', 0.46447449922561646), ('SUV', 0.4483383595943451)]
+
+--------------------------------------------------------------------------
+
+A minivan parked in the middle of the driveway in our building.
+The driver loaded some luggage.
+He kept the minivan in the driveway.
+Another car came behind the minivan and waited.
+> After the driver beeped, the minivan drove off.
+
+__About the match__
+Rarest shared words: [('driveway', (7.06622809250394, 7.06622809250394)), ('parked', (7.06622809250394, 7.06622809250394)), ('building', (5.96761580383583, 5.96761580383583)), ('our', (5.006373684099409, 5.006373684099409))]
+Score: 0.49779114747871855
+
+__About the completion__
+Rarest in completion: [('minivan', 10.210360371776185), ('beeped', 10.028038814982231), ('driver', 6.738393919225823), ('drove', 5.558306599889243), ('off', 4.4887379789916535), ('after', 3.9503965716331964)]
+Nearest to completion: [('minivan', 0.6880354881286621), ('driver', 0.6583680510520935), ('SUV', 0.6428185701370239), ('pickup_truck', 0.6221753358840942), ('drove', 0.598791778087616), ('car', 0.5946244597434998), ('vehicle', 0.5880472660064697), ('Jeep', 0.5726907253265381), ('sport_utility', 0.5726866722106934), ('truck', 0.5479016900062561)]
+
+--------------------------------------------------------------------------
+
+A truck parked in our building driveway.
+The concierge went out to ask why they were there.
+Two men were in the truck, arguing.
+The driver drove off, still yelling at his coworker.
+> We never found out why they parked in the driveway.
+
+__About the match__
+Rarest shared words: [('driveway', (7.06622809250394, 7.06622809250394)), ('parked', (7.06622809250394, 7.06622809250394)), ('building', (5.96761580383583, 5.96761580383583)), ('truck', (5.939285297209604, 5.939285297209604)), ('our', (5.006373684099409, 5.006373684099409)), ('off', (4.097583538900697, 4.097583538900697))]
+Score: 0.4975753956749824
+
+__About the completion__
+Rarest in completion: [('driveway', 7.660915200850614), ('parked', 7.645411014314648), ('why', 6.4967883050718775), ('never', 4.624610964031577), ('we', 4.354142974076229), ('found', 4.202038707601781), ('out', 3.3165011979861596)]
+Nearest to completion: [('driveway', 0.6379098892211914), ('parked', 0.6365644931793213), ('alley', 0.3940656781196594), ('Drive', 0.3718889057636261), ('roadway', 0.37171512842178345), ('van', 0.37009236216545105), ('pickup_truck', 0.3651089072227478), ('garage', 0.363802969455719), ('intersection', 0.36158162355422974), ('trunk', 0.358643114566803)]
+
+--------------------------------------------------------------------------
+
+My daughter has a garage in Queens.
+Sometimes the driveway is blocked by street parkers.
+She was told by the police if she calls they will tow blockers.
+Last Friday she called for a tow.
+> By the time the police came the car had departed.
+
+__About the match__
+Rarest shared words: [('blocked', (8.354082380810578, 8.354082380810578)), ('driveway', (7.06622809250394, 7.06622809250394))]
+Score: 0.4821050608329286
+
+__About the completion__
+Rarest in completion: [('departed', 9.74035674253045), ('police', 6.185008681041036), ('came', 4.538412620640003), ('car', 4.464157181236033), ('by', 4.4228496815892715), ('time', 3.981849368185002)]
+Nearest to completion: [('police', 0.5286188721656799), ('departed', 0.46264928579330444), ('car', 0.45074668526649475), ('arrived', 0.439815491437912), ('Police', 0.4256424903869629), ('vehicle', 0.4216967523097992), ('officers', 0.40353456139564514), ('apprehended', 0.39344966411590576), ('sped', 0.3808485269546509), ('SUV', 0.37289249897003174)]
+
+--------------------------------------------------------------------------
+
+Karen drove to the supermarket.
+The weather turned rainy.
+Karen turned on her car's windshield wipers.
+Karen parked in the parking lot.
+> She got her umbrella out of the back seat.
+
+__About the match__
+Rarest shared words: [('parked', (7.06622809250394, 7.06622809250394)), ('lot', (4.262867711597405, 4.262867711597405))]
+Score: 0.47785335834491743
+
+__About the completion__
+Rarest in completion: [('umbrella', 8.058598168516724), ('seat', 7.175407385068913), ('back', 4.3399341530452595), ('got', 3.390344007102055), ('out', 3.3165011979861596)]
+Nearest to completion: [('umbrella', 0.6004286408424377), ('seat', 0.5528977513313293), ('out', 0.45055314898490906), ('seats', 0.4240865111351013), ('back', 0.40832996368408203), ('chair', 0.364982008934021), ('onto', 0.33532631397247314), ('chairs', 0.30776262283325195), ('off', 0.29652488231658936), ('heads', 0.28768765926361084)]
+
+--------------------------------------------------------------------------
+
+Our condo complex is next to another one.
+We have a large parking lot.
+Several people from the other complex parked on our lot.
+One day our board had those cars towed.
+> A lot of people were unhappy that day.
+
+__About the match__
+Rarest shared words: [('parked', (7.06622809250394, 7.06622809250394)), ('our', (5.006373684099409, 5.006373684099409)), ('lot', (4.262867711597405, 4.262867711597405)), ('we', (4.061057739452641, 4.061057739452641))]
+Score: 0.4689086643099961
+
+__About the completion__
+Rarest in completion: [('unhappy', 7.90777527878214), ('people', 5.161787238339538), ('lot', 4.749074176950009), ('were', 3.60343995182413), ('day', 3.3461390948177767)]
+Nearest to completion: [('people', 0.43263480067253113), ('unhappy', 0.4305843710899353), ('lot', 0.42531314492225647), ('were', 0.4218299686908722), ('lots', 0.38242512941360474), ('are', 0.3748680353164673), ('those', 0.35735541582107544), ('fewer', 0.3499208092689514), ('angry', 0.344850093126297), ('many', 0.33197322487831116)]
+
+--------------------------------------------------------------------------
+
+A car came by to deliver a food order today.
+The driver came in the wrong way.
+He also parked in the middle of the driveway.
+A mail truck came by and had to wait for the delivery.
+> The mailman was not pleased.
+
+__About the match__
+Rarest shared words: [('driveway', (7.06622809250394, 7.06622809250394)), ('parked', (7.06622809250394, 7.06622809250394)), ('truck', (5.939285297209604, 5.939285297209604))]
+Score: 0.44741000524967356
+
+__About the completion__
+Rarest in completion: [('mailman', 9.517213191216241), ('pleased', 6.959985879848613), ('not', 3.8329533830489027)]
+Nearest to completion: [('pleased', 0.898196280002594), ('delighted', 0.7294755578041077), ('thrilled', 0.689494788646698), ('proud', 0.6124629974365234), ('excited', 0.5900829434394836), ('disappointed', 0.5756624937057495), ('glad', 0.5653812289237976), ('happy', 0.5463723540306091), ('confident', 0.5389180183410645), ('satisfied', 0.5070371627807617)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Sammy was tired of working, but she soldiered on.
+Finally, it was time to leave the office for the day.
+Being home, she thought  entering her garage, was wonderful.
+Then, a party surprised her when she opened her front door.
+> She ate cake and enjoyed her friends and family.
+
+__About the context__
+Rarest in context: [('soldiered', 10.433523922490414), ('entering', 8.418620901948149), ('wonderful', 7.32000861328004), ('garage', 6.417140901738025), ('surprised', 6.22139632461193), ('leave', 5.869175731022578), ('office', 5.617282766422382), ('opened', 5.4533478358788665), ('tired', 5.439695746710539), ('front', 5.336710932153106), ('door', 5.1944259156023485), ('party', 5.1105139433520055), ('working', 4.993273060053711), ('finally', 4.312128205790401), ('thought', 4.2566176912522335), ('then', 4.075681655982314), ('home', 3.7389618639693185), ('time', 3.6473714652675255)]
+Nearest to context: [('door', 0.4720478653907776), ('doors', 0.413739949464798), ('office', 0.4097019135951996), ('garage', 0.34969034790992737), ('entering', 0.3392876982688904), ('opened', 0.3334517776966095), ('open', 0.3206077814102173), ('gate', 0.303583562374115), ('upstairs', 0.2987733483314514), ('window', 0.29637670516967773)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('rescued', 6285, 13715, 0.4285024404525757), ('door', 1329, 18671, 0.35356369614601135), ('frightened', 14440, 5560, 0.3391140103340149), ('unharmed', 19468, 532, 0.3366346061229706), ('driveway', 10314, 9686, 0.32757824659347534), ('retrieved', 18236, 1764, 0.32443180680274963), ('terrified', 14854, 5146, 0.31832262873649597), ('relieved', 7536, 12464, 0.30992624163627625), ('exhausted', 10255, 9745, 0.30473801493644714), ('glad', 4258, 15742, 0.30004027485847473)]
+Nearest words to completions' keywords: [('glad', 4258, 15742, 0.5540075302124023), ('scared', 6037, 13963, 0.5467754006385803), ('frightened', 14440, 5560, 0.5355145335197449), ('afraid', 4282, 15718, 0.5276219844818115), ('terrified', 14854, 5146, 0.5222067832946777), ('unharmed', 19468, 532, 0.514866292476654), ('knew', 1039, 18961, 0.4999387264251709), ('driveway', 10314, 9686, 0.49659910798072815), ('happy', 1049, 18951, 0.49603062868118286), ('distraught', 18872, 1128, 0.49284520745277405)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7023519277572632), ('got', 193, 19807, 0.6817588806152344), ('had', 35, 19965, 0.6815699338912964), ('knew', 1039, 18961, 0.6475573182106018), ('came', 256, 19744, 0.638752818107605), ('went', 297, 19703, 0.6361470818519592), ('saw', 653, 19347, 0.6208840012550354), ('thought', 572, 19428, 0.6090770363807678), ('felt', 1040, 18960, 0.5828071236610413), ('wanted', 583, 19417, 0.5821402668952942)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The man opened his garage.
+There was a raccoon inside.
+The raccoon hissed at the man.
+The man poked at it with a broom.
+> The raccoon darted through the door.
+
+__About the match__
+Rarest shared words: [('garage', (6.417140901738025, 6.417140901738025)), ('opened', (5.4533478358788665, 5.4533478358788665))]
+Score: 0.4942419160601591
+
+__About the completion__
+Rarest in completion: [('darted', 9.74035674253045), ('raccoon', 9.517213191216241), ('door', 5.641854170159686), ('through', 5.189114898567914)]
+Nearest to completion: [('door', 0.7965831160545349), ('through', 0.6336702108383179), ('doors', 0.6307214498519897), ('window', 0.4981524646282196), ('gate', 0.41778454184532166), ('gates', 0.415443480014801), ('Through', 0.3654560148715973), ('windows', 0.3555404543876648), ('upstairs', 0.34070196747779846), ('into', 0.3401581943035126)]
+
+--------------------------------------------------------------------------
+
+We left the door to the garage open.
+The cat crept into the garage.
+The cat fell into a box.
+In the morning, we heard meowing coming from the garage.
+> The cat was glad to be rescued.
+
+__About the match__
+Rarest shared words: [('garage', (6.417140901738025, 6.417140901738025)), ('door', (5.1944259156023485, 5.1944259156023485))]
+Score: 0.48247401219073405
+
+__About the completion__
+Rarest in completion: [('rescued', 8.452502454223811), ('glad', 5.993798176829835), ('cat', 5.756013075522677), ('be', 4.0931446193626435)]
+Nearest to completion: [('rescued', 0.6695514917373657), ('cat', 0.5917894244194031), ('cats', 0.5153206586837769), ('dog', 0.45417842268943787), ('puppy', 0.4444483816623688), ('rescue', 0.4210691750049591), ('dogs', 0.41474077105522156), ('unharmed', 0.39675962924957275), ('glad', 0.3868979513645172), ('pet', 0.3835866451263428)]
+
+--------------------------------------------------------------------------
+
+Maria walked home with her food and reached her front door.
+Maria realized that she had locked her keys inside the house!
+Maria was worried, but she remembered her boyfriend was on the way.
+Maria sat outside and waited for her boyfriend.
+> She saw his car pull into the driveway.
+
+__About the match__
+Rarest shared words: [('front', (5.336710932153106, 5.336710932153106)), ('door', (5.1944259156023485, 5.1944259156023485)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.47456704625186763
+
+__About the completion__
+Rarest in completion: [('driveway', 7.660915200850614), ('pull', 7.245087305706903), ('car', 4.464157181236033), ('saw', 4.402217881795742), ('into', 4.270189119055754)]
+Nearest to completion: [('driveway', 0.6691162586212158), ('car', 0.577323317527771), ('pickup_truck', 0.5390781164169312), ('vehicle', 0.53813636302948), ('SUV', 0.5342658162117004), ('minivan', 0.5112460255622864), ('truck', 0.5063759684562683), ('van', 0.49522414803504944), ('Jeep', 0.4861645996570587), ('parked', 0.4430951178073883)]
+
+--------------------------------------------------------------------------
+
+Amanda got home late from work.
+She opened her front door.
+She walked into the dark house.
+She turned on the lights.
+> Suddenly a bunch of people hollered "SURPRISE" and threw confetti.
+
+__About the match__
+Rarest shared words: [('opened', (5.4533478358788665, 5.4533478358788665)), ('front', (5.336710932153106, 5.336710932153106)), ('door', (5.1944259156023485, 5.1944259156023485)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.46796882423555203
+
+__About the completion__
+Rarest in completion: [('confetti', 10.210360371776185), ('hollered', 9.873888135154973), ('``', 8.523961418205957), ("''", 8.523961418205957), ('bunch', 7.400957676413688), ('suddenly', 6.04835716108027), ('threw', 5.767709115285869), ('people', 5.161787238339538)]
+Nearest to completion: [('threw', 0.5406080484390259), ('bunch', 0.4875304698944092), ('throwing', 0.4727579951286316), ('tossed', 0.46692195534706116), ('thrown', 0.46150556206703186), ('hurled', 0.4374328553676605), ('suddenly', 0.4148974120616913), ('tossing', 0.40749049186706543), ('throws', 0.40079501271247864), ('throw', 0.3719950318336487)]
+
+--------------------------------------------------------------------------
+
+Paula had her boyfriend over to her family's house.
+He went in her room.
+She closed the door.
+He opened it back up.
+> He said he did not want her to close the door.
+
+__About the match__
+Rarest shared words: [('opened', (5.4533478358788665, 5.4533478358788665)), ('door', (5.1944259156023485, 5.1944259156023485))]
+Score: 0.4632066869542768
+
+__About the completion__
+Rarest in completion: [('close', 6.360212770066127), ('want', 5.717239689596717), ('door', 5.641854170159686), ('said', 4.667529428177747), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('not', 0.48246222734451294), ('did', 0.47562873363494873), ('does', 0.4358893930912018), ('said', 0.42640504240989685), ('want', 0.41022104024887085), ('intend', 0.39751532673835754), ('door', 0.37999433279037476), ('do', 0.3555484414100647), ('hesitate', 0.35549819469451904), ('expect', 0.3322512209415436)]
+
+--------------------------------------------------------------------------
+
+Jackson was excited, but a bit nervous.
+He was getting ready open up his own bar.
+Everything was in place and the doors were opened.
+Many people came in that night.
+> He was very happy and proud.
+
+__About the match__
+Rarest shared words: [('opened', (5.4533478358788665, 5.4533478358788665))]
+Score: 0.46293333470415404
+
+__About the completion__
+Rarest in completion: [('proud', 6.0452467386658775), ('happy', 4.78013793434821), ('very', 3.793301345264873)]
+Nearest to completion: [('proud', 0.8336412310600281), ('pleased', 0.7337672114372253), ('delighted', 0.695731520652771), ('happy', 0.6867396831512451), ('thrilled', 0.6696654558181763), ('excited', 0.6207773089408875), ('grateful', 0.6038826704025269), ('glad', 0.5727032423019409), ('appreciative', 0.5604519844055176), ('thankful', 0.5482824444770813)]
+
+--------------------------------------------------------------------------
+
+Bill woke up in the middle of the night.
+Bill realized the his front door was unlocked.
+He ran downstairs and locked the door.
+Bill checked every room to make sure the house was secure.
+> Bill then went back to bed, exhausted from being so worried.
+
+__About the match__
+Rarest shared words: [('front', (5.336710932153106, 5.336710932153106)), ('door', (5.1944259156023485, 5.1944259156023485))]
+Score: 0.44782106188374116
+
+__About the completion__
+Rarest in completion: [('exhausted', 7.615105664819319), ('worried', 6.368759830644585), ('bed', 5.863960914745455), ('being', 5.502633597463002), ('then', 4.392059443677392), ('back', 4.3399341530452595), ('from', 3.996552593524763), ('so', 3.628612279567497), ('went', 3.303005172815388)]
+Nearest to completion: [('exhausted', 0.48892807960510254), ('bed', 0.3724738359451294), ('back', 0.34201905131340027), ('fearful', 0.32517334818840027), ('tired', 0.3096994459629059), ('worried', 0.3077302873134613), ('frightened', 0.2908971309661865), ('then', 0.2802714705467224), ('terrified', 0.2785944938659668), ('subsequently', 0.2742268443107605)]
+
+--------------------------------------------------------------------------
+
+One day Tom decided to visit his friend.
+When he got there he saw that the house was on fire.
+He tried to get inside but the door was locked.
+He then kicked it down inside he found his friend on the floor.
+> He was able to get him out and Tom saved his friend's life.
+
+__About the match__
+Rarest shared words: [('door', (5.1944259156023485, 5.1944259156023485)), ('then', (4.075681655982314, 4.075681655982314))]
+Score: 0.446941164230767
+
+__About the completion__
+Rarest in completion: [('saved', 6.626841433320076), ('life', 5.637713377493654), ('able', 5.284557013196627), ('friend', 4.4228496815892715), ('get', 4.052534287452978), ('him', 3.3907807836977737), ("'s", 3.3551623435327245), ('out', 3.3165011979861596)]
+Nearest to completion: [('saved', 0.4913732707500458), ('save', 0.43611741065979004), ('friend', 0.42244988679885864), ('life', 0.4029606282711029), ('pal', 0.388276606798172), ('saving', 0.36842039227485657), ('buddy', 0.3443789482116699), ('him', 0.33931389451026917), ('friends', 0.2950008511543274), ('escape', 0.2766807973384857)]
+
+--------------------------------------------------------------------------
+
+Jill noticed smoke coming from the next room.
+She was frightened at first, believing it to be a fire.
+She slowly moved to investigate the source.
+When she opened the door, she was relieved to see it wasn't a fire.
+> Instead, she discovered she had left her straightener plugged in.
+
+__About the match__
+Rarest shared words: [('opened', (5.4533478358788665, 5.4533478358788665)), ('door', (5.1944259156023485, 5.1944259156023485))]
+Score: 0.430586488059184
+
+__About the completion__
+Rarest in completion: [('straightener', 11.12665110365034), ('plugged', 8.523961418205957), ('discovered', 6.9369963616239145), ('instead', 5.508063475057371), ('left', 4.930206975855819)]
+Nearest to completion: [('plugged', 0.6766861081123352), ('discovered', 0.5944011211395264), ('found', 0.4327906668186188), ('plug', 0.42784789204597473), ('uncovered', 0.4160986840724945), ('inserted', 0.40640169382095337), ('left', 0.4017012417316437), ('retrieved', 0.3892934024333954), ('replaced', 0.38233819603919983), ('discovering', 0.3790200650691986)]
+
+--------------------------------------------------------------------------
+
+The man got home.
+He noticed the door wasn't locked.
+He looked in the window.
+He saw a man he didn't recognize.
+> He called the police.
+
+__About the match__
+Rarest shared words: [('door', (5.1944259156023485, 5.1944259156023485)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.42822570846423896
+
+__About the completion__
+Rarest in completion: [('police', 6.185008681041036), ('called', 4.874747220484451)]
+Nearest to completion: [('police', 0.8039759397506714), ('Police', 0.6470969319343567), ('called', 0.5856339931488037), ('detectives', 0.5686414241790771), ('officers', 0.5626983642578125), ('cops', 0.5302543044090271), ('Cops', 0.48158231377601624), ('arrested', 0.480928510427475), ('Officers', 0.47349435091018677), ('detective', 0.4658964276313782)]
+
+--------------------------------------------------------------------------
+
+

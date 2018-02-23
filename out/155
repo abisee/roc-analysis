@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Susan was getting a haircut for a wedding she was going to be in.
+She was excited as she looked at the example pictures.
+As she looked through them she seen one she loved.
+She showed the hairdresser the cut that she had wanted.
+> The hairdresser did a great job and Susan loved it!
+
+__About the context__
+Rarest in context: [('example', 10.02805881438225), ('hairdresser', 8.293457758994144), ('haircut', 7.413099036346051), ('pictures', 6.594071609897103), ('wedding', 6.192197169919667), ('seen', 6.109391266235435), ('cut', 5.756033074922696), ('showed', 5.495459321228993), ('getting', 4.805902808799777), ('excited', 4.666766648672825), ('through', 4.640510314106271), ('looked', 4.167272590916383), ('going', 4.13549421592915), ('loved', 3.962724418707812), ('be', 3.714510768105154), ('them', 3.5707660094390126), ('as', 3.5598426238420284)]
+Nearest to context: [('see', 0.37711283564567566), ('excited', 0.37696653604507446), ('seeing', 0.3726552128791809), ('looked', 0.3706696331501007), ('showing', 0.3605232238769531), ('seen', 0.35135138034820557), ('pictures', 0.33529341220855713), ('viewed', 0.3311672806739807), ('showed', 0.3293149173259735), ('thrilled', 0.32750144600868225)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('surreal', 16248, 3752, 0.4334656000137329), ('lovely', 8279, 11721, 0.3920064866542816), ('nice', 1535, 18465, 0.3674974739551544), ('glorious', 13767, 6233, 0.3555903136730194), ('gorgeous', 12053, 7947, 0.3493273854255676), ('weird', 8152, 11848, 0.3341538608074188), ('beautifully', 13413, 6587, 0.33044105768203735), ('beautiful', 2814, 17186, 0.3259724974632263), ('memorable', 7272, 12728, 0.3196503818035126), ('magnificent', 11169, 8831, 0.31878867745399475)]
+Nearest words to completions' keywords: [('just', 76, 19924, 0.6748073101043701), ('really', 230, 19770, 0.6506636738777161), ('nice', 1535, 18465, 0.6359697580337524), ('lovely', 8279, 11721, 0.6138625144958496), ('maybe', 1864, 18136, 0.6051731705665588), ('anyway', 4231, 15769, 0.6008986234664917), ('definitely', 1808, 18192, 0.5854633450508118), ('think', 153, 19847, 0.5852580070495605), ('beautiful', 2814, 17186, 0.5837356448173523), ('wonderful', 3057, 16943, 0.5832178592681885)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.7330363392829895), ('was', 10, 19990, 0.6991472840309143), ('got', 193, 19807, 0.6958513855934143), ('had', 35, 19965, 0.6443710923194885), ('went', 297, 19703, 0.6440231800079346), ('stayed', 2936, 17064, 0.6154536604881287), ('took', 263, 19737, 0.6015453934669495), ('knew', 1039, 18961, 0.5981680750846863), ('felt', 1040, 18960, 0.5937349200248718), ('were', 37, 19963, 0.5918766260147095)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Anna's dad told her there would be a lunar eclipse that night.
+She was allowed to stay up late to watch it.
+She was so excited to see it!
+She and her parents viewed the amazing sight together.
+> It was so surreal and lovely, Anna nearly wept with wonder.
+
+__About the match__
+Rarest shared words: [('excited', (4.666766648672825, 4.666766648672825)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.43124995549121775
+
+__About the completion__
+Rarest in completion: [('surreal', 11.12665110365034), ('wept', 9.622573706874066), ('wonder', 9.180740954595027), ('lovely', 8.38581107972514), ('nearly', 7.543132165194231), ('so', 3.628612279567497)]
+Nearest to completion: [('surreal', 0.6534391641616821), ('lovely', 0.5751758813858032), ('breathtaking', 0.5380141735076904), ('gorgeous', 0.5196738839149475), ('delightful', 0.5172910690307617), ('wonder', 0.514523983001709), ('marvelous', 0.5066462159156799), ('fascinating', 0.5007771253585815), ('beautiful', 0.5004632472991943), ('weird', 0.4868733882904053)]
+
+--------------------------------------------------------------------------
+
+Steve looked for something.
+Someone saw him looking.
+Steve felt like he was being watched.
+He stopped looking for that thing.
+> He came back when no one was watching.
+
+__About the match__
+Rarest shared words: [('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.41093873887239973
+
+__About the completion__
+Rarest in completion: [('watching', 6.092950536623088), ('no', 4.72556343828553), ('came', 4.538412620640003), ('back', 4.3399341530452595), ('when', 3.4368224349138567), ('one', 3.351585275015767)]
+Nearest to completion: [('watching', 0.4071212112903595), ('no', 0.405142605304718), ('came', 0.31605368852615356), ('when', 0.302947998046875), ('Watching', 0.2978378236293793), ('one', 0.29761093854904175), ('No', 0.29527178406715393), ('watched', 0.28326383233070374), ('none', 0.2813374698162079), ('back', 0.266193151473999)]
+
+--------------------------------------------------------------------------
+
+I was doing an mTurk hit on photo images.
+I saw 200 photos of hamburgers.
+The burgers looked very tasty.
+Today I went out to lunch and ordered a big hamburger.
+> It tasted very nice.
+
+__About the match__
+Rarest shared words: [('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.40919625908060075
+
+__About the completion__
+Rarest in completion: [('tasted', 6.815851978264827), ('nice', 5.944867553358256), ('very', 3.793301345264873)]
+Nearest to completion: [('tasted', 0.6940836906433105), ('nice', 0.5258262753486633), ('sweet', 0.4673255681991577), ('tasty', 0.46334150433540344), ('lovely', 0.4499113857746124), ('very', 0.4468291401863098), ('delicious', 0.4464452564716339), ('taste', 0.4461840093135834), ('wonderful', 0.42744767665863037), ('fantastic', 0.4224063754081726)]
+
+--------------------------------------------------------------------------
+
+Did you see that rainbow today?
+It was so pretty.
+I have not seen one in a while.
+I stopped and looked at it for a while.
+> Rainbows always make me feel happy.
+
+__About the match__
+Rarest shared words: [('seen', (6.109391266235435, 6.109391266235435)), ('looked', (4.167272590916383, 4.167272590916383))]
+Score: 0.40017431266929626
+
+__About the completion__
+Rarest in completion: [('feel', 6.067225645384653), ('make', 4.7898253725039), ('happy', 4.78013793434821), ('always', 4.653532310076647), ('me', 4.441414571213571)]
+Nearest to completion: [('feel', 0.583845317363739), ('happy', 0.484918475151062), ('always', 0.4735313355922699), ('me', 0.45095697045326233), ('definitely', 0.4477985203266144), ('feels', 0.4321765899658203), ('think', 0.4010724127292633), ('obviously', 0.3976135849952698), ('glad', 0.39680901169776917), ('really', 0.390085905790329)]
+
+--------------------------------------------------------------------------
+
+Caroline was very happy with her white wedding dress.
+She loved twirling in it and showing it around.
+Her friend asked her to come outside for a picture.
+She agreed and walked on the grass.
+> When she came back home, the bottom of her dress was now green.
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.3925862817106032
+
+__About the completion__
+Rarest in completion: [('bottom', 7.692663899165194), ('green', 7.265921392609745), ('dress', 6.467940150734219), ('now', 4.716476221684173), ('came', 4.538412620640003), ('back', 4.3399341530452595), ('home', 4.002978318445733), ('when', 3.4368224349138567)]
+Nearest to completion: [('green', 0.4840560853481293), ('bottom', 0.456813782453537), ('back', 0.37581709027290344), ('dress', 0.3642123341560364), ('red', 0.35020020604133606), ('pink', 0.3330205976963043), ('home', 0.3276374340057373), ('blue', 0.32723361253738403), ('yellow', 0.310651570558548), ('skirt', 0.30643439292907715)]
+
+--------------------------------------------------------------------------
+
+A man went Sweden to see the windmills.
+He found a tour group that would take him there.
+On the tour he took many photos.
+Once he got home, the man developed all his pictures.
+> He put his favorite picture in a frame over his bed.
+
+__About the match__
+Rarest shared words: [('pictures', (6.594071609897103, 6.594071609897103))]
+Score: 0.38437143350333136
+
+__About the completion__
+Rarest in completion: [('frame', 9.111748083108075), ('picture', 6.907143398474234), ('bed', 5.863960914745455), ('favorite', 5.385251765422833), ('put', 4.652760407298066), ('over', 4.367395832986647)]
+Nearest to completion: [('frame', 0.5869249701499939), ('picture', 0.5148794651031494), ('bed', 0.46167126297950745), ('frames', 0.43952780961990356), ('favorite', 0.3712196946144104), ('framed', 0.32761213183403015), ('pictures', 0.3273935914039612), ('atop', 0.3272181451320648), ('portrait', 0.32188478112220764), ('canvas', 0.3208131790161133)]
+
+--------------------------------------------------------------------------
+
+Tom never liked taking pictures.
+He always thought he looked bad in them.
+One day a friend convinced him to take some.
+Tom liked the way he looked in them.
+> He started taking more and better pictures.
+
+__About the match__
+Rarest shared words: [('pictures', (6.594071609897103, 6.594071609897103)), ('looked', (4.167272590916383, 4.167272590916383)), ('them', (3.5707660094390126, 3.5707660094390126))]
+Score: 0.3839873432069963
+
+__About the completion__
+Rarest in completion: [('pictures', 6.952263833754704), ('taking', 6.057746901430109), ('better', 5.345907587858011), ('more', 4.774893167080915), ('started', 4.383181018976059)]
+Nearest to completion: [('more', 0.49268385767936707), ('better', 0.45770296454429626), ('pictures', 0.42416316270828247), ('photos', 0.40473443269729614), ('faster', 0.39048606157302856), ('sharper', 0.3873896300792694), ('quicker', 0.3859299123287201), ('than', 0.379077672958374), ('taking', 0.3789358139038086), ('less', 0.36576592922210693)]
+
+--------------------------------------------------------------------------
+
+Jelly and her sister were getting a new sitter.
+They were kind of nervous.
+They did not know how it would be.
+When the sitter showed up they were actually impressed.
+> They were glad they got her instead.
+
+__About the match__
+Rarest shared words: [('showed', (5.495459321228993, 5.495459321228993)), ('getting', (4.805902808799777, 4.805902808799777)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.38021818614028774
+
+__About the completion__
+Rarest in completion: [('glad', 5.993798176829835), ('instead', 5.508063475057371), ('were', 3.60343995182413), ('got', 3.390344007102055)]
+Nearest to completion: [('glad', 0.45468807220458984), ('were', 0.4282694160938263), ('got', 0.39791566133499146), ('instead', 0.33764463663101196), ("'re", 0.3347148895263672), ('getting', 0.32984188199043274), ('Were', 0.31666287779808044), ('pleased', 0.3049474060535431), ("'m", 0.2990706264972687), ('thankful', 0.29367169737815857)]
+
+--------------------------------------------------------------------------
+
+Pepper was so excited.
+It was her wedding day!
+She got dressed and got her hair and makeup done.
+She felt beautiful and excited.
+> She couldn't wait to be married!
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('excited', (4.666766648672825, 4.666766648672825))]
+Score: 0.3764482797605691
+
+__About the completion__
+Rarest in completion: [('married', 6.364477168852584), ('wait', 5.733023557297979), ('be', 4.0931446193626435), ('could', 3.8258407366367204), ('!', 3.536809591467683), ("n't", 3.334508641807057)]
+Nearest to completion: [('married', 0.5819891691207886), ('wait', 0.5335034132003784), ('marry', 0.5191619396209717), ('wed', 0.501602053642273), ('marrying', 0.4172699749469757), ('divorced', 0.4045650064945221), ('be', 0.39778879284858704), ('marriage', 0.357511430978775), ('sooner', 0.34222471714019775), ('divorce', 0.3370155096054077)]
+
+--------------------------------------------------------------------------
+
+Stacy wanted to build a snowman.
+She got everything together.
+As she put it together, she took a picture.
+Stacy loved how it looked.
+> At the end it lasted for days.
+
+__About the match__
+Rarest shared words: [('looked', (4.167272590916383, 4.167272590916383)), ('loved', (3.962724418707812, 3.962724418707812)), ('as', (3.5598426238420284, 3.5598426238420284))]
+Score: 0.3746128229661727
+
+__About the completion__
+Rarest in completion: [('lasted', 8.20888037156606), ('end', 5.695114893316081), ('days', 5.677760878622929)]
+Nearest to completion: [('lasted', 0.7762439250946045), ('lasts', 0.571225643157959), ('days', 0.5271999835968018), ('hours', 0.48633983731269836), ('end', 0.47637587785720825), ('ended', 0.4678604006767273), ('ending', 0.46309009194374084), ('hour', 0.4554665982723236), ('duration', 0.440801739692688), ('preceding', 0.4349464774131775)]
+
+--------------------------------------------------------------------------
+
+

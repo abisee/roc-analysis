@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Timmy loves new projects, so he searched online for something new.
+He found a website showing how to put together aquarium landscapes.
+Timmy bought an aquarium kit and decor to put together his own tank.
+The project was harder than Timmy expected.
+> The fish tank is only half put together in his living room now.
+
+__About the context__
+Rarest in context: [('landscapes', 9.740376741930469), ('decor', 9.740376741930469), ('projects', 8.641764453262358), ('kit', 8.082148665326937), ('aquarium', 7.725473721388203), ('showing', 7.571323041560945), ('harder', 7.489084943323974), ('tank', 7.175427384468931), ('website', 7.156379189498237), ('project', 7.10131941231521), ('expected', 6.921978483659393), ('searched', 6.149937360629785), ('loves', 6.064076070023392), ('than', 5.429577616544955), ('own', 5.370928889463447), ('online', 5.265884879584493), ('together', 5.103223510089326), ('something', 4.728076168515152), ('how', 4.469944578871967), ('put', 4.156880433148769), ('bought', 3.9121666888992155), ('found', 3.802181123701827), ('new', 3.4017826637272854), ('an', 3.319567812924379), ('so', 3.307436649191289)]
+Nearest to context: [('website', 0.43135693669319153), ('projects', 0.3975510597229004), ('commissioned', 0.38354912400245667), ('Web_site', 0.3758157193660736), ('project', 0.37487781047821045), ('site', 0.3321160078048706), ('web', 0.3311868906021118), ('websites', 0.326309472322464), ('research', 0.320413202047348), ('sites', 0.3192039728164673)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('web', 1985, 18015, 0.4327496886253357), ('website', 1042, 18958, 0.42990922927856445), ('pleased', 1700, 18300, 0.41973745822906494), ('proud', 1913, 18087, 0.41958755254745483), ('site', 504, 19496, 0.4143946170806885), ('successful', 1119, 18881, 0.38930511474609375), ('delighted', 4204, 15796, 0.3838813602924347), ('user_friendly', 15866, 4134, 0.37957334518432617), ('successfully', 2949, 17051, 0.37884458899497986), ('Website', 12085, 7915, 0.3742971420288086)]
+Nearest words to completions' keywords: [('really', 230, 19770, 0.5101090669631958), ('proud', 1913, 18087, 0.5073503851890564), ('very', 138, 19862, 0.49239104986190796), ('glad', 4258, 15742, 0.47993531823158264), ('so', 85, 19915, 0.4792913794517517), ('just', 76, 19924, 0.4790612757205963), ('truly', 2604, 17396, 0.47833046317100525), ('incredibly', 6515, 13485, 0.4714549481868744), ('happy', 1049, 18951, 0.4677788317203522), ('RTT_Staff_Writer', 19955, 45, 0.4573518633842468)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.712174117565155), ('had', 35, 19965, 0.681185245513916), ('got', 193, 19807, 0.6335867643356323), ('wanted', 583, 19417, 0.623708188533783), ('knew', 1039, 18961, 0.6182002425193787), ('came', 256, 19744, 0.6171082854270935), ('thought', 572, 19428, 0.5666491985321045), ('felt', 1040, 18960, 0.5665401220321655), ("wasn'ta", 11067, 8933, 0.5657811164855957), ('went', 297, 19703, 0.562553882598877)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Larry wanted to be a web developer.
+So he designed several websites and added them to his portfolio.
+For a few months, he did freelance web development.
+Then he was hired by a larger company.
+> He was glad his hard work payed off.
+
+__About the match__
+Rarest shared words: [('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.48317322487515896
+
+__About the completion__
+Rarest in completion: [('payed', 8.92942652631412), ('glad', 5.993798176829835), ('hard', 5.005255386950328), ('off', 4.4887379789916535), ('work', 4.3399341530452595)]
+Nearest to completion: [('hard', 0.5598435997962952), ('glad', 0.4975111186504364), ('work', 0.4670405387878418), ('pleased', 0.40500912070274353), ('proud', 0.39954960346221924), ('grateful', 0.37291043996810913), ('delighted', 0.3676070272922516), ('off', 0.35358235239982605), ('thankful', 0.35343608260154724), ('appreciative', 0.34572529792785645)]
+
+--------------------------------------------------------------------------
+
+Shawn needed a website for his new business.
+Due to budget he could not pay a web designer.
+Shawn felt that he could learn to make the website on his own.
+He took many web development classes to learn how.
+> Shawn successfully put together a very nice website.
+
+__About the match__
+Rarest shared words: [('website', (7.156379189498237, 7.156379189498237)), ('own', (5.370928889463447, 5.370928889463447)), ('how', (4.469944578871967, 4.469944578871967)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.4819179056663488
+
+__About the completion__
+Rarest in completion: [('successfully', 8.561701746188803), ('website', 7.742260840304566), ('nice', 5.944867553358256), ('together', 5.43967574731052), ('put', 4.652760407298066), ('very', 3.793301345264873)]
+Nearest to completion: [('website', 0.47527632117271423), ('together', 0.45623233914375305), ('successfully', 0.4442335069179535), ('fantastic', 0.40007826685905457), ('very', 0.3931032717227936), ('incredibly', 0.36999619007110596), ('extremely', 0.36899977922439575), ('nice', 0.3688391447067261), ('web', 0.36735087633132935), ('exceptionally', 0.36502641439437866)]
+
+--------------------------------------------------------------------------
+
+Georgina was interested in purchasing a new car.
+She did not have much experience in purchasing new vehicles.
+After doing research she found resources to help her with the task.
+The internet was a great resource, along with Kelly Blue Book.
+> After doing research she purchased the car she liked.
+
+__About the match__
+Rarest shared words: [('found', (3.802181123701827, 3.802181123701827)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.4668460335032003
+
+__About the completion__
+Rarest in completion: [('research', 7.543132165194231), ('purchased', 6.899817358382161), ('doing', 5.895542486795754), ('liked', 5.2117976589141985), ('car', 4.464157181236033), ('after', 3.9503965716331964)]
+Nearest to completion: [('research', 0.5047103762626648), ('purchased', 0.5027706623077393), ('bought', 0.43111652135849), ('car', 0.40103521943092346), ('Research', 0.3942194879055023), ('sold', 0.359038382768631), ('purchasing', 0.3504208028316498), ('buying', 0.3417521119117737), ('researching', 0.33776214718818665), ('purchase', 0.33467337489128113)]
+
+--------------------------------------------------------------------------
+
+Matt wanted to be a web developer.
+So he began learning how to design websites.
+And he added finished sites to his portfolio.
+He began a web internship.
+> And he became a successful web developer.
+
+__About the match__
+Rarest shared words: [('how', (4.469944578871967, 4.469944578871967)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.466002518458614
+
+__About the completion__
+Rarest in completion: [('developer', 9.25484892674875), ('web', 9.111748083108075), ('successful', 7.413079036946033), ('became', 5.378851743577365)]
+Nearest to completion: [('developer', 0.6219390034675598), ('web', 0.5786239504814148), ('became', 0.4666328728199005), ('developers', 0.4641355872154236), ('successful', 0.451296865940094), ('become', 0.4356919825077057), ('Web', 0.4255337119102478), ('becoming', 0.4141863286495209), ('Developer', 0.39147719740867615), ('portal', 0.3756573796272278)]
+
+--------------------------------------------------------------------------
+
+I went to the website looking for information.
+I was hoping to buy a new tv.
+I looked at all the options they had available.
+I chose a model I liked.
+> Afterward I realized I hadn't taken measurements yet.
+
+__About the match__
+Rarest shared words: [('website', (7.156379189498237, 7.156379189498237)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.44829939421078185
+
+__About the completion__
+Rarest in completion: [('measurements', 10.028038814982231), ('yet', 6.9369963616239145), ('taken', 6.856953653950378), ('realized', 5.003062403615317), ("n't", 3.334508641807057)]
+Nearest to completion: [('measurements', 0.6615880131721497), ('taken', 0.5070338845252991), ('measurement', 0.48847976326942444), ('measured', 0.48031777143478394), ('measuring', 0.44229936599731445), ('analyzed', 0.4363219141960144), ('realized', 0.41082963347435), ('verified', 0.4024990200996399), ('calculate', 0.3860223889350891), ('calculated', 0.38573580980300903)]
+
+--------------------------------------------------------------------------
+
+I bought a sewing machine because I wanted to learn how to sew.
+My first project was to make a simple bag.
+It turned out really well.
+I've made many projects over the years.
+> The best project was a party dress that I made out of satin last year.
+
+__About the match__
+Rarest shared words: [('projects', (8.641764453262358, 8.641764453262358)), ('project', (7.10131941231521, 7.10131941231521)), ('how', (4.469944578871967, 4.469944578871967)), ('bought', (3.9121666888992155, 3.9121666888992155))]
+Score: 0.4454681750544652
+
+__About the completion__
+Rarest in completion: [('satin', 11.12665110365034), ('project', 7.502310170673975), ('dress', 6.467940150734219), ('party', 5.569823041950802), ('best', 5.3230232940244235), ('year', 5.152841491781079), ('last', 5.030826541218116), ('made', 4.267560996649484), ('out', 3.3165011979861596)]
+Nearest to completion: [('dress', 0.45349034667015076), ('party', 0.4365105628967285), ('dresses', 0.42613619565963745), ('outfit', 0.3775649070739746), ('outfits', 0.3716472387313843), ('project', 0.34190526604652405), ('costume', 0.33998188376426697), ('gown', 0.3361817002296448), ('wardrobe', 0.33289164304733276), ('year', 0.31604495644569397)]
+
+--------------------------------------------------------------------------
+
+Tommy was looking for a new car.
+He found one he liked online and went to check it out.
+The car had everything he wanted and more.
+Tommy bought the car.
+> The car made Tommy very happy and he drove it often.
+
+__About the match__
+Rarest shared words: [('online', (5.265884879584493, 5.265884879584493)), ('bought', (3.9121666888992155, 3.9121666888992155)), ('found', (3.802181123701827, 3.802181123701827)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.4355601048647719
+
+__About the completion__
+Rarest in completion: [('often', 6.408152232355246), ('drove', 5.558306599889243), ('happy', 4.78013793434821), ('car', 4.464157181236033), ('made', 4.267560996649484), ('very', 3.793301345264873)]
+Nearest to completion: [('drove', 0.4547154903411865), ('car', 0.4446520507335663), ('driven', 0.36806395649909973), ('Mercedes', 0.3672312796115875), ('very', 0.35683542490005493), ('extremely', 0.35650596022605896), ('BMW', 0.35530105233192444), ('driving', 0.3477118909358978), ('cars', 0.3448546230792999), ('vehicle', 0.34448590874671936)]
+
+--------------------------------------------------------------------------
+
+Dan recently visited a  local art exhibit in his town.
+Dan was pleased to see a local artist work at the exhibit.
+Dan decided he was going to purchase a art piece from the exhibit.
+However, Dan saw that all the pieces were already purchased.
+> Dan was disappointed that he could not purchase any art.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4310576645550769
+
+__About the completion__
+Rarest in completion: [('art', 7.1284504019811425), ('purchase', 7.110268082897952), ('disappointed', 6.62130125294446), ('any', 5.5873502676597635), ('not', 3.8329533830489027), ('could', 3.8258407366367204)]
+Nearest to completion: [('any', 0.45352309942245483), ('purchase', 0.4514177739620209), ('disappointed', 0.4247850477695465), ('art', 0.4038987457752228), ('not', 0.3967817425727844), ('nor', 0.38253381848335266), ('sale', 0.3469800055027008), ('may', 0.3430030345916748), ('either', 0.3385290801525116), ('would', 0.33637282252311707)]
+
+--------------------------------------------------------------------------
+
+I needed to make some extra money so I searched the internet for jobs.
+I discovered I could make money taking surveys on the internet.
+I signed up on a website called Tell Me What You Think.
+I completed and turned in ten surveys today.
+> The site paid three dollars and fifty cents.
+
+__About the match__
+Rarest shared words: [('website', (7.156379189498237, 7.156379189498237)), ('searched', (6.149937360629785, 6.149937360629785)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4198230499126892
+
+__About the completion__
+Rarest in completion: [('cents', 8.92942652631412), ('fifty', 8.130918830096348), ('site', 8.106226217505977), ('paid', 6.3104099475823086), ('dollars', 6.2514537804491885), ('three', 5.73075340876344)]
+Nearest to completion: [('cents', 0.6987922191619873), ('$', 0.6158241033554077), ('dollars', 0.5973753333091736), ('cent', 0.5766127109527588), ('million', 0.5296061635017395), ('per', 0.5038769245147705), ('#.##', 0.5011082291603088), ('thousand_dollars', 0.49602043628692627), ('penny', 0.49554023146629333), ('fifty', 0.49115413427352905)]
+
+--------------------------------------------------------------------------
+
+Leah feels very strongly about helping the environment.
+She decides to research how she can best help.
+She discovers a volunteer organization specializing in the environment.
+Leah participates in several park cleanups.
+> Leah is proud of herself for being able to help the environment.
+
+__About the match__
+Rarest shared words: [('how', (4.469944578871967, 4.469944578871967))]
+Score: 0.4177109355475874
+
+__About the completion__
+Rarest in completion: [('environment', 9.421903011411915), ('proud', 6.0452467386658775), ('herself', 5.98498754714768), ('being', 5.502633597463002), ('able', 5.284557013196627), ('help', 5.105627754300814), ('is', 4.0817459865209695)]
+Nearest to completion: [('proud', 0.49664050340652466), ('environment', 0.4955480992794037), ('strives', 0.44767799973487854), ('herself', 0.40850892663002014), ('Being', 0.3973325192928314), ('helping', 0.3827592432498932), ('empowering', 0.378966361284256), ('truly', 0.37424424290657043), ('empower', 0.36887043714523315), ('uniquely', 0.3687902092933655)]
+
+--------------------------------------------------------------------------
+
+

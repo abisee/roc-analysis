@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Little Charlie and his dad were painting the garage.
+Charlie had some trouble controlling the brush.
+His dad turned around and started to laugh.
+Charlie had paint on him from head to toe.
+> His dad rinsed him off with water from the hose.
+
+__About the context__
+Rarest in context: [('controlling', 10.02805881438225), ('toe', 8.130938829496369), ('laugh', 7.794466592875155), ('brush', 7.413099036346051), ('painting', 7.032326540828258), ('paint', 6.660762984395776), ('garage', 6.417140901738025), ('trouble', 5.838404072355824), ('head', 5.7194993315902405), ('dad', 5.170833733585528), ('turned', 4.959154612162018), ('little', 4.952884999148423), ('around', 4.316528652935222), ('started', 3.8418501904817557), ('some', 3.566590638028532), ('from', 3.533800815205541)]
+Nearest to context: [('paint', 0.509742796421051), ('painting', 0.4986402690410614), ('brush', 0.47782188653945923), ('painted', 0.3839516043663025), ('paints', 0.37668412923812866), ('painter', 0.3455078601837158), ('garage', 0.3080994188785553), ('tattoo', 0.3038541078567505), ('graffiti', 0.3008367419242859), ('rub', 0.29624488949775696)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('paint', 4392, 15608, 0.6970484852790833), ('painted', 6617, 13383, 0.6078379154205322), ('paints', 17888, 2112, 0.5059659481048584), ('painting', 5247, 14753, 0.4868025779724121), ('canvas', 13845, 6155, 0.39241698384284973), ('sprayed', 16871, 3129, 0.3704977035522461), ('cloth', 15209, 4791, 0.3663939833641052), ('carpet', 12594, 7406, 0.3533342182636261), ('ink', 12372, 7628, 0.3458110988140106), ('colored', 9255, 10745, 0.34299108386039734)]
+Nearest words to completions' keywords: [('paint', 4392, 15608, 0.6547651290893555), ('painted', 6617, 13383, 0.6154472231864929), ('painting', 5247, 14753, 0.6097488403320312), ('paints', 17888, 2112, 0.5560324192047119), ('brown', 7773, 12227, 0.4777858853340149), ('coat', 10299, 9701, 0.4695883095264435), ('paintings', 7447, 12553, 0.4691378176212311), ('canvas', 13845, 6155, 0.46599146723747253), ('cloth', 15209, 4791, 0.46563777327537537), ('painter', 16372, 3628, 0.4645995795726776)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.6733464598655701), ('went', 297, 19703, 0.6455347537994385), ('got', 193, 19807, 0.6210744976997375), ('walked', 1850, 18150, 0.6084600687026978), ('had', 35, 19965, 0.6059731841087341), ('turned', 760, 19240, 0.598892092704773), ('stayed', 2936, 17064, 0.5717362761497498), ('wanted', 583, 19417, 0.5683159232139587), ('knew', 1039, 18961, 0.5679784417152405), ('saw', 653, 19347, 0.567817211151123)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Lance painted his car with spray paint.
+When he was done there was paint on the windows.
+He scraped the paint off of the windows.
+He cut his finger while he was scraping the paint.
+> His blood discolored some of the paint on the car.
+
+__About the match__
+Rarest shared words: [('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.5456268784033075
+
+__About the completion__
+Rarest in completion: [('discolored', 10.721185995542177), ('blood', 7.725453721988185), ('paint', 7.156359190098219), ('car', 4.464157181236033), ('some', 4.142861138392206)]
+Nearest to completion: [('blood', 0.6503305435180664), ('paint', 0.6461368203163147), ('car', 0.48985555768013), ('Blood', 0.44332608580589294), ('urine', 0.4023091495037079), ('Car', 0.38282352685928345), ('cars', 0.38022759556770325), ('tire', 0.3777710795402527), ('vehicle', 0.3721802830696106), ('automobile', 0.3686593472957611)]
+
+--------------------------------------------------------------------------
+
+Jonathan dropped his wet paint brush on the ground.
+It had leaves and dirt stuck to it.
+Jonathon put new paint on the brush.
+He continued painting the side of the shed.
+> When the shed dried, it had leaves and dirt in the paint.
+
+__About the match__
+Rarest shared words: [('brush', (7.413099036346051, 7.413099036346051)), ('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.5123297851614275
+
+__About the completion__
+Rarest in completion: [('dried', 8.523961418205957), ('shed', 8.20888037156606), ('dirt', 8.20888037156606), ('leaves', 7.489064943923955), ('paint', 7.156359190098219), ('when', 3.4368224349138567)]
+Nearest to completion: [('dried', 0.5508601069450378), ('paint', 0.5329049229621887), ('shed', 0.5046452879905701), ('dirt', 0.5031030178070068), ('leaves', 0.4484359622001648), ('paints', 0.4244649112224579), ('drying', 0.4145498275756836), ('asphalt', 0.40331318974494934), ('brown', 0.39114752411842346), ('shedding', 0.3866323232650757)]
+
+--------------------------------------------------------------------------
+
+Tia was an artist.
+She was painting a picture.
+Tia left her paint on the table while she went to the restroom.
+Her cat jumped onto the table.
+> The cat walked past and knocked the paint onto the painting.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.5015179739777145
+
+__About the completion__
+Rarest in completion: [('painting', 7.502310170673975), ('paint', 7.156359190098219), ('past', 7.024007738613545), ('knocked', 6.914523505771856), ('onto', 6.871038393832118), ('cat', 5.756013075522677), ('walked', 5.178616114469694)]
+Nearest to completion: [('paint', 0.5580155253410339), ('painting', 0.5521175861358643), ('painted', 0.540248692035675), ('paints', 0.4490858018398285), ('knocked', 0.40571632981300354), ('canvas', 0.3914574086666107), ('walked', 0.3804562985897064), ('paintings', 0.37519097328186035), ('painter', 0.3728489577770233), ('mural', 0.36177319288253784)]
+
+--------------------------------------------------------------------------
+
+Bobby set up his easel and canvas.
+He was painting a landscape for his friend.
+As Bobby opened one of his paints it spilled all over the canvas.
+It was covered with blue paint.
+> Bobby decided to paint the sky.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.48387469032384345
+
+__About the completion__
+Rarest in completion: [('sky', 7.475992862356602), ('paint', 7.156359190098219), ('decided', 3.495461951503386)]
+Nearest to completion: [('sky', 0.6372711062431335), ('paint', 0.6272605657577515), ('skies', 0.46676525473594666), ('paints', 0.4323633313179016), ('painted', 0.4320036768913269), ('clouds', 0.38320407271385193), ('colors', 0.380794495344162), ('color', 0.3690904974937439), ('painting', 0.36830195784568787), ('graffiti', 0.3308262526988983)]
+
+--------------------------------------------------------------------------
+
+Amber was painting her nails on the couch.
+Her friend opened the door.
+The sound startled Amber.
+She jerked her head up to look.
+> Amber accidentally painted her whole toe with nail polish.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('head', (5.7194993315902405, 5.7194993315902405))]
+Score: 0.48015989476359433
+
+__About the completion__
+Rarest in completion: [('toe', 8.684304068281136), ('polish', 8.561701746188803), ('nail', 7.88797265148596), ('painted', 7.571303042160927), ('accidentally', 6.5727742120498), ('whole', 5.863960914745455)]
+Nearest to completion: [('nail', 0.5694782137870789), ('toe', 0.5277746915817261), ('nails', 0.47836223244667053), ('painted', 0.46669548749923706), ('accidentally', 0.46534019708633423), ('forehead', 0.42503949999809265), ('tooth', 0.3897036612033844), ('skull', 0.37505483627319336), ('nose', 0.3689165413379669), ('paint', 0.3530319035053253)]
+
+--------------------------------------------------------------------------
+
+Donald was working on a painting.
+He put it away over night.
+In the morning he noticed it was ripped up.
+Donald looked around and saw his dog had paint on him.
+> He figured the dog accidentally messed it up.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('around', (4.316528652935222, 4.316528652935222))]
+Score: 0.4699080361872828
+
+__About the completion__
+Rarest in completion: [('messed', 8.38581107972514), ('figured', 7.342461469732079), ('accidentally', 6.5727742120498), ('dog', 5.026332151630276)]
+Nearest to completion: [('accidentally', 0.6319932341575623), ('dog', 0.6280145645141602), ('cat', 0.536044716835022), ('puppy', 0.5289484262466431), ('dogs', 0.4938405752182007), ('inadvertently', 0.4499901235103607), ('pet', 0.4411252737045288), ('Dog', 0.4092574417591095), ('cats', 0.40799251198768616), ('snake', 0.40063488483428955)]
+
+--------------------------------------------------------------------------
+
+Jill wanted to paint her mother a picture for Mother's Day.
+She went to the store and bought a canvas and oil paints.
+Jill then got a table ready in her room for the actual painting.
+She painted a field of wild flowers since they are her mom's favorite.
+> Her mother cried when Jill gave her the gift on her special day.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.4495922065087397
+
+__About the completion__
+Rarest in completion: [('cried', 6.83619166250195), ('special', 6.6048625266013), ('gift', 6.501678290366069), ('mother', 5.47416192338169), ('gave', 4.8834555483762365), ('when', 3.4368224349138567), ('day', 3.3461390948177767)]
+Nearest to completion: [('cried', 0.5051371455192566), ('gift', 0.4869077503681183), ('mother', 0.45732223987579346), ('aunt', 0.40345054864883423), ('Mother_Day', 0.4032803773880005), ('niece', 0.3824109435081482), ('hugged', 0.38184934854507446), ('daughter', 0.37729597091674805), ('widow', 0.37223294377326965), ('Gift', 0.37013110518455505)]
+
+--------------------------------------------------------------------------
+
+Kate's mom was painting the living room.
+Her mom was eager and began talking about the paint.
+Kate didn't want to spend the day painting.
+Kate slunk off silently and went to her room as he mom kept talking.
+> She closed her door and hoped her mom wouldn't come ask for help.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.44699030785933047
+
+__About the completion__
+Rarest in completion: [('hoped', 7.08359983581579), ('closed', 6.769942276960749), ('ask', 6.683999847160024), ('come', 5.7606750886284885), ('door', 5.641854170159686), ('help', 5.105627754300814), ('mom', 4.822202301228359), ('would', 3.922873627941421), ("n't", 3.334508641807057)]
+Nearest to completion: [('door', 0.4381472170352936), ('hoped', 0.42884138226509094), ('help', 0.3991592824459076), ('ask', 0.3844462037086487), ('doors', 0.3790976107120514), ('seek', 0.3638826608657837), ('reopen', 0.3617398738861084), ('closed', 0.3612595796585083), ('allow', 0.3459232747554779), ('asked', 0.3174658715724945)]
+
+--------------------------------------------------------------------------
+
+Jules bought a bottle of blue nail polish.
+As she was painting her nails, she got startled.
+She spilled the bottle on her pink carpet.
+She scrubbed the carpet as quickly as she could.
+> The polish would not come out and left a stain.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258))]
+Score: 0.4373351702796692
+
+__About the completion__
+Rarest in completion: [('polish', 8.561701746188803), ('stain', 8.487593774035082), ('come', 5.7606750886284885), ('left', 4.930206975855819), ('would', 3.922873627941421), ('not', 3.8329533830489027), ('out', 3.3165011979861596)]
+Nearest to completion: [('would', 0.43716949224472046), ('left', 0.4046819508075714), ('could', 0.39919987320899963), ('not', 0.3777320683002472), ('does', 0.3554435074329376), ('will', 0.3531482517719269), ('come', 0.3511427044868469), ('might', 0.3391260504722595), ('did', 0.3281845450401306), ('may', 0.32377001643180847)]
+
+--------------------------------------------------------------------------
+
+Herb got supplies to paint his house.
+He hurt his back before he could start painting.
+He called a painter to help.
+The painter gave him a discount for having the supplies.
+> When Herb's back was better his house was already painted.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.43365069707583065
+
+__About the completion__
+Rarest in completion: [('painted', 7.571303042160927), ('already', 6.726048083403524), ('better', 5.345907587858011), ('house', 4.506577897119985), ('back', 4.3399341530452595), ('when', 3.4368224349138567), ("'s", 3.3551623435327245)]
+Nearest to completion: [('painted', 0.5233007669448853), ('painting', 0.3496195077896118), ('house', 0.34940534830093384), ('better', 0.33569762110710144), ('paint', 0.3267408311367035), ('brighter', 0.326498419046402), ('sharper', 0.3241898715496063), ('already', 0.3061051368713379), ('darker', 0.30052703619003296), ('worse', 0.28769364953041077)]
+
+--------------------------------------------------------------------------
+
+

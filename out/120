@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Sonia wanted to buy a beautiful dress for a wedding.
+She went to her favorite store and asked for help.
+But the saleswoman was very rude and didn't help her at all.
+Sonia had to go to three more stores before finding a good saleswoman.
+> She finally managed to find one and bought a nice dress.
+
+__About the context__
+Rarest in context: [('saleswoman', 10.02805881438225), ('stores', 7.255470092142468), ('rude', 7.175427384468931), ('finding', 6.983536376658827), ('wedding', 6.192197169919667), ('dress', 6.064076070023392), ('beautiful', 5.605210185188112), ('three', 5.246138116649659), ('favorite', 4.857574819344098), ('help', 4.693731010311179), ('more', 4.629896112864497), ('buy', 4.528162074435843), ('before', 4.482881369902687), ('good', 4.34108345804243), ('store', 4.2189158240682225), ('asked', 3.920293811578107), ('go', 3.6524662965542345), ('very', 3.353497422567824)]
+Nearest to context: [('stores', 0.44555652141571045), ('store', 0.44194358587265015), ('wedding', 0.39803293347358704), ('boutique', 0.3894256353378296), ('fabulous', 0.3868080675601959), ('retailer', 0.3856595754623413), ('dress', 0.37814074754714966), ('shop', 0.37237387895584106), ('shopping', 0.37160956859588623), ('fashionable', 0.37109705805778503)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dress', 4914, 15086, 0.5989654660224915), ('dresses', 11648, 8352, 0.49378418922424316), ('attire', 19290, 710, 0.41481947898864746), ('outfits', 12319, 7681, 0.4074540138244629), ('gown', 17970, 2030, 0.38599151372909546), ('wardrobe', 17321, 2679, 0.3822420835494995), ('dressed', 5219, 14781, 0.3819064795970917), ('dressing', 12592, 7408, 0.3796038329601288), ('skirt', 16836, 3164, 0.3717832565307617), ('fashionable', 17254, 2746, 0.3629237711429596)]
+Nearest words to completions' keywords: [('dress', 4914, 15086, 0.6574461460113525), ('dresses', 11648, 8352, 0.6142346262931824), ('dressed', 5219, 14781, 0.571061909198761), ('attire', 19290, 710, 0.5532690286636353), ('clothes', 3874, 16126, 0.5443094968795776), ('wearing', 2361, 17639, 0.5422446727752686), ('outfits', 12319, 7681, 0.5397234559059143), ('wardrobe', 17321, 2679, 0.5227086544036865), ('wear', 3015, 16985, 0.5196073055267334), ('happy', 1049, 18951, 0.5156617760658264)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6863926649093628), ('ended', 628, 19372, 0.6517148613929749), ('came', 256, 19744, 0.6242046356201172), ('had', 35, 19965, 0.5839004516601562), ('gave', 573, 19427, 0.5772759914398193), ('saw', 653, 19347, 0.5628679394721985), ('went', 297, 19703, 0.5624862909317017), ('got', 193, 19807, 0.5398160815238953), ('picked', 1606, 18394, 0.5300707221031189), ('showed', 784, 19216, 0.5263081192970276)]
+
+==========================================================================
+Neighbors
+==========================================================================
+I was getting ready for my sister's wedding.
+I need to buy a tuxedo for the wedding.
+I went to my favorite store in the mall to shop for one.
+The tuxedos were expensive, but nice looking.
+> I ended up buying a standard black tuxedo.
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('favorite', (4.857574819344098, 4.857574819344098)), ('buy', (4.528162074435843, 4.528162074435843)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.6626429484232025
+
+__About the completion__
+Rarest in completion: [('tuxedo', 10.210360371776185), ('standard', 9.873888135154973), ('buying', 6.871038393832118), ('black', 6.769942276960749), ('ended', 5.160504364526648)]
+Nearest to completion: [('black', 0.527525782585144), ('standard', 0.5255733132362366), ('buying', 0.49017980694770813), ('white', 0.4872036874294281), ('selling', 0.4269483983516693), ('purchasing', 0.4221203923225403), ('ended', 0.3875338137149811), ('blacks', 0.366670161485672), ('owning', 0.36563488841056824), ('priced', 0.3647571802139282)]
+
+--------------------------------------------------------------------------
+
+Lucy needed a new dress.
+She was happy to go shopping.
+When she got to the store she was pretty happy.
+She picked up a cute red dress.
+> When she picked up the dress it fit great.
+
+__About the match__
+Rarest shared words: [('dress', (6.064076070023392, 6.064076070023392)), ('store', (4.2189158240682225, 4.2189158240682225)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.5972837198931364
+
+__About the completion__
+Rarest in completion: [('fit', 6.776373167291039), ('dress', 6.467940150734219), ('picked', 5.597222016138917), ('great', 4.843450213762537), ('when', 3.4368224349138567)]
+Nearest to completion: [('dress', 0.615283727645874), ('fit', 0.5696545839309692), ('dresses', 0.4753965735435486), ('fitting', 0.461639404296875), ('dressed', 0.4367964565753937), ('suited', 0.4160774052143097), ('fits', 0.4135202467441559), ('picked', 0.40463143587112427), ('attire', 0.4001413881778717), ('pick', 0.3785001039505005)]
+
+--------------------------------------------------------------------------
+
+Mary was going through her closet and couldn't find anything to wear.
+She needed a new dress for her date that weekend.
+So Mary decided to go to the local mall and do some shopping.
+Mary went to a few stores and tried on several dresses.
+> After spending most of the day shopping, she finally found the dress!
+
+__About the match__
+Rarest shared words: [('stores', (7.255470092142468, 7.255470092142468)), ('dress', (6.064076070023392, 6.064076070023392)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.5795444312799936
+
+__About the completion__
+Rarest in completion: [('spending', 7.388981485366972), ('dress', 6.467940150734219), ('shopping', 6.360212770066127), ('most', 6.057746901430109), ('finally', 4.562795577118213), ('found', 4.202038707601781), ('after', 3.9503965716331964), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('shopping', 0.5488775372505188), ('spending', 0.48732686042785645), ('Shopping', 0.4238685369491577), ('Spending', 0.3939697742462158), ('dress', 0.3868381381034851), ('shoppers', 0.3829750120639801), ('holiday', 0.3718737065792084), ('wardrobe', 0.3558938801288605), ('attire', 0.34203994274139404), ('spend', 0.33932411670684814)]
+
+--------------------------------------------------------------------------
+
+Miranda loved shopping,
+She decided to buy some clothes.
+She went to a fast fashion store.
+Miranda bought a lot.
+> She was happy about it.
+
+__About the match__
+Rarest shared words: [('buy', (4.528162074435843, 4.528162074435843)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.5656873965061593
+
+__About the completion__
+Rarest in completion: [('happy', 4.78013793434821), ('about', 4.124950211825675)]
+Nearest to completion: [('happy', 0.6623526215553284), ('about', 0.5563378930091858), ('pleased', 0.47648707032203674), ('excited', 0.46894463896751404), ('satisfied', 0.4673916697502136), ('unhappy', 0.4531017541885376), ('thrilled', 0.43369260430336), ('proud', 0.4262288510799408), ('optimistic', 0.4221118092536926), ('ecstatic', 0.4179292917251587)]
+
+--------------------------------------------------------------------------
+
+Allison was invited to a wedding.
+She realized she had no suitable clothing.
+She went shopping for an appropriate dress.
+Eventually she found a beautiful blue dress on sale.
+> Allison was very happy with her new dress.
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('dress', (6.064076070023392, 6.064076070023392)), ('beautiful', (5.605210185188112, 5.605210185188112))]
+Score: 0.5510854199577915
+
+__About the completion__
+Rarest in completion: [('dress', 6.467940150734219), ('happy', 4.78013793434821), ('very', 3.793301345264873), ('new', 3.7799959404738015)]
+Nearest to completion: [('dress', 0.5651726722717285), ('dresses', 0.49897536635398865), ('happy', 0.455048143863678), ('very', 0.4143129885196686), ('pleased', 0.4135519862174988), ('attire', 0.40758204460144043), ('outfits', 0.39588212966918945), ('dressed', 0.3920822739601135), ('delighted', 0.38963931798934937), ('gown', 0.3887081444263458)]
+
+--------------------------------------------------------------------------
+
+Millie was shopping for her wedding.
+She wanted to be thrifty about bridesmaids dressed.
+Unfortunately cheaper dresses tended to be ugly.
+Then Millie spotted a beautiful dress with a low price.
+> She snagged it and ordered them right away.
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('dress', (6.064076070023392, 6.064076070023392)), ('beautiful', (5.605210185188112, 5.605210185188112))]
+Score: 0.539763403304621
+
+__About the completion__
+Rarest in completion: [('snagged', 10.433503923090395), ('ordered', 6.023740533444914), ('right', 5.585387558491915), ('away', 4.824948298377215), ('them', 3.9905657466666935)]
+Nearest to completion: [('ordered', 0.5651657581329346), ('away', 0.5082097053527832), ('ordering', 0.4316004812717438), ('right', 0.37827375531196594), ('instructed', 0.37642669677734375), ('order', 0.3743395507335663), ('refusing', 0.37250015139579773), ('them', 0.3609386682510376), ('off', 0.3221842646598816), ('demanded', 0.3188675045967102)]
+
+--------------------------------------------------------------------------
+
+Amy went to the store to try on wedding dresses.
+The zipper broke on the first dress she tried on.
+The salesperson had to cut her out of the dress.
+Amy really liked that dress though.
+> She ended up buying it anyway.
+
+__About the match__
+Rarest shared words: [('wedding', (6.192197169919667, 6.192197169919667)), ('dress', (6.064076070023392, 6.064076070023392)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.534797307559099
+
+__About the completion__
+Rarest in completion: [('buying', 6.871038393832118), ('anyway', 6.82258601044617), ('ended', 5.160504364526648)]
+Nearest to completion: [('buying', 0.6249675154685974), ('ended', 0.5444515347480774), ('selling', 0.4690050482749939), ('Buying', 0.45251598954200745), ('purchasing', 0.4418918788433075), ('buy', 0.4318472743034363), ('ending', 0.41863584518432617), ('bought', 0.4000472128391266), ('purchases', 0.35865333676338196), ('owning', 0.35776081681251526)]
+
+--------------------------------------------------------------------------
+
+Rita wanted to go to the mall to buy her friend a birthday present.
+Rita thought of several gifts for her friend.
+She thought of a dress but she realized her friend was not stylish.
+Instead she bought a video game for her friend.
+> Rita gave her friend he video game and she was ecstatic.
+
+__About the match__
+Rarest shared words: [('dress', (6.064076070023392, 6.064076070023392)), ('buy', (4.528162074435843, 4.528162074435843)), ('go', (3.6524662965542345, 3.6524662965542345))]
+Score: 0.5342022882553671
+
+__About the completion__
+Rarest in completion: [('ecstatic', 8.293437759594124), ('video', 6.3063695380453035), ('game', 5.066360365612506), ('gave', 4.8834555483762365), ('friend', 4.4228496815892715)]
+Nearest to completion: [('ecstatic', 0.48985400795936584), ('video', 0.46706995368003845), ('game', 0.43061256408691406), ('thrilled', 0.34867310523986816), ('gave', 0.3458613157272339), ('friend', 0.34543052315711975), ('awesome', 0.3440210223197937), ('teammate', 0.31647682189941406), ('Video', 0.3150602877140045), ('videos', 0.30274084210395813)]
+
+--------------------------------------------------------------------------
+
+Jenny wanted to get her friend a birthday gift.
+She first went to the clothing store to buy her a sweater.
+Not finding one she liked, she walked to the music store.
+She found two CDs that her friend would love to have.
+> She paid for them and ended up keeping one for herself.
+
+__About the match__
+Rarest shared words: [('finding', (6.983536376658827, 6.983536376658827)), ('buy', (4.528162074435843, 4.528162074435843)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.5299100227882212
+
+__About the completion__
+Rarest in completion: [('keeping', 7.794446593475136), ('paid', 6.3104099475823086), ('herself', 5.98498754714768), ('ended', 5.160504364526648), ('them', 3.9905657466666935), ('one', 3.351585275015767)]
+Nearest to completion: [('herself', 0.5122910141944885), ('ended', 0.43698325753211975), ('keeping', 0.39513862133026123), ('paid', 0.3664812743663788), ('her', 0.3575596809387207), ('themselves', 0.34844252467155457), ('himself', 0.3355396091938019), ('ending', 0.3290609121322632), ('paying', 0.3171098530292511), ('kept', 0.3164045512676239)]
+
+--------------------------------------------------------------------------
+
+Freda was jealous of how her friends looked in their nice dresses.
+She decided to buy a dress of her own.
+Freda bought a beautiful dress for summer.
+She felt great wearing her new dress.
+> Fred was happy to show off her dress to her friends.
+
+__About the match__
+Rarest shared words: [('dress', (6.064076070023392, 6.064076070023392)), ('beautiful', (5.605210185188112, 5.605210185188112)), ('buy', (4.528162074435843, 4.528162074435843))]
+Score: 0.5182718425871086
+
+__About the completion__
+Rarest in completion: [('dress', 6.467940150734219), ('show', 5.798774934860759), ('happy', 4.78013793434821), ('off', 4.4887379789916535), ('friends', 4.1620430130754205)]
+Nearest to completion: [('dress', 0.5786195397377014), ('dresses', 0.5018391609191895), ('attire', 0.44306355714797974), ('costumes', 0.4303937554359436), ('outfits', 0.41763654351234436), ('friends', 0.41426882147789), ('show', 0.4089127480983734), ('dressed', 0.39726343750953674), ('gown', 0.3824569284915924), ('clothes', 0.37429365515708923)]
+
+--------------------------------------------------------------------------
+
+

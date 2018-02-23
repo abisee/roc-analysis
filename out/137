@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Kira didn't know what to make for dinner.
+She searched the kitchen cabinets and refrigerator, taking inventory.
+Kira's sister suggested they order a pizza instead.
+Kira smiled, realizing they had pizza ingredients in the house.
+> Kira and her sister made pizzas for dinner.
+
+__About the context__
+Rarest in context: [('inventory', 9.334911633822305), ('cabinets', 9.047229561370523), ('realizing', 8.561721745588823), ('refrigerator', 7.543152164594249), ('smiled', 6.757223250583338), ('suggested', 6.444539875926139), ('ingredients', 6.426190737257943), ('searched', 6.149937360629785), ('order', 6.045266738065896), ('pizza', 5.961885129126845), ('kitchen', 5.833366278325867), ('sister', 5.513542996662289), ('taking', 5.491881499881109), ('instead', 5.436311648726298), ('dinner', 5.147785338149237), ('know', 5.049028859701325), ('what', 4.372067003562397), ('make', 4.27972796346498), ('house', 4.016791639978088)]
+Nearest to context: [('refrigerator', 0.5834823846817017), ('kitchen', 0.5479673147201538), ('oven', 0.4724937677383423), ('freezer', 0.4710218012332916), ('ingredients', 0.4566550552845001), ('pizza', 0.4522799849510193), ('dishes', 0.4260678291320801), ('pasta', 0.4241505563259125), ('cooking', 0.4119064509868622), ('cook', 0.4106575846672058)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('delicious', 10595, 9405, 0.6757269501686096), ('tasty', 16425, 3575, 0.604672372341156), ('dessert', 12865, 7135, 0.6016552448272705), ('desserts', 19543, 457, 0.5762115120887756), ('cooked', 9960, 10040, 0.5685431957244873), ('soup', 12406, 7594, 0.5509458780288696), ('eaten', 11812, 8188, 0.543677568435669), ('tasted', 18312, 1688, 0.5420427322387695), ('salad', 12291, 7709, 0.5313346982002258), ('meal', 4866, 15134, 0.5261718034744263)]
+Nearest words to completions' keywords: [('delicious', 10595, 9405, 0.7563753128051758), ('dessert', 12865, 7135, 0.7280645370483398), ('tasty', 16425, 3575, 0.7160741090774536), ('desserts', 19543, 457, 0.7031320929527283), ('meal', 4866, 15134, 0.6902848482131958), ('eat', 2785, 17215, 0.6834039688110352), ('salad', 12291, 7709, 0.6615495085716248), ('sandwiches', 15783, 4217, 0.6612228155136108), ('burger', 19185, 815, 0.649293065071106), ('soup', 12406, 7594, 0.6427646279335022)]
+Nearest words to completions' verbs: [('ate', 9337, 10663, 0.7124856114387512), ('had', 35, 19965, 0.6328040361404419), ('tasted', 18312, 1688, 0.6301072239875793), ('liked', 3988, 16012, 0.6051390767097473), ('knew', 1039, 18961, 0.6019542813301086), ('loved', 3069, 16931, 0.5922569632530212), ('drank', 15381, 4619, 0.5893248319625854), ('eaten', 11812, 8188, 0.5792412757873535), ('enjoyed', 2789, 17211, 0.5684906244277954), ('wanted', 583, 19417, 0.5506292581558228)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Melissa needed to make dinner for her family.
+She was tired of cooking the same meals over and over.
+She looked in a cookbook for a new recipe.
+She found all the ingredients she needed in the refrigerator.
+> Melissa cooked dinner and her family loved it.
+
+__About the match__
+Rarest shared words: [('refrigerator', (7.543152164594249, 7.543152164594249)), ('ingredients', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.6303973763174573
+
+__About the completion__
+Rarest in completion: [('cooked', 7.040674791098756), ('dinner', 5.601198164518556), ('family', 4.6880997737433745), ('loved', 4.425305176991248)]
+Nearest to completion: [('dinner', 0.6603413224220276), ('cooked', 0.6338821649551392), ('dinners', 0.5928325057029724), ('meal', 0.5436471104621887), ('cook', 0.5230079293251038), ('family', 0.5156986713409424), ('Dinner', 0.5097916722297668), ('barbecue', 0.4801543354988098), ('loved', 0.4750508666038513), ('delicious', 0.45613497495651245)]
+
+--------------------------------------------------------------------------
+
+Hannah was hungry.
+She went to the kitchen.
+She looked in the refrigerator.
+She took some cheese out of the refrigerator.
+> Hannah ate the cheese.
+
+__About the match__
+Rarest shared words: [('refrigerator', (7.543152164594249, 7.543152164594249)), ('kitchen', (5.833366278325867, 5.833366278325867))]
+Score: 0.6062790114720011
+
+__About the completion__
+Rarest in completion: [('cheese', 7.265921392609745), ('ate', 5.493648811055187)]
+Nearest to completion: [('cheese', 0.7792423963546753), ('ate', 0.7201975584030151), ('pasta', 0.5343602895736694), ('eaten', 0.5336672067642212), ('eat', 0.5316742658615112), ('eating', 0.523712694644928), ('chocolate', 0.5137196779251099), ('meat', 0.5127029418945312), ('burger', 0.4992325007915497), ('sandwich', 0.49826234579086304)]
+
+--------------------------------------------------------------------------
+
+Shelly's husband Rick asked her to make lasagna for dinner.
+Shelly went to the store to buy the ingredients.
+When she got home she unpacked the groceries.
+She realized she forgot to buy the noodles.
+> Shelly had to make hamburgers instead.
+
+__About the match__
+Rarest shared words: [('ingredients', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.6005560718476642
+
+__About the completion__
+Rarest in completion: [('shelly', 8.824066010656296), ('hamburgers', 8.775275846486863), ('instead', 5.508063475057371), ('make', 4.7898253725039)]
+Nearest to completion: [('make', 0.6700623631477356), ('instead', 0.6344481110572815), ('making', 0.5008797645568848), ('made', 0.43591374158859253), ('rather', 0.43418940901756287), ('Instead', 0.41051584482192993), ('avoid', 0.3909357786178589), ('Making', 0.38753262162208557), ('makes', 0.3816799521446228), ('render', 0.3728497624397278)]
+
+--------------------------------------------------------------------------
+
+Anna was hungry.
+So, she went to the kitchen.
+She looked in the refrigerator.
+In the refrigerator, she saw some eggs.
+> Anna took the eggs out of the refrigerator.
+
+__About the match__
+Rarest shared words: [('refrigerator', (7.543152164594249, 7.543152164594249)), ('kitchen', (5.833366278325867, 5.833366278325867))]
+Score: 0.5627127073322835
+
+__About the completion__
+Rarest in completion: [('refrigerator', 8.082128665926916), ('eggs', 7.03230654142824), ('took', 4.067463120907994), ('out', 3.3165011979861596)]
+Nearest to completion: [('eggs', 0.6967476010322571), ('refrigerator', 0.6798761487007141), ('egg', 0.5723457932472229), ('freezer', 0.5514761805534363), ('oven', 0.4980086088180542), ('cans', 0.38197141885757446), ('tomatoes', 0.378740519285202), ('chickens', 0.37570780515670776), ('pots', 0.3725285530090332), ('turkey', 0.3713591396808624)]
+
+--------------------------------------------------------------------------
+
+Bob was really thirsty.
+He went in the kitchen.
+He opened up the refrigerator.
+John took out some water.
+> He drank it to quench his thirst.
+
+__About the match__
+Rarest shared words: [('refrigerator', (7.543152164594249, 7.543152164594249)), ('kitchen', (5.833366278325867, 5.833366278325867))]
+Score: 0.5431755136259597
+
+__About the completion__
+Rarest in completion: [('quench', 11.12665110365034), ('thirst', 10.028038814982231), ('drank', 6.921958484259375)]
+Nearest to completion: [('drank', 0.9540059566497803), ('drinking', 0.6125572919845581), ('drink', 0.6020029187202454), ('ate', 0.507742702960968), ('drinks', 0.5053611397743225), ('drunk', 0.49483323097229004), ('consumed', 0.44964808225631714), ('caffeine', 0.438629150390625), ('smoked', 0.4291408360004425), ('beers', 0.40546202659606934)]
+
+--------------------------------------------------------------------------
+
+Amy always wanted to learn how to make cabbage soup.
+She went to the grocery store to purchase all the items for the soup.
+She lined up all the items she bought on her kitchen table.
+She mixed some ingredients incorrectly into a cooking pot.
+> This mistake caused the soup to taste awful.
+
+__About the match__
+Rarest shared words: [('ingredients', (6.426190737257943, 6.426190737257943)), ('kitchen', (5.833366278325867, 5.833366278325867)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.541772545437821
+
+__About the completion__
+Rarest in completion: [('awful', 8.058598168516724), ('caused', 7.725453721988185), ('soup', 7.5571184071689705), ('taste', 7.502310170673975), ('mistake', 7.489064943923955), ('this', 4.607503815709945)]
+Nearest to completion: [('soup', 0.507824182510376), ('taste', 0.4936129152774811), ('mistake', 0.48991429805755615), ('recipe', 0.41355934739112854), ('awful', 0.4064716696739197), ('caused', 0.40626633167266846), ('terrible', 0.38376498222351074), ('horrible', 0.3702748119831085), ('delicious', 0.3681435286998749), ('mistakes', 0.36403390765190125)]
+
+--------------------------------------------------------------------------
+
+Bill asked his girlfriend Gina over for a romantic dinner.
+Bill got all the ingredients for an impressive meal.
+When Bill went to start cooking he realized his oven wasn't working.
+Determined not to panic, Bill ordered some Chinese delivery.
+> Gina arrived, and the couple enjoyed their favorite takeout.
+
+__About the match__
+Rarest shared words: [('ingredients', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5386533304796443
+
+__About the completion__
+Rarest in completion: [('takeout', 9.334891634422286), ('couple', 6.282464017191749), ('enjoyed', 6.002687124247082), ('arrived', 5.677760878622929), ('favorite', 5.385251765422833), ('their', 4.437673918472774)]
+Nearest to completion: [('enjoyed', 0.568787693977356), ('favorite', 0.5215712785720825), ('favorites', 0.4415997862815857), ('enjoying', 0.4287281334400177), ('arrived', 0.3881036937236786), ('enjoy', 0.3652065694332123), ('celebrated', 0.33369413018226624), ('enjoys', 0.3317015767097473), ('delight', 0.3314484655857086), ('Enjoy', 0.3225463628768921)]
+
+--------------------------------------------------------------------------
+
+I was making lasagna for the first time.
+I went to the store and bought all the ingredients.
+After everything was prepped the lasagna went into the oven.
+When I pulled it out it looked delicious.
+> I invited all of my friends for dinner and it was terrific.
+
+__About the match__
+Rarest shared words: [('ingredients', (6.426190737257943, 6.426190737257943))]
+Score: 0.53678958575293
+
+__About the completion__
+Rarest in completion: [('terrific', 9.180740954595027), ('invited', 6.026784675826142), ('dinner', 5.601198164518556), ('friends', 4.1620430130754205), ('all', 3.5398475684877595), ('my', 3.5357989799617595)]
+Nearest to completion: [('dinner', 0.5881606936454773), ('invited', 0.5429456830024719), ('friends', 0.48825180530548096), ('Dinner', 0.4759804606437683), ('wonderful', 0.4708290994167328), ('dinners', 0.4690687954425812), ('luncheon', 0.44556158781051636), ('fabulous', 0.4424208402633667), ('terrific', 0.4258054494857788), ('banquet', 0.4015154242515564)]
+
+--------------------------------------------------------------------------
+
+Fred was in the mood to eat some pizza.
+He called a local pizza shop but was dismayed at their prices.
+Fred decided to make his own pizza.
+He found recipes online for homemade dough and sauce.
+> It was the best pizza Fred had ever eaten!
+
+__About the match__
+Rarest shared words: [('pizza', (5.961885129126845, 5.961885129126845)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.5365763309746583
+
+__About the completion__
+Rarest in completion: [('eaten', 7.543132165194231), ('pizza', 6.247644252032521), ('ever', 6.106065478700916), ('best', 5.3230232940244235), ('!', 3.536809591467683)]
+Nearest to completion: [('pizza', 0.6325721144676208), ('eaten', 0.6210618615150452), ('sandwich', 0.48132553696632385), ('burger', 0.4811718761920929), ('ever', 0.4655780792236328), ('sandwiches', 0.4439403712749481), ('delicious', 0.4317379295825958), ('best', 0.42907100915908813), ('dessert', 0.4222661852836609), ('eating', 0.4207076132297516)]
+
+--------------------------------------------------------------------------
+
+Tom decided to cook dinner.
+He was going to make homemade pizza.
+He bought all the ingredients.
+However, he grabbed the wrong type of sauce.
+> It still turned out to taste delicious and everyone loved it.
+
+__About the match__
+Rarest shared words: [('ingredients', (6.426190737257943, 6.426190737257943)), ('pizza', (5.961885129126845, 5.961885129126845)), ('dinner', (5.147785338149237, 5.147785338149237)), ('make', (4.27972796346498, 4.27972796346498))]
+Score: 0.5251330110240301
+
+__About the completion__
+Rarest in completion: [('taste', 7.502310170673975), ('delicious', 6.719931856386087), ('still', 5.390078806171148), ('turned', 5.363028628638123), ('everyone', 5.197061960260446), ('loved', 4.425305176991248), ('out', 3.3165011979861596)]
+Nearest to completion: [('delicious', 0.6665583848953247), ('taste', 0.610167384147644), ('tasty', 0.5934368371963501), ('tastes', 0.4873940348625183), ('flavor', 0.48366692662239075), ('desserts', 0.46543851494789124), ('tasted', 0.45328637957572937), ('sweet', 0.45133379101753235), ('delightful', 0.44977858662605286), ('tasting', 0.44342198967933655)]
+
+--------------------------------------------------------------------------
+
+

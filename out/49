@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Julie was feeling hungry.
+She thought she would order some Pizza.
+Julie order the food through an online website.
+The pizza arrived and Julie tipped the driver.
+> Julie went to take a bite of the pizza and it was burnt!
+
+__About the context__
+Rarest in context: [('tipped', 8.418620901948149), ('website', 7.156379189498237), ('driver', 6.282484016591768), ('order', 6.045266738065896), ('pizza', 5.961885129126845), ('hungry', 5.89022914022041), ('feeling', 5.4847640321122455), ('online', 5.265884879584493), ('arrived', 5.165665763427086), ('food', 4.668332819705569), ('through', 4.640510314106271), ('thought', 4.2566176912522335), ('some', 3.566590638028532), ('would', 3.429095756248016), ('an', 3.319567812924379)]
+Nearest to context: [('food', 0.467263787984848), ('pizza', 0.4528883397579193), ('online', 0.4111889600753784), ('website', 0.35334447026252747), ('web', 0.3369803726673126), ('hungry', 0.32960569858551025), ('Pizza', 0.3255363702774048), ('beverage', 0.32474520802497864), ('Web', 0.3135179281234741), ('sandwich', 0.3086744248867035)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('pizza', 8423, 11577, 0.5729246735572815), ('ate', 9337, 10663, 0.5355084538459778), ('lunch', 3319, 16681, 0.4488169848918915), ('meal', 4866, 15134, 0.44801050424575806), ('sandwich', 12912, 7088, 0.4190380275249481), ('burger', 19185, 815, 0.4160732626914978), ('sandwiches', 15783, 4217, 0.4093460440635681), ('snack', 14503, 5497, 0.4016716182231903), ('steak', 17617, 2383, 0.39856311678886414), ('breakfast', 5339, 14661, 0.3971206247806549)]
+Nearest words to completions' keywords: [('pizza', 8423, 11577, 0.6797893047332764), ('sandwiches', 15783, 4217, 0.6689053177833557), ('lunch', 3319, 16681, 0.6622176170349121), ('meal', 4866, 15134, 0.6621183753013611), ('sandwich', 12912, 7088, 0.650896430015564), ('dessert', 12865, 7135, 0.6289241313934326), ('burger', 19185, 815, 0.6228948831558228), ('breakfast', 5339, 14661, 0.6162378787994385), ('dinner', 2656, 17344, 0.593063235282898), ('eat', 2785, 17215, 0.5909212827682495)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.714820921421051), ('was', 10, 19990, 0.6943207383155823), ('had', 35, 19965, 0.6726176738739014), ('ate', 9337, 10663, 0.6510524153709412), ('went', 297, 19703, 0.647776186466217), ('got', 193, 19807, 0.6317819952964783), ('saw', 653, 19347, 0.6010804176330566), ('knew', 1039, 18961, 0.5996438264846802), ('stayed', 2936, 17064, 0.5976839661598206), ('arrived', 1550, 18450, 0.5933976769447327)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Wendy was hungry.
+She decided to order a pizza.
+She called the restaurant for a delivery.
+The pizza delivery man came by with her pizza.
+> Wendy was excited and ate half the pizza.
+
+__About the match__
+Rarest shared words: [('order', (6.045266738065896, 6.045266738065896)), ('pizza', (5.961885129126845, 5.961885129126845)), ('hungry', (5.89022914022041, 5.89022914022041))]
+Score: 0.5447952348874783
+
+__About the completion__
+Rarest in completion: [('half', 6.546798725646539), ('pizza', 6.247644252032521), ('ate', 5.493648811055187), ('excited', 5.146500316442632)]
+Nearest to completion: [('pizza', 0.5925924777984619), ('ate', 0.5772575736045837), ('sandwiches', 0.4494464695453644), ('excited', 0.443673312664032), ('sandwich', 0.4292019009590149), ('Pizza', 0.42551568150520325), ('burger', 0.42022135853767395), ('snack', 0.4173525869846344), ('eat', 0.40504416823387146), ('delicious', 0.40346506237983704)]
+
+--------------------------------------------------------------------------
+
+Lisa was hungry after she got off of work.
+She looked online for some good places to order from.
+She decided on pizza and placed her order online.
+Her pizza was delivered in 30 minutes.
+> She was happy and her belly was full.
+
+__About the match__
+Rarest shared words: [('order', (6.045266738065896, 6.045266738065896)), ('pizza', (5.961885129126845, 5.961885129126845)), ('hungry', (5.89022914022041, 5.89022914022041)), ('online', (5.265884879584493, 5.265884879584493)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.48743943170584186
+
+__About the completion__
+Rarest in completion: [('belly', 8.775275846486863), ('full', 6.188586502388921), ('happy', 4.78013793434821)]
+Nearest to completion: [('belly', 0.6162902116775513), ('full', 0.5163438320159912), ('happy', 0.4386191964149475), ('Full', 0.36853426694869995), ('pleased', 0.3213163912296295), ('delighted', 0.3072604238986969), ('ecstatic', 0.3057315945625305), ('proud', 0.30367034673690796), ('excited', 0.2954734265804291), ('thrilled', 0.28551414608955383)]
+
+--------------------------------------------------------------------------
+
+Tim was hungry.
+He did not feel like cooking.
+He decided to order a pizza.
+He called Domino's and ordered a pie.
+> In an hour, his yummy dinner arrived!
+
+__About the match__
+Rarest shared words: [('order', (6.045266738065896, 6.045266738065896)), ('pizza', (5.961885129126845, 5.961885129126845)), ('hungry', (5.89022914022041, 5.89022914022041))]
+Score: 0.4792720964668723
+
+__About the completion__
+Rarest in completion: [('yummy', 9.622573706874066), ('hour', 5.830836867320422), ('arrived', 5.677760878622929), ('dinner', 5.601198164518556), ('an', 3.8221351571901856), ('!', 3.536809591467683)]
+Nearest to completion: [('dinner', 0.6297910809516907), ('hour', 0.5856333374977112), ('lunch', 0.5090635418891907), ('arrived', 0.488715797662735), ('Dinner', 0.48515042662620544), ('evening', 0.48445144295692444), ('luncheon', 0.4806419610977173), ('breakfast', 0.4780222773551941), ('hours', 0.4699634611606598), ('meal', 0.4652920663356781)]
+
+--------------------------------------------------------------------------
+
+Anna was hungry.
+She went through her house to find food.
+Nothing appealed to her.
+Finally, she called in a pizza.
+> Finally, Anna satisfied her appetite!
+
+__About the match__
+Rarest shared words: [('pizza', (5.961885129126845, 5.961885129126845)), ('hungry', (5.89022914022041, 5.89022914022041)), ('food', (4.668332819705569, 4.668332819705569)), ('through', (4.640510314106271, 4.640510314106271))]
+Score: 0.4734199729198349
+
+__About the completion__
+Rarest in completion: [('appetite', 10.028038814982231), ('satisfied', 7.812465098977815), ('finally', 4.562795577118213), ('!', 3.536809591467683)]
+Nearest to completion: [('appetite', 0.7069652080535889), ('satisfied', 0.5805339217185974), ('satisfaction', 0.421132355928421), ('satisfy', 0.3959848880767822), ('finally', 0.3920477628707886), ('enthusiasm', 0.39169856905937195), ('satisfying', 0.3888205289840698), ('pleased', 0.3754042685031891), ('confident', 0.36680132150650024), ('ecstatic', 0.3603074550628662)]
+
+--------------------------------------------------------------------------
+
+Maria was ordering some food from a new Nepalese restaurant.
+Maria looked at the online menu.
+She decided that she wanted an order of Momo and a small salad.
+Maria added the items to the online ordering menu.
+> She paid for the items and placed the order for pickup.
+
+__About the match__
+Rarest shared words: [('order', (6.045266738065896, 6.045266738065896)), ('online', (5.265884879584493, 5.265884879584493)), ('food', (4.668332819705569, 4.668332819705569)), ('some', (3.566590638028532, 3.566590638028532)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4614120955757787
+
+__About the completion__
+Rarest in completion: [('pickup', 9.622573706874066), ('items', 7.18506929598065), ('placed', 7.024007738613545), ('order', 6.403697882005866), ('paid', 6.3104099475823086)]
+Nearest to completion: [('placed', 0.5515120625495911), ('items', 0.5476486086845398), ('pickup', 0.49718961119651794), ('Items', 0.4578290283679962), ('item', 0.42691779136657715), ('paid', 0.41144388914108276), ('order', 0.4110115170478821), ('placing', 0.4057900011539459), ('orders', 0.34605464339256287), ('Orders', 0.34361425042152405)]
+
+--------------------------------------------------------------------------
+
+Allie was hungry.
+She decided to get some fast food.
+She went to the new one.
+Allie ordered a burger.
+> She ate it in ten minutes.
+
+__About the match__
+Rarest shared words: [('hungry', (5.89022914022041, 5.89022914022041)), ('food', (4.668332819705569, 4.668332819705569)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.45013304320005426
+
+__About the completion__
+Rarest in completion: [('ten', 6.417120902338007), ('minutes', 5.925395449945435), ('ate', 5.493648811055187)]
+Nearest to completion: [('minutes', 0.678983747959137), ('ate', 0.5788108110427856), ('ten', 0.5226779580116272), ('fifteen', 0.5147314071655273), ('minute', 0.49732813239097595), ('hour', 0.4922764003276825), ('twenty', 0.477196604013443), ('forty', 0.4680889844894409), ('thirty', 0.46475738286972046), ('hours', 0.46090078353881836)]
+
+--------------------------------------------------------------------------
+
+Linda looked over the menu and decided on her pizza order.
+She called the pizza parlor and placed her order.
+She waited patiently then heard a knock at the door.
+She opened the door and paid the delivery driver, and got her pizza.
+> She sat down and ate her pizza with her family.
+
+__About the match__
+Rarest shared words: [('driver', (6.282484016591768, 6.282484016591768)), ('order', (6.045266738065896, 6.045266738065896)), ('pizza', (5.961885129126845, 5.961885129126845))]
+Score: 0.4478346764707164
+
+__About the completion__
+Rarest in completion: [('pizza', 6.247644252032521), ('sat', 5.621319567717977), ('ate', 5.493648811055187), ('family', 4.6880997737433745), ('down', 4.370882181666085)]
+Nearest to completion: [('ate', 0.6431959867477417), ('pizza', 0.5568198561668396), ('sat', 0.5025094151496887), ('sandwiches', 0.46704453229904175), ('sandwich', 0.446767121553421), ('burger', 0.4277142286300659), ('meal', 0.42525383830070496), ('eat', 0.4187107980251312), ('eaten', 0.40679123997688293), ('lunch', 0.4066093862056732)]
+
+--------------------------------------------------------------------------
+
+The man wanted pizza.
+He found a deal online.
+He ordered his pizza.
+He waited to receive it.
+> The pizza never came.
+
+__About the match__
+Rarest shared words: [('pizza', (5.961885129126845, 5.961885129126845)), ('online', (5.265884879584493, 5.265884879584493))]
+Score: 0.44092300751962643
+
+__About the completion__
+Rarest in completion: [('pizza', 6.247644252032521), ('never', 4.624610964031577), ('came', 4.538412620640003)]
+Nearest to completion: [('pizza', 0.7179075479507446), ('Pizza', 0.5247811079025269), ('sandwich', 0.46615394949913025), ('burger', 0.4512770473957062), ('sandwiches', 0.4116728901863098), ('ice_cream', 0.38044530153274536), ('Grill', 0.3707769215106964), ('restaurant', 0.36495038866996765), ('pasta', 0.3592977225780487), ('dessert', 0.3572801649570465)]
+
+--------------------------------------------------------------------------
+
+Neil was very hungry.
+He ordered a pizza.
+But when he arrived, he was bummed.
+The pizza was burned!
+> Neil had to call back and complain.
+
+__About the match__
+Rarest shared words: [('pizza', (5.961885129126845, 5.961885129126845)), ('hungry', (5.89022914022041, 5.89022914022041)), ('arrived', (5.165665763427086, 5.165665763427086))]
+Score: 0.4362004847629171
+
+__About the completion__
+Rarest in completion: [('complain', 8.561701746188803), ('call', 5.9199009306277945), ('back', 4.3399341530452595)]
+Nearest to completion: [('complain', 0.67756187915802), ('call', 0.6682115793228149), ('complaining', 0.5214122533798218), ('complained', 0.43475326895713806), ('calls', 0.42005449533462524), ('complaints', 0.3903703987598419), ('talk', 0.38233330845832825), ('calling', 0.37972933053970337), ('accuse', 0.3684524595737457), ('Call', 0.36694878339767456)]
+
+--------------------------------------------------------------------------
+
+Henry ordered some pizza.
+The pizza arrived late.
+Henry complained to the driver.
+The driver gave Henry a discount.
+> Henry gave the driver a big tip.
+
+__About the match__
+Rarest shared words: [('driver', (6.282484016591768, 6.282484016591768)), ('pizza', (5.961885129126845, 5.961885129126845)), ('arrived', (5.165665763427086, 5.165665763427086)), ('some', (3.566590638028532, 3.566590638028532))]
+Score: 0.42945209350746516
+
+__About the completion__
+Rarest in completion: [('tip', 7.969650682500228), ('driver', 6.738393919225823), ('big', 5.114159189350283), ('gave', 4.8834555483762365)]
+Nearest to completion: [('tip', 0.5806949734687805), ('driver', 0.47339725494384766), ('gave', 0.4096827507019043), ('tipped', 0.38992321491241455), ('big', 0.3713495433330536), ('tipping', 0.3268265724182129), ('nabbed', 0.3168269693851471), ('give', 0.3089306354522705), ('giving', 0.306937038898468), ('drivers', 0.292572945356369)]
+
+--------------------------------------------------------------------------
+
+

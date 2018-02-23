@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Mark and Jo were brainstorming ideas for a children's show.
+Mark suggested that a monster attacks the children.
+Jo laughed because he thought Mark was joking.
+Mark was confused because he thought it was a great idea.
+> Mark left in a huff for having his ideas mocked.
+
+__About the context__
+Rarest in context: [('brainstorming', 10.02805881438225), ('attacks', 10.02805881438225), ('jo', 10.02805881438225), ('joking', 9.047229561370523), ('monster', 8.354082380810578), ('ideas', 7.437791648936423), ('confused', 6.907163397874252), ('suggested', 6.444539875926139), ('laughed', 6.214016217314307), ('idea', 5.979176626236906), ('children', 5.97337950855258), ('show', 5.403086001097979), ('great', 4.728076168515152), ('because', 4.688919453313957), ('thought', 4.2566176912522335)]
+Nearest to context: [('idea', 0.5135814547538757), ('suggestion', 0.4326077699661255), ('ideas', 0.41901323199272156), ('suggested', 0.41563737392425537), ('joking', 0.4133395254611969), ('laughed', 0.4047386348247528), ('thought', 0.4041665494441986), ('suggestions', 0.4013795852661133), ('joke', 0.40118199586868286), ('theories', 0.3921070396900177)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('laugh', 5585, 14415, 0.47646549344062805), ('joke', 6288, 13712, 0.45113423466682434), ('revenge', 8140, 11860, 0.3934018611907959), ('laughs', 9729, 10271, 0.3846834897994995), ('apologies', 18731, 1269, 0.3733040690422058), ('remark', 13244, 6756, 0.369463711977005), ('apology', 7345, 12655, 0.3643643856048584), ('apologize', 7509, 12491, 0.35824406147003174), ('mistake', 3185, 16815, 0.35362523794174194), ('apologized', 7004, 12996, 0.3530483543872833)]
+Nearest words to completions' keywords: [('joked', 7926, 12074, 0.6342487335205078), ('joke', 6288, 13712, 0.6271941065788269), ('laugh', 5585, 14415, 0.618779182434082), ('joking', 14840, 5160, 0.6110000014305115), ('laughed', 9168, 10832, 0.6054696440696716), ('quipped', 17850, 2150, 0.5996459722518921), ('laughing', 7953, 12047, 0.5852101445198059), ('jokes', 8580, 11420, 0.5658292174339294), ('laughs', 9729, 10271, 0.5656723976135254), ('funny', 4364, 15636, 0.5587789416313171)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7408378720283508), ('knew', 1039, 18961, 0.7109543681144714), ('got', 193, 19807, 0.6933187246322632), ('wanted', 583, 19417, 0.6731135249137878), ('saw', 653, 19347, 0.6622482538223267), ('did', 92, 19908, 0.6584008932113647), ('thought', 572, 19428, 0.6507516503334045), ('felt', 1040, 18960, 0.6315065026283264), ('was', 10, 19990, 0.6199278831481934), ('looked', 1115, 18885, 0.6029443740844727)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Lewis told his friend a joke.
+His friend was offended by the joke.
+Lewis asked his friend to help change the joke.
+His friend suggested a change.
+> Lewis told his friend a new joke.
+
+__About the match__
+Rarest shared words: [('suggested', (6.444539875926139, 6.444539875926139))]
+Score: 0.5074568479413305
+
+__About the completion__
+Rarest in completion: [('joke', 8.156236638080639), ('friend', 4.4228496815892715), ('told', 4.259717819188459), ('new', 3.7799959404738015)]
+Nearest to completion: [('joke', 0.5766916871070862), ('friend', 0.5513116121292114), ('told', 0.5083085894584656), ('pal', 0.4692383110523224), ('jokes', 0.45879635214805603), ('colleague', 0.4429020583629608), ('quoted', 0.42667949199676514), ('joked', 0.4232816994190216), ('joking', 0.418110728263855), ('tells', 0.41495051980018616)]
+
+--------------------------------------------------------------------------
+
+The kid put on a funny hat.
+He made a silly face at a girl.
+The girl thought he looked silly.
+She laughed at his antics.
+> The boy bowed in appreciation of the laugh.
+
+__About the match__
+Rarest shared words: [('laughed', (6.214016217314307, 6.214016217314307)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.46684878032366534
+
+__About the completion__
+Rarest in completion: [('bowed', 10.433503923090395), ('appreciation', 9.873888135154973), ('laugh', 7.868554565628858), ('boy', 5.823346195591265)]
+Nearest to completion: [('appreciation', 0.5409359931945801), ('bowed', 0.5304337739944458), ('laugh', 0.4797443747520447), ('gratitude', 0.45527276396751404), ('admiration', 0.45441946387290955), ('laughs', 0.41411420702934265), ('affection', 0.4079269766807556), ('boy', 0.4041196405887604), ('smile', 0.40166327357292175), ('hug', 0.39923030138015747)]
+
+--------------------------------------------------------------------------
+
+Dara and jess went out on a date.
+They had a really fun time.
+Jess laughed a lot at Dara's jokes.
+Dara asked if they could go on another date.
+> Jess said yes.
+
+__About the match__
+Rarest shared words: [('laughed', (6.214016217314307, 6.214016217314307))]
+Score: 0.4608181813840294
+
+__About the completion__
+Rarest in completion: [('yes', 7.204677767369026), ('said', 4.667529428177747)]
+Nearest to completion: [('yes', 0.6149349212646484), ('said', 0.5653626918792725), ('replied', 0.5574283003807068), ('Absolutely', 0.5346267223358154), ('Yes', 0.5142987966537476), ('says', 0.5124714374542236), ('explained', 0.4355993866920471), ('Said', 0.42805734276771545), ('remarked', 0.42472413182258606), ('quipped', 0.42029592394828796)]
+
+--------------------------------------------------------------------------
+
+The man had a disorder.
+He explained it to others.
+He thought his friends understood.
+His friends were actually confused.
+> One of them looked it up online.
+
+__About the match__
+Rarest shared words: [('confused', (6.907163397874252, 6.907163397874252)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.45219596905009907
+
+__About the completion__
+Rarest in completion: [('online', 5.838384072955805), ('looked', 4.6993539118177985), ('them', 3.9905657466666935), ('one', 3.351585275015767)]
+Nearest to completion: [('online', 0.6513853669166565), ('websites', 0.45777371525764465), ('Web', 0.44879457354545593), ('web', 0.435649573802948), ('Online', 0.43225282430648804), ('looked', 0.4160093367099762), ('Internet', 0.40196022391319275), ('e_commerce', 0.39040470123291016), ('portals', 0.39026644825935364), ('internet', 0.38663381338119507)]
+
+--------------------------------------------------------------------------
+
+The man laughed out loud.
+People wondered why he was laughing.
+Someone asked the man.
+The man could not think of a reason.
+> The man had lost his mind.
+
+__About the match__
+Rarest shared words: [('laughed', (6.214016217314307, 6.214016217314307))]
+Score: 0.4410480927353568
+
+__About the completion__
+Rarest in completion: [('mind', 6.849984984634285), ('lost', 5.224017770248974), ('man', 4.481560134144697)]
+Nearest to completion: [('lost', 0.5501748323440552), ('man', 0.5122802257537842), ('mind', 0.4977589249610901), ('losing', 0.39531025290489197), ('lose', 0.35556209087371826), ('minds', 0.3533301055431366), ('robbed', 0.3420652151107788), ('woman', 0.3391749858856201), ('loses', 0.3290696144104004), ('regained', 0.32562360167503357)]
+
+--------------------------------------------------------------------------
+
+Bill and Lisa were walking on the boardwalk by the beach.
+A man with a monkey called to them and offered to show them tricks.
+The monkey did all kinds of silly things and Lisa laughed and laughed.
+When Bill went to put money in the man's hat the monkey bit him.
+> Bill was very cross and sued the man for everything he had.
+
+__About the match__
+Rarest shared words: [('laughed', (6.214016217314307, 6.214016217314307)), ('show', (5.403086001097979, 5.403086001097979))]
+Score: 0.4373084715742632
+
+__About the completion__
+Rarest in completion: [('sued', 8.561701746188803), ('cross', 7.90777527878214), ('everything', 5.796350691249253), ('man', 4.481560134144697), ('very', 3.793301345264873)]
+Nearest to completion: [('sued', 0.5650267601013184), ('suing', 0.474467933177948), ('lawsuit', 0.43928688764572144), ('cross', 0.4251827299594879), ('sue', 0.40732550621032715), ('sues', 0.4056430459022522), ('crosses', 0.32423514127731323), ('accused', 0.31827712059020996), ('suit', 0.31118345260620117), ('lawsuits', 0.3052677810192108)]
+
+--------------------------------------------------------------------------
+
+Andy heard a joke on the radio.
+He thought it was funny.
+Andy tried to tell the joke to Bob.
+Bob misunderstood the joke.
+> He didn't laugh.
+
+__About the match__
+Rarest shared words: [('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.43287324967973695
+
+__About the completion__
+Rarest in completion: [('laugh', 7.868554565628858), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('laugh', 0.7270669937133789), ('laughs', 0.5050570368766785), ('laughing', 0.46799740195274353), ('did', 0.4557127058506012), ('funny', 0.4357078969478607), ('laughed', 0.43417635560035706), ('jokes', 0.4332910478115082), ('joking', 0.4322110414505005), ('laughter', 0.4283334016799927), ('joke', 0.4005700647830963)]
+
+--------------------------------------------------------------------------
+
+At a house party, Joe was having a conversation with the host.
+The host and Joe disagreed on a political matter.
+Joe was getting annoyed but did not show it.
+The host had no idea that he was getting on Joe's nerves.
+> Joe later got revenge on the hose by secretly knotting all his shoes.
+
+__About the match__
+Rarest shared words: [('idea', (5.979176626236906, 5.979176626236906)), ('show', (5.403086001097979, 5.403086001097979))]
+Score: 0.42748874256689245
+
+__About the completion__
+Rarest in completion: [('knotting', 11.12665110365034), ('hose', 8.92942652631412), ('revenge', 8.824066010656296), ('secretly', 8.523961418205957), ('shoes', 6.399263284938), ('later', 5.235006891824569), ('by', 4.4228496815892715), ('all', 3.5398475684877595), ('got', 3.390344007102055)]
+Nearest to completion: [('hose', 0.47310951352119446), ('revenge', 0.46958500146865845), ('secretly', 0.4523251950740814), ('shoes', 0.3754305839538574), ('boots', 0.32862651348114014), ('pants', 0.3138774633407593), ('underwear', 0.3110986053943634), ('shoe', 0.30785268545150757), ('gloves', 0.3009603023529053), ('by', 0.29754316806793213)]
+
+--------------------------------------------------------------------------
+
+The man made a joke.
+The woman laughed at it.
+The man told the same joke later.
+The woman was not impressed.
+> The man realized his mistake.
+
+__About the match__
+Rarest shared words: [('laughed', (6.214016217314307, 6.214016217314307))]
+Score: 0.4246426222289389
+
+__About the completion__
+Rarest in completion: [('mistake', 7.489064943923955), ('realized', 5.003062403615317), ('man', 4.481560134144697)]
+Nearest to completion: [('mistake', 0.6945918202400208), ('man', 0.482538104057312), ('mistakes', 0.4516723155975342), ('realized', 0.4208966791629791), ('error', 0.4051802456378937), ('thief', 0.3585800528526306), ('errors', 0.34908223152160645), ('lapse', 0.33873891830444336), ('woman', 0.33321887254714966), ('fool', 0.3180953860282898)]
+
+--------------------------------------------------------------------------
+
+Susan went to see a comedy show.
+She was skeptical.
+It ended up being very funny.
+Susan thought it was the funniest thing.
+> She wanted to see more of the shows.
+
+__About the match__
+Rarest shared words: [('show', (5.403086001097979, 5.403086001097979)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.42062082355782837
+
+__About the completion__
+Rarest in completion: [('shows', 7.725453721988185), ('more', 4.774893167080915), ('see', 4.749074176950009), ('wanted', 3.6865044229876522)]
+Nearest to completion: [('shows', 0.6273514032363892), ('see', 0.5302770137786865), ('show', 0.4486624598503113), ('more', 0.44683173298835754), ('demonstrates', 0.4027111232280731), ('shown', 0.3941980004310608), ('indicates', 0.3940499424934387), ('showed', 0.39075013995170593), ('reveals', 0.38957780599594116), ('suggests', 0.3831585943698883)]
+
+--------------------------------------------------------------------------
+
+

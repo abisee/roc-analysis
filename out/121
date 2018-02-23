@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Megan was down on her luck.
+She wasn't doing very well and had just been laid off.
+Her friends got together and thought up a plan.
+They all came to Megan's to cheer her up.
+> Her friends helped her anyway they could and she was happy.
+
+__About the context__
+Rarest in context: [('cheer', 7.759375273063885), ('luck', 6.999536718005268), ('plan', 6.6493342885721525), ('laid', 6.594071609897103), ('doing', 5.4096434016441375), ('together', 5.103223510089326), ('well', 4.922113340481669), ('just', 4.34108345804243), ('thought', 4.2566176912522335), ('been', 4.117262170341722), ('off', 4.097583538900697), ('came', 4.084384931110616), ('down', 3.854967396162991), ('friends', 3.719960372872719), ('very', 3.353497422567824)]
+Nearest to context: [('together', 0.4141029715538025), ('luck', 0.39058995246887207), ('cheer', 0.3209282457828522), ('down', 0.30791762471199036), ('congratulations', 0.29059526324272156), ('off', 0.2888037860393524), ('Congratulations', 0.28345152735710144), ('congratulate', 0.2620479166507721), ('laid', 0.25282928347587585), ('thought', 0.2481808066368103)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('thanked', 7524, 12476, 0.48720940947532654), ('cheers', 11305, 8695, 0.47672954201698303), ('thanking', 17808, 2192, 0.4741300344467163), ('cheering', 9627, 10373, 0.4635217487812042), ('congratulated', 14091, 5909, 0.4580572843551636), ('cheered', 10552, 9448, 0.45487409830093384), ('standing_ovation', 14157, 5843, 0.45418423414230347), ('congratulations', 17962, 2038, 0.45006412267684937), ('congratulate', 12870, 7130, 0.43103474378585815), ('appreciative', 18061, 1939, 0.4176923334598541)]
+Nearest words to completions' keywords: [('thankful', 9423, 10577, 0.6005998849868774), ('cried', 11408, 8592, 0.5988959074020386), ('glad', 4258, 15742, 0.5962228178977966), ('grateful', 5853, 14147, 0.5931346416473389), ('thanking', 17808, 2192, 0.5807119607925415), ('smiling', 8090, 11910, 0.5730904936790466), ('happy', 1049, 18951, 0.5707048773765564), ('hugged', 16360, 3640, 0.5644288063049316), ('ecstatic', 17056, 2944, 0.5635507702827454), ('thanked', 7524, 12476, 0.5595220327377319)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.8514648675918579), ('had', 35, 19965, 0.7009584307670593), ('came', 256, 19744, 0.6728278994560242), ('went', 297, 19703, 0.6494722366333008), ('stayed', 2936, 17064, 0.6351010799407959), ('saw', 653, 19347, 0.6301478743553162), ('knew', 1039, 18961, 0.5995866656303406), ('seemed', 1617, 18383, 0.5955352187156677), ('remained', 1671, 18329, 0.5923590660095215), ('took', 263, 19737, 0.5884795784950256)]
+
+==========================================================================
+Neighbors
+==========================================================================
+TJ was very sad.
+His grandfather had just passed away.
+TJ's parents knew he was feeling bad.
+They did have one thing they knew of that might cheer him up.
+> His grandfather had left TJ his watch.
+
+__About the match__
+Rarest shared words: [('cheer', (7.759375273063885, 7.759375273063885)), ('just', (4.34108345804243, 4.34108345804243)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.39391286070215636
+
+__About the completion__
+Rarest in completion: [('grandfather', 7.90777527878214), ('watch', 5.956167108612188), ('left', 4.930206975855819)]
+Nearest to completion: [('grandfather', 0.6543667316436768), ('grandson', 0.556403636932373), ('uncle', 0.5231354236602783), ('father', 0.5060909390449524), ('watch', 0.4797312021255493), ('son', 0.44970282912254333), ('granddaughter', 0.4434739947319031), ('grandparents', 0.43072330951690674), ('grandmother', 0.42669445276260376), ('nephew', 0.42474493384361267)]
+
+--------------------------------------------------------------------------
+
+It was snowing outside.
+So Tina thought to build a snowman.
+She got three large snowballs together.
+When she was done it looked great.
+> She immediately took a photo of it.
+
+__About the match__
+Rarest shared words: [('together', (5.103223510089326, 5.103223510089326)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.38873796228843793
+
+__About the completion__
+Rarest in completion: [('photo', 7.265921392609745), ('immediately', 6.073595093670132), ('took', 4.067463120907994)]
+Nearest to completion: [('photo', 0.6796369552612305), ('photograph', 0.5807119011878967), ('photos', 0.525468647480011), ('Photo', 0.5199596881866455), ('Photos', 0.5170416831970215), ('immediately', 0.5112754702568054), ('photographs', 0.49243053793907166), ('pictures', 0.46436184644699097), ('took', 0.42746254801750183), ('photographer', 0.4244403839111328)]
+
+--------------------------------------------------------------------------
+
+Brad was in the park having a good day.
+He was playing Frisbee with some friends.
+He had put his iphone down before he started to play.
+When brad went back to get his iphone it was gone.
+> He was so mad and worried that his phone was missing.
+
+__About the match__
+Rarest shared words: [('down', (3.854967396162991, 3.854967396162991)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.3783771715229109
+
+__About the completion__
+Rarest in completion: [('mad', 6.769942276960749), ('missing', 6.701804471793531), ('worried', 6.368759830644585), ('phone', 5.470659292830488), ('so', 3.628612279567497)]
+Nearest to completion: [('worried', 0.5520099997520447), ('mad', 0.49638909101486206), ('concerned', 0.4763486683368683), ('missing', 0.4649200439453125), ('phone', 0.4538646638393402), ('alarmed', 0.4519721567630768), ('fearful', 0.43990111351013184), ('angry', 0.4294884502887726), ('distraught', 0.42641788721084595), ('confused', 0.42456328868865967)]
+
+--------------------------------------------------------------------------
+
+Daisy wanted to be a cheerleader.
+But Daisy was a bit over weight.
+Daisy tried out for the cheer team anyway.
+Daisy tried her best to make the team.
+> Daisy is now captain of the cheer team.
+
+__About the match__
+Rarest shared words: [('cheer', (7.759375273063885, 7.759375273063885))]
+Score: 0.37753425335739815
+
+__About the completion__
+Rarest in completion: [('captain', 8.64174445386234), ('cheer', 8.236279345754177), ('team', 5.479438980482533), ('now', 4.716476221684173), ('is', 4.0817459865209695)]
+Nearest to completion: [('captain', 0.6712485551834106), ('team', 0.5907319784164429), ('skipper', 0.5120078325271606), ('cheer', 0.5078157782554626), ('squad', 0.4939621090888977), ('captains', 0.4827975630760193), ('coach', 0.4361598491668701), ('Team', 0.4152410626411438), ('teammates', 0.39882558584213257), ('Captain', 0.3802269995212555)]
+
+--------------------------------------------------------------------------
+
+Matt was having a bad day.
+He felt his life could not get any worse.
+His friend April could tell he was feeling down.
+She talked to him to cheer him up.
+> After the conversation he realized tomorrow was a new day.
+
+__About the match__
+Rarest shared words: [('cheer', (7.759375273063885, 7.759375273063885)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.3716146209359165
+
+__About the completion__
+Rarest in completion: [('conversation', 8.058598168516724), ('tomorrow', 7.1284504019811425), ('realized', 5.003062403615317), ('after', 3.9503965716331964), ('new', 3.7799959404738015), ('day', 3.3461390948177767)]
+Nearest to completion: [('tomorrow', 0.4835302531719208), ('conversation', 0.4777308702468872), ('today', 0.4523482918739319), ('day', 0.42269861698150635), ('morning', 0.4137612581253052), ('afternoon', 0.39983293414115906), ('discussion', 0.39529749751091003), ('shortly', 0.3927067220211029), ('evening', 0.38759446144104004), ('Monday', 0.3778054714202881)]
+
+--------------------------------------------------------------------------
+
+The cheerleaders worked very hard on their new cheer.
+They were going to unveil it at the homecoming game.
+They worked hard for many days.
+Finally it was time to perform!
+> The crowd rose to their feet and clapped and yelled at the end.
+
+__About the match__
+Rarest shared words: [('cheer', (7.759375273063885, 7.759375273063885)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.36952017588792335
+
+__About the completion__
+Rarest in completion: [('clapped', 7.927977986099659), ('rose', 7.927977986099659), ('crowd', 7.05762434941253), ('feet', 6.9369963616239145), ('yelled', 6.707810495853742), ('end', 5.695114893316081), ('their', 4.437673918472774)]
+Nearest to completion: [('crowd', 0.5526099801063538), ('yelled', 0.5217180848121643), ('shouted', 0.5104450583457947), ('screamed', 0.49987947940826416), ('feet', 0.4802677631378174), ('chanted', 0.4608331620693207), ('shouting', 0.4494684040546417), ('rose', 0.4454800486564636), ('screaming', 0.44331130385398865), ('waving', 0.4387204945087433)]
+
+--------------------------------------------------------------------------
+
+Winslow was so excited to celebrate his birthday.
+He had already seen three friends and no one told him happy birthday.
+Winslow was starting to feel very bummed out.
+With his head down he headed back to his home.
+> He opened the door to a loud surprise, it was a party, no one forgot.
+
+__About the match__
+Rarest shared words: [('down', (3.854967396162991, 3.854967396162991)), ('friends', (3.719960372872719, 3.719960372872719)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.36481256172669924
+
+__About the completion__
+Rarest in completion: [('loud', 6.4967883050718775), ('surprise', 6.394848266728883), ('forgot', 5.976253867178926), ('opened', 5.961865129726826), ('door', 5.641854170159686), ('party', 5.569823041950802), ('no', 4.72556343828553), ('one', 3.351585275015767)]
+Nearest to completion: [('door', 0.46450886130332947), ('doors', 0.40745025873184204), ('loud', 0.407216340303421), ('party', 0.37101420760154724), ('surprise', 0.3481690287590027), ('no', 0.3200759291648865), ('forgot', 0.31812626123428345), ('opened', 0.3177443742752075), ('No', 0.30485251545906067), ('loudly', 0.290640652179718)]
+
+--------------------------------------------------------------------------
+
+Anna was having a bad day at work.
+Then she got stuck in traffic coming home.
+But when she got there, she got a surprise.
+Her husband had brought her flowers to cheer her up!
+> Anna was grateful and pleased!
+
+__About the match__
+Rarest shared words: [('cheer', (7.759375273063885, 7.759375273063885))]
+Score: 0.3555823974728475
+
+__About the completion__
+Rarest in completion: [('grateful', 7.529338843061895), ('pleased', 6.959985879848613), ('!', 3.536809591467683)]
+Nearest to completion: [('pleased', 0.8817389607429504), ('grateful', 0.8448426723480225), ('delighted', 0.7950607538223267), ('thrilled', 0.7543593645095825), ('proud', 0.7355029582977295), ('appreciative', 0.7186457514762878), ('thankful', 0.713294267654419), ('excited', 0.6426896452903748), ('glad', 0.6408272981643677), ('fortunate', 0.5886165499687195)]
+
+--------------------------------------------------------------------------
+
+Everyone loved coach Mike.
+Coach Mike worked hard at his job.
+He really cared about the kids and how well they did.
+Everyone came together to tell him how much they thought of him.
+> Coach Mike was very touched and thanked everyone.
+
+__About the match__
+Rarest shared words: [('together', (5.103223510089326, 5.103223510089326)), ('well', (4.922113340481669, 4.922113340481669)), ('thought', (4.2566176912522335, 4.2566176912522335)), ('came', (4.084384931110616, 4.084384931110616))]
+Score: 0.3555042980781499
+
+__About the completion__
+Rarest in completion: [('touched', 7.88797265148596), ('thanked', 7.040674791098756), ('everyone', 5.197061960260446), ('very', 3.793301345264873)]
+Nearest to completion: [('thanked', 0.7074905633926392), ('thanking', 0.587902843952179), ('thank', 0.5699535012245178), ('commended', 0.5669407248497009), ('congratulated', 0.5637776851654053), ('touched', 0.5165321826934814), ('praised', 0.5116437077522278), ('grateful', 0.4973278045654297), ('paid_tribute', 0.4897752106189728), ('appreciative', 0.4866950809955597)]
+
+--------------------------------------------------------------------------
+
+Martha wanted to go to the fair.
+So off she went.
+When she got there she met her friends.
+They had fun.
+> They stayed for three hours.
+
+__About the match__
+Rarest shared words: [('off', (4.097583538900697, 4.097583538900697)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.35268458959842364
+
+__About the completion__
+Rarest in completion: [('stayed', 6.266838699288669), ('three', 5.73075340876344), ('hours', 5.268717949166882)]
+Nearest to completion: [('hours', 0.6366205811500549), ('stayed', 0.55600905418396), ('six', 0.4935081899166107), ('hour', 0.48440825939178467), ('days', 0.48387381434440613), ('seven', 0.4743272662162781), ('five', 0.4709921181201935), ('minutes', 0.46474772691726685), ('eight', 0.4647215008735657), ('three', 0.46389040350914)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jasmine had homework to do.
+She did not have a pencil.
+She looked around the room for one.
+The room did not have a pencil.
+> Jasmine decided not to do her homework.
+
+__About the context__
+Rarest in context: [('pencil', 8.130938829496369), ('homework', 6.757223250583338), ('room', 4.882504202386623), ('do', 4.398042489965658), ('around', 4.316528652935222), ('looked', 4.167272590916383), ('have', 4.032436257125603), ('not', 3.4656147206885297)]
+Nearest to context: [('homework', 0.5121318697929382), ('room', 0.3653077781200409), ('do', 0.3640396296977997), ('have', 0.34659630060195923), ('not', 0.31268420815467834), ('seem', 0.2977958917617798), ('rooms', 0.2936648726463318), ('know', 0.2732350528240204), ('desks', 0.2651456892490387), ('tables', 0.2616737484931946)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('homework', 10707, 9293, 0.5128578543663025), ('exams', 10032, 9968, 0.47071635723114014), ('exam', 8168, 11832, 0.4389592111110687), ('students', 317, 19683, 0.40887346863746643), ('tutoring', 19987, 13, 0.39344754815101624), ('math', 5432, 14568, 0.3898746073246002), ('examinations', 16039, 3961, 0.37888726592063904), ('instruction', 7974, 12026, 0.370464026927948), ('semester', 7888, 12112, 0.36984679102897644), ('curriculum', 6930, 13070, 0.3694233298301697)]
+Nearest words to completions' keywords: [('students', 317, 19683, 0.6243033409118652), ('school', 195, 19805, 0.605965256690979), ('teaching', 3079, 16921, 0.5951386094093323), ('teachers', 1715, 18285, 0.5939239263534546), ('homework', 10707, 9293, 0.5906511545181274), ('teach', 4016, 15984, 0.5905274152755737), ('classroom', 4742, 15258, 0.588040292263031), ('math', 5432, 14568, 0.5778507590293884), ('learning', 1987, 18013, 0.5759077072143555), ('tutoring', 19987, 13, 0.570845901966095)]
+Nearest words to completions' verbs: [('wanted', 583, 19417, 0.6858482360839844), ('knew', 1039, 18961, 0.6544309854507446), ('did', 92, 19908, 0.6520604491233826), ('decided', 846, 19154, 0.6472618579864502), ('got', 193, 19807, 0.6401071548461914), ('learned', 1638, 18362, 0.6180819869041443), ('took', 263, 19737, 0.6178346872329712), ('had', 35, 19965, 0.6172745823860168), ('do', 58, 19942, 0.6111457347869873), ('figured', 6111, 13889, 0.6085633635520935)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jason's teacher assigned a worksheet for homework.
+He knew she never checked homework so was not going to do it.
+When he got to class the next day, his teacher asked for the work.
+Jason did not have it done and got a zero.
+> Jason learned to always to his homework.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658)), ('have', (4.032436257125603, 4.032436257125603)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.516894386512897
+
+__About the completion__
+Rarest in completion: [('homework', 7.28719879105703), ('learned', 5.793932310384972), ('always', 4.653532310076647)]
+Nearest to completion: [('homework', 0.7117006182670593), ('learned', 0.5374062061309814), ('taught', 0.43447786569595337), ('learn', 0.4334046542644501), ('learning', 0.41307392716407776), ('always', 0.40134355425834656), ('lessons', 0.38712945580482483), ('teach', 0.38512179255485535), ('math', 0.3630201816558838), ('tutoring', 0.357532799243927)]
+
+--------------------------------------------------------------------------
+
+Abby hated to do her homework.
+She would lie to her parents when asked if it was done.
+When it was time for the big test, Abby didn't know the answers.
+Abby failed the test.
+> After the test, her parents knew about the homework.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.5080414924157635
+
+__About the completion__
+Rarest in completion: [('homework', 7.28719879105703), ('test', 5.823346195591265), ('knew', 5.226753750067849), ('parents', 5.059383593126858), ('about', 4.124950211825675), ('after', 3.9503965716331964)]
+Nearest to completion: [('homework', 0.5921220183372498), ('parents', 0.5361602902412415), ('test', 0.4770773649215698), ('tests', 0.43951430916786194), ('Parents', 0.41760140657424927), ('testing', 0.39667803049087524), ('classmates', 0.38797056674957275), ('math', 0.3797428011894226), ('exams', 0.37132757902145386), ('tutoring', 0.3659835159778595)]
+
+--------------------------------------------------------------------------
+
+I was watching youtube the other day.
+I completely lost track of time though.
+I completely forgot to do my homework.
+I had to stay up very late to make sure I got my homework done.
+> I'll have to pay more attention to the time whenever I watch youtube.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.5012194155586169
+
+__About the completion__
+Rarest in completion: [('youtube', 9.517213191216241), ('whenever', 7.927977986099659), ("'ll", 7.600290579034179), ('attention', 6.999516718605249), ('pay', 6.073595093670132), ('watch', 5.956167108612188), ('more', 4.774893167080915), ('have', 4.400417701291594), ('time', 3.981849368185002)]
+Nearest to completion: [('attention', 0.5340327024459839), ('watch', 0.42410850524902344), ('whenever', 0.4017890393733978), ('pay', 0.3886024057865143), ('more', 0.3843500316143036), ('see', 0.3044154644012451), ('anytime', 0.30399590730667114), ('if', 0.2961553931236267), ('wherever', 0.2915349006652832), ('listen', 0.2900784909725189)]
+
+--------------------------------------------------------------------------
+
+Kayla decided she'd go to the park to do her coursework.
+She expected it'd be quiet and she'd get a lot done.
+The park was full because it was such a nice day.
+Kayla tried to ignore the commotion until a dog ate her homework.
+> She decided at that point she really needed to do it in her dorm room.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.4907962172163129
+
+__About the completion__
+Rarest in completion: [('dorm', 8.775275846486863), ('point', 7.400957676413688), ('room', 5.358330107856569), ('needed', 4.868983515767702), ('do', 4.865159419329299), ('really', 4.8267831612773255), ('decided', 3.495461951503386)]
+Nearest to completion: [('needed', 0.4732898771762848), ('need', 0.4281708002090454), ('point', 0.4116570055484772), ('necessary', 0.39171990752220154), ('room', 0.3869517147541046), ('decided', 0.34929919242858887), ('do', 0.3443598449230194), ('want', 0.3276999592781067), ('imperative', 0.3228892385959625), ('wanted', 0.3167099356651306)]
+
+--------------------------------------------------------------------------
+
+Lewis didn't do his homework.
+He had to go to summer school.
+He liked the teacher.
+They became good friends.
+> Lewis learned a lot at summer school.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.4512458990925704
+
+__About the completion__
+Rarest in completion: [('summer', 5.903596221602851), ('learned', 5.793932310384972), ('lot', 4.749074176950009), ('school', 4.401617461483498)]
+Nearest to completion: [('school', 0.529622495174408), ('summer', 0.4962169826030731), ('learned', 0.482394814491272), ('elementary', 0.45267078280448914), ('semester', 0.43811631202697754), ('eighth_grade', 0.43449464440345764), ('lot', 0.4315040707588196), ('elementary_schools', 0.3967690169811249), ('summers', 0.3920334577560425), ('spring', 0.38237810134887695)]
+
+--------------------------------------------------------------------------
+
+Jed was doing his math homework.
+He was having trouble understanding the problems.
+Jed called his friend that was doing well in the class.
+Jed's friend came over to help.
+> He explained the problems to Jed.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338))]
+Score: 0.4485179326391697
+
+__About the completion__
+Rarest in completion: [('explained', 7.342461469732079), ('problems', 7.3311619144781455)]
+Nearest to completion: [('problems', 0.7700392007827759), ('problem', 0.6373500823974609), ('explained', 0.6035491228103638), ('difficulties', 0.5941398739814758), ('stresses', 0.5125186443328857), ('troubles', 0.5081262588500977), ('issues', 0.5063063502311707), ('Problems', 0.485068678855896), ('explains', 0.47988101840019226), ('challenges', 0.47641921043395996)]
+
+--------------------------------------------------------------------------
+
+Ian always let Lily copy his math homework before class.
+And he let her cheat off him during tests too.
+But the last two days of class, Ian was sick.
+And Lily didn't know what to do.
+> On the day of the final exam, Lily failed.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.44758998436196096
+
+__About the completion__
+Rarest in completion: [('failed', 7.194825470926014), ('final', 7.119317918417869), ('exam', 6.863971226609025), ('day', 3.3461390948177767)]
+Nearest to completion: [('exam', 0.7053332924842834), ('exams', 0.6506587266921997), ('examinations', 0.6024505496025085), ('failed', 0.5049906969070435), ('final', 0.4885602593421936), ('examination', 0.48140621185302734), ('test', 0.4399110972881317), ('failing', 0.4276462495326996), ('tests', 0.4266509413719177), ('failure', 0.34886297583580017)]
+
+--------------------------------------------------------------------------
+
+The teacher came to classes with a disgusted look on her face.
+She showed us a movie about the book we're reading in class.
+While the movie was running, she took a nap on the desk.
+I was confused and yet, I didn't bother to say anything.
+> A lot of the students decided to leave early, including myself.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4475643842231153
+
+__About the completion__
+Rarest in completion: [('including', 8.64174445386234), ('myself', 7.137667057086066), ('students', 7.074866155847036), ('leave', 6.163806473390434), ('early', 6.149917361229766), ('lot', 4.749074176950009), ('decided', 3.495461951503386)]
+Nearest to completion: [('students', 0.4581451714038849), ('myself', 0.401919424533844), ('Students', 0.34560883045196533), ('lot', 0.3226192593574524), ('ourselves', 0.3201817572116852), ('faculty', 0.31138336658477783), ('semester', 0.30344587564468384), ('academic', 0.29940956830978394), ('teachers', 0.28753411769866943), ('decided', 0.28691205382347107)]
+
+--------------------------------------------------------------------------
+
+Susie had been doing her homework all day.
+She was getting quite tired.
+She then decided it would be prudent to take a break.
+She went outside to drink water.
+> She ended up taking a break for an hour.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338))]
+Score: 0.4353468793476238
+
+__About the completion__
+Rarest in completion: [('break', 6.610312131368865), ('taking', 6.057746901430109), ('hour', 5.830836867320422), ('ended', 5.160504364526648), ('an', 3.8221351571901856)]
+Nearest to completion: [('break', 0.5144472122192383), ('ended', 0.5087250471115112), ('hour', 0.4949713349342346), ('ending', 0.4680648148059845), ('lasted', 0.40865597128868103), ('an', 0.37887656688690186), ('hours', 0.3767104744911194), ('broke', 0.3704228699207306), ('breaking', 0.35791727900505066), ('during', 0.3545953929424286)]
+
+--------------------------------------------------------------------------
+
+I walked into Mr.Smith's room.
+He showed where to sit and went over the rules of detention.
+Instead of wasting time doing nothing, I did some homework.
+I managed to finish most of it when detention was over.
+> Before I left, the teacher gave me a warning.
+
+__About the match__
+Rarest shared words: [('homework', (6.757223250583338, 6.757223250583338)), ('room', (4.882504202386623, 4.882504202386623))]
+Score: 0.4338496691695281
+
+__About the completion__
+Rarest in completion: [('warning', 7.8308142376460115), ('teacher', 5.677760878622929), ('left', 4.930206975855819), ('before', 4.900114434362875), ('gave', 4.8834555483762365), ('me', 4.441414571213571)]
+Nearest to completion: [('warning', 0.4804799556732178), ('teacher', 0.43425026535987854), ('gave', 0.4152918756008148), ('warnings', 0.3563012480735779), ('left', 0.3359842002391815), ('Teacher', 0.3282845616340637), ('teachers', 0.3147636651992798), ('educator', 0.2941495180130005), ('instructor', 0.2896043658256531), ('Teachers', 0.2860919237136841)]
+
+--------------------------------------------------------------------------
+
+

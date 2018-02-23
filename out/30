@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Anna was filling her bird feeders.
+But a chunk of suet fell onto the ground.
+Her dog rushed over and lapped it up!
+Anna was astonished.
+> She had no idea dogs loved bird food!
+
+__About the context__
+Rarest in context: [('suet', 10.433523922490414), ('lapped', 10.433523922490414), ('feeders', 10.02805881438225), ('astonished', 9.180760953995046), ('chunk', 9.047229561370523), ('filling', 7.948617272702413), ('bird', 6.809182989514049), ('rushed', 6.472710752892835), ('onto', 6.306389537445322), ('ground', 5.7421760402612705), ('dog', 4.724753906323174), ('fell', 4.668332819705569), ('over', 3.8982826514767552), ('!', 3.7291095675263066)]
+Nearest to context: [('bird', 0.4573071002960205), ('chunk', 0.428649365901947), ('chunks', 0.39668795466423035), ('tumbled', 0.3829929232597351), ('dog', 0.3820149600505829), ('slid', 0.374904990196228), ('ground', 0.36613279581069946), ('plunged', 0.3618195354938507), ('birds', 0.3556530475616455), ('rushed', 0.3538351058959961)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('bird', 6510, 13490, 0.5466269850730896), ('snake', 14786, 5214, 0.5340049862861633), ('animal', 2801, 17199, 0.5255481600761414), ('animals', 2418, 17582, 0.5085794925689697), ('dog', 2043, 17957, 0.5033024549484253), ('birds', 4377, 15623, 0.4944714605808258), ('dogs', 2766, 17234, 0.4919467270374298), ('veterinarian', 15368, 4632, 0.44024157524108887), ('snakes', 18376, 1624, 0.4345462918281555), ('cats', 7107, 12893, 0.4260026216506958)]
+Nearest words to completions' keywords: [('dog', 2043, 17957, 0.6781156659126282), ('animals', 2418, 17582, 0.662734866142273), ('dogs', 2766, 17234, 0.653843879699707), ('animal', 2801, 17199, 0.6428605318069458), ('cats', 7107, 12893, 0.6310874223709106), ('cat', 5947, 14053, 0.6299675107002258), ('snake', 14786, 5214, 0.6023741364479065), ('puppy', 16503, 3497, 0.5999114513397217), ('pet', 4804, 15196, 0.5972212553024292), ('pets', 7137, 12863, 0.5875409245491028)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.5909150242805481), ('gave', 573, 19427, 0.5844186544418335), ('turned', 760, 19240, 0.581653356552124), ('took', 263, 19737, 0.5717595815658569), ('brought', 841, 19159, 0.566615104675293), ('got', 193, 19807, 0.5664445757865906), ('dropped', 1066, 18934, 0.561499297618866), ('went', 297, 19703, 0.5601906776428223), ('had', 35, 19965, 0.5416568517684937), ('picked', 1606, 18394, 0.5380773544311523)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Gretchen sliced the hot pie.
+Some pie filling squirted out of the pie.
+The hot filling landed on her arm.
+Gretchen got startled.
+> She dropped her knife on the ground.
+
+__About the match__
+Rarest shared words: [('filling', (7.948617272702413, 7.948617272702413))]
+Score: 0.46324082876850275
+
+__About the completion__
+Rarest in completion: [('knife', 8.487593774035082), ('dropped', 6.326736840869738), ('ground', 6.247644252032521)]
+Nearest to completion: [('knife', 0.713636040687561), ('knives', 0.5585565567016602), ('ground', 0.5195211172103882), ('dropped', 0.459073543548584), ('blade', 0.4489370584487915), ('handgun', 0.4038371741771698), ('pistol', 0.3929857909679413), ('weapon', 0.39089056849479675), ('ax', 0.38760146498680115), ('sword', 0.38578492403030396)]
+
+--------------------------------------------------------------------------
+
+Gary saw a feather on the ground.
+He went to pick it up but heard a chirp.
+He looked around in the nearby bushes.
+He found a bird with its wing broken.
+> He took the bird to a veterinarian right away.
+
+__About the match__
+Rarest shared words: [('bird', (6.809182989514049, 6.809182989514049)), ('ground', (5.7421760402612705, 5.7421760402612705))]
+Score: 0.44983796278229504
+
+__About the completion__
+Rarest in completion: [('veterinarian', 9.334891634422286), ('bird', 7.119317918417869), ('right', 5.585387558491915), ('away', 4.824948298377215), ('took', 4.067463120907994)]
+Nearest to completion: [('veterinarian', 0.6836823225021362), ('bird', 0.6039475202560425), ('animal', 0.5074785947799683), ('birds', 0.48981156945228577), ('veterinary', 0.487935334444046), ('vet', 0.4510364532470703), ('animals', 0.44821080565452576), ('wildlife', 0.430587500333786), ('pet', 0.4206095039844513), ('dog', 0.41700467467308044)]
+
+--------------------------------------------------------------------------
+
+Like most people, Jeff never thought twice about walking under trees.
+As he got to work last Monday, he walked beneath a tree full of birds.
+Suddenly, a large pile of bird poop landed on his shirt.
+Jeff was an hour late for work because he had to go home and change.
+> From now on, he will probably walk around the bird-filled trees.
+
+__About the match__
+Rarest shared words: [('bird', (6.809182989514049, 6.809182989514049))]
+Score: 0.4450962926104314
+
+__About the completion__
+Rarest in completion: [('bird-filled', 11.12665110365034), ('probably', 8.38581107972514), ('trees', 7.353890165555702), ('will', 6.119354710819599), ('walk', 5.772426105164008), ('around', 4.892240377931969), ('now', 4.716476221684173), ('from', 3.996552593524763)]
+Nearest to completion: [('trees', 0.539206326007843), ('around', 0.42413172125816345), ('Trees', 0.41980382800102234), ('tree', 0.38107001781463623), ('will', 0.3729502558708191), ('from', 0.3687770664691925), ('walk', 0.3683936595916748), ('Tree', 0.33723917603492737), ('Walk', 0.32157275080680847), ('vegetation', 0.32115650177001953)]
+
+--------------------------------------------------------------------------
+
+The man scrambled some eggs.
+He accidentally knocked the pan.
+The eggs flew everywhere.
+His dog came and ate the eggs.
+> The eggs gave the dogs bad gas.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174))]
+Score: 0.43750866341554195
+
+__About the completion__
+Rarest in completion: [('eggs', 7.03230654142824), ('dogs', 6.80916299011403), ('gas', 6.707810495853742), ('bad', 5.390078806171148), ('gave', 4.8834555483762365)]
+Nearest to completion: [('eggs', 0.6060615181922913), ('chickens', 0.4950265884399414), ('dogs', 0.49440884590148926), ('gas', 0.4733390808105469), ('egg', 0.46812012791633606), ('pigs', 0.44849398732185364), ('cats', 0.4481872022151947), ('animals', 0.43762439489364624), ('natural_gas', 0.4088009297847748), ('pig', 0.4058693051338196)]
+
+--------------------------------------------------------------------------
+
+Elijah walked through the grass barefooted to take the trash out.
+As he opened the dumpster, he felt a bite at his foot.
+He looked down and saw a snake was biting him.
+He screamed for help and his mom rushed out to save him.
+> She called 911 and the paramedics treated Elijah's snake bite.
+
+__About the match__
+Rarest shared words: [('rushed', (6.472710752892835, 6.472710752892835))]
+Score: 0.41290848336386426
+
+__About the completion__
+Rarest in completion: [('paramedics', 9.873888135154973), ('911', 9.25484892674875), ('treated', 7.969650682500228), ('snake', 7.742260840304566), ('bite', 7.234830805539714), ('called', 4.874747220484451), ("'s", 3.3551623435327245)]
+Nearest to completion: [('paramedics', 0.6012427806854248), ('treated', 0.5671350955963135), ('snake', 0.5456709861755371), ('bite', 0.5255202054977417), ('bites', 0.5203899145126343), ('bitten', 0.5114350914955139), ('ambulance', 0.46223706007003784), ('treat', 0.40765467286109924), ('medics', 0.39996597170829773), ('treating', 0.3990470767021179)]
+
+--------------------------------------------------------------------------
+
+Fred was cooking hamburgers at the barbecue.
+He told everyone how good his hamburgers were while turning them.
+Suddenly a flock of birds flew over his house.
+And the hamburgers were covered in bird droppings.
+> Fred, disappointed, ordered hamburgers for everyone.
+
+__About the match__
+Rarest shared words: [('bird', (6.809182989514049, 6.809182989514049)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.41264144837847205
+
+__About the completion__
+Rarest in completion: [('hamburgers', 8.775275846486863), ('disappointed', 6.62130125294446), ('ordered', 6.023740533444914), ('everyone', 5.197061960260446)]
+Nearest to completion: [('disappointed', 0.599758505821228), ('ordered', 0.5717360377311707), ('saddened', 0.4390754699707031), ('pleased', 0.42763659358024597), ('outraged', 0.4238623380661011), ('appealed', 0.4182303249835968), ('appalled', 0.41468486189842224), ('satisfied', 0.4056428074836731), ('angered', 0.38250479102134705), ('shocked', 0.3751136064529419)]
+
+--------------------------------------------------------------------------
+
+Tim had not seen his cat for the past few days.
+Tim picked up his cat to pet it.
+A bird flew by the window outside.
+The cat freaked out.
+> Tim ended up with four cuts on his hand.
+
+__About the match__
+Rarest shared words: [('bird', (6.809182989514049, 6.809182989514049))]
+Score: 0.4100854472049844
+
+__About the completion__
+Rarest in completion: [('cuts', 9.047209561970504), ('tim', 7.868554565628858), ('four', 6.567524856163656), ('hand', 6.3063695380453035), ('ended', 5.160504364526648)]
+Nearest to completion: [('cuts', 0.6229363679885864), ('ended', 0.4806312024593353), ('reductions', 0.4687190353870392), ('nine', 0.4382135570049286), ('cutbacks', 0.43650200963020325), ('ending', 0.4341762363910675), ('cut', 0.42073386907577515), ('six', 0.4121103286743164), ('slashing', 0.4031229019165039), ('cutting', 0.39289283752441406)]
+
+--------------------------------------------------------------------------
+
+Patty chased after her favorite dog.
+The dog ran from Patty around the yard.
+Patty slipped on the wet grass.
+The dog came over to Patty.
+> The dog licked Patty's face.
+
+__About the match__
+Rarest shared words: [('dog', (4.724753906323174, 4.724753906323174)), ('over', (3.8982826514767552, 3.8982826514767552))]
+Score: 0.40375023682647965
+
+__About the completion__
+Rarest in completion: [('licked', 9.25484892674875), ('face', 6.399263284938), ('dog', 5.026332151630276), ("'s", 3.3551623435327245)]
+Nearest to completion: [('dog', 0.7313398122787476), ('dogs', 0.6089470982551575), ('face', 0.595107913017273), ('puppy', 0.5885503888130188), ('Dog', 0.5401036143302917), ('cat', 0.5262717008590698), ('pet', 0.5250353813171387), ('animal', 0.49930211901664734), ('Pet', 0.45271506905555725), ('cats', 0.44251805543899536)]
+
+--------------------------------------------------------------------------
+
+Annie put a bird bath in her yard.
+Birds started frequenting it right away.
+The splashed around in the water.
+Annie loved watching them standing in it.
+> She added a bird feeder so they could be fed, too.
+
+__About the match__
+Rarest shared words: [('bird', (6.809182989514049, 6.809182989514049))]
+Score: 0.3944579408637658
+
+__About the completion__
+Rarest in completion: [('feeder', 9.873888135154973), ('fed', 7.400957676413688), ('added', 7.319988613880021), ('bird', 7.119317918417869), ('too', 4.812197670258433), ('be', 4.0931446193626435), ('could', 3.8258407366367204), ('so', 3.628612279567497)]
+Nearest to completion: [('bird', 0.4800042510032654), ('fed', 0.434817910194397), ('too', 0.43245646357536316), ('birds', 0.412756085395813), ('be', 0.3703499436378479), ('so', 0.359394907951355), ('overly', 0.35492420196533203), ('added', 0.3454171419143677), ('sufficiently', 0.3389577567577362), ('feeding', 0.3344751298427582)]
+
+--------------------------------------------------------------------------
+
+Dane was working in a fast food restaurant.
+He was dropping fries into the deep fat fryer.
+When he dropped the fries the grease flew in the air.
+Drops of grease flew onto Dane's arm.
+> Dane burned his arm with the grease.
+
+__About the match__
+Rarest shared words: [('onto', (6.306389537445322, 6.306389537445322))]
+Score: 0.394035764921704
+
+__About the completion__
+Rarest in completion: [('dane', 11.12665110365034), ('grease', 8.98658494015407), ('arm', 7.007613928837868), ('burned', 6.967768020290668)]
+Nearest to completion: [('burned', 0.7146198153495789), ('arm', 0.6587900519371033), ('burnt', 0.5914295315742493), ('burns', 0.5270753502845764), ('charred', 0.49039891362190247), ('burning', 0.4819049537181854), ('burn', 0.47549185156822205), ('damaged', 0.36476466059684753), ('chopped', 0.35649287700653076), ('severed', 0.3550526797771454)]
+
+--------------------------------------------------------------------------
+
+

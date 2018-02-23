@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Joy and Lizzy wanted to make breakfast in bed for their mom.
+It was her birthday so she deserved something special.
+She like her eggs sunny side up.
+The girls tried but they kept breaking the eggs.
+> So their mom had scrambled eggs instead.
+
+__About the context__
+Rarest in context: [('deserved', 8.418620901948149), ('breaking', 7.630163541583879), ('sunny', 7.298029706561264), ('eggs', 6.5833763207803555), ('girls', 6.373080911943995), ('breakfast', 6.364497168252603), ('side', 6.102790582204083), ('special', 6.070425297702051), ('bed', 5.4329389642476595), ('kept', 5.254553313574943), ('birthday', 5.112955947007557), ('something', 4.728076168515152), ('mom', 4.373233184452579), ('like', 4.351305012113968), ('make', 4.27972796346498), ('their', 4.071358259710607), ('tried', 3.9806866353359713), ('so', 3.307436649191289)]
+Nearest to context: [('Mother_Day', 0.4290981590747833), ('breakfast', 0.4120270311832428), ('birthday', 0.3840465247631073), ('eggs', 0.37055647373199463), ('sunny', 0.35823875665664673), ('moms', 0.3552124500274658), ('Mom', 0.34686556458473206), ('mothers', 0.34565696120262146), ('mom', 0.33656787872314453), ('cakes', 0.3346448838710785)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('eggs', 6337, 13663, 0.5486242771148682), ('egg', 9757, 10243, 0.4869914948940277), ('delicious', 10595, 9405, 0.48658519983291626), ('breakfast', 5339, 14661, 0.46522819995880127), ('bacon', 18529, 1471, 0.4535442292690277), ('tasty', 16425, 3575, 0.45010319352149963), ('ate', 9337, 10663, 0.431400865316391), ('meal', 4866, 15134, 0.4310438930988312), ('cakes', 19210, 790, 0.42731672525405884), ('eat', 2785, 17215, 0.4242886006832123)]
+Nearest words to completions' keywords: [('eat', 2785, 17215, 0.6462463140487671), ('delicious', 10595, 9405, 0.6318166851997375), ('eating', 3763, 16237, 0.6100127696990967), ('tasty', 16425, 3575, 0.5966660976409912), ('meal', 4866, 15134, 0.5854865908622742), ('dessert', 12865, 7135, 0.5832423567771912), ('snack', 14503, 5497, 0.5717431902885437), ('ate', 9337, 10663, 0.5654382109642029), ('eaten', 11812, 8188, 0.5630625486373901), ('bacon', 18529, 1471, 0.5541355609893799)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7653524279594421), ('ate', 9337, 10663, 0.6660346984863281), ('came', 256, 19744, 0.654778242111206), ('knew', 1039, 18961, 0.654606282711029), ('was', 10, 19990, 0.6536040902137756), ('got', 193, 19807, 0.6339443922042847), ('went', 297, 19703, 0.6279743909835815), ('saw', 653, 19347, 0.6219184398651123), ('woke', 10199, 9801, 0.6020106673240662), ('did', 92, 19908, 0.5914270281791687)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Anna's son John always ate cereal for breakfast.
+He never liked anything else.
+But then one day they were out of cereal!
+Anna made him toast and eggs instead.
+> He ate it grudgingly, but still wished for cereal!
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('breakfast', (6.364497168252603, 6.364497168252603))]
+Score: 0.4513615227205629
+
+__About the completion__
+Rarest in completion: [('grudgingly', 10.433503923090395), ('cereal', 7.90777527878214), ('wished', 7.25545009274245), ('ate', 5.493648811055187), ('still', 5.390078806171148), ('!', 3.536809591467683), ('but', 3.4639482432028115)]
+Nearest to completion: [('cereal', 0.6698330640792847), ('ate', 0.6267829537391663), ('eaten', 0.49850305914878845), ('peanut_butter', 0.44789257645606995), ('eat', 0.4337931275367737), ('snack', 0.4335058033466339), ('eating', 0.4152451753616333), ('chocolate', 0.39104583859443665), ('drank', 0.38879022002220154), ('potato', 0.36638152599334717)]
+
+--------------------------------------------------------------------------
+
+Rob needed to bake a cake for someone's birthday.
+But it was too hot to turn on his oven.
+So he planned to bake the cake late at night.
+But he had trouble staying awake.
+> When he woke up, he realized he never baked the cake.
+
+__About the match__
+Rarest shared words: [('birthday', (5.112955947007557, 5.112955947007557)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4231860899266493
+
+__About the completion__
+Rarest in completion: [('baked', 7.88797265148596), ('cake', 6.7959177633640095), ('woke', 5.706116104378054), ('realized', 5.003062403615317), ('never', 4.624610964031577), ('when', 3.4368224349138567)]
+Nearest to completion: [('baked', 0.5817320942878723), ('cake', 0.537032425403595), ('woke', 0.45267534255981445), ('cakes', 0.4420464336872101), ('realized', 0.40079638361930847), ('cooked', 0.37782225012779236), ('dessert', 0.3713769018650055), ('baking', 0.3520660996437073), ('bread', 0.3357696235179901), ('waking', 0.3308415114879608)]
+
+--------------------------------------------------------------------------
+
+John and Susie were making Mother's Day breakfast for their mom.
+She loved her eggs over easy.
+John fried four eggs and broke the yolks on every one.
+He only had two left!
+> Their mom had scrambled eggs instead!
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('breakfast', (6.364497168252603, 6.364497168252603)), ('mom', (4.373233184452579, 4.373233184452579)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.42296248796839836
+
+__About the completion__
+Rarest in completion: [('scrambled', 8.561701746188803), ('eggs', 7.03230654142824), ('instead', 5.508063475057371), ('mom', 4.822202301228359), ('their', 4.437673918472774), ('!', 3.536809591467683)]
+Nearest to completion: [('eggs', 0.6156107783317566), ('egg', 0.5279319286346436), ('scrambled', 0.4677428901195526), ('scrambling', 0.3735513985157013), ('moms', 0.3494029939174652), ('offspring', 0.34376129508018494), ('chickens', 0.3393357992172241), ('mom', 0.33440133929252625), ('mothers', 0.3295053541660309), ('newborn', 0.32935938239097595)]
+
+--------------------------------------------------------------------------
+
+Yesterday I ate a very healthy breakfast.
+I made eggs and bacon.
+When I made the eggs I accidentally broke a few of them.
+I am really glad I bought extra eggs the day before.
+> I still have plenty of eggs left to make a healthy breakfast tomorrow.
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('breakfast', (6.364497168252603, 6.364497168252603))]
+Score: 0.420484652445728
+
+__About the completion__
+Rarest in completion: [('plenty', 8.106226217505977), ('tomorrow', 7.1284504019811425), ('healthy', 7.049113659744621), ('eggs', 7.03230654142824), ('breakfast', 6.856953653950378), ('still', 5.390078806171148), ('left', 4.930206975855819), ('make', 4.7898253725039), ('have', 4.400417701291594)]
+Nearest to completion: [('healthy', 0.4944648742675781), ('eggs', 0.48129066824913025), ('plenty', 0.4518851935863495), ('breakfast', 0.44101279973983765), ('healthier', 0.39743006229400635), ('egg', 0.3956468403339386), ('tomorrow', 0.37285688519477844), ('tasty', 0.3675227165222168), ('Healthy', 0.36159831285476685), ('Plenty', 0.34757500886917114)]
+
+--------------------------------------------------------------------------
+
+Mary's family enjoyed pancakes and eggs on lazy weekend mornings.
+Mary woke up early on Saturday to give her family a surprise.
+She heated up the stove and began to cook.
+The family woke up to the delicious smell of their favorite breakfast.
+> The family all came downstairs and began eating in joy.
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('breakfast', (6.364497168252603, 6.364497168252603)), ('their', (4.071358259710607, 4.071358259710607))]
+Score: 0.4166830106455326
+
+__About the completion__
+Rarest in completion: [('downstairs', 8.264450222720871), ('joy', 7.708924420036975), ('eating', 5.930920325877405), ('began', 5.17731148284303), ('family', 4.6880997737433745), ('came', 4.538412620640003), ('all', 3.5398475684877595)]
+Nearest to completion: [('joy', 0.4880405068397522), ('downstairs', 0.45017504692077637), ('began', 0.38592100143432617), ('family', 0.3851551413536072), ('upstairs', 0.3685576021671295), ('kitchen', 0.36504316329956055), ('eating', 0.36057230830192566), ('laughter', 0.34815841913223267), ('dining_room', 0.34314751625061035), ('happiness', 0.33461201190948486)]
+
+--------------------------------------------------------------------------
+
+Andrea was lactose intolerant.
+She went to her best friend's birthday party.
+The hosts offered the kids cake and ice cream.
+Andrea didn't want to be an outcast, so she ate the ice cream.
+> Andrea had stomach pains all night.
+
+__About the match__
+Rarest shared words: [('birthday', (5.112955947007557, 5.112955947007557)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.41077553578557624
+
+__About the completion__
+Rarest in completion: [('pains', 9.622573706874066), ('stomach', 7.049113659744621), ('night', 4.471210753282693), ('all', 3.5398475684877595)]
+Nearest to completion: [('pains', 0.6631903648376465), ('stomach', 0.656566858291626), ('pain', 0.45773062109947205), ('discomfort', 0.4435546398162842), ('abdomen', 0.42051780223846436), ('groin', 0.38504886627197266), ('headaches', 0.3611547350883484), ('neck', 0.35913851857185364), ('chest', 0.3590100109577179), ('thigh', 0.3589302599430084)]
+
+--------------------------------------------------------------------------
+
+Yesterday was Mother's Day.
+I planned a great day for my mom.
+We made her breakfast in bed.
+Later in the day we all gave her our gifts.
+> My gift was her favorite!
+
+__About the match__
+Rarest shared words: [('breakfast', (6.364497168252603, 6.364497168252603)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('mom', (4.373233184452579, 4.373233184452579))]
+Score: 0.40656100211868784
+
+__About the completion__
+Rarest in completion: [('gift', 6.501678290366069), ('favorite', 5.385251765422833), ('!', 3.536809591467683), ('my', 3.5357989799617595)]
+Nearest to completion: [('gift', 0.633592426776886), ('favorite', 0.6140902638435364), ('Gift', 0.48517274856567383), ('my', 0.4767768979072571), ('gifts', 0.4526037573814392), ('yours', 0.429833322763443), ('My', 0.4268580973148346), ('favorites', 0.42327386140823364), ('cherished', 0.38601359724998474), ('your', 0.37253329157829285)]
+
+--------------------------------------------------------------------------
+
+The night before her aunt's birthday, Jane began baking treats.
+She planned on staying up all night so they'd be fresh for her aunt.
+Jane baked through the night even though she wanted to sleep.
+She took a shower and started to load up the treats in her car.
+> Then she realized her Aunt's birthday was the next day.
+
+__About the match__
+Rarest shared words: [('birthday', (5.112955947007557, 5.112955947007557)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4022863874157264
+
+__About the completion__
+Rarest in completion: [('birthday', 5.667065589506182), ('realized', 5.003062403615317), ('next', 4.72639365834152), ('then', 4.392059443677392), ("'s", 3.3551623435327245), ('day', 3.3461390948177767)]
+Nearest to completion: [('birthday', 0.6624378561973572), ('anniversary', 0.4686824679374695), ('day', 0.42948290705680847), ('##th_anniversary', 0.3612930178642273), ('thereafter', 0.35588449239730835), ('days', 0.3422478139400482), ('next', 0.3315718173980713), ('New_Year_Eve', 0.3238860070705414), ('realized', 0.3130190968513489), ('September', 0.31200844049453735)]
+
+--------------------------------------------------------------------------
+
+It was a sunny, splendid Sunday afternoon.
+Ricky and his family decided to go get ice cream.
+Everyone shared two different banana splits.
+The ice cream was delicious and a wonderful treat.
+> Ricky and his family had a wonderful Sunday.
+
+__About the match__
+Rarest shared words: [('sunny', (7.298029706561264, 7.298029706561264))]
+Score: 0.39879864613837895
+
+__About the completion__
+Rarest in completion: [('wonderful', 7.265921392609745), ('family', 4.6880997737433745)]
+Nearest to completion: [('wonderful', 0.6983919143676758), ('family', 0.6574009656906128), ('lovely', 0.5021757483482361), ('marvelous', 0.4827660620212555), ('fabulous', 0.4654638469219208), ('delightful', 0.4624469578266144), ('fantastic', 0.4560093879699707), ('loved', 0.45553627610206604), ('beautiful', 0.4460706114768982), ('great', 0.44203275442123413)]
+
+--------------------------------------------------------------------------
+
+Hailey decided to make breakfast for her mom in bed.
+She asked her mom what she wanted and her mom said eggs.
+Hailey tried her best to cook scrambled eggs the way her mom liked.
+She delivered it to her mom in bed with a smile on her face.
+> Her mom didn't like the eggs but ate them anyway to make Hailey happy.
+
+__About the match__
+Rarest shared words: [('eggs', (6.5833763207803555, 6.5833763207803555)), ('breakfast', (6.364497168252603, 6.364497168252603)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('mom', (4.373233184452579, 4.373233184452579)), ('make', (4.27972796346498, 4.27972796346498)), ('tried', (3.9806866353359713, 3.9806866353359713))]
+Score: 0.3956134373514583
+
+__About the completion__
+Rarest in completion: [('eggs', 7.03230654142824), ('anyway', 6.82258601044617), ('ate', 5.493648811055187), ('mom', 4.822202301228359), ('make', 4.7898253725039), ('like', 4.781014742821744), ('happy', 4.78013793434821), ('them', 3.9905657466666935), ('did', 3.6104898725633485), ('but', 3.4639482432028115), ("n't", 3.334508641807057)]
+Nearest to completion: [('eggs', 0.5013490319252014), ('eat', 0.4277487099170685), ('egg', 0.3989703953266144), ('ate', 0.37863487005233765), ('Mom', 0.33718836307525635), ('mom', 0.3315986394882202), ('potatoes', 0.318544864654541), ('eaten', 0.31457626819610596), ('nuts', 0.31385037302970886), ('tasty', 0.30876603722572327)]
+
+--------------------------------------------------------------------------
+
+

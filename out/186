@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Noah was looking for a very special butterfly.
+He went to the woods and walked all day.
+When night fell, he made a fire and waited.
+Around midnight, in the pale moonlight, he saw one.
+> He looked at it, was mesmerized and let it go.
+
+__About the context__
+Rarest in context: [('moonlight', 9.740376741930469), ('pale', 9.047229561370523), ('butterfly', 8.418620901948149), ('midnight', 7.948617272702413), ('woods', 6.5115505862091), ('special', 6.070425297702051), ('fire', 5.939285297209604), ('waited', 5.491881499881109), ('looking', 4.961253248818939), ('walked', 4.692124584262906), ('fell', 4.668332819705569), ('around', 4.316528652935222), ('night', 4.007035465032724), ('made', 3.9565515596007312), ('saw', 3.8322938037615377), ('very', 3.353497422567824)]
+Nearest to context: [('midnight', 0.42001014947891235), ('fell', 0.37841588258743286), ('stood', 0.3634721040725708), ('afternoon', 0.36242541670799255), ('saw', 0.35774752497673035), ('slipped', 0.35633933544158936), ('walked', 0.35397565364837646), ('morning', 0.3520708978176117), ('wandered', 0.34766560792922974), ('woods', 0.34660622477531433)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('deer', 7303, 12697, 0.42994388937950134), ('teeth', 6969, 13031, 0.4036449193954468), ('trees', 2985, 17015, 0.3880884051322937), ('tree', 3150, 16850, 0.38645657896995544), ('vegetation', 16510, 3490, 0.3767486810684204), ('brush', 8814, 11186, 0.3536686599254608), ('predators', 15876, 4124, 0.3479307293891907), ('limbs', 16614, 3386, 0.3454246520996094), ('snake', 14786, 5214, 0.33839401602745056), ('insects', 14485, 5515, 0.33789828419685364)]
+Nearest words to completions' keywords: [('deer', 7303, 12697, 0.5506561994552612), ('birds', 4377, 15623, 0.5195415616035461), ('snakes', 18376, 1624, 0.5030364394187927), ('bird', 6510, 13490, 0.4997449219226837), ('wildlife', 5857, 14143, 0.49813151359558105), ('animals', 2418, 17582, 0.49459347128868103), ('snake', 14786, 5214, 0.49090030789375305), ('cats', 7107, 12893, 0.4830862879753113), ('just', 76, 19924, 0.4797033965587616), ('cat', 5947, 14053, 0.4787929654121399)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7242034077644348), ('was', 10, 19990, 0.7037280201911926), ('saw', 653, 19347, 0.670330822467804), ('got', 193, 19807, 0.6575566530227661), ('came', 256, 19744, 0.6510871052742004), ('went', 297, 19703, 0.6494050025939941), ('knew', 1039, 18961, 0.629530668258667), ('were', 37, 19963, 0.6176029443740845), ('stayed', 2936, 17064, 0.6076799631118774), ('took', 263, 19737, 0.5891037583351135)]
+
+==========================================================================
+Neighbors
+==========================================================================
+One day Jeff was walking in the woods.
+He was going to watch for birds.
+He stumbled upon something green on the forest floor.
+Jeff reached down.
+> He had found 5 one hundred dollar bills.
+
+__About the match__
+Rarest shared words: [('woods', (6.5115505862091, 6.5115505862091))]
+Score: 0.48357699835278684
+
+__About the completion__
+Rarest in completion: [('bills', 7.600290579034179), ('dollar', 7.475992862356602), ('hundred', 7.276503501940282), ('5', 7.137667057086066), ('found', 4.202038707601781), ('one', 3.351585275015767)]
+Nearest to completion: [('dollar', 0.5626706480979919), ('hundred', 0.5532373189926147), ('bills', 0.5293795466423035), ('thousand', 0.4731595516204834), ('fifty', 0.4655962884426117), ('dollars', 0.4479171931743622), ('###', 0.42445987462997437), ('thousand_dollars', 0.3989603817462921), ('bill', 0.3859255611896515), ('cent', 0.37668120861053467)]
+
+--------------------------------------------------------------------------
+
+I walked through the forest at midnight last night.
+While on my walk, I came across a little fox.
+He was small, but I was still frightened.
+Being more afraid of me, the fox ran away.
+> I quickly walked home, determined to take a friend with me next time.
+
+__About the match__
+Rarest shared words: [('midnight', (7.948617272702413, 7.948617272702413)), ('walked', (4.692124584262906, 4.692124584262906)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.4621574107805878
+
+__About the completion__
+Rarest in completion: [('determined', 7.276503501940282), ('quickly', 5.828333737102303), ('walked', 5.178616114469694), ('take', 4.896169656071859), ('next', 4.72639365834152), ('me', 4.441414571213571), ('friend', 4.4228496815892715), ('home', 4.002978318445733), ('time', 3.981849368185002)]
+Nearest to completion: [('friend', 0.3811226785182953), ('take', 0.35523101687431335), ('next', 0.3304756283760071), ('walked', 0.31475886702537537), ('promptly', 0.30092382431030273), ('later', 0.29471370577812195), ('pal', 0.29180073738098145), ('Taking', 0.2847982347011566), ('home', 0.2767174243927002), ('Take', 0.2721622586250305)]
+
+--------------------------------------------------------------------------
+
+Fiona walked outside in the woods.
+She found a large wild blueberry bush.
+Fiona ate three handfuls of berries.
+Fiona looked in the mirror when she got home.
+> Her lips and teeth and tongue were blue!
+
+__About the match__
+Rarest shared words: [('woods', (6.5115505862091, 6.5115505862091)), ('walked', (4.692124584262906, 4.692124584262906))]
+Score: 0.45599868729326465
+
+__About the completion__
+Rarest in completion: [('lips', 8.98658494015407), ('tongue', 8.452502454223811), ('teeth', 7.137667057086066), ('blue', 6.82936569743155), ('were', 3.60343995182413), ('!', 3.536809591467683)]
+Nearest to completion: [('lips', 0.7480676770210266), ('tongue', 0.7184475064277649), ('teeth', 0.6728830337524414), ('forehead', 0.5611597895622253), ('nose', 0.5244504809379578), ('tooth', 0.5106399655342102), ('mouths', 0.5054348111152649), ('fingers', 0.5004197955131531), ('jaw', 0.4887087941169739), ('mouth', 0.48471754789352417)]
+
+--------------------------------------------------------------------------
+
+Clint went for a walk in the woods.
+He heard a strange rustling in the brush.
+Clint paused on the trail.
+He looked toward the area the sound came from.
+> Clint saw a deer run from the brush.
+
+__About the match__
+Rarest shared words: [('woods', (6.5115505862091, 6.5115505862091))]
+Score: 0.4386024957730386
+
+__About the completion__
+Rarest in completion: [('brush', 7.991156887721191), ('deer', 7.5571184071689705), ('run', 6.064056070623374), ('saw', 4.402217881795742), ('from', 3.996552593524763)]
+Nearest to completion: [('deer', 0.6767036318778992), ('brush', 0.5457741022109985), ('wildlife', 0.42109978199005127), ('hunters', 0.4077453017234802), ('vegetation', 0.39643871784210205), ('Wildlife', 0.39592304825782776), ('Deer', 0.39153486490249634), ('bird', 0.37739098072052), ('wolves', 0.373831182718277), ('wolf', 0.3734126687049866)]
+
+--------------------------------------------------------------------------
+
+Nelly joined the Navy.
+He stormed a beach in the night.
+He fell asleep in the trees.
+He woke up to gun fire.
+> He hid for a while longer.
+
+__About the match__
+Rarest shared words: [('fire', (5.939285297209604, 5.939285297209604)), ('fell', (4.668332819705569, 4.668332819705569)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.43300403769069173
+
+__About the completion__
+Rarest in completion: [('hid', 7.308938777693435), ('longer', 6.259116653194758), ('while', 4.812197670258433)]
+Nearest to completion: [('hid', 0.6771484613418579), ('hiding', 0.513030469417572), ('hide', 0.49745458364486694), ('longer', 0.49659115076065063), ('concealed', 0.48073574900627136), ('hidden', 0.4774937331676483), ('conceal', 0.42839163541793823), ('while', 0.3875187337398529), ('beneath', 0.3210715651512146), ('shadows', 0.29763880372047424)]
+
+--------------------------------------------------------------------------
+
+Anna fell asleep on the beach one afternoon.
+When she woke, five hours had passed!
+With horror, she checked her pocket mirror.
+She was beet-red and very very burned!
+> Anna was lucky she had not gotten sun poisoning.
+
+__About the match__
+Rarest shared words: [('fell', (4.668332819705569, 4.668332819705569)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.42506907774955444
+
+__About the completion__
+Rarest in completion: [('poisoning', 9.111748083108075), ('lucky', 7.413079036946033), ('sun', 7.007613928837868), ('gotten', 6.802518447395362), ('not', 3.8329533830489027)]
+Nearest to completion: [('poisoning', 0.5847501754760742), ('sun', 0.49169912934303284), ('lucky', 0.43198126554489136), ('sunlight', 0.41300830245018005), ('allergies', 0.3595243990421295), ('illnesses', 0.34065350890159607), ('contaminated', 0.316748708486557), ('gotten', 0.31488510966300964), ('radiation', 0.3117111325263977), ('sunshine', 0.31043359637260437)]
+
+--------------------------------------------------------------------------
+
+Sarah loved to go swimming.
+She was going to join her friends at the pool later that afternoon.
+Sarah got dressed in her swimsuit and waited for her friends.
+She fell asleep while waiting, and woke up two hours later.
+> She missed the chance to swim with her friends.
+
+__About the match__
+Rarest shared words: [('waited', (5.491881499881109, 5.491881499881109)), ('fell', (4.668332819705569, 4.668332819705569))]
+Score: 0.4188469466853827
+
+__About the completion__
+Rarest in completion: [('chance', 7.25545009274245), ('swim', 6.952263833754704), ('missed', 6.521480917662249), ('friends', 4.1620430130754205)]
+Nearest to completion: [('swim', 0.6137314438819885), ('swimmers', 0.5044524073600769), ('swimming', 0.5031570792198181), ('swam', 0.46642178297042847), ('missed', 0.4624011814594269), ('swimmer', 0.461661159992218), ('chance', 0.4129813015460968), ('friends', 0.40083014965057373), ('miss', 0.3526170253753662), ('diving', 0.32989323139190674)]
+
+--------------------------------------------------------------------------
+
+While staying at their beach hotel, Ben and Dani witnessed a storm.
+One night just after the sun went down, it became very windy.
+They sat on the balcony and watched as lightning began to flash.
+The sky turned a beautiful shade of purple as thunder crashed.
+> It was exciting and scary for them to watch the storm quickly pass.
+
+__About the match__
+Rarest shared words: [('night', (4.007035465032724, 4.007035465032724)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.4090813302264003
+
+__About the completion__
+Rarest in completion: [('exciting', 8.013135794439966), ('scary', 6.9914845469079845), ('pass', 6.929449155988532), ('storm', 6.769942276960749), ('watch', 5.956167108612188), ('quickly', 5.828333737102303), ('them', 3.9905657466666935)]
+Nearest to completion: [('exciting', 0.4869886636734009), ('storm', 0.4426335096359253), ('scary', 0.43978068232536316), ('frightening', 0.4196862578392029), ('watch', 0.4108787775039673), ('tropical_storm', 0.3724713921546936), ('thrilling', 0.3676573634147644), ('interesting', 0.3648081123828888), ('terrifying', 0.3595437705516815), ('quickly', 0.35498282313346863)]
+
+--------------------------------------------------------------------------
+
+Rita went on a hike in the woods.
+She heard a rustling in a bush.
+A squirrel ran out of the bush.
+Rita watched the squirrel.
+> The squirrel climbed into a tree.
+
+__About the match__
+Rarest shared words: [('woods', (6.5115505862091, 6.5115505862091))]
+Score: 0.4055977069457102
+
+__About the completion__
+Rarest in completion: [('squirrel', 8.058598168516724), ('climbed', 7.110268082897952), ('tree', 6.192177170519649), ('into', 4.270189119055754)]
+Nearest to completion: [('tree', 0.6110070943832397), ('climbed', 0.6028932929039001), ('trees', 0.48784568905830383), ('rose', 0.4758519232273102), ('tumbled', 0.4561963677406311), ('jumped', 0.45025283098220825), ('plunged', 0.44207146763801575), ('surged', 0.43725892901420593), ('slid', 0.42336902022361755), ('climbing', 0.4228707253932953)]
+
+--------------------------------------------------------------------------
+
+A young couple went on a walk together at dusk.
+The sun was setting as they approached a trail heading home.
+The trail took them through dark woods.
+Suddenly they heard a noise in the brush and jumped out of their skin!
+> Luckily it was just a deer and nothing dangerous!
+
+__About the match__
+Rarest shared words: [('woods', (6.5115505862091, 6.5115505862091))]
+Score: 0.40452171517521884
+
+__About the completion__
+Rarest in completion: [('dangerous', 8.058598168516724), ('deer', 7.5571184071689705), ('nothing', 6.368759830644585), ('luckily', 6.153371596097854), ('just', 4.707470839499374), ('!', 3.536809591467683)]
+Nearest to completion: [('deer', 0.6858168840408325), ('dangerous', 0.4919986426830292), ('hunters', 0.4854455888271332), ('wolves', 0.42848026752471924), ('hunting', 0.40534818172454834), ('wildlife', 0.4012449383735657), ('hunter', 0.40047165751457214), ('nothing', 0.3997124433517456), ('animals', 0.3993110656738281), ('wolf', 0.39795276522636414)]
+
+--------------------------------------------------------------------------
+
+

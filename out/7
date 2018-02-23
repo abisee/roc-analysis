@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The math teacher announced a pop quiz as class began.
+While some students complained, he began passing out the quiz.
+I took out my pencil and began to work.
+About 5 minutes later, I finished.
+> I stood up feeling confident and turned it in.
+
+__About the context__
+Rarest in context: [('pencil', 8.130938829496369), ('quiz', 8.035628649692043), ('passing', 7.692683898565213), ('pop', 7.660935200250632), ('announced', 6.952283833154722), ('complained', 6.695854304207046), ('5', 6.63803473331822), ('students', 6.594071609897103), ('math', 6.453842268588453), ('finished', 5.8536715444866125), ('minutes', 5.499049989359722), ('teacher', 5.215874459009832), ('later', 5.1944259156023485), ('class', 4.7414767040526336), ('began', 4.6435637515931605), ('while', 4.237079794695893), ('work', 3.8703738633596787), ('about', 3.625036645166946), ('took', 3.6015703569245585), ('some', 3.566590638028532), ('as', 3.5598426238420284)]
+Nearest to context: [('math', 0.5374692678451538), ('students', 0.4717663526535034), ('mathematics', 0.46592482924461365), ('graders', 0.44715002179145813), ('teacher', 0.446666419506073), ('eighth_grade', 0.43993496894836426), ('elementary', 0.43279340863227844), ('teachers', 0.4299088418483734), ('grades', 0.39051681756973267), ('pupils', 0.38884270191192627)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('exam', 8168, 11832, 0.5159717798233032), ('exams', 10032, 9968, 0.44978567957878113), ('examinations', 16039, 3961, 0.42150983214378357), ('mathematics', 14961, 5039, 0.4165566563606262), ('grade', 2215, 17785, 0.3994724452495575), ('math', 5432, 14568, 0.3918406665325165), ('teacher', 1984, 18016, 0.39148828387260437), ('examination', 6857, 13143, 0.38649535179138184), ('grades', 5470, 14530, 0.373128741979599), ('quiz', 17395, 2605, 0.37056392431259155)]
+Nearest words to completions' keywords: [('exam', 8168, 11832, 0.5580071806907654), ('exams', 10032, 9968, 0.5415335893630981), ('math', 5432, 14568, 0.5108453035354614), ('mathematics', 14961, 5039, 0.4932078421115875), ('examinations', 16039, 3961, 0.4912189245223999), ('teacher', 1984, 18016, 0.48552948236465454), ('married', 2487, 17513, 0.4841251075267792), ('eighth_grade', 15206, 4794, 0.48407793045043945), ('school', 195, 19805, 0.48167741298675537), ('divorced', 10757, 9243, 0.4680473208427429)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.706706166267395), ('came', 256, 19744, 0.6941660046577454), ('went', 297, 19703, 0.684737503528595), ('had', 35, 19965, 0.6753913164138794), ('got', 193, 19807, 0.638970673084259), ('dropped', 1066, 18934, 0.610969603061676), ('took', 263, 19737, 0.6107521057128906), ('stayed', 2936, 17064, 0.6089722514152527), ('fell', 594, 19406, 0.5854412317276001), ('threw', 2143, 17857, 0.585426390171051)]
+
+==========================================================================
+Neighbors
+==========================================================================
+A teacher gave his class a pop quiz on the reading from last night.
+All of the students did not read the assignment and failed.
+Because of this quiz the class rioted.
+They became violent with the teacher.
+> The teacher was scared so he threw out the test.
+
+__About the match__
+Rarest shared words: [('quiz', (8.035628649692043, 8.035628649692043)), ('pop', (7.660935200250632, 7.660935200250632)), ('students', (6.594071609897103, 6.594071609897103)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.6247688901131877
+
+__About the completion__
+Rarest in completion: [('scared', 5.993798176829835), ('test', 5.823346195591265), ('threw', 5.767709115285869), ('teacher', 5.677760878622929), ('so', 3.628612279567497), ('out', 3.3165011979861596)]
+Nearest to completion: [('teacher', 0.46446123719215393), ('test', 0.44589146971702576), ('threw', 0.4284270107746124), ('tests', 0.3727113902568817), ('scared', 0.36347609758377075), ('Teacher', 0.3588537573814392), ('Teachers', 0.33774426579475403), ('exam', 0.33372849225997925), ('teachers', 0.3334783613681793), ('exams', 0.32235026359558105)]
+
+--------------------------------------------------------------------------
+
+Tim knew he was going to be late for class.
+His teacher was notorious for docking grades due to tardiness.
+The class was taking a mid-term exam worth half of their grade.
+Tim was exactly five minutes late for the exam.
+> The teacher docked Tim's grade one point for every minute he was late.
+
+__About the match__
+Rarest shared words: [('minutes', (5.499049989359722, 5.499049989359722)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5604836497368952
+
+__About the completion__
+Rarest in completion: [('docked', 10.433503923090395), ('point', 7.400957676413688), ('minute', 7.308938777693435), ('grade', 6.7828456817966565), ('teacher', 5.677760878622929), ('late', 5.59326161492282), ('every', 4.763623000109876), ("'s", 3.3551623435327245), ('one', 3.351585275015767)]
+Nearest to completion: [('grade', 0.5631951093673706), ('teacher', 0.505090057849884), ('eighth_grade', 0.44712868332862854), ('graders', 0.44656050205230713), ('point', 0.4353445768356323), ('elementary', 0.42567333579063416), ('docked', 0.42142999172210693), ('grades', 0.41746947169303894), ('minute', 0.4080207347869873), ('math', 0.4061093032360077)]
+
+--------------------------------------------------------------------------
+
+Julia taught a class of fifth graders.
+One of her students, Mark was always making trouble.
+Mark had recently gotten an A+ on a math test.
+Julia suspected that Mark had cheated to get the grade.
+> However, Julia had no proof.
+
+__About the match__
+Rarest shared words: [('students', (6.594071609897103, 6.594071609897103)), ('math', (6.453842268588453, 6.453842268588453)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5554887053487532
+
+__About the completion__
+Rarest in completion: [('proof', 9.74035674253045), ('however', 5.312520571825274), ('no', 4.72556343828553)]
+Nearest to completion: [('proof', 0.766478955745697), ('no', 0.6651391386985779), ('evidence', 0.48745954036712646), ('however', 0.4761146605014801), ('definite', 0.45529302954673767), ('whatsoever', 0.4517298638820648), ('any', 0.44157981872558594), ('No', 0.4370324909687042), ('indication', 0.4321110248565674), ('neither', 0.4237252175807953)]
+
+--------------------------------------------------------------------------
+
+Joe's teacher assigned a reading assignment for homework.
+She told the class they may have a pop quiz the next day.
+Joe got home and forgot about reading.
+When he got to class the next day, he had a quiz.
+> Joe failed his quiz and his average dropped.
+
+__About the match__
+Rarest shared words: [('quiz', (8.035628649692043, 8.035628649692043)), ('pop', (7.660935200250632, 7.660935200250632)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.5451352289809388
+
+__About the completion__
+Rarest in completion: [('average', 9.180740954595027), ('quiz', 8.38581107972514), ('failed', 7.194825470926014), ('dropped', 6.326736840869738)]
+Nearest to completion: [('quiz', 0.5858917236328125), ('average', 0.5357911586761475), ('dropped', 0.5276736617088318), ('failed', 0.4765200614929199), ('plummeted', 0.4169759154319763), ('dipped', 0.4108346104621887), ('failing', 0.38448676466941833), ('fell', 0.3781682848930359), ('averaged', 0.3694073259830475), ('averages', 0.36773934960365295)]
+
+--------------------------------------------------------------------------
+
+Eddie was failing his maths class.
+He started getting lessons after school to help.
+After a while his grades began to pick up.
+The teacher even suggested Eddie think about a career involving maths.
+> Eddie then went on to become an accountant.
+
+__About the match__
+Rarest shared words: [('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336)), ('began', (4.6435637515931605, 4.6435637515931605)), ('while', (4.237079794695893, 4.237079794695893)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.5444980931225639
+
+__About the completion__
+Rarest in completion: [('accountant', 9.873888135154973), ('become', 6.403697882005866), ('then', 4.392059443677392), ('an', 3.8221351571901856), ('went', 3.303005172815388)]
+Nearest to completion: [('accountant', 0.6006979942321777), ('became', 0.4839772582054138), ('become', 0.43120014667510986), ('an', 0.41889962553977966), ('becomes', 0.37280556559562683), ('accountants', 0.3702995777130127), ('becoming', 0.3497101664543152), ('banker', 0.34650489687919617), ('An', 0.34184327721595764), ('CPA', 0.33812788128852844)]
+
+--------------------------------------------------------------------------
+
+I went to school today.
+Since all of my labs were today, I stayed until night time.
+My chemistry teacher held the class back from speaking too much.
+Since I got home late, i couldn't study for my math exam.
+> I took the exam based on little knowledge.
+
+__About the match__
+Rarest shared words: [('math', (6.453842268588453, 6.453842268588453)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5380004329069367
+
+__About the completion__
+Rarest in completion: [('knowledge', 8.561701746188803), ('based', 8.523961418205957), ('exam', 6.863971226609025), ('little', 5.47416192338169), ('took', 4.067463120907994)]
+Nearest to completion: [('exam', 0.6248264908790588), ('exams', 0.5464164614677429), ('examinations', 0.5267765522003174), ('examination', 0.48101285099983215), ('knowledge', 0.47996440529823303), ('mathematics', 0.39228689670562744), ('based', 0.3902308940887451), ('tests', 0.3738270699977875), ('instruction', 0.368671715259552), ('Assessment', 0.3581317067146301)]
+
+--------------------------------------------------------------------------
+
+Jane was a new elementary school teacher.
+She worried that the students in her class wouldn't like her.
+On her first day they seemed to be indifferent to her teaching style.
+But by the third day Jane noticed a change in her students.
+> The children were less guarded and much more friendly to her.
+
+__About the match__
+Rarest shared words: [('students', (6.594071609897103, 6.594071609897103)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5346276071052584
+
+__About the completion__
+Rarest in completion: [('guarded', 11.12665110365034), ('friendly', 7.708924420036975), ('less', 7.0662080931039215), ('children', 6.444519876526121), ('much', 4.895185888161725), ('more', 4.774893167080915), ('were', 3.60343995182413)]
+Nearest to completion: [('less', 0.6132851839065552), ('more', 0.5635022521018982), ('than', 0.491712749004364), ('guarded', 0.4650801718235016), ('fewer', 0.4313361942768097), ('generally', 0.3880562484264374), ('More', 0.3787037432193756), ('Less', 0.3729906678199768), ('much', 0.36613786220550537), ('friendly', 0.36370280385017395)]
+
+--------------------------------------------------------------------------
+
+The class began writing their essays.
+The teacher had high hopes for Tim since he's her best student.
+For 20 minutes, Tim was staring at his paper.
+When he started to write, he only had five minutes.
+> He submitted one sentence.
+
+__About the match__
+Rarest shared words: [('minutes', (5.499049989359722, 5.499049989359722)), ('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336)), ('began', (4.6435637515931605, 4.6435637515931605))]
+Score: 0.5300771757508929
+
+__About the completion__
+Rarest in completion: [('sentence', 9.873888135154973), ('submitted', 8.775275846486863), ('one', 3.351585275015767)]
+Nearest to completion: [('sentence', 0.7586227059364319), ('sentences', 0.6396742463111877), ('submitted', 0.5784457921981812), ('sentencing', 0.5699724555015564), ('imprisonment', 0.5487858057022095), ('sentenced', 0.5446021556854248), ('prison', 0.49813762307167053), ('convicted', 0.4930102527141571), ('parole', 0.4812541902065277), ('guilty_plea', 0.46790364384651184)]
+
+--------------------------------------------------------------------------
+
+I overslept and missed my morning class.
+I was furious since I had to take a major exam.
+The teacher gave me two days to retake it.
+Since I spent extra time to study, I fell behind my other classes.
+> When I finally caught up with my schoolwork, the semester ended.
+
+__About the match__
+Rarest shared words: [('teacher', (5.215874459009832, 5.215874459009832)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5199958512577847
+
+__About the completion__
+Rarest in completion: [('schoolwork', 10.721185995542177), ('semester', 8.1822121244839), ('caught', 5.669195515764007), ('ended', 5.160504364526648), ('finally', 4.562795577118213), ('my', 3.5357989799617595), ('when', 3.4368224349138567)]
+Nearest to completion: [('semester', 0.5185542106628418), ('caught', 0.42849022150039673), ('ended', 0.41942140460014343), ('finally', 0.3993785083293915), ('end', 0.3226155936717987), ('after', 0.3001624643802643), ('began', 0.28962084650993347), ('beginning', 0.28567808866500854), ('ending', 0.2839275002479553), ('my', 0.27643558382987976)]
+
+--------------------------------------------------------------------------
+
+Tom and Jane met in math class.
+They hit it off splendidly.
+They dated for years, even through college.
+Tom proposed after five years.
+> Tom was going to marry Jane.
+
+__About the match__
+Rarest shared words: [('math', (6.453842268588453, 6.453842268588453)), ('class', (4.7414767040526336, 4.7414767040526336))]
+Score: 0.5181436362297146
+
+__About the completion__
+Rarest in completion: [('marry', 8.156236638080639), ('going', 4.676970883048665)]
+Nearest to completion: [('marry', 0.8671067357063293), ('wed', 0.6818968653678894), ('marrying', 0.6817029118537903), ('married', 0.6468548774719238), ('marriage', 0.5506240129470825), ('marriages', 0.4635104537010193), ('divorced', 0.4612523317337036), ('wedding', 0.4173107445240021), ('bride', 0.40660956501960754), ('knot', 0.4022516906261444)]
+
+--------------------------------------------------------------------------
+
+

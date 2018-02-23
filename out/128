@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+One day two girls were walking home.
+Karen the first girl said did you hear that noise?
+It was something coming from the bushes.
+It was a poor orange kitty that nobody wanted.
+> She meowed her way into the girl's heart and she took her home.
+
+__About the context__
+Rarest in context: [('kitty', 8.824086010056313), ('?', 7.907795278182158), ('bushes', 7.600310578434198), ('orange', 7.413099036346051), ('poor', 6.836211661901968), ('nobody', 6.684019846560043), ('you', 6.572794211449819), ('hear', 6.501698289766088), ('girls', 6.373080911943995), ('noise', 6.020725629149778), ('coming', 5.383667915240877), ('walking', 5.02411250843679), ('girl', 5.008573905009011), ('something', 4.728076168515152), ('two', 4.452109711235933), ('said', 4.286124573761672), ('first', 3.9673791982527944), ('home', 3.7389618639693185), ('from', 3.533800815205541)]
+Nearest to context: [('noise', 0.4528008699417114), ('girls', 0.3653169870376587), ('hear', 0.3389197587966919), ('girl', 0.3342970311641693), ('boys', 0.33304786682128906), ('screams', 0.32922855019569397), ('nobody', 0.31867101788520813), ('loud', 0.31863003969192505), ('walking', 0.30038464069366455), ('somebody', 0.28838732838630676)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('waits', 14692, 5308, 0.4255750775337219), ('waiting', 1603, 18397, 0.35697484016418457), ('waited', 5275, 14725, 0.35402461886405945), ('awaits', 13070, 6930, 0.3317488133907318), ('pulls', 10240, 9760, 0.3174038231372833), ('knocked', 3488, 16512, 0.3170117735862732), ('emerges', 14012, 5988, 0.3056696057319641), ('sped', 14115, 5885, 0.3048767149448395), ('knocks', 17367, 2633, 0.3038897216320038), ('mystery', 6323, 13677, 0.29105862975120544)]
+Nearest words to completions' keywords: [('waited', 5275, 14725, 0.562768280506134), ('waiting', 1603, 18397, 0.5455725789070129), ('wait', 1588, 18412, 0.5231015682220459), ('drove', 2144, 17856, 0.5228614211082458), ('got', 193, 19807, 0.5165805220603943), ('knocked', 3488, 16512, 0.5057865977287292), ('chased', 8663, 11337, 0.5034260153770447), ('pulled', 1565, 18435, 0.5030443668365479), ('sped', 14115, 5885, 0.5003201961517334), ('stuck', 3587, 16413, 0.4862596094608307)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.6697699427604675), ('came', 256, 19744, 0.623652458190918), ('saw', 653, 19347, 0.5908467173576355), ('picked', 1606, 18394, 0.5897799730300903), ('turned', 760, 19240, 0.5782904624938965), ('get', 91, 19909, 0.5747378468513489), ('had', 35, 19965, 0.5701912045478821), ('waited', 5275, 14725, 0.5675379633903503), ('looked', 1115, 18885, 0.5613671541213989), ('went', 297, 19703, 0.5561758875846863)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Thomas heard a noise outside.
+He went to see what the noise was.
+It was dark outside.
+He didn't see anything.
+> The next morning Thomas noticed that someone had taken his bike.
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778))]
+Score: 0.5403483089021979
+
+__About the completion__
+Rarest in completion: [('taken', 6.856953653950378), ('bike', 6.417120902338007), ('someone', 5.656483480175645), ('noticed', 5.327558449189815), ('morning', 5.271579181447914), ('next', 4.72639365834152)]
+Nearest to completion: [('bike', 0.5093533992767334), ('bicycle', 0.4950881898403168), ('noticed', 0.4321623146533966), ('morning', 0.39608582854270935), ('taken', 0.3837364912033081), ('cyclist', 0.36700448393821716), ('bikes', 0.3626738488674164), ('motorcycle', 0.3557344973087311), ('motorist', 0.3225838243961334), ('bicycles', 0.3214736580848694)]
+
+--------------------------------------------------------------------------
+
+Laura is walking home from school.
+She hears a noise behind her.
+She looks behind her.
+She see's nothing.
+> Laura is secretly being followed by a mystery man.
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778)), ('walking', (5.02411250843679, 5.02411250843679)), ('home', (3.7389618639693185, 3.7389618639693185)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.5100214533319818
+
+__About the completion__
+Rarest in completion: [('mystery', 9.047209561970504), ('secretly', 8.523961418205957), ('followed', 7.18506929598065), ('being', 5.502633597463002), ('man', 4.481560134144697), ('by', 4.4228496815892715), ('is', 4.0817459865209695)]
+Nearest to completion: [('mystery', 0.5270339250564575), ('by', 0.5140398144721985), ('secretly', 0.48332273960113525), ('being', 0.455471396446228), ('mysterious', 0.4152269959449768), ('is', 0.398368775844574), ('supposedly', 0.3813059329986572), ('man', 0.37889015674591064), ('was', 0.36862480640411377), ('secret', 0.3520939350128174)]
+
+--------------------------------------------------------------------------
+
+I was walking home from school.
+I noticed a sound coming from a tree.
+I go to look and see what it is.
+I see nothing.
+> I look again and see a creepy owl staring back at me.
+
+__About the match__
+Rarest shared words: [('coming', (5.383667915240877, 5.383667915240877)), ('walking', (5.02411250843679, 5.02411250843679)), ('home', (3.7389618639693185, 3.7389618639693185)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.4762800236664188
+
+__About the completion__
+Rarest in completion: [('owl', 10.210360371776185), ('creepy', 8.824066010656296), ('staring', 8.236279345754177), ('look', 5.751372695966175), ('again', 5.046717908554751), ('see', 4.749074176950009), ('me', 4.441414571213571), ('back', 4.3399341530452595)]
+Nearest to completion: [('look', 0.6117125749588013), ('staring', 0.5761264562606812), ('see', 0.5155932307243347), ('looks', 0.3894914388656616), ('back', 0.3878888189792633), ('Look', 0.3840174973011017), ('Looking', 0.3581465482711792), ('glance', 0.33541324734687805), ('again', 0.32809650897979736), ('imagine', 0.31992071866989136)]
+
+--------------------------------------------------------------------------
+
+There was a loud noise outside.
+The woman felt scared.
+She called a friend.
+The friend came over.
+> They could not find the source of the noise.
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778))]
+Score: 0.47596061093487735
+
+__About the completion__
+Rarest in completion: [('source', 8.20888037156606), ('noise', 6.588689667355699), ('find', 5.045574397852671), ('not', 3.8329533830489027), ('could', 3.8258407366367204)]
+Nearest to completion: [('noise', 0.5845860242843628), ('source', 0.5393264889717102), ('sources', 0.398342102766037), ('find', 0.35307466983795166), ('not', 0.3281637728214264), ('sound', 0.32649683952331543), ('cause', 0.3220181167125702), ('could', 0.3191963732242584), ('may', 0.30744194984436035), ('can', 0.2983505129814148)]
+
+--------------------------------------------------------------------------
+
+Kyle is walking home from school.
+Kyle falls into a manhole.
+Kyle cries but nobody can hear him.
+Finally a woman hears and calls the firemen.
+> Kyle is rescued from the manhole.
+
+__About the match__
+Rarest shared words: [('nobody', (6.684019846560043, 6.684019846560043)), ('hear', (6.501698289766088, 6.501698289766088)), ('walking', (5.02411250843679, 5.02411250843679)), ('home', (3.7389618639693185, 3.7389618639693185)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.4644239112422098
+
+__About the completion__
+Rarest in completion: [('manhole', 10.433503923090395), ('rescued', 8.452502454223811), ('is', 4.0817459865209695), ('from', 3.996552593524763)]
+Nearest to completion: [('rescued', 0.7840279340744019), ('rescue', 0.49621978402137756), ('trapped', 0.4395246207714081), ('escaped', 0.4358747601509094), ('airlifted', 0.430570513010025), ('Rescue', 0.4002940058708191), ('unharmed', 0.39411070942878723), ('from', 0.3861936330795288), ('drowned', 0.3842025101184845), ('freed', 0.3749886751174927)]
+
+--------------------------------------------------------------------------
+
+Aaron was coming home from a football game.
+He hears a loud noise coming from his car.
+He pulled over to see what was wrong.
+He pops his hood and smoke flies everywhere.
+> He called for help and waited to get picked up.
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778)), ('coming', (5.383667915240877, 5.383667915240877)), ('home', (3.7389618639693185, 3.7389618639693185)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.46170150241980956
+
+__About the completion__
+Rarest in completion: [('waited', 5.999715353857924), ('picked', 5.597222016138917), ('help', 5.105627754300814), ('called', 4.874747220484451), ('get', 4.052534287452978)]
+Nearest to completion: [('waited', 0.5583813786506653), ('picked', 0.47584348917007446), ('called', 0.41996514797210693), ('lined', 0.3783768117427826), ('waiting', 0.37628668546676636), ('teamed', 0.3657749593257904), ('scrambled', 0.35937660932540894), ('scooped', 0.34270161390304565), ('waits', 0.3337727189064026), ('wait', 0.3326074779033661)]
+
+--------------------------------------------------------------------------
+
+Terry was driving down the road to a football game.
+He started to hear a loud noise coming from his car.
+He pulls over to see what's wrong.
+He pops his hood and smoke flies everywhere.
+> He calls Triple A and waits for a ride.
+
+__About the match__
+Rarest shared words: [('hear', (6.501698289766088, 6.501698289766088)), ('noise', (6.020725629149778, 6.020725629149778)), ('coming', (5.383667915240877, 5.383667915240877)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.4433730914213017
+
+__About the completion__
+Rarest in completion: [('triple', 9.622573706874066), ('waits', 8.875359305043844), ('calls', 7.413079036946033), ('ride', 5.976253867178926)]
+Nearest to completion: [('waits', 0.6344767808914185), ('calls', 0.500750720500946), ('triple', 0.492575466632843), ('rides', 0.47432518005371094), ('ride', 0.4588621258735657), ('jumps', 0.38287320733070374), ('double', 0.37169939279556274), ('wait', 0.3642377257347107), ('waiting', 0.3590388000011444), ('climbs', 0.3570091128349304)]
+
+--------------------------------------------------------------------------
+
+William was driving down the road.
+He hears a loud noise coming from his car.
+He pulled over to see what was wrong.
+He pops his hood and smoke flies everywhere.
+> He called for help and waited to get picked up.
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778)), ('coming', (5.383667915240877, 5.383667915240877)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.4340801462986803
+
+__About the completion__
+Rarest in completion: [('waited', 5.999715353857924), ('picked', 5.597222016138917), ('help', 5.105627754300814), ('called', 4.874747220484451), ('get', 4.052534287452978)]
+Nearest to completion: [('waited', 0.5583813786506653), ('picked', 0.47584348917007446), ('called', 0.41996514797210693), ('lined', 0.3783768117427826), ('waiting', 0.37628668546676636), ('teamed', 0.3657749593257904), ('scrambled', 0.35937660932540894), ('scooped', 0.34270161390304565), ('waits', 0.3337727189064026), ('wait', 0.3326074779033661)]
+
+--------------------------------------------------------------------------
+
+Willie is on  his way home from a concert.
+He hears a loud noise coming from his car.
+He pulls over to see what's wrong.
+The engine was smoking very badly.
+> His car engine is blown up!
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778)), ('coming', (5.383667915240877, 5.383667915240877)), ('home', (3.7389618639693185, 3.7389618639693185)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.4327109267646663
+
+__About the completion__
+Rarest in completion: [('blown', 8.1822121244839), ('engine', 7.571303042160927), ('car', 4.464157181236033), ('is', 4.0817459865209695), ('!', 3.536809591467683)]
+Nearest to completion: [('engine', 0.7071453332901001), ('engines', 0.5941652059555054), ('car', 0.5866166949272156), ('vehicle', 0.5067593455314636), ('blown', 0.49554917216300964), ('cylinder', 0.4647010564804077), ('cars', 0.46196120977401733), ('chassis', 0.45054516196250916), ('sedan', 0.44085872173309326), ('Engine', 0.43669211864471436)]
+
+--------------------------------------------------------------------------
+
+Betsy heard a noise in the back of her house.
+No one else was home.
+Betsy was very scared.
+She slowly walked to see what was making the noise.
+> Her kitten had knocked down a box of books!
+
+__About the match__
+Rarest shared words: [('noise', (6.020725629149778, 6.020725629149778)), ('home', (3.7389618639693185, 3.7389618639693185))]
+Score: 0.4314343220413388
+
+__About the completion__
+Rarest in completion: [('kitten', 7.08359983581579), ('knocked', 6.914523505771856), ('books', 6.491922115420705), ('box', 6.453822269188434), ('down', 4.370882181666085), ('!', 3.536809591467683)]
+Nearest to completion: [('box', 0.5555137395858765), ('knocked', 0.5094411373138428), ('books', 0.4478093087673187), ('knocking', 0.4224485456943512), ('boxes', 0.40717989206314087), ('down', 0.4001401960849762), ('knock', 0.36169975996017456), ('knocks', 0.3558872938156128), ('clipped', 0.3489975333213806), ('smashed', 0.34468594193458557)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Lenny wasn't having any luck at the slots.
+He thought it just wasn't his day.
+He was down to his last quarter.
+He decided to put it in the slot and pull.
+> Lenny's eyes lit up with joy as he hit the jackpot.
+
+__About the context__
+Rarest in context: [('slots', 8.641764453262358), ('quarter', 8.641764453262358), ('slot', 8.561721745588823), ('luck', 6.999536718005268), ('pull', 6.782865681196675), ('any', 5.207777248777212), ('having', 4.867089638985436), ('last', 4.467377183366722), ('just', 4.34108345804243), ('thought', 4.2566176912522335), ('put', 4.156880433148769), ('down', 3.854967396162991)]
+Nearest to context: [('slot', 0.5553191900253296), ('slots', 0.5407111644744873), ('luck', 0.38374289870262146), ('quarter', 0.3635268211364746), ('pull', 0.34477096796035767), ('position', 0.3263070285320282), ('fourth', 0.3174356520175934), ('grab', 0.30458760261535645), ('net', 0.2998674511909485), ('put', 0.29924091696739197)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wins', 1469, 18531, 0.5638235807418823), ('won', 301, 19699, 0.5370273590087891), ('winning', 663, 19337, 0.5087788701057434), ('winner', 1134, 18866, 0.4875282645225525), ('win', 202, 19798, 0.48606666922569275), ('winners', 2462, 17538, 0.47529295086860657), ('victories', 3900, 16100, 0.4725661277770996), ('prize', 3269, 16731, 0.46034663915634155), ('victory', 546, 19454, 0.402977854013443), ('losses', 1295, 18705, 0.3987257778644562)]
+Nearest words to completions' keywords: [('win', 202, 19798, 0.6368971467018127), ('won', 301, 19699, 0.6189427971839905), ('wins', 1469, 18531, 0.6130366921424866), ('happy', 1049, 18951, 0.602998673915863), ('winning', 663, 19337, 0.599281370639801), ('ecstatic', 17056, 2944, 0.572403073310852), ('glad', 4258, 15742, 0.5574313998222351), ('thrilled', 5437, 14563, 0.5514082908630371), ('winner', 1134, 18866, 0.5370777249336243), ('proud', 1913, 18087, 0.5270119905471802)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7072871327400208), ('took', 263, 19737, 0.6838564276695251), ('won', 301, 19699, 0.6667060256004333), ('came', 256, 19744, 0.657303512096405), ('had', 35, 19965, 0.6539469957351685), ('got', 193, 19807, 0.6450889706611633), ('was', 10, 19990, 0.6019039750099182), ('ran', 1256, 18744, 0.5818254947662354), ('saw', 653, 19347, 0.5725232362747192), ('stayed', 2936, 17064, 0.5713503360748291)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Tina went to the casino.
+She thought she would try her luck.
+So she sat down at the slots.
+She played for ten minutes.
+> To her surprise she one one million dollars.
+
+__About the match__
+Rarest shared words: [('slots', (8.641764453262358, 8.641764453262358)), ('luck', (6.999536718005268, 6.999536718005268)), ('thought', (4.2566176912522335, 4.2566176912522335)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.6798894802905674
+
+__About the completion__
+Rarest in completion: [('million', 8.20888037156606), ('surprise', 6.394848266728883), ('dollars', 6.2514537804491885), ('one', 3.351585275015767)]
+Nearest to completion: [('million', 0.7175870537757874), ('dollars', 0.6654157042503357), ('$', 0.606810450553894), ('billion', 0.58320552110672), ('###,###', 0.5191428661346436), ('billions', 0.4820653200149536), ('millions', 0.48088085651397705), ('thousand_dollars', 0.4705684185028076), ('USD', 0.4539415240287781), ('estimated', 0.4508606791496277)]
+
+--------------------------------------------------------------------------
+
+Joan went to the casino to try her luck.
+She put $10 worth of quarters in the first slot machine she saw.
+She didn't win anything and was very disappointed.
+On her way home, she found $10 on the pavement.
+> She smiled, took it, and went home with a light heart.
+
+__About the match__
+Rarest shared words: [('slot', (8.561721745588823, 8.561721745588823)), ('luck', (6.999536718005268, 6.999536718005268)), ('put', (4.156880433148769, 4.156880433148769))]
+Score: 0.6368009458146854
+
+__About the completion__
+Rarest in completion: [('heart', 6.967768020290668), ('smiled', 6.789360362817851), ('light', 6.776373167291039), ('took', 4.067463120907994), ('home', 4.002978318445733), ('went', 3.303005172815388)]
+Nearest to completion: [('smiled', 0.47455132007598877), ('took', 0.45819202065467834), ('went', 0.39195701479911804), ('heart', 0.3890268802642822), ('waved', 0.37712180614471436), ('came', 0.36630722880363464), ('flashed', 0.3601195812225342), ('paused', 0.34446725249290466), ('leaned', 0.3339967429637909), ('roared', 0.32677382230758667)]
+
+--------------------------------------------------------------------------
+
+I went to the casino yesterday.
+I thought of trying my luck out on slots.
+At first I did not make much.
+Then I made one hundred dollars.
+> So I bought dinner for my friends.
+
+__About the match__
+Rarest shared words: [('slots', (8.641764453262358, 8.641764453262358)), ('luck', (6.999536718005268, 6.999536718005268)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.5895582814181726
+
+__About the completion__
+Rarest in completion: [('dinner', 5.601198164518556), ('bought', 4.408241996399123), ('friends', 4.1620430130754205), ('so', 3.628612279567497), ('my', 3.5357989799617595)]
+Nearest to completion: [('dinner', 0.5735936760902405), ('friends', 0.5431258082389832), ('dinners', 0.49565553665161133), ('bought', 0.41612860560417175), ('friend', 0.4156634211540222), ('Dinner', 0.4115027189254761), ('my', 0.3997403383255005), ('buddies', 0.384085476398468), ('My', 0.3583675026893616), ('meal', 0.35434550046920776)]
+
+--------------------------------------------------------------------------
+
+Debra was having a good time at the casino.
+She was playing the slots.
+Bored and talking to her friend.
+She pulled down the lever.
+> Jackpot winner! she had won it all.
+
+__About the match__
+Rarest shared words: [('slots', (8.641764453262358, 8.641764453262358)), ('having', (4.867089638985436, 4.867089638985436)), ('down', (3.854967396162991, 3.854967396162991))]
+Score: 0.5785200788251378
+
+__About the completion__
+Rarest in completion: [('winner', 8.264450222720871), ('won', 5.467168887890719), ('all', 3.5398475684877595), ('!', 3.536809591467683)]
+Nearest to completion: [('winner', 0.8228324055671692), ('won', 0.7990865707397461), ('winners', 0.7073498964309692), ('winning', 0.6761650443077087), ('wins', 0.6192171573638916), ('win', 0.6143960952758789), ('Winner', 0.5806095600128174), ('finalist', 0.55580735206604), ('champion', 0.5554341077804565), ('victorious', 0.5276476740837097)]
+
+--------------------------------------------------------------------------
+
+We went to a casino last Saturday.
+Curtis lost over a hundred dollars on the slot machines in an hour.
+We couldn't find a place that had arcades for kids.
+Eventually, we found a small one with little kid games.
+> We went home having won nothing.
+
+__About the match__
+Rarest shared words: [('slot', (8.561721745588823, 8.561721745588823)), ('last', (4.467377183366722, 4.467377183366722))]
+Score: 0.4886630900895335
+
+__About the completion__
+Rarest in completion: [('nothing', 6.368759830644585), ('won', 5.467168887890719), ('having', 5.335163048575033), ('we', 4.354142974076229), ('home', 4.002978318445733), ('went', 3.303005172815388)]
+Nearest to completion: [('won', 0.5384737253189087), ('winning', 0.444430410861969), ('wins', 0.3755960762500763), ('went', 0.37452828884124756), ('win', 0.35820329189300537), ('victories', 0.356202095746994), ('clinched', 0.34649428725242615), ('nothing', 0.33077725768089294), ('gone', 0.32691362500190735), ('defeating', 0.3208153545856476)]
+
+--------------------------------------------------------------------------
+
+Matt pulled the slot machine handle once more.
+The machine beeped and jingled, but nothing came out.
+Disappointed, he inserted another coin and pulled the lever.
+He rubbed his eyes sleepily, but remained determined.
+> It would take more than a few losses to discourage him.
+
+__About the match__
+Rarest shared words: [('slot', (8.561721745588823, 8.561721745588823))]
+Score: 0.4858254976707587
+
+__About the completion__
+Rarest in completion: [('discourage', 11.12665110365034), ('losses', 10.210360371776185), ('than', 5.6973054746958995), ('few', 5.000874218934764), ('take', 4.896169656071859), ('more', 4.774893167080915), ('would', 3.922873627941421), ('him', 3.3907807836977737)]
+Nearest to completion: [('more', 0.5351709723472595), ('than', 0.5083698034286499), ('fewer', 0.4818252623081207), ('less', 0.46843478083610535), ('discourage', 0.45787718892097473), ('losses', 0.43584126234054565), ('curtail', 0.3854184150695801), ('deter', 0.37232938408851624), ('Fewer', 0.3587336838245392), ('More', 0.34267458319664)]
+
+--------------------------------------------------------------------------
+
+Lucy went to the casino.
+She was eager to play some slots.
+Finally she won something.
+She won one hundred dollars.
+> Lucy was so happy.
+
+__About the match__
+Rarest shared words: [('slots', (8.641764453262358, 8.641764453262358))]
+Score: 0.4808898555672108
+
+__About the completion__
+Rarest in completion: [('happy', 4.78013793434821), ('so', 3.628612279567497)]
+Nearest to completion: [('happy', 0.7671622633934021), ('pleased', 0.5742559432983398), ('glad', 0.5378777384757996), ('delighted', 0.534636378288269), ('thrilled', 0.5167423486709595), ('proud', 0.512934148311615), ('satisfied', 0.48604804277420044), ('ecstatic', 0.4717335104942322), ('disappointed', 0.4703996181488037), ('happier', 0.461637020111084)]
+
+--------------------------------------------------------------------------
+
+Gale wanted to spend her weekend at a casino.
+Gale decided to try her luck at roulette.
+She managed to double her earnings!
+Feeling lucky, Gale decided to keep going.
+> Gale left the casino that day breaking even.
+
+__About the match__
+Rarest shared words: [('luck', (6.999536718005268, 6.999536718005268))]
+Score: 0.4562193138596598
+
+__About the completion__
+Rarest in completion: [('casino', 8.013135794439966), ('breaking', 7.849506370658164), ('even', 5.482972553063845), ('left', 4.930206975855819), ('day', 3.3461390948177767)]
+Nearest to completion: [('casino', 0.6496091485023499), ('casinos', 0.530400812625885), ('breaking', 0.526153028011322), ('Casino', 0.5241139531135559), ('gaming', 0.4524596333503723), ('gambling', 0.4520293176174164), ('slot_machines', 0.43974512815475464), ('poker', 0.39885157346725464), ('broke', 0.3831140398979187), ('Gaming', 0.3725999593734741)]
+
+--------------------------------------------------------------------------
+
+Allie and her friends went to Vegas.
+They wanted to make some money.
+Allie sat at the slot machine for an hour.
+She ended up making a hundred dollars.
+> Allie was thrilled.
+
+__About the match__
+Rarest shared words: [('slot', (8.561721745588823, 8.561721745588823))]
+Score: 0.4548350687010828
+
+__About the completion__
+Rarest in completion: [('thrilled', 7.25545009274245)]
+Nearest to completion: [('thrilled', 0.967278778553009), ('delighted', 0.8446455001831055), ('excited', 0.7901397943496704), ('pleased', 0.7782270908355713), ('ecstatic', 0.6906305551528931), ('proud', 0.677925705909729), ('glad', 0.5719399452209473), ('grateful', 0.5696063041687012), ('happy', 0.5466499924659729), ('appreciative', 0.5458828210830688)]
+
+--------------------------------------------------------------------------
+
+Skip goes gambling in vegas.
+He tries his hand at some poker.
+He loses bad in poker.
+He tries the slots this time.
+> He wins a huge prize.
+
+__About the match__
+Rarest shared words: [('slots', (8.641764453262358, 8.641764453262358))]
+Score: 0.4488155043079773
+
+__About the completion__
+Rarest in completion: [('wins', 8.130918830096348), ('prize', 7.660915200850614), ('huge', 5.993798176829835)]
+Nearest to completion: [('prize', 0.7120122313499451), ('wins', 0.6813042759895325), ('winner', 0.5494620203971863), ('winners', 0.5323149561882019), ('prizes', 0.5285128951072693), ('winning', 0.5284884572029114), ('win', 0.514224648475647), ('Prize', 0.510540246963501), ('victories', 0.5027370452880859), ('won', 0.49588000774383545)]
+
+--------------------------------------------------------------------------
+
+

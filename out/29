@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Heather and her family really wanted tacos for dinner.
+Two of the children wanted chicken tacos.
+The other two children wanted beef.
+Heather took great care preparing all the tacos that each wanted.
+> Everyone sat down at dinner and enjoyed eating the tacos together.
+
+__About the context__
+Rarest in context: [('beef', 7.948617272702413), ('tacos', 7.692683898565213), ('preparing', 7.342481469132098), ('chicken', 6.426190737257943), ('children', 5.97337950855258), ('care', 5.843467374312371), ('each', 5.286029445676961), ('dinner', 5.147785338149237), ('great', 4.728076168515152), ('other', 4.589979505459054), ('two', 4.452109711235933), ('really', 4.303384980694672), ('family', 4.230988405302492), ('took', 3.6015703569245585)]
+Nearest to context: [('chicken', 0.5175114870071411), ('beef', 0.4878617525100708), ('dinners', 0.45278406143188477), ('meat', 0.4394295811653137), ('dinner', 0.42774927616119385), ('pork', 0.4182560443878174), ('lamb', 0.41767188906669617), ('barbecue', 0.4130157232284546), ('meals', 0.39761292934417725), ('meal', 0.3974887728691101)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('dessert', 12865, 7135, 0.5234284996986389), ('buffet', 17589, 2411, 0.47999873757362366), ('desserts', 19543, 457, 0.476931631565094), ('dish', 8744, 11256, 0.4365103244781494), ('meal', 4866, 15134, 0.42745423316955566), ('delicious', 10595, 9405, 0.40061017870903015), ('dinner', 2656, 17344, 0.39124059677124023), ('dishes', 8306, 11694, 0.38950255513191223), ('tasty', 16425, 3575, 0.3839547038078308), ('salad', 12291, 7709, 0.36439695954322815)]
+Nearest words to completions' keywords: [('dessert', 12865, 7135, 0.6202956438064575), ('desserts', 19543, 457, 0.6047326326370239), ('just', 76, 19924, 0.5598471164703369), ('meal', 4866, 15134, 0.558743953704834), ('delicious', 10595, 9405, 0.5571767091751099), ('so', 85, 19915, 0.5486838817596436), ('tasty', 16425, 3575, 0.5359938144683838), ('dinner', 2656, 17344, 0.5284988880157471), ('cakes', 19210, 790, 0.5230934619903564), ('buffet', 17589, 2411, 0.5216794013977051)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7066293358802795), ('was', 10, 19990, 0.6621514558792114), ('went', 297, 19703, 0.6538504362106323), ('came', 256, 19744, 0.6487378478050232), ('stayed', 2936, 17064, 0.6324564218521118), ('got', 193, 19807, 0.6253653168678284), ('wanted', 583, 19417, 0.600395917892456), ('were', 37, 19963, 0.5837486982345581), ('would', 47, 19953, 0.5820177793502808), ('turned', 760, 19240, 0.5714789032936096)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Our building had a summer barbeque today.
+A caterer served grilled ribs, chicken, hot dogs and hamburgers.
+They also served pasta salad.
+We ate a lot of food and talked to neighbors.
+> We will be having a light dinner.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943))]
+Score: 0.5657529213026882
+
+__About the completion__
+Rarest in completion: [('light', 6.776373167291039), ('will', 6.119354710819599), ('dinner', 5.601198164518556), ('having', 5.335163048575033), ('we', 4.354142974076229), ('be', 4.0931446193626435)]
+Nearest to completion: [('will', 0.45918020606040955), ('be', 0.4394230842590332), ('dinner', 0.43290695548057556), ('Dinner', 0.4170876145362854), ('light', 0.3959328234195709), ('luncheon', 0.37769386172294617), ('refreshments', 0.35212814807891846), ('banquet', 0.350873202085495), ('gala', 0.350321888923645), ('should', 0.34715399146080017)]
+
+--------------------------------------------------------------------------
+
+Last week we went to dinner in Baldwin, Long Island.
+We were visiting from Boston, and our friend had us over.
+She cooked Dominican food, such as rice and beans and pork shoulder.
+We had flan for dessert.
+> We stayed for hours, and returned to our hotel very stuffed.
+
+__About the match__
+Rarest shared words: [('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5604005212677009
+
+__About the completion__
+Rarest in completion: [('stuffed', 7.759355273663867), ('hotel', 6.907143398474234), ('stayed', 6.266838699288669), ('returned', 6.225086904608447), ('our', 5.481204206007103), ('hours', 5.268717949166882), ('we', 4.354142974076229), ('very', 3.793301345264873)]
+Nearest to completion: [('stayed', 0.41370049118995667), ('hotel', 0.39831748604774475), ('returned', 0.38317057490348816), ('hotels', 0.357230007648468), ('our', 0.3545352816581726), ('remained', 0.34855812788009644), ('staying', 0.33818355202674866), ('Hotels', 0.31592491269111633), ('hours', 0.30376917123794556), ('stuffed', 0.30276161432266235)]
+
+--------------------------------------------------------------------------
+
+I cooked dinner last night.
+I made some chicken with a sauce on top.
+I am not usually a good cook.
+This meal was good.
+> I was so very proud of myself.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5397351965084429
+
+__About the completion__
+Rarest in completion: [('myself', 7.137667057086066), ('proud', 6.0452467386658775), ('very', 3.793301345264873), ('so', 3.628612279567497)]
+Nearest to completion: [('proud', 0.6545672416687012), ('very', 0.5506497025489807), ('extremely', 0.5301958322525024), ('incredibly', 0.523523211479187), ('myself', 0.5141359567642212), ('delighted', 0.47107890248298645), ('I', 0.4690227806568146), ('pleased', 0.45492613315582275), ('tremendously', 0.4413820505142212), ('grateful', 0.43931645154953003)]
+
+--------------------------------------------------------------------------
+
+Gina prepared food for the family.
+She cooked lasagna, grilled chicken and garlic bread.
+As soon as we started to eat, Her mom became nauseous.
+Afterwards, everyone started to feel queasy.
+> They eventually threw away the food and ordered Chinese food.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.5384272218359089
+
+__About the completion__
+Rarest in completion: [('chinese', 7.692663899165194), ('ordered', 6.023740533444914), ('threw', 5.767709115285869), ('eventually', 5.556400021618662), ('food', 5.1080578891541055), ('away', 4.824948298377215)]
+Nearest to completion: [('ordered', 0.5711540579795837), ('threw', 0.49567562341690063), ('ordering', 0.41218093037605286), ('tossed', 0.41026782989501953), ('food', 0.40072011947631836), ('demanded', 0.369733065366745), ('hurled', 0.3619324862957001), ('thrown', 0.3379038870334625), ('hauled', 0.3343242406845093), ('throwing', 0.33120542764663696)]
+
+--------------------------------------------------------------------------
+
+Lucy was cooking dinner.
+She bought all the ingredients to make chicken and rice.
+She cooked the rice beforehand.
+She added the chicken to the mix.
+> The dish turned out perfect.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5383112311956951
+
+__About the completion__
+Rarest in completion: [('dish', 7.88797265148596), ('perfect', 6.259116653194758), ('turned', 5.363028628638123), ('out', 3.3165011979861596)]
+Nearest to completion: [('dish', 0.6533134579658508), ('perfect', 0.5482581257820129), ('dishes', 0.494110107421875), ('tasty', 0.46227771043777466), ('delicious', 0.461302250623703), ('recipe', 0.40300071239471436), ('dessert', 0.38879212737083435), ('desserts', 0.3641793131828308), ('ideal', 0.3578089475631714), ('dished', 0.34941786527633667)]
+
+--------------------------------------------------------------------------
+
+Tina had a great new recipe.
+It was a shrimp dish.
+She grilled the shrimp and then put it on top of rice.
+Everyone in her family loved the food.
+> They asked her to make it more often!
+
+__About the match__
+Rarest shared words: [('great', (4.728076168515152, 4.728076168515152)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.5339432528019201
+
+__About the completion__
+Rarest in completion: [('often', 6.408152232355246), ('make', 4.7898253725039), ('more', 4.774893167080915), ('asked', 4.518650478354253), ('!', 3.536809591467683)]
+Nearest to completion: [('more', 0.5238219499588013), ('often', 0.47426414489746094), ('make', 0.47313278913497925), ('frequently', 0.43514180183410645), ('sometimes', 0.42516225576400757), ('less', 0.4188660681247711), ('tend', 0.41809025406837463), ('typically', 0.40446242690086365), ('ask', 0.3933454751968384), ('most', 0.3715367317199707)]
+
+--------------------------------------------------------------------------
+
+Rita's friends invited her and her kids to lunch.
+There were 12 kids in the group all together.
+They all ate mac and cheese and chicken nuggets.
+The kids had fun playing at the table.
+> Before leaving everyone had ice cream for dessert.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943))]
+Score: 0.533617993253401
+
+__About the completion__
+Rarest in completion: [('dessert', 8.354062381410559), ('leaving', 7.03230654142824), ('cream', 6.4967883050718775), ('ice', 6.210326489025326), ('everyone', 5.197061960260446), ('before', 4.900114434362875)]
+Nearest to completion: [('dessert', 0.6278329491615295), ('cream', 0.5901927947998047), ('ice', 0.5670700073242188), ('desserts', 0.5047014355659485), ('chocolate', 0.48286157846450806), ('cake', 0.4593992531299591), ('ice_cream', 0.43976539373397827), ('Ice', 0.42100000381469727), ('cakes', 0.41638800501823425), ('baking', 0.41497087478637695)]
+
+--------------------------------------------------------------------------
+
+Andrew was trying a new recipe.
+He had pork chops marinating in the fridge.
+He grilled them and served them with gravy.
+Everyone raved about the pork chops.
+> Andrew said he would make them often in the future.
+
+__About the match__
+Rarest shared words: []
+Score: 0.5289140056279397
+
+__About the completion__
+Rarest in completion: [('future', 7.63014354218386), ('often', 6.408152232355246), ('make', 4.7898253725039), ('said', 4.667529428177747), ('them', 3.9905657466666935), ('would', 3.922873627941421)]
+Nearest to completion: [('future', 0.5562753081321716), ('make', 0.4550086557865143), ('would', 0.4115188717842102), ('may', 0.39096102118492126), ('might', 0.3763682246208191), ('any', 0.3672879636287689), ('should', 0.36460408568382263), ('could', 0.36196187138557434), ('often', 0.3607517182826996), ('such', 0.3533466160297394)]
+
+--------------------------------------------------------------------------
+
+I was taking my girl out to dinner.
+We could not decide on a place to eat.
+I wanted to eat steak.
+She wanted to eat pasta.
+> We decided to go to a buffet so we both were happy.
+
+__About the match__
+Rarest shared words: [('dinner', (5.147785338149237, 5.147785338149237))]
+Score: 0.5176258420054656
+
+__About the completion__
+Rarest in completion: [('buffet', 8.98658494015407), ('both', 5.758341365282269), ('happy', 4.78013793434821), ('we', 4.354142974076229), ('go', 4.110041419756121), ('so', 3.628612279567497), ('were', 3.60343995182413), ('decided', 3.495461951503386)]
+Nearest to completion: [('we', 0.42981818318367004), ('buffet', 0.4161825478076935), ('happy', 0.3527647852897644), ('We', 0.3403888940811157), ('our', 0.33616381883621216), ('these', 0.31202125549316406), ('they', 0.3065897226333618), ('desserts', 0.3034350872039795), ('go', 0.2999879717826843), ('ourselves', 0.29401180148124695)]
+
+--------------------------------------------------------------------------
+
+Rob was eating dinner with his friend and his family.
+But he noticed a piece of his chicken was uncooked.
+He didn't want to embarrass himself.
+So he decided to eat all of his food.
+> But he ended up being sick for a week.
+
+__About the match__
+Rarest shared words: [('chicken', (6.426190737257943, 6.426190737257943)), ('dinner', (5.147785338149237, 5.147785338149237)), ('family', (4.230988405302492, 4.230988405302492))]
+Score: 0.5158674893981817
+
+__About the completion__
+Rarest in completion: [('sick', 5.911715346041355), ('being', 5.502633597463002), ('ended', 5.160504364526648), ('week', 5.050156307357783), ('but', 3.4639482432028115)]
+Nearest to completion: [('sick', 0.48695701360702515), ('ended', 0.4464944005012512), ('ending', 0.42869484424591064), ('being', 0.4065084457397461), ('week', 0.3792458772659302), ('ill', 0.361908882856369), ('weeks', 0.340192586183548), ('month', 0.33631420135498047), ('last', 0.333452969789505), ('after', 0.3230154812335968)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+On Monday I went to lunch with my friend.
+We went to a small Italian restaurant.
+I ordered pizza.
+At first I thought it tasted okay.
+> Yet to my shock I got sick when I got home.
+
+__About the context__
+Rarest in context: [('italian', 7.725473721388203), ('okay', 7.3654709873567965), ('tasted', 6.5315512529157695), ('pizza', 5.961885129126845), ('ordered', 5.4847640321122455), ('lunch', 5.436311648726298), ('restaurant', 5.283126686018999), ('small', 5.135206555942377), ('thought', 4.2566176912522335), ('we', 4.061057739452641), ('first', 3.9673791982527944), ('friend', 3.9405267985280337)]
+Nearest to context: [('pizza', 0.6342217922210693), ('burger', 0.5745618939399719), ('sandwich', 0.5598427653312683), ('restaurant', 0.5564520359039307), ('lunch', 0.5273156762123108), ('Pizza', 0.5112561583518982), ('dessert', 0.49974119663238525), ('sandwiches', 0.490048885345459), ('steak', 0.4807699918746948), ('tasted', 0.47429513931274414)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('sandwich', 12912, 7088, 0.5077711939811707), ('cheese', 7570, 12430, 0.5020912289619446), ('burger', 19185, 815, 0.47356563806533813), ('toast', 16398, 3602, 0.47278326749801636), ('steak', 17617, 2383, 0.4673032760620117), ('dish', 8744, 11256, 0.4423453211784363), ('chef', 8032, 11968, 0.4403389096260071), ('bacon', 18529, 1471, 0.4387865364551544), ('delicious', 10595, 9405, 0.438015341758728), ('sandwiches', 15783, 4217, 0.4373680055141449)]
+Nearest words to completions' keywords: [('eat', 2785, 17215, 0.6820794343948364), ('eating', 3763, 16237, 0.6265481114387512), ('ate', 9337, 10663, 0.6151874661445618), ('eaten', 11812, 8188, 0.5945177674293518), ('loved', 3069, 16931, 0.5833336114883423), ('delicious', 10595, 9405, 0.58121258020401), ('eats', 16539, 3461, 0.5643414258956909), ('cook', 7022, 12978, 0.561193585395813), ('burger', 19185, 815, 0.5552443861961365), ('sandwiches', 15783, 4217, 0.5538113117218018)]
+Nearest words to completions' verbs: [('knew', 1039, 18961, 0.6790860891342163), ('had', 35, 19965, 0.6735010147094727), ('was', 10, 19990, 0.6614247560501099), ('thought', 572, 19428, 0.6548667550086975), ('ate', 9337, 10663, 0.6516829133033752), ('got', 193, 19807, 0.6273047924041748), ('came', 256, 19744, 0.6035324931144714), ('saw', 653, 19347, 0.5826338529586792), ('felt', 1040, 18960, 0.5754629373550415), ('wanted', 583, 19417, 0.5748854279518127)]
+
+==========================================================================
+Neighbors
+==========================================================================
+My cousin took me to a local restaurant.
+We ordered a large pizza.
+Since she never tasted the food there, she didn't know if it was good.
+I began to start sneezing.
+> To make matters worse, I caught an allergy.
+
+__About the match__
+Rarest shared words: [('tasted', (6.5315512529157695, 6.5315512529157695)), ('pizza', (5.961885129126845, 5.961885129126845)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999)), ('we', (4.061057739452641, 4.061057739452641))]
+Score: 0.771093675109898
+
+__About the completion__
+Rarest in completion: [('matters', 10.028038814982231), ('allergy', 9.25484892674875), ('worse', 7.388981485366972), ('caught', 5.669195515764007), ('make', 4.7898253725039), ('an', 3.8221351571901856)]
+Nearest to completion: [('matters', 0.5600614547729492), ('worse', 0.5242538452148438), ('caught', 0.38998207449913025), ('an', 0.38080137968063354), ('situation', 0.3068239688873291), ('better', 0.2954424023628235), ('An', 0.29036012291908264), ('affairs', 0.2879995107650757), ('issues', 0.28777092695236206), ('clearer', 0.284836083650589)]
+
+--------------------------------------------------------------------------
+
+Kim and her friends went to a pizza restaurant.
+The waiter recommended the pasta.
+Kim and her friends order the pasta.
+They loved the pasta they ordered.
+> The girls left the waiter a big tip.
+
+__About the match__
+Rarest shared words: [('pizza', (5.961885129126845, 5.961885129126845)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.6945823903903652
+
+__About the completion__
+Rarest in completion: [('tip', 7.969650682500228), ('waiter', 7.812465098977815), ('girls', 6.7828456817966565), ('big', 5.114159189350283), ('left', 4.930206975855819)]
+Nearest to completion: [('tip', 0.6458845138549805), ('girls', 0.48301050066947937), ('boys', 0.4423718750476837), ('big', 0.38142749667167664), ('left', 0.35713398456573486), ('tipped', 0.34860503673553467), ('Girls', 0.32850316166877747), ('huge', 0.31744539737701416), ('junior_varsity', 0.3138192296028137), ('tips', 0.30847376585006714)]
+
+--------------------------------------------------------------------------
+
+Olivia hated pickles.
+She went to a restaurant.
+Olivia ordered a burger and fries.
+The burger came with pickles.
+> Olivia took the pickles off and ate her food.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.6838008567009518
+
+__About the completion__
+Rarest in completion: [('pickles', 9.421903011411915), ('ate', 5.493648811055187), ('food', 5.1080578891541055), ('off', 4.4887379789916535), ('took', 4.067463120907994)]
+Nearest to completion: [('ate', 0.6719962358474731), ('food', 0.5549100637435913), ('eat', 0.4801977872848511), ('eaten', 0.4457480311393738), ('eating', 0.44511884450912476), ('eats', 0.41413915157318115), ('took', 0.40667739510536194), ('foods', 0.3992014229297638), ('meals', 0.3812183141708374), ('snack', 0.3709830641746521)]
+
+--------------------------------------------------------------------------
+
+Suzy had a salad.
+She ordered it at the restaurant.
+It came to her.
+When she got it it was bland.
+> She hated it.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.6681381339128933
+
+__About the completion__
+Rarest in completion: [('hated', 6.368759830644585)]
+Nearest to completion: [('hated', 0.9099236726760864), ('hates', 0.571578323841095), ('dislike', 0.5010005235671997), ('loved', 0.48201611638069153), ('hate', 0.4694475531578064), ('admired', 0.42690032720565796), ('fond', 0.40174102783203125), ('obsessed', 0.39526888728141785), ('liked', 0.3944050371646881), ('revered', 0.3915855586528778)]
+
+--------------------------------------------------------------------------
+
+Liam was in Paris for the first time.
+He always wanted to eat toast in France.
+He went to a small cafe and ordered coffee and toast.
+He was very disappointed when his food arrived.
+> It was plain toast and not French toast like he thought it would be.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('small', (5.135206555942377, 5.135206555942377)), ('first', (3.9673791982527944, 3.9673791982527944))]
+Score: 0.6658403843062319
+
+__About the completion__
+Rarest in completion: [('plain', 9.25484892674875), ('toast', 8.41860090254813), ('french', 8.013135794439966), ('thought', 4.810389351501649), ('like', 4.781014742821744), ('be', 4.0931446193626435), ('would', 3.922873627941421), ('not', 3.8329533830489027)]
+Nearest to completion: [('plain', 0.4787178635597229), ('toast', 0.4485466778278351), ('not', 0.3844665288925171), ('seem', 0.3774518668651581), ('indeed', 0.3737499713897705), ('be', 0.3718568682670593), ('Would', 0.37126195430755615), ('thought', 0.36267417669296265), ('like', 0.36154550313949585), ('otherwise', 0.3603772521018982)]
+
+--------------------------------------------------------------------------
+
+I went to the bakery yesterday.
+I ordered a delicious pastry.
+It tasted amazing.
+I went and got another one.
+> I loved it.
+
+__About the match__
+Rarest shared words: [('tasted', (6.5315512529157695, 6.5315512529157695)), ('ordered', (5.4847640321122455, 5.4847640321122455))]
+Score: 0.6658148157085484
+
+__About the completion__
+Rarest in completion: [('loved', 4.425305176991248)]
+Nearest to completion: [('loved', 0.8841150403022766), ('loves', 0.5646284818649292), ('love', 0.5572199821472168), ('admired', 0.5152204036712646), ('beloved', 0.5142305493354797), ('liked', 0.5106077790260315), ('hated', 0.4960869252681732), ('loving', 0.48441082239151), ('wonderful', 0.4177146852016449), ('fond', 0.40833309292793274)]
+
+--------------------------------------------------------------------------
+
+Ron went out to eat.
+He ordered a sandwich that sounded great.
+The waitress brought him his sandwich.
+Ron's sandwich tasted funny.
+> Ron sent it back to the chef.
+
+__About the match__
+Rarest shared words: [('tasted', (6.5315512529157695, 6.5315512529157695)), ('ordered', (5.4847640321122455, 5.4847640321122455))]
+Score: 0.6619382499428256
+
+__About the completion__
+Rarest in completion: [('chef', 7.660915200850614), ('sent', 6.1993974184931355), ('back', 4.3399341530452595)]
+Nearest to completion: [('chef', 0.731944739818573), ('Chef', 0.6082096695899963), ('chefs', 0.5712324380874634), ('sent', 0.5055180788040161), ('culinary', 0.4310111999511719), ('cuisine', 0.4075046479701996), ('cooks', 0.3784206509590149), ('Kitchen', 0.34407657384872437), ('send', 0.33793967962265015), ('sending', 0.333865761756897)]
+
+--------------------------------------------------------------------------
+
+Jeffrey enjoys eating sandwiches a lot.
+His mom started to pack sandwiches for lunch for him.
+After Jeffrey ate a sandwich, he said it tasted bad.
+His mom said that she forgot to put cheese on the sandwich.
+> Jeffrey had to make a new sandwich with cheese on it.
+
+__About the match__
+Rarest shared words: [('tasted', (6.5315512529157695, 6.5315512529157695)), ('lunch', (5.436311648726298, 5.436311648726298))]
+Score: 0.6580712328931448
+
+__About the completion__
+Rarest in completion: [('cheese', 7.265921392609745), ('sandwich', 7.175407385068913), ('make', 4.7898253725039), ('new', 3.7799959404738015)]
+Nearest to completion: [('sandwich', 0.7524631023406982), ('cheese', 0.750062108039856), ('sandwiches', 0.5992634296417236), ('burger', 0.5826859474182129), ('bacon', 0.5542002320289612), ('pasta', 0.534429669380188), ('ice_cream', 0.5163877010345459), ('pizza', 0.512765109539032), ('steak', 0.49845632910728455), ('dessert', 0.492941290140152)]
+
+--------------------------------------------------------------------------
+
+Stacy was starving.
+She hadn't eaten all day.
+She went to a restaurant that was famous for all-day breakfast.
+She ordered the chicken and waffles.
+> She ate every last crumb!
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.6554876239900913
+
+__About the completion__
+Rarest in completion: [('crumb', 10.721185995542177), ('ate', 5.493648811055187), ('last', 5.030826541218116), ('every', 4.763623000109876), ('!', 3.536809591467683)]
+Nearest to completion: [('ate', 0.66496741771698), ('every', 0.557523250579834), ('last', 0.4948720335960388), ('eaten', 0.4306117296218872), ('eats', 0.43007829785346985), ('Last', 0.41359564661979675), ('Every', 0.38993412256240845), ('eat', 0.3840407133102417), ('eating', 0.38064566254615784), ('preceding', 0.3729495406150818)]
+
+--------------------------------------------------------------------------
+
+Emily was eating at a fast food restaurant.
+She ordered fries and a burger.
+Emily's order came out.
+The fries weren't on the order.
+> Emily told the cashier the order was wrong.
+
+__About the match__
+Rarest shared words: [('ordered', (5.4847640321122455, 5.4847640321122455)), ('restaurant', (5.283126686018999, 5.283126686018999))]
+Score: 0.6495173045554716
+
+__About the completion__
+Rarest in completion: [('cashier', 7.708924420036975), ('emily', 7.708924420036975), ('order', 6.403697882005866), ('wrong', 6.221376325211911), ('told', 4.259717819188459)]
+Nearest to completion: [('told', 0.6146154403686523), ('wrong', 0.5473306775093079), ('order', 0.46857380867004395), ('tells', 0.4475098252296448), ('telling', 0.4084256589412689), ('quoted', 0.40838155150413513), ('instructed', 0.40837278962135315), ('correct', 0.39076903462409973), ('interview', 0.38510042428970337), ('telephone_interview', 0.3765658140182495)]
+
+--------------------------------------------------------------------------
+
+

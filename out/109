@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Diana sneezed in class.
+Everyone immediately said bless you.
+On the other hand, I sneezed and got no response.
+I became more suspicious when the event happened again.
+> Instead of being mad, I assumed that they were not mad at me.
+
+__About the context__
+Rarest in context: [('bless', 10.433523922490414), ('sneezed', 8.4876137734351), ('suspicious', 8.236299345154194), ('response', 8.182232123883919), ('event', 7.083619835215809), ('you', 6.572794211449819), ('happened', 6.435323220821216), ('hand', 5.843467374312371), ('immediately', 5.79395230978499), ('again', 5.633609659709811), ('became', 5.155409263259896), ('everyone', 4.932265711945687), ('class', 4.7414767040526336), ('more', 4.629896112864497), ('other', 4.589979505459054), ('no', 4.393269211213), ('said', 4.286124573761672)]
+Nearest to context: [('immediately', 0.39668092131614685), ('response', 0.3830457329750061), ('any', 0.3495028614997864), ('suspicious', 0.34564515948295593), ('everyone', 0.33116939663887024), ('anyone', 0.330654501914978), ('respond', 0.3127332627773285), ('no', 0.3117058277130127), ('particular', 0.3082553446292877), ('immediate', 0.30748867988586426)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('angry', 3808, 16192, 0.39662259817123413), ('sorry', 4897, 15103, 0.3739200234413147), ('complaining', 7696, 12304, 0.35873061418533325), ('offended', 14519, 5481, 0.35453662276268005), ('embarrassed', 9623, 10377, 0.34924301505088806), ('apologize', 7509, 12491, 0.3457189202308655), ('apologized', 7004, 12996, 0.33928781747817993), ('felt', 1040, 18960, 0.33719849586486816), ('joking', 14840, 5160, 0.3327128291130066), ('scared', 6037, 13963, 0.33189332485198975)]
+Nearest words to completions' keywords: [('horrible', 8002, 11998, 0.6038134694099426), ('scared', 6037, 13963, 0.5994754433631897), ('scary', 7409, 12591, 0.5879538059234619), ('terrible', 4906, 15094, 0.5868743062019348), ('sorry', 4897, 15103, 0.5714303255081177), ('laughed', 9168, 10832, 0.5649704337120056), ('knew', 1039, 18961, 0.5644097328186035), ('mad', 7966, 12034, 0.5575646758079529), ('weird', 8152, 11848, 0.5565983057022095), ('embarrassed', 9623, 10377, 0.5563035607337952)]
+Nearest words to completions' verbs: [('felt', 1040, 18960, 0.7359372973442078), ('knew', 1039, 18961, 0.7178093194961548), ('had', 35, 19965, 0.7023218274116516), ('was', 10, 19990, 0.690129280090332), ('got', 193, 19807, 0.6811559796333313), ('came', 256, 19744, 0.6429606676101685), ('thought', 572, 19428, 0.6422319412231445), ('wanted', 583, 19417, 0.617362380027771), ('went', 297, 19703, 0.6146575808525085), ('saw', 653, 19347, 0.6097371578216553)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Brad approached Elena after class.
+He simply asked her if she's doing anything later.
+Her first response was that she has a boyfriend.
+He looked confused and just said that he wanted to study with her.
+> She felt relieved that he wasn't hitting on her and apologized.
+
+__About the match__
+Rarest shared words: [('response', (8.182232123883919, 8.182232123883919)), ('class', (4.7414767040526336, 4.7414767040526336)), ('said', (4.286124573761672, 4.286124573761672))]
+Score: 0.45879069369272435
+
+__About the completion__
+Rarest in completion: [('hitting', 8.1822121244839), ('apologized', 6.999516718605249), ('relieved', 6.672303807396832), ('felt', 4.558573192238365), ("n't", 3.334508641807057)]
+Nearest to completion: [('apologized', 0.6628944277763367), ('relieved', 0.574711263179779), ('apologize', 0.5268803834915161), ('felt', 0.4785389304161072), ('regretted', 0.47338587045669556), ('sorry', 0.436062753200531), ('apology', 0.4160751700401306), ('admitted', 0.41257452964782715), ('acknowledged', 0.3954986035823822), ('admitting', 0.38404110074043274)]
+
+--------------------------------------------------------------------------
+
+Every morning, my alarm went off.
+I didn't have a normal alarm, however.
+My alarm happened to be the neighbor's rooster.
+At the same time each morning, he would crow.
+> I hated it back then, but grew to miss it one day.
+
+__About the match__
+Rarest shared words: [('happened', (6.435323220821216, 6.435323220821216))]
+Score: 0.4113785023804226
+
+__About the completion__
+Rarest in completion: [('miss', 7.868554565628858), ('hated', 6.368759830644585), ('grew', 6.343334732278775), ('then', 4.392059443677392), ('back', 4.3399341530452595), ('but', 3.4639482432028115), ('one', 3.351585275015767), ('day', 3.3461390948177767)]
+Nearest to completion: [('miss', 0.4839467704296112), ('hated', 0.45098188519477844), ('missed', 0.3887977600097656), ('grew', 0.3787645101547241), ('misses', 0.33381056785583496), ('disappoint', 0.26357370615005493), ('day', 0.24496254324913025), ('back', 0.24310140311717987), ('lose', 0.24270333349704742), ('hates', 0.24039867520332336)]
+
+--------------------------------------------------------------------------
+
+The woman texted her friend.
+Her friend did not respond.
+The woman called her friend.
+It went to voicemail.
+> The woman left a message asking where her friend was.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3802081170870278
+
+__About the completion__
+Rarest in completion: [('message', 7.708924420036975), ('asking', 7.2980097071612455), ('where', 5.976253867178926), ('woman', 5.684233393128547), ('left', 4.930206975855819), ('friend', 4.4228496815892715)]
+Nearest to completion: [('message', 0.5651254057884216), ('woman', 0.5307780504226685), ('friend', 0.4735961854457855), ('messages', 0.4163084626197815), ('man', 0.40815767645835876), ('girl', 0.39673957228660583), ('asking', 0.3870887756347656), ('mother', 0.3682066798210144), ('aunt', 0.3588108420372009), ('boyfriend', 0.3577588200569153)]
+
+--------------------------------------------------------------------------
+
+Roger and Rufus were taking an important exam.
+It was almost time and Rufus was not there.
+Roger called him frantically, and asked him where he was.
+Rufus responded that he overslept and just woke up.
+> Roger then heard Rufus laugh from the other end of the hallway.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3786498206744264
+
+__About the completion__
+Rarest in completion: [('hallway', 8.354062381410559), ('laugh', 7.868554565628858), ('end', 5.695114893316081), ('heard', 5.5319397240485015), ('other', 5.106842083533216), ('then', 4.392059443677392), ('from', 3.996552593524763)]
+Nearest to completion: [('hallway', 0.6351474523544312), ('heard', 0.4426781237125397), ('hear', 0.4158076345920563), ('upstairs', 0.3856094777584076), ('laughter', 0.38533449172973633), ('yell', 0.3824205994606018), ('laugh', 0.374018132686615), ('shouting', 0.3657393455505371), ('hears', 0.3622835576534271), ('downstairs', 0.35463446378707886)]
+
+--------------------------------------------------------------------------
+
+Nic sent out a mass invitation to her family and friends.
+The invitation to Kay's birthday party immediately got some responses.
+Nic opened the first response.
+She was happy to read the acceptance to the invitation.
+> As more affirmative responses came, Nic felt more relaxed.
+
+__About the match__
+Rarest shared words: [('response', (8.182232123883919, 8.182232123883919)), ('immediately', (5.79395230978499, 5.79395230978499))]
+Score: 0.37416644271381155
+
+__About the completion__
+Rarest in completion: [('affirmative', 11.12665110365034), ('responses', 10.028038814982231), ('relaxed', 7.969650682500228), ('more', 4.774893167080915), ('felt', 4.558573192238365), ('came', 4.538412620640003), ('as', 3.9638660844916718)]
+Nearest to completion: [('responses', 0.584846019744873), ('relaxed', 0.5102465152740479), ('response', 0.4346085786819458), ('felt', 0.42052021622657776), ('reactions', 0.39627182483673096), ('reaction', 0.37077733874320984), ('more', 0.3634266257286072), ('tone', 0.342934250831604), ('less', 0.3280971646308899), ('seemed', 0.3172532618045807)]
+
+--------------------------------------------------------------------------
+
+Sam had a date for Friday.
+The day of the date he didn't hear from her.
+Sam tried sending out a text but there was no response.
+When he called she replied by cancelling the date.
+> Sam felt upset but couldn't do anything about it.
+
+__About the match__
+Rarest shared words: [('response', (8.182232123883919, 8.182232123883919)), ('no', (4.393269211213, 4.393269211213))]
+Score: 0.37202646206606943
+
+__About the completion__
+Rarest in completion: [('anything', 6.262970222510748), ('upset', 6.083225986731094), ('do', 4.865159419329299), ('felt', 4.558573192238365), ('about', 4.124950211825675), ('could', 3.8258407366367204), ('but', 3.4639482432028115), ("n't", 3.334508641807057)]
+Nearest to completion: [('anything', 0.5090221166610718), ('upset', 0.46796566247940063), ('not', 0.4233343303203583), ('Nor', 0.3904590904712677), ('do', 0.3754067122936249), ('could', 0.3722774088382721), ('did', 0.3714514374732971), ('worried', 0.36917585134506226), ('felt', 0.3596464991569519), ('nothing', 0.3569394648075104)]
+
+--------------------------------------------------------------------------
+
+The man found the answer.
+He told everyone he could.
+People did not like the answer.
+They got angry at the man.
+> They hung the man in the street.
+
+__About the match__
+Rarest shared words: [('everyone', (4.932265711945687, 4.932265711945687))]
+Score: 0.37103084350982424
+
+__About the completion__
+Rarest in completion: [('hung', 7.245087305706903), ('street', 6.070405298302032), ('man', 4.481560134144697)]
+Nearest to completion: [('hung', 0.6113372445106506), ('street', 0.5704823732376099), ('man', 0.5193979144096375), ('hanging', 0.508081316947937), ('hangs', 0.46366894245147705), ('alley', 0.43852943181991577), ('hang', 0.4348190426826477), ('streets', 0.4246024489402771), ('sidewalk', 0.4076882600784302), ('woman', 0.3909980356693268)]
+
+--------------------------------------------------------------------------
+
+I went on a plane yesterday.
+As I got on it something happened.
+We had to turn back.
+A fire came about.
+> It was scary.
+
+__About the match__
+Rarest shared words: [('happened', (6.435323220821216, 6.435323220821216))]
+Score: 0.36519787651030605
+
+__About the completion__
+Rarest in completion: [('scary', 6.9914845469079845)]
+Nearest to completion: [('scary', 0.9063366055488586), ('frightening', 0.7733486890792847), ('terrifying', 0.6949967741966248), ('weird', 0.5446652173995972), ('surreal', 0.5339498519897461), ('shocking', 0.4874113202095032), ('strange', 0.4757467210292816), ('disturbing', 0.47465288639068604), ('worrisome', 0.45557576417922974), ('horrible', 0.4552997350692749)]
+
+--------------------------------------------------------------------------
+
+Peter didn't like children and yet he was a clown.
+Every time he had to perform for children he would get a rash.
+He went to the doctor and he was told to stop being a clown.
+But as he didn't know how to do anything else he continued.
+> Unfortunately his condition got worse and he had to stop for good.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3651699239307313
+
+__About the completion__
+Rarest in completion: [('condition', 8.41860090254813), ('worse', 7.388981485366972), ('unfortunately', 5.9199009306277945), ('stop', 5.866554949922501), ('good', 4.6993539118177985), ('got', 3.390344007102055)]
+Nearest to completion: [('worse', 0.5849141478538513), ('bad', 0.5288798809051514), ('condition', 0.46647268533706665), ('unfortunately', 0.46452444791793823), ('good', 0.46427449584007263), ('terrible', 0.4323320686817169), ('horrible', 0.40057215094566345), ('better', 0.3916570842266083), ('worsened', 0.3800734281539917), ('worsen', 0.3619686961174011)]
+
+--------------------------------------------------------------------------
+
+Today I was on a conference call with three other people.
+I was alone in my office, so I let some farts rip.
+I forgot to press the mute button, so everyone on the call heard me.
+They started asking what that noise was.
+> I lied and said someone's car had backfired in the parking lot.
+
+__About the match__
+Rarest shared words: [('everyone', (4.932265711945687, 4.932265711945687)), ('other', (4.589979505459054, 4.589979505459054))]
+Score: 0.3598486547801297
+
+__About the completion__
+Rarest in completion: [('backfired', 10.721185995542177), ('lied', 8.1822121244839), ('parking', 7.092410465497945), ('someone', 5.656483480175645), ('lot', 4.749074176950009), ('said', 4.667529428177747), ('car', 4.464157181236033), ("'s", 3.3551623435327245)]
+Nearest to completion: [('parking', 0.5539083480834961), ('car', 0.5064128041267395), ('vehicle', 0.45009467005729675), ('lied', 0.4213836193084717), ('motorist', 0.4127073884010315), ('SUV', 0.40044137835502625), ('Parking', 0.3860475718975067), ('parked', 0.38202977180480957), ('pickup_truck', 0.3806074261665344), ('driveway', 0.3736036717891693)]
+
+--------------------------------------------------------------------------
+
+

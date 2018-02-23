@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Janie loved getting mail.
+She even loved getting bills.
+People thought she was crazy.
+One day she received a package and was so excited.
+> It was a present and she realized this is why she loves mail.
+
+__About the context__
+Rarest in context: [('package', 7.437791648936423), ('crazy', 7.276523501340301), ('bills', 7.255470092142468), ('mail', 6.707830495253761), ('received', 6.002707123647101), ('even', 5.1503201937524254), ('getting', 4.805902808799777), ('excited', 4.666766648672825), ('people', 4.658972376946005), ('thought', 4.2566176912522335), ('loved', 3.962724418707812), ('so', 3.307436649191289)]
+Nearest to context: [('mail', 0.42637962102890015), ('excited', 0.40763795375823975), ('thrilled', 0.3884277045726776), ('package', 0.38826680183410645), ('bills', 0.371978223323822), ('mailing', 0.3689163625240326), ('packages', 0.3510819375514984), ('received', 0.33815887570381165), ('Wow', 0.3183506727218628), ('receiving', 0.3151596486568451)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('refund', 9313, 10687, 0.42046689987182617), ('email', 2227, 17773, 0.4067978858947754), ('mail', 3193, 16807, 0.40578019618988037), ('payment', 2314, 17686, 0.3884636461734772), ('e_mail', 1471, 18529, 0.3788747191429138), ('refunds', 13704, 6296, 0.3766089975833893), ('fax', 8148, 11852, 0.37550434470176697), ('mailed', 10925, 9075, 0.37414082884788513), ('letter', 1243, 18757, 0.3737276494503021), ('mailing', 14594, 5406, 0.3724081218242645)]
+Nearest words to completions' keywords: [('e_mails', 6192, 13808, 0.5344003438949585), ('e_mail', 1471, 18529, 0.5128434300422668), ('email', 2227, 17773, 0.5101645588874817), ('emails', 9451, 10549, 0.50565505027771), ('mail', 3193, 16807, 0.5043133497238159), ('correspondence', 15029, 4971, 0.48239925503730774), ('mailed', 10925, 9075, 0.4792957305908203), ('refund', 9313, 10687, 0.4761117994785309), ('fax', 8148, 11852, 0.4693426489830017), ('e_mailed', 14050, 5950, 0.46341729164123535)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7259408235549927), ('came', 256, 19744, 0.7058994174003601), ('was', 10, 19990, 0.6632494330406189), ('went', 297, 19703, 0.6514257192611694), ('got', 193, 19807, 0.6244879961013794), ('did', 92, 19908, 0.6082241535186768), ('ended', 628, 19372, 0.6052850484848022), ('took', 263, 19737, 0.6037096977233887), ('saw', 653, 19347, 0.6003500819206238), ('gave', 573, 19427, 0.5900330543518066)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Allie got something in the mail.
+She saw it was flowers.
+She was very grateful.
+She watered them everyday.
+> They lasted a long time.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.4750114315191876
+
+__About the completion__
+Rarest in completion: [('lasted', 8.20888037156606), ('long', 5.222652582323634), ('time', 3.981849368185002)]
+Nearest to completion: [('lasted', 0.7836582660675049), ('long', 0.5781012177467346), ('lasts', 0.5567038059234619), ('lasting', 0.5154615044593811), ('duration', 0.4806269407272339), ('lengthy', 0.4659155607223511), ('longest', 0.4536438584327698), ('spanned', 0.4431273341178894), ('prolonged', 0.42810481786727905), ('hour', 0.4208725392818451)]
+
+--------------------------------------------------------------------------
+
+Josh ordered a new ipad.
+He was excited about finally receiving it in the mail.
+When he got home, he ran to check the mail.
+The box was waiting for him.
+> He opened it and his ipad was completely shattered.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761)), ('excited', (4.666766648672825, 4.666766648672825))]
+Score: 0.4686136731681662
+
+__About the completion__
+Rarest in completion: [('ipad', 8.64174445386234), ('shattered', 8.264450222720871), ('completely', 7.101299412915191), ('opened', 5.961865129726826)]
+Nearest to completion: [('shattered', 0.717258095741272), ('opened', 0.5802803039550781), ('completely', 0.4988345801830292), ('smashed', 0.47933340072631836), ('destroyed', 0.45314690470695496), ('rebuilt', 0.4454366862773895), ('broken', 0.4280940890312195), ('reopened', 0.4159475266933441), ('wrecked', 0.4140356779098511), ('totally', 0.4129602909088135)]
+
+--------------------------------------------------------------------------
+
+Beth sent a letter to Santa Claus.
+She received a letter back in the mail.
+Beth did not think that it sounded like the real Santa.
+She sent another letter calling that Santa a fake.
+> She did not receive another letter back in the mail.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761)), ('received', (6.002707123647101, 6.002707123647101))]
+Score: 0.4661133120248103
+
+__About the completion__
+Rarest in completion: [('receive', 8.41860090254813), ('letter', 7.214628098222194), ('mail', 7.214628098222194), ('another', 5.448186436978429), ('back', 4.3399341530452595), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('mail', 0.6363358497619629), ('letter', 0.6110735535621643), ('letters', 0.5514705181121826), ('mailing', 0.4988730847835541), ('mailed', 0.4885493516921997), ('receive', 0.4844098687171936), ('e_mail', 0.47281187772750854), ('correspondence', 0.44362741708755493), ('e_mails', 0.42561134696006775), ('fax', 0.4218420684337616)]
+
+--------------------------------------------------------------------------
+
+Irene needed to mail a package to her family.
+She arrived at the post office.
+The employees there informed her that she needed to buy stamps.
+She was annoyed at first, but paid for the stamps.
+> They were cheaper than she expected, so she had no worries.
+
+__About the match__
+Rarest shared words: [('package', (7.437791648936423, 7.437791648936423)), ('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.46333845998092166
+
+__About the completion__
+Rarest in completion: [('worries', 10.210360371776185), ('cheaper', 8.561701746188803), ('expected', 7.342461469732079), ('than', 5.6973054746958995), ('no', 4.72556343828553), ('so', 3.628612279567497), ('were', 3.60343995182413)]
+Nearest to completion: [('than', 0.5491605997085571), ('cheaper', 0.5368465781211853), ('fewer', 0.5200197696685791), ('less', 0.4802914559841156), ('expected', 0.4744604825973511), ('likely', 0.4568042457103729), ('worries', 0.44536152482032776), ('higher', 0.4410077631473541), ('weaker', 0.4351663887500763), ('more', 0.4148806929588318)]
+
+--------------------------------------------------------------------------
+
+Don wrote a very successful blog.
+He received so many emails every day, he was swamped.
+He decided to hire help to take care of all his mail.
+But his fans were disappointed and wanted personalized emails.
+> He ended up writing one email and sending the same to all his fans.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761)), ('received', (6.002707123647101, 6.002707123647101)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4609274988639474
+
+__About the completion__
+Rarest in completion: [('sending', 9.047209561970504), ('fans', 8.20888037156606), ('email', 7.489064943923955), ('writing', 7.276503501940282), ('same', 6.153371596097854), ('ended', 5.160504364526648), ('all', 3.5398475684877595), ('one', 3.351585275015767)]
+Nearest to completion: [('email', 0.5572411417961121), ('e_mail', 0.4870612323284149), ('emails', 0.4523923099040985), ('writing', 0.4256887137889862), ('sending', 0.4199971854686737), ('Email', 0.41575267910957336), ('SMS', 0.39785754680633545), ('fans', 0.39286571741104126), ('e_mails', 0.3880927562713623), ('E_mail', 0.38784244656562805)]
+
+--------------------------------------------------------------------------
+
+Dan recently had lost his wallet.
+Dan was sad, because his wallet had a picture of his deceased mom.
+Dan had given up hope to see the wallet or the picture again.
+One day, Dan checked the mail and saw a package mailed to him.
+> Dan cried as he realized the package had his wallet and picture.
+
+__About the match__
+Rarest shared words: [('package', (7.437791648936423, 7.437791648936423)), ('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.4586030246638409
+
+__About the completion__
+Rarest in completion: [('package', 7.868554565628858), ('wallet', 7.156359190098219), ('picture', 6.907143398474234), ('cried', 6.83619166250195), ('realized', 5.003062403615317), ('as', 3.9638660844916718)]
+Nearest to completion: [('wallet', 0.5726341009140015), ('picture', 0.47909101843833923), ('package', 0.4582640528678894), ('cried', 0.4147206246852875), ('bag', 0.35604333877563477), ('purse', 0.3498465418815613), ('realized', 0.34550946950912476), ('envelope', 0.3289031982421875), ('wallets', 0.3279414176940918), ('photograph', 0.32578855752944946)]
+
+--------------------------------------------------------------------------
+
+Rick was so broke.
+He needed food and to pay his bills.
+Finally he received his pay check.
+He was so happy!
+> He took care of all his obligations.
+
+__About the match__
+Rarest shared words: [('bills', (7.255470092142468, 7.255470092142468)), ('received', (6.002707123647101, 6.002707123647101)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4562580050399417
+
+__About the completion__
+Rarest in completion: [('obligations', 10.721185995542177), ('care', 6.294345345078502), ('took', 4.067463120907994), ('all', 3.5398475684877595)]
+Nearest to completion: [('obligations', 0.715852677822113), ('responsibilities', 0.5207390189170837), ('care', 0.504852831363678), ('obligation', 0.5020831823348999), ('liabilities', 0.4666013717651367), ('commitments', 0.4597970247268677), ('responsibility', 0.42793092131614685), ('burdens', 0.3754833936691284), ('contractual', 0.35781216621398926), ('duties', 0.3477051258087158)]
+
+--------------------------------------------------------------------------
+
+Jackie was an elderly woman without much family around her.
+She received a letter in the mail asking for money for a bill.
+She did not realize and recognize a scam and sent in money.
+Her bank noticed who the check was sent to and called her.
+> Fortunately, the bank was able to protect Jackie and refund her money.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761)), ('received', (6.002707123647101, 6.002707123647101))]
+Score: 0.4505493241838548
+
+__About the completion__
+Rarest in completion: [('protect', 9.334891634422286), ('refund', 8.20888037156606), ('fortunately', 7.868554565628858), ('bank', 6.892544599053081), ('able', 5.284557013196627), ('money', 4.903083263856677)]
+Nearest to completion: [('refund', 0.642644464969635), ('money', 0.5360462665557861), ('refunds', 0.5351428389549255), ('monies', 0.5094533562660217), ('bank', 0.49419891834259033), ('reimburse', 0.47249287366867065), ('repay', 0.47110018134117126), ('funds', 0.4566066563129425), ('payment', 0.45453619956970215), ('deposit', 0.44192609190940857)]
+
+--------------------------------------------------------------------------
+
+My wife got a bill for $300.
+It was the deductible for a medical scan.
+She thought she had already paid the deductible for this.
+I found an email from July saying she would get a bill in the mail.
+> It came, a month later.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761)), ('thought', (4.2566176912522335, 4.2566176912522335))]
+Score: 0.42830471393609554
+
+__About the completion__
+Rarest in completion: [('month', 6.119354710819599), ('later', 5.235006891824569), ('came', 4.538412620640003)]
+Nearest to completion: [('later', 0.6075175404548645), ('earlier', 0.576934278011322), ('month', 0.5727159380912781), ('came', 0.5266778469085693), ('after', 0.49454155564308167), ('week', 0.48037824034690857), ('ago', 0.4734434485435486), ('February', 0.45673802495002747), ('August', 0.4561218023300171), ('September', 0.45342591404914856)]
+
+--------------------------------------------------------------------------
+
+Rufus was having a tough time with bills.
+His birthday was coming up and he hoped to get some gift money.
+Unfortunately the day came and went without any cards.
+Rufus was depressed and worried about money.
+> He ended up having to ask for his parents help.
+
+__About the match__
+Rarest shared words: [('bills', (7.255470092142468, 7.255470092142468))]
+Score: 0.41946244096073193
+
+__About the completion__
+Rarest in completion: [('ask', 6.683999847160024), ('having', 5.335163048575033), ('ended', 5.160504364526648), ('help', 5.105627754300814), ('parents', 5.059383593126858)]
+Nearest to completion: [('parents', 0.5139675736427307), ('Parents', 0.38179028034210205), ('ask', 0.37266767024993896), ('ended', 0.3585152328014374), ('asking', 0.34673139452934265), ('help', 0.34359055757522583), ('families', 0.3431515395641327), ('caregivers', 0.3371855914592743), ('spouses', 0.3347832262516022), ('parent', 0.3270844519138336)]
+
+--------------------------------------------------------------------------
+
+

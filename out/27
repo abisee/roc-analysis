@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Fred noticed that he feet got very hot in the summer.
+He decided he needed new footwear.
+Fred invested in a nice new pair of sandals.
+He loved wearing his new sandals.
+> Fred was glad that his feet no longer got hot in the summer.
+
+__About the context__
+Rarest in context: [('footwear', 10.02805881438225), ('invested', 8.92944652571414), ('sandals', 8.92944652571414), ('wearing', 6.572794211449819), ('feet', 6.501698289766088), ('pair', 6.064076070023392), ('nice', 5.524552282170658), ('summer', 5.364619720270182), ('hot', 5.251740372198329), ('noticed', 4.698565830365763), ('needed', 4.285055626572767), ('loved', 3.962724418707812), ('new', 3.4017826637272854), ('very', 3.353497422567824)]
+Nearest to context: [('wearing', 0.468792200088501), ('worn', 0.43941760063171387), ('footwear', 0.4291343092918396), ('wear', 0.4000800549983978), ('shorts', 0.38690242171287537), ('stylish', 0.38430255651474), ('apparel', 0.37718936800956726), ('wore', 0.37658926844596863), ('wears', 0.3713688850402832), ('shoes', 0.3679446280002594)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('socks', 13868, 6132, 0.6837084293365479), ('boots', 9454, 10546, 0.6366195678710938), ('shoes', 4272, 15728, 0.5820586681365967), ('pants', 7945, 12055, 0.5127657651901245), ('jeans', 10339, 9661, 0.5114741921424866), ('wear', 3015, 16985, 0.4834326207637787), ('footwear', 14836, 5164, 0.47733166813850403), ('worn', 7053, 12947, 0.4744932949542999), ('shorts', 10704, 9296, 0.4595494866371155), ('gloves', 10427, 9573, 0.45763322710990906)]
+Nearest words to completions' keywords: [('wear', 3015, 16985, 0.6613315939903259), ('socks', 13868, 6132, 0.6534887552261353), ('shoes', 4272, 15728, 0.6289539933204651), ('clothes', 3874, 16126, 0.6097646951675415), ('jeans', 10339, 9661, 0.6050992608070374), ('wearing', 2361, 17639, 0.5911540389060974), ('boots', 9454, 10546, 0.5835192203521729), ('pants', 7945, 12055, 0.5821537375450134), ('clothing', 3685, 16315, 0.5686060786247253), ('dress', 4914, 15086, 0.5619034171104431)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.6754617094993591), ('had', 35, 19965, 0.6753692030906677), ('wanted', 583, 19417, 0.6545637845993042), ('did', 92, 19908, 0.649865984916687), ('knew', 1039, 18961, 0.6290600299835205), ('went', 297, 19703, 0.6161776185035706), ('was', 10, 19990, 0.6026160717010498), ('saw', 653, 19347, 0.5904226899147034), ('wore', 4853, 15147, 0.5836026668548584), ("'d", 609, 19391, 0.5835943222045898)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Chuck noticed that most of his socks were old and dirty.
+He decided he needed to buy some new socks.
+Chuck bought a new pair of socks.
+He loved wearing them.
+> Chuck was happy that he had bought new socks.
+
+__About the match__
+Rarest shared words: [('wearing', (6.572794211449819, 6.572794211449819)), ('pair', (6.064076070023392, 6.064076070023392)), ('noticed', (4.698565830365763, 4.698565830365763)), ('needed', (4.285055626572767, 4.285055626572767)), ('loved', (3.962724418707812, 3.962724418707812)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5734080194313125
+
+__About the completion__
+Rarest in completion: [('socks', 7.812465098977815), ('happy', 4.78013793434821), ('bought', 4.408241996399123), ('new', 3.7799959404738015)]
+Nearest to completion: [('socks', 0.5614756941795349), ('bought', 0.5093960762023926), ('purchased', 0.42808541655540466), ('sold', 0.40271905064582825), ('buy', 0.38546422123908997), ('delighted', 0.3749939501285553), ('buys', 0.3710664212703705), ('happy', 0.36688682436943054), ('proud', 0.35910648107528687), ('boots', 0.3578738272190094)]
+
+--------------------------------------------------------------------------
+
+Vince was trying to put on an old pair of boots.
+He was sure his feet hadn't grown.
+The boots wouldn't go on, though!
+Vince realized he was wearing thicker socks than normal.
+> He changed his socks and the boots slipped right on.
+
+__About the match__
+Rarest shared words: [('wearing', (6.572794211449819, 6.572794211449819)), ('feet', (6.501698289766088, 6.501698289766088)), ('pair', (6.064076070023392, 6.064076070023392))]
+Score: 0.5557310735525375
+
+__About the completion__
+Rarest in completion: [('boots', 8.561701746188803), ('socks', 7.812465098977815), ('slipped', 7.165837934052762), ('changed', 6.6898995692872125), ('right', 5.585387558491915)]
+Nearest to completion: [('boots', 0.649201512336731), ('socks', 0.6090823411941528), ('shoes', 0.5124462246894836), ('slipped', 0.46048009395599365), ('pants', 0.45123109221458435), ('changed', 0.44184380769729614), ('footwear', 0.44055306911468506), ('gloves', 0.4222559928894043), ('jeans', 0.4138372540473938), ('shoe', 0.4127369225025177)]
+
+--------------------------------------------------------------------------
+
+Nan was shopping for summer.
+She bought some shorts.
+They were really cute!
+Nan was excited for the weather to improve so she could wear them.
+> She had a great summer wardrobe!
+
+__About the match__
+Rarest shared words: [('summer', (5.364619720270182, 5.364619720270182))]
+Score: 0.5444770604184824
+
+__About the completion__
+Rarest in completion: [('wardrobe', 9.180740954595027), ('summer', 5.903596221602851), ('great', 4.843450213762537), ('!', 3.536809591467683)]
+Nearest to completion: [('wardrobe', 0.7287536859512329), ('summer', 0.49607035517692566), ('fabulous', 0.48105284571647644), ('winter', 0.4303654432296753), ('autumn', 0.40696245431900024), ('dresses', 0.4057106077671051), ('costumes', 0.3900366723537445), ('clothing', 0.3805299997329712), ('costume', 0.3790239095687866), ('dress', 0.37794044613838196)]
+
+--------------------------------------------------------------------------
+
+Carl bought a new pair of boots.
+He spent way too much on them.
+All of his friend told him he was crazy to spend that much on boots.
+After wearing them an hour his feet hurt miserably.
+> He continued wearing them just to feel like he got his money's worth.
+
+__About the match__
+Rarest shared words: [('wearing', (6.572794211449819, 6.572794211449819)), ('feet', (6.501698289766088, 6.501698289766088)), ('pair', (6.064076070023392, 6.064076070023392)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5267397679716651
+
+__About the completion__
+Rarest in completion: [('worth', 7.204677767369026), ('wearing', 7.007613928837868), ('continued', 6.757203251183319), ('feel', 6.067225645384653), ('money', 4.903083263856677), ('like', 4.781014742821744), ('just', 4.707470839499374), ('them', 3.9905657466666935), ('got', 3.390344007102055), ("'s", 3.3551623435327245)]
+Nearest to completion: [('worth', 0.3975667357444763), ('feel', 0.3906833827495575), ('wearing', 0.3447856605052948), ('money', 0.33584272861480713), ('wear', 0.3227613866329193), ('like', 0.3214258551597595), ("'re", 0.30502718687057495), ('think', 0.2911252975463867), ('Wearing', 0.2825703024864197), ('deserve', 0.2801608443260193)]
+
+--------------------------------------------------------------------------
+
+Lilly bought beautiful red shoes to wear with her prom dress.
+The heels were over four inches high.
+When her date showed up there was one problem.
+In her new shoes she towered over him!
+> She didn't want him to be uncomfortable so she changed shoes.
+
+__About the match__
+Rarest shared words: [('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.5125873996522273
+
+__About the completion__
+Rarest in completion: [('uncomfortable', 7.969650682500228), ('changed', 6.6898995692872125), ('shoes', 6.399263284938), ('want', 5.717239689596717), ('be', 4.0931446193626435), ('so', 3.628612279567497), ('did', 3.6104898725633485), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('uncomfortable', 0.4533076882362366), ('shoes', 0.4493486285209656), ('changed', 0.3753366768360138), ('change', 0.36459222435951233), ('hesitate', 0.3344558775424957), ('alter', 0.3293030261993408), ('not', 0.32762229442596436), ('want', 0.3202255368232727), ('changing', 0.31165263056755066), ('bother', 0.30911344289779663)]
+
+--------------------------------------------------------------------------
+
+I have to wear a eeee width shoe.
+I was buying shoes from Hitchcock Shoes.
+The average cost was $100.
+Last week I found the same pair of shoes on Amazon for $80.
+> I vowed to do more comparison shopping.
+
+__About the match__
+Rarest shared words: [('pair', (6.064076070023392, 6.064076070023392))]
+Score: 0.49913368104241657
+
+__About the completion__
+Rarest in completion: [('comparison', 10.433503923090395), ('vowed', 7.377147027719969), ('shopping', 6.360212770066127), ('do', 4.865159419329299), ('more', 4.774893167080915)]
+Nearest to completion: [('comparison', 0.5923689603805542), ('shopping', 0.5364579558372498), ('comparisons', 0.41671499609947205), ('vowed', 0.3950057029724121), ('Shopping', 0.39076071977615356), ('compare', 0.37423452734947205), ('shoppers', 0.3720129728317261), ('more', 0.35963284969329834), ('comparing', 0.35908904671669006), ('contrast', 0.35777395963668823)]
+
+--------------------------------------------------------------------------
+
+I have to wear a foot brace to walk.
+I need a shoe over the brace for traction.
+I bought aqua socks to place over the brace.
+They worked for one day, but were too thin and got torn.
+> I returned the socks for a refund.
+
+__About the match__
+Rarest shared words: []
+Score: 0.49513546702686556
+
+__About the completion__
+Rarest in completion: [('refund', 8.20888037156606), ('socks', 7.812465098977815), ('returned', 6.225086904608447)]
+Nearest to completion: [('refund', 0.714329183101654), ('refunds', 0.5709416270256042), ('socks', 0.5195674300193787), ('returned', 0.459115207195282), ('return', 0.4174456000328064), ('rebate', 0.3921046853065491), ('receipt', 0.3852895498275757), ('reimburse', 0.3793257176876068), ('shoes', 0.3649575114250183), ('bags', 0.3483320474624634)]
+
+--------------------------------------------------------------------------
+
+The kid had cold feet.
+He got a pair of wool socks out of his drawer.
+The socks warned his feet up.
+But then his feet were too hot!
+> He decided to switch to thin socks instead.
+
+__About the match__
+Rarest shared words: [('feet', (6.501698289766088, 6.501698289766088)), ('pair', (6.064076070023392, 6.064076070023392)), ('hot', (5.251740372198329, 5.251740372198329))]
+Score: 0.4883340652569007
+
+__About the completion__
+Rarest in completion: [('switch', 8.487593774035082), ('thin', 8.41860090254813), ('socks', 7.812465098977815), ('instead', 5.508063475057371), ('decided', 3.495461951503386)]
+Nearest to completion: [('thin', 0.5568429827690125), ('socks', 0.47959282994270325), ('switch', 0.4641944169998169), ('switching', 0.41255247592926025), ('opted', 0.39410215616226196), ('instead', 0.37447163462638855), ('switches', 0.36997365951538086), ('switched', 0.36130645871162415), ('shorts', 0.3574950098991394), ('opting', 0.3358892798423767)]
+
+--------------------------------------------------------------------------
+
+Kate bought a new pair of heels.
+She really liked how they looked.
+She wore them around the house to break them in.
+After a while she decided to wear them out to the bar.
+> Kate looked great and wasn't too terribly uncomfortable.
+
+__About the match__
+Rarest shared words: [('pair', (6.064076070023392, 6.064076070023392)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.48170311753850126
+
+__About the completion__
+Rarest in completion: [('terribly', 8.600922459342085), ('uncomfortable', 7.969650682500228), ('great', 4.843450213762537), ('too', 4.812197670258433), ('looked', 4.6993539118177985), ("n't", 3.334508641807057)]
+Nearest to completion: [('terribly', 0.6200236678123474), ('too', 0.5265597701072693), ('very', 0.5127995610237122), ('incredibly', 0.5114412307739258), ('uncomfortable', 0.5067676305770874), ('extremely', 0.5022662878036499), ('overly', 0.49177566170692444), ('quite', 0.481766015291214), ('particularly', 0.46644189953804016), ('downright', 0.4565582871437073)]
+
+--------------------------------------------------------------------------
+
+Bae ducked into the store out of the rain.
+Her tennis shoes were soaking wet!
+Bae looked at the selection of boots the store had.
+She picked the first pair she saw in her size.
+> Bae bought the boots and wore them out into the rain.
+
+__About the match__
+Rarest shared words: [('pair', (6.064076070023392, 6.064076070023392))]
+Score: 0.47573972823991717
+
+__About the completion__
+Rarest in completion: [('boots', 8.561701746188803), ('wore', 6.5571080953054), ('rain', 6.38171897528709), ('bought', 4.408241996399123), ('into', 4.270189119055754), ('them', 3.9905657466666935), ('out', 3.3165011979861596)]
+Nearest to completion: [('boots', 0.5751969814300537), ('rain', 0.48132193088531494), ('wore', 0.4662226736545563), ('wearing', 0.4380936324596405), ('socks', 0.42387452721595764), ('coats', 0.41713690757751465), ('heavy_rain', 0.41259580850601196), ('Wearing', 0.4100683033466339), ('wear', 0.4090037941932678), ('don', 0.40701448917388916)]
+
+--------------------------------------------------------------------------
+
+

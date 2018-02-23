@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Yesterday I received a huge box of door handles I had ordered.
+I opened it to reveal beautiful, shiny new handles.
+I carefully removed the old, ugly handles from my doors.
+The new latches and striker plates do not fit the openings on the doors!
+> I must fix the new parts so that the doors close properly.
+
+__About the context__
+Rarest in context: [('handles', 10.433523922490414), ('latches', 10.433523922490414), ('striker', 10.433523922490414), ('reveal', 9.517233190616258), ('openings', 9.517233190616258), ('plates', 8.354082380810578), ('doors', 7.83083423704603), ('shiny', 7.83083423704603), ('ugly', 7.571323041560945), ('removed', 7.342481469132098), ('carefully', 6.73222194837792), ('fit', 6.390472654655864), ('received', 6.002707123647101), ('box', 5.922664415973563), ('beautiful', 5.605210185188112), ('ordered', 5.4847640321122455), ('huge', 5.477696864889153), ('opened', 5.4533478358788665), ('yesterday', 5.205092683406543), ('door', 5.1944259156023485), ('old', 4.424710737047819), ('do', 4.398042489965658), ('!', 3.7291095675263066), ('from', 3.533800815205541), ('not', 3.4656147206885297), ('new', 3.4017826637272854)]
+Nearest to context: [('doors', 0.4568661153316498), ('shiny', 0.4116255044937134), ('handles', 0.38682031631469727), ('exterior', 0.3778124153614044), ('box', 0.3719489872455597), ('door', 0.35134899616241455), ('sleek', 0.34891799092292786), ('opened', 0.3368014097213745), ('openings', 0.3304714262485504), ('fitted', 0.32990017533302307)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('touched', 4762, 15238, 0.43844074010849), ('thanked', 7524, 12476, 0.4350712299346924), ('grateful', 5853, 14147, 0.4247281551361084), ('thank', 3301, 16699, 0.40945518016815186), ('rescued', 6285, 13715, 0.4000166654586792), ('appreciated', 6256, 13744, 0.3882993161678314), ('thanking', 17808, 2192, 0.3876398205757141), ('reached', 932, 19068, 0.3722909986972809), ('appreciative', 18061, 1939, 0.3582182824611664), ('thankful', 9423, 10577, 0.35797518491744995)]
+Nearest words to completions' keywords: [('thankful', 9423, 10577, 0.5550558567047119), ('grateful', 5853, 14147, 0.5549116730690002), ('thanking', 17808, 2192, 0.5324617624282837), ('thanked', 7524, 12476, 0.5176123976707458), ('thank', 3301, 16699, 0.5004590749740601), ('glad', 4258, 15742, 0.4964439868927002), ('appreciative', 18061, 1939, 0.49159809947013855), ('happy', 1049, 18951, 0.4912506937980652), ('cried', 11408, 8592, 0.4895362854003906), ('loved', 3069, 16931, 0.47064208984375)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7351253628730774), ('was', 10, 19990, 0.693508505821228), ('knew', 1039, 18961, 0.632623553276062), ('got', 193, 19807, 0.6262533664703369), ('came', 256, 19744, 0.6253681182861328), ('felt', 1040, 18960, 0.5865322947502136), ('saw', 653, 19347, 0.5744221210479736), ('went', 297, 19703, 0.573233962059021), ('thought', 572, 19428, 0.5671529769897461), ('wanted', 583, 19417, 0.5608198642730713)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The first thing Mitch did when he bought a house was change the locks.
+He took out all the old locks and installed the new ones.
+He closed the doors to test the lock.
+The door was very secure.
+> Mitch reached for his key but realized he only had the old key.
+
+__About the match__
+Rarest shared words: [('doors', (7.83083423704603, 7.83083423704603)), ('door', (5.1944259156023485, 5.1944259156023485)), ('old', (4.424710737047819, 4.424710737047819)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.4378716778687834
+
+__About the completion__
+Rarest in completion: [('key', 8.013135794439966), ('reached', 6.944600961009134), ('only', 5.17081373418551), ('realized', 5.003062403615317), ('old', 5.0019677127561355), ('but', 3.4639482432028115)]
+Nearest to completion: [('reached', 0.5974048972129822), ('key', 0.44727426767349243), ('reaching', 0.4215799570083618), ('reach', 0.4141218364238739), ('attained', 0.3824828565120697), ('only', 0.37394464015960693), ('achieved', 0.3626953661441803), ('identified', 0.34428346157073975), ('realized', 0.3322262763977051), ('surpassed', 0.3278675377368927)]
+
+--------------------------------------------------------------------------
+
+John could not wait to get home and open his new phone.
+He had been tracking his package all day.
+When he got home, the box was at his door.
+He opened the box to find his phone broken in a million pieces.
+> John was disappointed and had to return his phone.
+
+__About the match__
+Rarest shared words: [('box', (5.922664415973563, 5.922664415973563)), ('opened', (5.4533478358788665, 5.4533478358788665)), ('door', (5.1944259156023485, 5.1944259156023485)), ('not', (3.4656147206885297, 3.4656147206885297)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.3948921338235633
+
+__About the completion__
+Rarest in completion: [('return', 6.871038393832118), ('disappointed', 6.62130125294446), ('phone', 5.470659292830488)]
+Nearest to completion: [('phone', 0.5906198024749756), ('disappointed', 0.5358049869537354), ('return', 0.5310370326042175), ('telephone', 0.5286035537719727), ('Phone', 0.4763106107711792), ('cell_phone', 0.39554035663604736), ('cellphone', 0.3809702694416046), ('phones', 0.3621750771999359), ('comment', 0.361074835062027), ('surprised', 0.3572380244731903)]
+
+--------------------------------------------------------------------------
+
+Dan checked the mail, and saw that the had a small colorful box there.
+Dan rushed inside to open the box, as he was curious of the contents.
+After opening, Dan realized it was a Army pin from his dad.
+Dan broke down in tears, because his dad had recently passed away.
+> Dan was touched that he had received such a sentimental gift.
+
+__About the match__
+Rarest shared words: [('box', (5.922664415973563, 5.922664415973563)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.3883190206290882
+
+__About the completion__
+Rarest in completion: [('sentimental', 10.210360371776185), ('touched', 7.88797265148596), ('such', 6.944600961009134), ('gift', 6.501678290366069), ('received', 6.386076280656046)]
+Nearest to completion: [('received', 0.5853440165519714), ('gift', 0.5846250057220459), ('touched', 0.5610771179199219), ('gifts', 0.47088557481765747), ('recipient', 0.46230006217956543), ('receiving', 0.4212152659893036), ('receives', 0.4190780520439148), ('Gift', 0.3972660005092621), ('receive', 0.39407217502593994), ('donated', 0.3888072669506073)]
+
+--------------------------------------------------------------------------
+
+Linda got a box in the mail.
+It was a present from her boyfriend!
+She ripped it open.
+It was a beautiful new sweater!
+> Linda called him right away to thank him.
+
+__About the match__
+Rarest shared words: [('box', (5.922664415973563, 5.922664415973563)), ('beautiful', (5.605210185188112, 5.605210185188112)), ('!', (3.7291095675263066, 3.7291095675263066)), ('from', (3.533800815205541, 3.533800815205541)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.37544959274460316
+
+__About the completion__
+Rarest in completion: [('thank', 8.684304068281136), ('right', 5.585387558491915), ('called', 4.874747220484451), ('away', 4.824948298377215), ('him', 3.3907807836977737)]
+Nearest to completion: [('thank', 0.6852245330810547), ('thanking', 0.5454870462417603), ('Thank', 0.5415486693382263), ('thanked', 0.5232605338096619), ('congratulate', 0.5198974013328552), ('Congratulations', 0.4499041438102722), ('grateful', 0.4424581527709961), ('congratulations', 0.4388439357280731), ('gratitude', 0.41608041524887085), ('applaud', 0.39456939697265625)]
+
+--------------------------------------------------------------------------
+
+Jess ordered a beautiful dress.
+She was anxious for it to arrive in the mail.
+When she opened it, it fit beautifully!
+It was her favorite item in her closet.
+> She wore it every week.
+
+__About the match__
+Rarest shared words: [('fit', (6.390472654655864, 6.390472654655864)), ('beautiful', (5.605210185188112, 5.605210185188112)), ('ordered', (5.4847640321122455, 5.4847640321122455)), ('opened', (5.4533478358788665, 5.4533478358788665)), ('!', (3.7291095675263066, 3.7291095675263066))]
+Score: 0.3604501023231085
+
+__About the completion__
+Rarest in completion: [('wore', 6.5571080953054), ('week', 5.050156307357783), ('every', 4.763623000109876)]
+Nearest to completion: [('wore', 0.6745121479034424), ('wearing', 0.5151310563087463), ('wears', 0.5070175528526306), ('wear', 0.47352948784828186), ('Wearing', 0.46599456667900085), ('worn', 0.4431231915950775), ('clad', 0.4233425259590149), ('don', 0.4092085361480713), ('week', 0.4029384255409241), ('dressed', 0.40108996629714966)]
+
+--------------------------------------------------------------------------
+
+Judy went to the grocery store.
+She purchased a large container of blueberries.
+Judy walked toward the exit doors.
+Judy dropped the blueberry container.
+> Blueberries spilled all over the floor!
+
+__About the match__
+Rarest shared words: [('doors', (7.83083423704603, 7.83083423704603))]
+Score: 0.357779450738477
+
+__About the completion__
+Rarest in completion: [('blueberries', 9.421903011411915), ('spilled', 7.353890165555702), ('floor', 6.236301975428587), ('over', 4.367395832986647), ('all', 3.5398475684877595), ('!', 3.536809591467683)]
+Nearest to completion: [('spilled', 0.6912519335746765), ('floor', 0.5914201140403748), ('spilling', 0.5534511208534241), ('floors', 0.4298937916755676), ('over', 0.4246863126754761), ('poured', 0.4144277274608612), ('spill', 0.41123417019844055), ('spills', 0.40567800402641296), ('erupted', 0.3510366976261139), ('pouring', 0.35089749097824097)]
+
+--------------------------------------------------------------------------
+
+Cheryl received a coloring book from school.
+She opened it up and colored in a dinosaur.
+She gave the dinosaur red skin and yellow eyes.
+The coloring was so good, her parents put it on the refrigerator.
+> She was happy and loved coloring ever since.
+
+__About the match__
+Rarest shared words: [('received', (6.002707123647101, 6.002707123647101)), ('opened', (5.4533478358788665, 5.4533478358788665)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.3537203593874146
+
+__About the completion__
+Rarest in completion: [('coloring', 8.875359305043844), ('ever', 6.106065478700916), ('since', 5.601198164518556), ('happy', 4.78013793434821), ('loved', 4.425305176991248)]
+Nearest to completion: [('ever', 0.5883815884590149), ('loved', 0.5788100361824036), ('since', 0.4822453558444977), ('Ever', 0.4330785274505615), ('proud', 0.4258226156234741), ('happy', 0.4186776578426361), ('thrilled', 0.4156409204006195), ('happier', 0.4078265428543091), ('dreamed', 0.3898797929286957), ('liked', 0.3873440623283386)]
+
+--------------------------------------------------------------------------
+
+Fred forgot to check the back door when he went to bed.
+He noticed the curtain on it was open in the morning.
+He checked the handle and realized he'd left it unlocked.
+Fred had forgotten to close the curtain as well.
+> He searched his house just to ease his mind.
+
+__About the match__
+Rarest shared words: [('door', (5.1944259156023485, 5.1944259156023485))]
+Score: 0.34808636361041184
+
+__About the completion__
+Rarest in completion: [('ease', 8.600922459342085), ('mind', 6.849984984634285), ('searched', 6.769942276960749), ('just', 4.707470839499374), ('house', 4.506577897119985)]
+Nearest to completion: [('searched', 0.5100426077842712), ('ease', 0.44752615690231323), ('house', 0.4450220763683319), ('mind', 0.4037572741508484), ('search', 0.3925795257091522), ('searching', 0.38292452692985535), ('searches', 0.37819573283195496), ('bedroom', 0.3611881732940674), ('residence', 0.35295549035072327), ('apartment', 0.34816956520080566)]
+
+--------------------------------------------------------------------------
+
+We left the door to the garage open.
+The cat crept into the garage.
+The cat fell into a box.
+In the morning, we heard meowing coming from the garage.
+> The cat was glad to be rescued.
+
+__About the match__
+Rarest shared words: [('box', (5.922664415973563, 5.922664415973563)), ('door', (5.1944259156023485, 5.1944259156023485)), ('from', (3.533800815205541, 3.533800815205541))]
+Score: 0.3471071698420649
+
+__About the completion__
+Rarest in completion: [('rescued', 8.452502454223811), ('glad', 5.993798176829835), ('cat', 5.756013075522677), ('be', 4.0931446193626435)]
+Nearest to completion: [('rescued', 0.6695514917373657), ('cat', 0.5917894244194031), ('cats', 0.5153206586837769), ('dog', 0.45417842268943787), ('puppy', 0.4444483816623688), ('rescue', 0.4210691750049591), ('dogs', 0.41474077105522156), ('unharmed', 0.39675962924957275), ('glad', 0.3868979513645172), ('pet', 0.3835866451263428)]
+
+--------------------------------------------------------------------------
+
+The man sanded off the old paint.
+The car was rusted underneath.
+The man removed the rust.
+There was not much sheet metal left.
+> The man gave up on fixing the car.
+
+__About the match__
+Rarest shared words: [('removed', (7.342481469132098, 7.342481469132098)), ('old', (4.424710737047819, 4.424710737047819)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.34480313387938694
+
+__About the completion__
+Rarest in completion: [('fixing', 8.487593774035082), ('gave', 4.8834555483762365), ('man', 4.481560134144697), ('car', 4.464157181236033)]
+Nearest to completion: [('fixing', 0.5807162523269653), ('car', 0.48338785767555237), ('man', 0.4515574276447296), ('motorist', 0.3939895033836365), ('Car', 0.3871194124221802), ('pickup_truck', 0.3696308135986328), ('truck', 0.36306828260421753), ('vehicle', 0.3622329831123352), ('driver', 0.36221447587013245), ('SUV', 0.36192741990089417)]
+
+--------------------------------------------------------------------------
+
+

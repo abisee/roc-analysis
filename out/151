@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Phil loves playing sports with his friends.
+All his friends love basketball, but Phil really likes soccer.
+Phil invited all his friends to play soccer with him on Friday.
+They all showed up and play soccer.
+> Now Phil's friends love playing soccer!
+
+__About the context__
+Rarest in context: [('sports', 7.015797238877048), ('soccer', 6.4919421148207235), ('likes', 6.3992832843380185), ('loves', 6.064076070023392), ('basketball', 5.961885129126845), ('love', 5.562150695727666), ('showed', 5.495459321228993), ('invited', 5.422888628394158), ('playing', 4.592882265117016), ('play', 4.525440984321483), ('really', 4.303384980694672), ('friends', 3.719960372872719)]
+Nearest to context: [('soccer', 0.5763233304023743), ('basketball', 0.565802812576294), ('loves', 0.5464410185813904), ('sports', 0.5084201097488403), ('football', 0.4971970021724701), ('volleyball', 0.4843170642852783), ('playing', 0.4805251955986023), ('tennis', 0.4708435833454132), ('love', 0.46791720390319824), ('softball', 0.45014142990112305)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('ball', 589, 19411, 0.519192099571228), ('play', 172, 19828, 0.4802185297012329), ('game', 94, 19906, 0.45387929677963257), ('sport', 2103, 17897, 0.4523896872997284), ('knee_injury', 7876, 12124, 0.4509238302707672), ('soccer', 2663, 17337, 0.43646302819252014), ('players', 298, 19702, 0.43223410844802856), ('ankle_injury', 12820, 7180, 0.4316065311431885), ('tennis', 3751, 16249, 0.43129411339759827), ('hamstring_injury', 16508, 3492, 0.42468759417533875)]
+Nearest words to completions' keywords: [('play', 172, 19828, 0.6053290963172913), ('game', 94, 19906, 0.5976948738098145), ('ball', 589, 19411, 0.5942160487174988), ('playing', 520, 19480, 0.5795859098434448), ('knee_injury', 7876, 12124, 0.5457392334938049), ('hamstring_injury', 16508, 3492, 0.5364733934402466), ('scrimmage', 9891, 10109, 0.5284228324890137), ('played', 407, 19593, 0.5274288654327393), ('ankle_injury', 12820, 7180, 0.5262278318405151), ('football', 723, 19277, 0.5122888684272766)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7007142305374146), ('was', 10, 19990, 0.6858510971069336), ('got', 193, 19807, 0.6805590391159058), ('saw', 653, 19347, 0.6444844007492065), ('came', 256, 19744, 0.6347938776016235), ('knew', 1039, 18961, 0.6320789456367493), ('stayed', 2936, 17064, 0.592702329158783), ('wanted', 583, 19417, 0.5903880000114441), ('thought', 572, 19428, 0.5877403020858765), ('went', 297, 19703, 0.5781210064888)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Petra loved seeing sports played live.
+She was going to her first hockey game.
+She didn't know anything about the sport but she was excited.
+She took her closest friends.
+> They all sat and cheered on their home team.
+
+__About the match__
+Rarest shared words: [('sports', (7.015797238877048, 7.015797238877048)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.7015550698367938
+
+__About the completion__
+Rarest in completion: [('cheered', 7.615105664819319), ('sat', 5.621319567717977), ('team', 5.479438980482533), ('their', 4.437673918472774), ('home', 4.002978318445733), ('all', 3.5398475684877595)]
+Nearest to completion: [('cheered', 0.6121340990066528), ('cheering', 0.49573203921318054), ('sat', 0.4837510883808136), ('huddled', 0.4445846676826477), ('hugged', 0.42778950929641724), ('stood', 0.413522332906723), ('cheer', 0.38570016622543335), ('gathered', 0.38550281524658203), ('waved', 0.38503363728523254), ('roared', 0.378540575504303)]
+
+--------------------------------------------------------------------------
+
+Cathy enrolled her daughter into a soccer league.
+Cathy loved to watch her daughter play the game of soccer.
+However, Cathy's daughter did not like playing soccer.
+Cathy's daughter decided she did not want to play soccer anymore.
+> Cathy was heartbroken that she would not see her daughter play soccer.
+
+__About the match__
+Rarest shared words: [('soccer', (6.4919421148207235, 6.4919421148207235)), ('playing', (4.592882265117016, 4.592882265117016)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.6642951533492825
+
+__About the completion__
+Rarest in completion: [('heartbroken', 8.487593774035082), ('soccer', 7.08359983581579), ('daughter', 5.8183834062491355), ('play', 5.007453190032807), ('see', 4.749074176950009), ('would', 3.922873627941421), ('not', 3.8329533830489027)]
+Nearest to completion: [('soccer', 0.6150125861167908), ('play', 0.44908395409584045), ('Soccer', 0.44792258739471436), ('football', 0.43867331743240356), ('basketball', 0.43301841616630554), ('volleyball', 0.4324924945831299), ('softball', 0.414561927318573), ('hockey', 0.39683637022972107), ('tennis', 0.39560797810554504), ('lacrosse', 0.3875747323036194)]
+
+--------------------------------------------------------------------------
+
+Carly loved playing sports.
+She bought a football to play with at home.
+She gathered her friends up and they threw the ball.
+They played for hours.
+> Carly was happy she had bought the fun new ball.
+
+__About the match__
+Rarest shared words: [('sports', (7.015797238877048, 7.015797238877048)), ('playing', (4.592882265117016, 4.592882265117016)), ('play', (4.525440984321483, 4.525440984321483)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.656761247411361
+
+__About the completion__
+Rarest in completion: [('ball', 6.011655794229842), ('fun', 5.29917715665159), ('happy', 4.78013793434821), ('bought', 4.408241996399123), ('new', 3.7799959404738015)]
+Nearest to completion: [('fun', 0.5536594986915588), ('ball', 0.47631508111953735), ('excited', 0.43032529950141907), ('happy', 0.417418897151947), ('fantastic', 0.4136280119419098), ('neat', 0.4045184552669525), ('nice', 0.39627012610435486), ('fabulous', 0.39548608660697937), ('exciting', 0.39228737354278564), ('enjoyable', 0.37830236554145813)]
+
+--------------------------------------------------------------------------
+
+Jason loved baseball.
+He decided to go to a game.
+He invited his friend Bill.
+They had a great time.
+> Bill even caught a foul ball.
+
+__About the match__
+Rarest shared words: [('invited', (5.422888628394158, 5.422888628394158))]
+Score: 0.6528304465113431
+
+__About the completion__
+Rarest in completion: [('foul', 9.25484892674875), ('ball', 6.011655794229842), ('caught', 5.669195515764007), ('even', 5.482972553063845)]
+Nearest to completion: [('foul', 0.7721028923988342), ('ball', 0.6583974957466125), ('fouled', 0.6510694622993469), ('fouls', 0.5908995866775513), ('balls', 0.478816419839859), ('fumbled', 0.4725635349750519), ('bounds', 0.4705667495727539), ('timeout', 0.4636082351207733), ('yellow_card', 0.4591079354286194), ('fumble', 0.4431615471839905)]
+
+--------------------------------------------------------------------------
+
+Jane had always wanted to play a sport.
+A friend encouraged her to try volleyball.
+Jane took her friend's advice and gave it a try.
+She found that she loved playing volleyball.
+> Jane was very happy to be playing a sport.
+
+__About the match__
+Rarest shared words: [('playing', (4.592882265117016, 4.592882265117016)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.6516971059958706
+
+__About the completion__
+Rarest in completion: [('sport', 8.106226217505977), ('playing', 5.123999367151794), ('happy', 4.78013793434821), ('be', 4.0931446193626435), ('very', 3.793301345264873)]
+Nearest to completion: [('sport', 0.5322633981704712), ('playing', 0.5032031536102295), ('very', 0.46510282158851624), ('happy', 0.4131535291671753), ('play', 0.41147494316101074), ('extremely', 0.3961019814014435), ('Playing', 0.36372923851013184), ('incredibly', 0.35252439975738525), ('hugely', 0.3455803692340851), ('obviously', 0.3444329500198364)]
+
+--------------------------------------------------------------------------
+
+Geb really enjoyed basketball.
+He and some pals met at the park for a game.
+Though Geb liked the game, he was no good at it.
+Geb tried his best to play with the big boys.
+> Geb left the park with a sprained ankle.
+
+__About the match__
+Rarest shared words: [('basketball', (5.961885129126845, 5.961885129126845)), ('play', (4.525440984321483, 4.525440984321483)), ('really', (4.303384980694672, 4.303384980694672))]
+Score: 0.6400729828267986
+
+__About the completion__
+Rarest in completion: [('sprained', 8.600922459342085), ('ankle', 7.615105664819319), ('park', 5.715005051795301), ('left', 4.930206975855819)]
+Nearest to completion: [('sprained', 0.8206442594528198), ('ankle', 0.7952510118484497), ('knee', 0.7271706461906433), ('ankle_injury', 0.7136998176574707), ('knee_injury', 0.691482424736023), ('hamstring', 0.6913534998893738), ('groin_injury', 0.679654061794281), ('hamstring_injury', 0.6752219796180725), ('groin', 0.6430670022964478), ('knee_surgery', 0.614989697933197)]
+
+--------------------------------------------------------------------------
+
+Randall had always wanted to try a sport.
+A friend recommended he try playing soccer.
+Randall practiced every day until he was great.
+Finally he was a soccer player.
+> Randall was happy that he had finally tried a sport.
+
+__About the match__
+Rarest shared words: [('soccer', (6.4919421148207235, 6.4919421148207235)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.6323586847914333
+
+__About the completion__
+Rarest in completion: [('randall', 9.74035674253045), ('sport', 8.106226217505977), ('happy', 4.78013793434821), ('tried', 4.57271769962453), ('finally', 4.562795577118213)]
+Nearest to completion: [('sport', 0.5175825953483582), ('happy', 0.45102137327194214), ('hoping', 0.407620370388031), ('tried', 0.4074704647064209), ('eager', 0.40265199542045593), ('glad', 0.40175801515579224), ('finally', 0.3942067325115204), ('thrilled', 0.38520288467407227), ('delighted', 0.37795114517211914), ('trying', 0.3728032112121582)]
+
+--------------------------------------------------------------------------
+
+Tony was an athletic toddler.
+He could throw a ball like a much older kid.
+He enjoyed being outside and playing sports with his dad.
+His dad signed him up for every sport he could.
+> He gave Tony a ball and told him to practice every day.
+
+__About the match__
+Rarest shared words: [('sports', (7.015797238877048, 7.015797238877048)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.6272071864063303
+
+__About the completion__
+Rarest in completion: [('practice', 6.51649337615121), ('ball', 6.011655794229842), ('gave', 4.8834555483762365), ('every', 4.763623000109876), ('told', 4.259717819188459), ('him', 3.3907807836977737), ('day', 3.3461390948177767)]
+Nearest to completion: [('ball', 0.4943580627441406), ('practice', 0.416352778673172), ('scrimmage', 0.3525432050228119), ('balls', 0.3400232195854187), ('drills', 0.33892545104026794), ('told', 0.3293919265270233), ('gave', 0.3280724287033081), ('every', 0.2915913164615631), ('batted', 0.29100319743156433), ('practiced', 0.2813432514667511)]
+
+--------------------------------------------------------------------------
+
+Dan loves to play volleyball.
+He started a league this year at a sports bar.
+He got sponsors and six teams to participate.
+Everyone had a great time.
+> Dan hope to get even more people to join next summer.
+
+__About the match__
+Rarest shared words: [('sports', (7.015797238877048, 7.015797238877048)), ('loves', (6.064076070023392, 6.064076070023392)), ('play', (4.525440984321483, 4.525440984321483))]
+Score: 0.6141032842344493
+
+__About the completion__
+Rarest in completion: [('hope', 7.5571184071689705), ('join', 6.983516377258808), ('summer', 5.903596221602851), ('even', 5.482972553063845), ('people', 5.161787238339538), ('more', 4.774893167080915), ('next', 4.72639365834152), ('get', 4.052534287452978)]
+Nearest to completion: [('join', 0.47593382000923157), ('next', 0.42968127131462097), ('hope', 0.41433554887771606), ('more', 0.4002518355846405), ('summer', 0.3855956792831421), ('hopefully', 0.366040974855423), ('participate', 0.3659077286720276), ('continue', 0.356942355632782), ('begin', 0.3359237611293793), ('hopes', 0.3330981135368347)]
+
+--------------------------------------------------------------------------
+
+Andy enjoyed watching the Olympic games.
+Moreover, Andy loved seeing the various types of sports.
+However, Andy absolutely loved watching table tennis.
+Andy did not even know table tennis was an Olympic sport.
+> Andy could not wait to see the Olympic table tennis competition.
+
+__About the match__
+Rarest shared words: [('sports', (7.015797238877048, 7.015797238877048))]
+Score: 0.6069635927580629
+
+__About the completion__
+Rarest in completion: [('tennis', 7.4503504317432645), ('competition', 6.967768020290668), ('table', 6.368759830644585), ('wait', 5.733023557297979), ('see', 4.749074176950009), ('not', 3.8329533830489027), ('could', 3.8258407366367204)]
+Nearest to completion: [('tennis', 0.5125537514686584), ('table', 0.43790462613105774), ('competition', 0.409681111574173), ('wait', 0.401278555393219), ('Tennis', 0.3692583441734314), ('volleyball', 0.32528194785118103), ('see', 0.3247378468513489), ('tables', 0.32145175337791443), ('tournaments', 0.3204258978366852), ('compete', 0.31602269411087036)]
+
+--------------------------------------------------------------------------
+
+

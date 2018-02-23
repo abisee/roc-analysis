@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jake needed a ride to the store.
+His girlfriend was working and wouldn't take him.
+His brother was in the middle of a movie and said no.
+Jake decided to take the bus to the store.
+> He got what he needed all by himself.
+
+__About the context__
+Rarest in context: [('jake', 8.293457758994144), ('bus', 6.070425297702051), ('middle', 5.96761580383583), ('girlfriend', 5.554517070872595), ('ride', 5.5171993078654), ('movie', 5.467188887290738), ('brother', 5.342845920720622), ('working', 4.993273060053711), ('take', 4.402838662229151), ('no', 4.393269211213), ('said', 4.286124573761672), ('needed', 4.285055626572767), ('store', 4.2189158240682225), ('would', 3.429095756248016)]
+Nearest to context: [('bus', 0.4195305109024048), ('girlfriend', 0.3676827847957611), ('brother', 0.35466036200523376), ('taxi', 0.3451567590236664), ('ride', 0.34414392709732056), ('boyfriend', 0.3432570695877075), ('Bus', 0.32392799854278564), ('cab', 0.32228395342826843), ('nephew', 0.31607040762901306), ('son', 0.31434404850006104)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('cab', 12245, 7755, 0.39132583141326904), ('dad', 3924, 16076, 0.368606299161911), ('car', 385, 19615, 0.3618413507938385), ('father', 913, 19087, 0.3605300188064575), ('wife', 783, 19217, 0.35726693272590637), ('mall', 6561, 13439, 0.3538248836994171), ('son', 831, 19169, 0.34821635484695435), ('nephew', 10798, 9202, 0.34325578808784485), ('friend', 1269, 18731, 0.3420516550540924), ('cousin', 7307, 12693, 0.3396551012992859)]
+Nearest words to completions' keywords: [('dad', 3924, 16076, 0.6241850256919861), ('mom', 3994, 16006, 0.5887805223464966), ('mother', 852, 19148, 0.5852270126342773), ('niece', 15133, 4867, 0.5735142230987549), ('father', 913, 19087, 0.572857677936554), ('aunt', 11159, 8841, 0.5659337639808655), ('daughter', 1211, 18789, 0.561310887336731), ('grandmother', 6547, 13453, 0.5605749487876892), ('friend', 1269, 18731, 0.5545920729637146), ('Dad', 9466, 10534, 0.5534085631370544)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7481650114059448), ('wanted', 583, 19417, 0.6666097640991211), ('did', 92, 19908, 0.6648305058479309), ('came', 256, 19744, 0.6596393585205078), ('went', 297, 19703, 0.6516125798225403), ('knew', 1039, 18961, 0.6379174590110779), ('took', 263, 19737, 0.6330515742301941), ('got', 193, 19807, 0.6279361248016357), ('had', 35, 19965, 0.6241106986999512), ('seemed', 1617, 18383, 0.6177005767822266)]
+
+==========================================================================
+Neighbors
+==========================================================================
+The woman took the bus to the store.
+She went in to do her shopping.
+She met a friend at the store.
+Her friend offered her a ride home.
+> The woman accepted her friends invitation.
+
+__About the match__
+Rarest shared words: [('bus', (6.070425297702051, 6.070425297702051)), ('ride', (5.5171993078654, 5.5171993078654)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.5663799901572877
+
+__About the completion__
+Rarest in completion: [('invitation', 8.600922459342085), ('accepted', 6.660742984995757), ('woman', 5.684233393128547), ('friends', 4.1620430130754205)]
+Nearest to completion: [('invitation', 0.6581497192382812), ('invitations', 0.5045864582061768), ('accepted', 0.4938223361968994), ('friends', 0.4639628231525421), ('friend', 0.44805026054382324), ('woman', 0.4164029657840729), ('invited', 0.3886154890060425), ('invite', 0.3753340244293213), ('accepting', 0.3702315092086792), ('niece', 0.36022669076919556)]
+
+--------------------------------------------------------------------------
+
+Richard wanted to go to the mall.
+He didn't have a way to get there.
+He asked his mother for a ride to the mall, but she was busy.
+Then Richard asked his dad if he could take him.
+> Richard's dad ended up driving him to the mall.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('take', (4.402838662229151, 4.402838662229151))]
+Score: 0.4764236553479805
+
+__About the completion__
+Rarest in completion: [('mall', 6.5623029121825045), ('driving', 5.686400241213637), ('dad', 5.615240521641596), ('ended', 5.160504364526648), ('him', 3.3907807836977737), ("'s", 3.3551623435327245)]
+Nearest to completion: [('mall', 0.4894549548625946), ('dad', 0.44769424200057983), ('driving', 0.44327712059020996), ('father', 0.40741050243377686), ('ended', 0.4060967266559601), ('malls', 0.3859862685203552), ('son', 0.3747277557849884), ('Dad', 0.36341944336891174), ('stepfather', 0.3593052327632904), ('dealership', 0.34474602341651917)]
+
+--------------------------------------------------------------------------
+
+Our son in law's mom Mia got a new job.
+She had to get to a commuter rail station.
+She let her daughter Tia drive her there and pick her up.
+On the second day, Tia said she could not pick her mom up.
+> Mia took a cab home, and was angry at her daughter.
+
+__About the match__
+Rarest shared words: [('said', (4.286124573761672, 4.286124573761672))]
+Score: 0.4628205456393297
+
+__About the completion__
+Rarest in completion: [('cab', 8.354062381410559), ('angry', 6.531531253515751), ('daughter', 5.8183834062491355), ('took', 4.067463120907994), ('home', 4.002978318445733)]
+Nearest to completion: [('cab', 0.5522560477256775), ('daughter', 0.5186543464660645), ('mother', 0.5027360916137695), ('wife', 0.49548816680908203), ('niece', 0.470367431640625), ('aunt', 0.4613400101661682), ('husband', 0.45877906680107117), ('taxi', 0.4520246088504791), ('son', 0.45201900601387024), ('girlfriend', 0.43980857729911804)]
+
+--------------------------------------------------------------------------
+
+Gabe drove a taxi cab.
+He was called to pick up a passenger at the theatre.
+When he got there, no one was waiting.
+Gabe called the dispatcher.
+> He was at the wrong theatre!
+
+__About the match__
+Rarest shared words: [('no', (4.393269211213, 4.393269211213))]
+Score: 0.4468893130261098
+
+__About the completion__
+Rarest in completion: [('theatre', 8.98658494015407), ('wrong', 6.221376325211911), ('!', 3.536809591467683)]
+Nearest to completion: [('wrong', 0.9090815186500549), ('incorrect', 0.5394065976142883), ('correct', 0.5288083553314209), ('flawed', 0.41873201727867126), ('misguided', 0.4081225097179413), ('right', 0.4021277129650116), ('inaccurate', 0.3955060541629791), ('stupid', 0.39421364665031433), ('faulty', 0.3857954442501068), ('mistaken', 0.3846147060394287)]
+
+--------------------------------------------------------------------------
+
+Tim liked to ride his bike.
+But the chain came off as he was riding it.
+He had to tell his friend that he couldn't make it to his house.
+His older brother came driving by and saw Tim.
+> He took Tim and his bike the rest of the way to the friends house.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('brother', (5.342845920720622, 5.342845920720622))]
+Score: 0.438181877204741
+
+__About the completion__
+Rarest in completion: [('bike', 6.417120902338007), ('rest', 6.318540073665559), ('way', 5.019628215908086), ('house', 4.506577897119985), ('friends', 4.1620430130754205), ('took', 4.067463120907994)]
+Nearest to completion: [('bike', 0.6079499125480652), ('bicycle', 0.5115219950675964), ('bikes', 0.4897710680961609), ('motorcycle', 0.4438842236995697), ('friends', 0.4415134787559509), ('bicycles', 0.42399945855140686), ('house', 0.41258472204208374), ('car', 0.3706846237182617), ('motorcycles', 0.3564099073410034), ('family', 0.3516038656234741)]
+
+--------------------------------------------------------------------------
+
+Isaac's family was driving to a hotel for summer vacation.
+Their car broke down on the road.
+Isaac's parents called a tow truck.
+Isaac and his family had to ride in the tow truck to the gas station.
+> Isaac thought it was the coolest day ever!
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654))]
+Score: 0.4378468927040794
+
+__About the completion__
+Rarest in completion: [('coolest', 9.74035674253045), ('ever', 6.106065478700916), ('thought', 4.810389351501649), ('!', 3.536809591467683), ('day', 3.3461390948177767)]
+Nearest to completion: [('ever', 0.6845901608467102), ('day', 0.46063563227653503), ('thought', 0.4476594030857086), ('imagined', 0.41622641682624817), ('dreamed', 0.34188055992126465), ('arguably', 0.339035302400589), ('Had', 0.32532644271850586), ('guessed', 0.3220983147621155), ('Ever', 0.3190023899078369), ('Probably', 0.3102995753288269)]
+
+--------------------------------------------------------------------------
+
+Brody was a four year old that loved trains more than anything.
+One day, his parents took him for a drive.
+They ended up pulling up to and parking at a depot.
+Brody finally got to ride on an old passenger train.
+> He smiled the entire time and his love for trains grew even bigger.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654))]
+Score: 0.43221391837081546
+
+__About the completion__
+Rarest in completion: [('trains', 8.92942652631412), ('bigger', 8.013135794439966), ('smiled', 6.789360362817851), ('entire', 6.453822269188434), ('grew', 6.343334732278775), ('love', 5.964726362007859), ('even', 5.482972553063845), ('time', 3.981849368185002)]
+Nearest to completion: [('grew', 0.47595423460006714), ('trains', 0.44483861327171326), ('grows', 0.3648841083049774), ('bigger', 0.3636278808116913), ('Growing', 0.35896050930023193), ('love', 0.3482048511505127), ('larger', 0.33093154430389404), ('smiled', 0.32618632912635803), ('grown', 0.32577526569366455), ('loves', 0.32527175545692444)]
+
+--------------------------------------------------------------------------
+
+Darcy needed to go to the grocery store for some groceries.
+She unfortunately had no car to drive herself there.
+She had to call a cab to take her to the grocery store.
+The cab driver took Darcy to the store and then drove her home.
+> The driver was feeling nice that day and did not charge Darcy at all.
+
+__About the match__
+Rarest shared words: [('take', (4.402838662229151, 4.402838662229151)), ('no', (4.393269211213, 4.393269211213)), ('needed', (4.285055626572767, 4.285055626572767)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.43133144201796747
+
+__About the completion__
+Rarest in completion: [('charge', 7.991156887721191), ('driver', 6.738393919225823), ('feeling', 5.982067837044346), ('nice', 5.944867553358256), ('not', 3.8329533830489027), ('did', 3.6104898725633485), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('driver', 0.4423753321170807), ('not', 0.3866581916809082), ('feeling', 0.34821897745132446), ('drivers', 0.34038665890693665), ('Driver', 0.3283279240131378), ('does', 0.32617440819740295), ('nice', 0.3244110941886902), ('charge', 0.31021276116371155), ('necessarily', 0.29222047328948975), ('did', 0.2864948809146881)]
+
+--------------------------------------------------------------------------
+
+My son's friend is very eccentric.
+He does not drive or bike, preferring to walk.
+Yesterday he needed a ride home.
+My son drove him but told him to wait while he visited us.
+> My son did not want him to talk, as he stays for a long time.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('needed', (4.285055626572767, 4.285055626572767))]
+Score: 0.4240882480129979
+
+__About the completion__
+Rarest in completion: [('stays', 9.25484892674875), ('talk', 6.51649337615121), ('son', 5.742156040861252), ('want', 5.717239689596717), ('long', 5.222652582323634), ('time', 3.981849368185002), ('as', 3.9638660844916718), ('not', 3.8329533830489027), ('did', 3.6104898725633485), ('my', 3.5357989799617595), ('him', 3.3907807836977737)]
+Nearest to completion: [('does', 0.42669373750686646), ('not', 0.3836827874183655), ('him', 0.372252494096756), ('want', 0.36629122495651245), ('refuses', 0.34364891052246094), ('do', 0.3414686620235443), ('stays', 0.33977192640304565), ('his', 0.33616816997528076), ('long', 0.3286365866661072), ('did', 0.32352471351623535)]
+
+--------------------------------------------------------------------------
+
+Sarah went to New York City for the first time.
+She met her friend at the bus station.
+They walked through Bryant Park.
+Next, they got on a subway train to Queens.
+> In the end, they decided to shop at the Queens mall.
+
+__About the match__
+Rarest shared words: [('bus', (6.070425297702051, 6.070425297702051))]
+Score: 0.4176541181849617
+
+__About the completion__
+Rarest in completion: [('mall', 6.5623029121825045), ('shop', 6.1957807780229475), ('end', 5.695114893316081), ('decided', 3.495461951503386)]
+Nearest to completion: [('mall', 0.7137201428413391), ('shop', 0.6873093843460083), ('store', 0.6099128127098083), ('shops', 0.5760604739189148), ('malls', 0.5378443002700806), ('Mall', 0.5321310758590698), ('stores', 0.5235254168510437), ('showroom', 0.49529513716697693), ('shopping', 0.4936354160308838), ('boutique', 0.4619506597518921)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Josie wanted to win an important race at school.
+She woke up early for a week to practice in the park.
+She also hired a coach to train with him after school.
+When the race event started she was really nervous.
+> But all her hard work paid off and she made it to third place easily.
+
+__About the context__
+Rarest in context: [('event', 7.083619835215809), ('train', 6.672323806796851), ('important', 6.572794211449819), ('coach', 6.5115505862091), ('hired', 6.2746408391307416), ('race', 6.228831303099447), ('win', 6.1227247971049), ('practice', 6.064076070023392), ('early', 5.6799337313840494), ('also', 5.297725485440152), ('woke', 5.205092683406543), ('park', 5.183871727923658), ('nervous', 4.831405101610713), ('week', 4.607523815109964), ('really', 4.303384980694672), ('school', 3.843909923444766), ('started', 3.8418501904817557), ('after', 3.6847643749987347), ('an', 3.319567812924379)]
+Nearest to context: [('coach', 0.4304811358451843), ('Head_Coach', 0.379757821559906), ('team', 0.363022118806839), ('race', 0.3623508810997009), ('practice', 0.3592908978462219), ('championship', 0.35571351647377014), ('varsity', 0.34153494238853455), ('championships', 0.3400751054286957), ('tournament', 0.3318893313407898), ('junior_varsity', 0.3304451107978821)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('team', 102, 19898, 0.5793876647949219), ('champions', 3667, 16333, 0.529443085193634), ('championship', 1264, 18736, 0.5055010318756104), ('coach', 419, 19581, 0.47902601957321167), ('squad', 1848, 18152, 0.45956405997276306), ('champs', 15378, 4622, 0.45833727717399597), ('Head_Coach', 16741, 3259, 0.45066291093826294), ('tournament', 977, 19023, 0.4473476707935333), ('win', 202, 19798, 0.43668389320373535), ('champion', 1698, 18302, 0.43396422266960144)]
+Nearest words to completions' keywords: [('championship', 1264, 18736, 0.6584160327911377), ('coach', 419, 19581, 0.6269420981407166), ('team', 102, 19898, 0.6262560486793518), ('win', 202, 19798, 0.6244491934776306), ('tournament', 977, 19023, 0.5872672200202942), ('finals', 2773, 17227, 0.5858428478240967), ('coached', 5861, 14139, 0.5821070075035095), ('championships', 3952, 16048, 0.5770360827445984), ('semifinals', 5180, 14820, 0.576477587223053), ('champions', 3667, 16333, 0.5748773217201233)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.789093554019928), ('had', 35, 19965, 0.6942055225372314), ('came', 256, 19744, 0.6872837543487549), ('went', 297, 19703, 0.6295039057731628), ('took', 263, 19737, 0.6227101683616638), ('became', 819, 19181, 0.6194277405738831), ('got', 193, 19807, 0.611650824546814), ('were', 37, 19963, 0.5901498198509216), ('seemed', 1617, 18383, 0.5762960910797119), ('saw', 653, 19347, 0.5756558775901794)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Lauren wanted to be the team captain of her local volleyball team.
+She had to first prove to her coach that she was a good leader.
+To do this, Lauren convinced the team to start practice early.
+The coach arrived late and saw that the team was already practicing.
+> The coach was impressed and quickly made Lauren the team's captain.
+
+__About the match__
+Rarest shared words: [('coach', (6.5115505862091, 6.5115505862091)), ('practice', (6.064076070023392, 6.064076070023392)), ('early', (5.6799337313840494, 5.6799337313840494))]
+Score: 0.5312852290670295
+
+__About the completion__
+Rarest in completion: [('captain', 8.64174445386234), ('impressed', 7.146969449748379), ('coach', 6.878155861600981), ('quickly', 5.828333737102303), ('team', 5.479438980482533), ('made', 4.267560996649484), ("'s", 3.3551623435327245)]
+Nearest to completion: [('coach', 0.684465765953064), ('captain', 0.6475179195404053), ('team', 0.6102004051208496), ('Head_Coach', 0.6045889854431152), ('skipper', 0.5662168264389038), ('squad', 0.5495414137840271), ('coached', 0.5450563430786133), ('Coach', 0.5267921090126038), ('coaching', 0.5117673277854919), ('coaches', 0.4805333614349365)]
+
+--------------------------------------------------------------------------
+
+Jessica wanted to join the swim team.
+She did very well in the tryouts.
+She was happy when the coach told her she was on the team.
+Jessica competed in her first trial just two days later.
+> She took first place and quickly became the favored one on the team.
+
+__About the match__
+Rarest shared words: [('coach', (6.5115505862091, 6.5115505862091))]
+Score: 0.5169803447915475
+
+__About the completion__
+Rarest in completion: [('favored', 11.12665110365034), ('quickly', 5.828333737102303), ('place', 5.682071230124052), ('team', 5.479438980482533), ('became', 5.378851743577365), ('first', 4.4744334437934175), ('took', 4.067463120907994), ('one', 3.351585275015767)]
+Nearest to completion: [('became', 0.5223742127418518), ('took', 0.4468366205692291), ('first', 0.42493900656700134), ('second', 0.40646499395370483), ('third', 0.3892783224582672), ('favored', 0.3807435631752014), ('fifth', 0.37119603157043457), ('fourth', 0.35728877782821655), ('led', 0.35714808106422424), ('sixth', 0.352399617433548)]
+
+--------------------------------------------------------------------------
+
+Tim felt nervous all week.
+The championship soccer match was this coming week.
+His team was in the finals and they are geared up to win.
+The match came and Tim played amazing.
+> His team won and they are the new champions.
+
+__About the match__
+Rarest shared words: [('win', (6.1227247971049, 6.1227247971049)), ('nervous', (4.831405101610713, 4.831405101610713)), ('week', (4.607523815109964, 4.607523815109964))]
+Score: 0.5139400262899144
+
+__About the completion__
+Rarest in completion: [('champions', 10.433503923090395), ('are', 6.0767950964008035), ('team', 5.479438980482533), ('won', 5.467168887890719), ('new', 3.7799959404738015)]
+Nearest to completion: [('champions', 0.7343762516975403), ('champs', 0.6196036338806152), ('champion', 0.5865945816040039), ('won', 0.5655055046081543), ('Champions', 0.5465847849845886), ('team', 0.5456429719924927), ('championship', 0.5350165367126465), ('winning', 0.5094396471977234), ('winners', 0.5062153935432434), ('championships', 0.4972200095653534)]
+
+--------------------------------------------------------------------------
+
+The new soccer coach took the sport very seriously.
+She made the team do drills for all of practice.
+Then she told them to run home instead of drive.
+When it was time for the first game, the team did great!
+> It was obvious all their hard work had paid off.
+
+__About the match__
+Rarest shared words: [('coach', (6.5115505862091, 6.5115505862091)), ('practice', (6.064076070023392, 6.064076070023392))]
+Score: 0.5017713823658762
+
+__About the completion__
+Rarest in completion: [('obvious', 9.74035674253045), ('paid', 6.3104099475823086), ('hard', 5.005255386950328), ('off', 4.4887379789916535), ('their', 4.437673918472774), ('work', 4.3399341530452595), ('all', 3.5398475684877595)]
+Nearest to completion: [('hard', 0.4505060017108917), ('work', 0.3986300230026245), ('their', 0.3924139738082886), ('paid', 0.39140206575393677), ('obvious', 0.3716459274291992), ('all', 0.355450838804245), ('these', 0.3419625163078308), ('pay', 0.3387073874473572), ('Hard', 0.33844152092933655), ('off', 0.3188630938529968)]
+
+--------------------------------------------------------------------------
+
+Don was a part of an amateur baseball league in his city.
+His next game is against a tough team the next town over.
+Don and teammates practiced all week in preparation.
+One of his teammates called in sick on the day of the match.
+> Don was forced to forfeit.
+
+__About the match__
+Rarest shared words: [('week', (4.607523815109964, 4.607523815109964)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4880508009926986
+
+__About the completion__
+Rarest in completion: [('forfeit', 10.433503923090395), ('forced', 7.489064943923955)]
+Nearest to completion: [('forfeit', 0.8526288270950317), ('forced', 0.5724442601203918), ('forcing', 0.40665745735168457), ('ineligible', 0.40354740619659424), ('stripped', 0.37107565999031067), ('relinquish', 0.3667735457420349), ('fined', 0.3655082881450653), ('confiscated', 0.3596104681491852), ('pinned', 0.34822431206703186), ('lose', 0.3474603295326233)]
+
+--------------------------------------------------------------------------
+
+Will loves going to the arcade after school.
+One day his local arcade decided to host a tournament.
+Will spent all week practicing after school.
+Will was nervous but also excited on the day of the tourney.
+> Will managed to place first thanks to his efforts.
+
+__About the match__
+Rarest shared words: [('also', (5.297725485440152, 5.297725485440152)), ('nervous', (4.831405101610713, 4.831405101610713)), ('week', (4.607523815109964, 4.607523815109964)), ('school', (3.843909923444766, 3.843909923444766)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.48142283133829666
+
+__About the completion__
+Rarest in completion: [('efforts', 8.72875583085197), ('thanks', 8.130918830096348), ('managed', 7.049113659744621), ('will', 6.119354710819599), ('place', 5.682071230124052), ('first', 4.4744334437934175)]
+Nearest to completion: [('efforts', 0.5906632542610168), ('managed', 0.5651350617408752), ('effort', 0.48715633153915405), ('enabled', 0.48290905356407166), ('thanks', 0.4750714898109436), ('helped', 0.4462222456932068), ('aims', 0.4431699514389038), ('will', 0.42772626876831055), ('attempt', 0.40550607442855835), ('attempts', 0.4031863212585449)]
+
+--------------------------------------------------------------------------
+
+Jay was a high school freshman who loved basketball.
+Jay practiced all summer to get ready for tryouts for the team.
+Jay was nervous, but he did his best on the first day of tryouts.
+The coach asked Jay to stay behind so they could talk.
+> The coach told Jay he will be the team's starting forward!
+
+__About the match__
+Rarest shared words: [('coach', (6.5115505862091, 6.5115505862091)), ('nervous', (4.831405101610713, 4.831405101610713)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.479964329866644
+
+__About the completion__
+Rarest in completion: [('forward', 7.0662080931039215), ('coach', 6.878155861600981), ('starting', 6.7959177633640095), ('will', 6.119354710819599), ('team', 5.479438980482533), ('told', 4.259717819188459), ('be', 4.0931446193626435), ('!', 3.536809591467683), ("'s", 3.3551623435327245)]
+Nearest to completion: [('coach', 0.5623598694801331), ('team', 0.5467455983161926), ('Head_Coach', 0.5145132541656494), ('forward', 0.48478052020072937), ('Coach', 0.46513327956199646), ('squad', 0.4524696171283722), ('coaching', 0.44065791368484497), ('starting_lineup', 0.42596113681793213), ('will', 0.40933582186698914), ('coaches', 0.4078676104545593)]
+
+--------------------------------------------------------------------------
+
+I played in a very important basketball game in high school.
+It was the state championships.
+I was very nervous before the game.
+Every one told me not to worry about it.
+> We ended up winning the game!
+
+__About the match__
+Rarest shared words: [('important', (6.572794211449819, 6.572794211449819)), ('nervous', (4.831405101610713, 4.831405101610713)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.4789663800202272
+
+__About the completion__
+Rarest in completion: [('winning', 7.015777239477029), ('ended', 5.160504364526648), ('game', 5.066360365612506), ('we', 4.354142974076229), ('!', 3.536809591467683)]
+Nearest to completion: [('winning', 0.6041597127914429), ('game', 0.5706095695495605), ('ended', 0.4977334439754486), ('win', 0.4864453077316284), ('games', 0.44523072242736816), ('scoring', 0.44076332449913025), ('ending', 0.43484294414520264), ('clinching', 0.424625426530838), ('wins', 0.41922858357429504), ('won', 0.4150228202342987)]
+
+--------------------------------------------------------------------------
+
+Gordy had a chess tournament coming up.
+He and his team practiced every day after school.
+He was nervous going into the tournament.
+Gordy won most of his games, but not all.
+> Gordy came out third place in the tournament.
+
+__About the match__
+Rarest shared words: [('nervous', (4.831405101610713, 4.831405101610713)), ('school', (3.843909923444766, 3.843909923444766)), ('after', (3.6847643749987347, 3.6847643749987347))]
+Score: 0.4778575908889467
+
+__About the completion__
+Rarest in completion: [('third', 7.529338843061895), ('tournament', 7.515733191006116), ('place', 5.682071230124052), ('came', 4.538412620640003), ('out', 3.3165011979861596)]
+Nearest to completion: [('tournament', 0.603635311126709), ('third', 0.5361772179603577), ('tourney', 0.5305222272872925), ('fourth', 0.5043736100196838), ('second', 0.5010355114936829), ('Tournament', 0.4988037645816803), ('fifth', 0.4943965673446655), ('sixth', 0.4802650511264801), ('seventh', 0.4657180905342102), ('quarterfinal', 0.45960789918899536)]
+
+--------------------------------------------------------------------------
+
+I didn't hear my alarm clock one morning.
+I went to track practice.
+I arrived at the last minute of it.
+I told the coach I overslept.
+> She was happy that I was honest.
+
+__About the match__
+Rarest shared words: [('coach', (6.5115505862091, 6.5115505862091)), ('practice', (6.064076070023392, 6.064076070023392))]
+Score: 0.4733734693636907
+
+__About the completion__
+Rarest in completion: [('honest', 9.111748083108075), ('happy', 4.78013793434821)]
+Nearest to completion: [('honest', 0.7611016631126404), ('happy', 0.6421874761581421), ('frank', 0.5395106077194214), ('sincere', 0.4777893126010895), ('satisfied', 0.474822998046875), ('candid', 0.46600085496902466), ('proud', 0.436664879322052), ('glad', 0.4339391589164734), ('confident', 0.4293772280216217), ('respectful', 0.42420437932014465)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Dallas always wanted to be a professional wrestler.
+He decided he was gonna give his dream a shot.
+He knew he wasn't the biggest or the fastest.
+He was determined to become what he aspired to be.
+> Dallas walked out into the ring and finally realized his dreams.
+
+__About the context__
+Rarest in context: [('gon', 9.334911633822305), ('na', 9.334911633822305), ('wrestler', 9.047229561370523), ('aspired', 9.047229561370523), ('fastest', 8.236299345154194), ('biggest', 7.5157531904061345), ('professional', 7.3654709873567965), ('determined', 6.8925645984531), ('dream', 6.604882526001319), ('shot', 6.096233181657924), ('become', 5.985007546547699), ('give', 5.528249144051984), ('or', 5.474181922781709), ('knew', 4.833251824203877), ('what', 4.372067003562397), ('always', 4.054249202512988), ('be', 3.714510768105154)]
+Nearest to context: [('ultimate', 0.4346402883529663), ('greatest', 0.4206996262073517), ('wrestler', 0.41748154163360596), ('fastest', 0.4147745966911316), ('professional', 0.4028196930885315), ('arguably', 0.4004223942756653), ('best', 0.39025789499282837), ('biggest', 0.3881143629550934), ('ever', 0.3874863088130951), ('dream', 0.3759826421737671)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wrestling', 6167, 13833, 0.5468934774398804), ('championship', 1264, 18736, 0.5230398178100586), ('wrestlers', 12757, 7243, 0.5161120295524597), ('wrestler', 14772, 5228, 0.5126872062683105), ('title', 758, 19242, 0.5124913454055786), ('undefeated', 7441, 12559, 0.48640623688697815), ('champion', 1698, 18302, 0.4830999970436096), ('champ', 11187, 8813, 0.482941597700119), ('championships', 3952, 16048, 0.47738415002822876), ('wins', 1469, 18531, 0.47122466564178467)]
+Nearest words to completions' keywords: [('championship', 1264, 18736, 0.6466150879859924), ('wrestling', 6167, 13833, 0.633407711982727), ('wrestlers', 12757, 7243, 0.6021311283111572), ('win', 202, 19798, 0.5964668989181519), ('wrestler', 14772, 5228, 0.5922625660896301), ('undefeated', 7441, 12559, 0.58887779712677), ('championships', 3952, 16048, 0.5864645838737488), ('tournament', 977, 19023, 0.5728996992111206), ('game', 94, 19906, 0.5613595247268677), ('champion', 1698, 18302, 0.5604020357131958)]
+Nearest words to completions' verbs: [('make', 109, 19891, 0.6158428192138672), ('was', 10, 19990, 0.6119356155395508), ('made', 107, 19893, 0.5950192213058472), ('became', 819, 19181, 0.5911775827407837), ("wasn'ta", 11067, 8933, 0.5672959685325623), ('making', 321, 19679, 0.5591285228729248), ('got', 193, 19807, 0.558596670627594), ('seemed', 1617, 18383, 0.5441220998764038), ('would', 47, 19953, 0.5413588285446167), ('came', 256, 19744, 0.5401827096939087)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Lex is a wrestler.
+Lex trains to become the best.
+Lex works his way to the top.
+Lex gets a shot to be the champ.
+> Lex wins the title and becomes the champ.
+
+__About the match__
+Rarest shared words: [('wrestler', (9.047229561370523, 9.047229561370523)), ('shot', (6.096233181657924, 6.096233181657924)), ('become', (5.985007546547699, 5.985007546547699)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.5697909669553989
+
+__About the completion__
+Rarest in completion: [('champ', 10.210360371776185), ('title', 9.25484892674875), ('becomes', 8.452502454223811), ('wins', 8.130918830096348)]
+Nearest to completion: [('title', 0.7604038715362549), ('champ', 0.7498134970664978), ('wins', 0.6845500469207764), ('champion', 0.6779847145080566), ('crown', 0.6324167847633362), ('champs', 0.6275665163993835), ('championship', 0.6183494925498962), ('titles', 0.5875965356826782), ('victories', 0.562687873840332), ('champions', 0.5597001910209656)]
+
+--------------------------------------------------------------------------
+
+Kevin always had a dream of wrestling.
+He wrestled starting at the age of 7.
+He worked and trained his whole life.
+He finally became a professional at age 18.
+> He became one of the greatest wrestlers ever.
+
+__About the match__
+Rarest shared words: [('professional', (7.3654709873567965, 7.3654709873567965)), ('dream', (6.604882526001319, 6.604882526001319)), ('always', (4.054249202512988, 4.054249202512988))]
+Score: 0.5588593431516634
+
+__About the completion__
+Rarest in completion: [('wrestlers', 10.433503923090395), ('greatest', 9.334891634422286), ('ever', 6.106065478700916), ('became', 5.378851743577365), ('one', 3.351585275015767)]
+Nearest to completion: [('wrestlers', 0.5656626224517822), ('greatest', 0.5521783232688904), ('arguably', 0.5274456143379211), ('wrestler', 0.5009294152259827), ('ever', 0.49961602687835693), ('wrestling', 0.48050203919410706), ('most', 0.426765114068985), ('biggest', 0.42033296823501587), ('one', 0.3823574483394623), ('history', 0.37915533781051636)]
+
+--------------------------------------------------------------------------
+
+Michael was very skilled at a game he played.
+He was one of the best player at this game.
+I told him he should try to become a professional gamer.
+He laughed and disregarded it, but he did try.
+> After a year he was making money playing the game!
+
+__About the match__
+Rarest shared words: [('professional', (7.3654709873567965, 7.3654709873567965)), ('become', (5.985007546547699, 5.985007546547699))]
+Score: 0.4951831150666197
+
+__About the completion__
+Rarest in completion: [('making', 5.845988672341025), ('year', 5.152841491781079), ('playing', 5.123999367151794), ('game', 5.066360365612506), ('money', 4.903083263856677), ('after', 3.9503965716331964), ('!', 3.536809591467683)]
+Nearest to completion: [('playing', 0.5521956086158752), ('game', 0.5277664065361023), ('games', 0.4938904643058777), ('play', 0.43438437581062317), ('player', 0.41323545575141907), ('season', 0.4116683900356293), ('Playing', 0.40301528573036194), ('tournament', 0.3948911428451538), ('played', 0.390329509973526), ('making', 0.3764597177505493)]
+
+--------------------------------------------------------------------------
+
+William had just tore his acl playing the game he loved.
+He was a college football player with big aspirations.
+He wanted to make it as a professional.
+He was determined to overcome this injury.
+> His surgery was successful and he was prepared for the long road ahead.
+
+__About the match__
+Rarest shared words: [('professional', (7.3654709873567965, 7.3654709873567965)), ('determined', (6.8925645984531, 6.8925645984531))]
+Score: 0.48766125268729066
+
+__About the completion__
+Rarest in completion: [('ahead', 7.676663557818753), ('surgery', 7.660915200850614), ('successful', 7.413079036946033), ('prepared', 6.7828456817966565), ('road', 5.93369425276013), ('long', 5.222652582323634)]
+Nearest to completion: [('surgery', 0.523649275302887), ('ahead', 0.48291078209877014), ('road', 0.44317641854286194), ('successful', 0.44069772958755493), ('surgeries', 0.3897774815559387), ('prepared', 0.3763936161994934), ('knee_surgery', 0.3463675081729889), ('lengthy', 0.3290744125843048), ('grueling', 0.3272843360900879), ('prepare', 0.32659003138542175)]
+
+--------------------------------------------------------------------------
+
+George always watching wrestling on tv growing up.
+He knew that is what he wanted to do when he grew up.
+George graduated high school.
+He decided it was now or never to make his dream come true.
+> George decided to join a wrestling league so what he was made of.
+
+__About the match__
+Rarest shared words: [('dream', (6.604882526001319, 6.604882526001319)), ('or', (5.474181922781709, 5.474181922781709)), ('knew', (4.833251824203877, 4.833251824203877)), ('what', (4.372067003562397, 4.372067003562397)), ('always', (4.054249202512988, 4.054249202512988))]
+Score: 0.48452281814070935
+
+__About the completion__
+Rarest in completion: [('wrestling', 8.775275846486863), ('league', 8.156236638080639), ('join', 6.983516377258808), ('what', 4.895185888161725), ('made', 4.267560996649484), ('so', 3.628612279567497), ('decided', 3.495461951503386)]
+Nearest to completion: [('wrestling', 0.5382096767425537), ('league', 0.5062086582183838), ('leagues', 0.44367578625679016), ('MMA', 0.4136558771133423), ('wrestlers', 0.40388786792755127), ('join', 0.4004042446613312), ('wrestler', 0.3905952572822571), ('football', 0.38200643658638), ('Football_League', 0.3665338158607483), ('Division_III', 0.35613101720809937)]
+
+--------------------------------------------------------------------------
+
+Dan used to always watch wrestling with his father.
+Recently, Dan was at a thrift shop where he saw a wrestling figurine.
+Dan immediately noticed the figurine to be Hulk Hogan.
+Hulk Hogan is Dan and his dad's favorite wrestler.
+> Dan could not wait to show his dad the wrestling figurine.
+
+__About the match__
+Rarest shared words: [('wrestler', (9.047229561370523, 9.047229561370523)), ('always', (4.054249202512988, 4.054249202512988)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.484309993047655
+
+__About the completion__
+Rarest in completion: [('figurine', 10.028038814982231), ('wrestling', 8.775275846486863), ('show', 5.798774934860759), ('wait', 5.733023557297979), ('dad', 5.615240521641596), ('not', 3.8329533830489027), ('could', 3.8258407366367204)]
+Nearest to completion: [('wrestling', 0.5874118208885193), ('wrestler', 0.47656723856925964), ('wrestlers', 0.43407291173934937), ('wrestle', 0.4144543707370758), ('WWE', 0.39047205448150635), ('wait', 0.3794609606266022), ('TNA', 0.3640175461769104), ('boxing', 0.3614206612110138), ('show', 0.3560813069343567), ('dad', 0.33544111251831055)]
+
+--------------------------------------------------------------------------
+
+Olsen was a great athlete.
+He was the leading scorer on the college's basketball team.
+He was trying to decide if he should go pro or stay in school.
+He made a list of pros and cons.
+> The list made him decide to go pro.
+
+__About the match__
+Rarest shared words: [('or', (5.474181922781709, 5.474181922781709))]
+Score: 0.4722143306262514
+
+__About the completion__
+Rarest in completion: [('pro', 8.92942652631412), ('list', 7.308938777693435), ('decide', 7.25545009274245), ('made', 4.267560996649484), ('go', 4.110041419756121), ('him', 3.3907807836977737)]
+Nearest to completion: [('list', 0.5316852927207947), ('decide', 0.4946025311946869), ('pro', 0.47183382511138916), ('lists', 0.40089964866638184), ('select', 0.3776392340660095), ('decides', 0.35207438468933105), ('choose', 0.3495572805404663), ('deciding', 0.3420051038265228), ('go', 0.33665743470191956), ('draft', 0.31666654348373413)]
+
+--------------------------------------------------------------------------
+
+Timothy recently made a big life decision.
+He had quit his job to follow his dream.
+Timothy wanted to be a chef.
+The best and easiest way he found to do this was a food truck.
+> He felt fulfilled in his truck, making food for everyone.
+
+__About the match__
+Rarest shared words: [('dream', (6.604882526001319, 6.604882526001319)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.46144609823394966
+
+__About the completion__
+Rarest in completion: [('fulfilled', 9.334891634422286), ('truck', 6.368759830644585), ('making', 5.845988672341025), ('everyone', 5.197061960260446), ('food', 5.1080578891541055), ('felt', 4.558573192238365)]
+Nearest to completion: [('fulfilled', 0.4900394380092621), ('fulfilling', 0.4685042202472687), ('food', 0.4551929235458374), ('truck', 0.4372408986091614), ('fulfill', 0.4111153781414032), ('trucks', 0.37189143896102905), ('fulfillment', 0.36319500207901), ('everyone', 0.33464646339416504), ('Food', 0.3314187526702881), ('Truck', 0.3241122364997864)]
+
+--------------------------------------------------------------------------
+
+Tim was an incredible swimmer.
+He was the fastest in school.
+He would go to the local swimming center and challenge people.
+He would pretend he was really slow so people would want to bet.
+> He would then dominate against them and win all their money.
+
+__About the match__
+Rarest shared words: [('fastest', (8.236299345154194, 8.236299345154194))]
+Score: 0.44292565725618727
+
+__About the completion__
+Rarest in completion: [('dominate', 11.12665110365034), ('against', 7.156359190098219), ('win', 6.386076280656046), ('money', 4.903083263856677), ('their', 4.437673918472774), ('then', 4.392059443677392), ('them', 3.9905657466666935), ('would', 3.922873627941421), ('all', 3.5398475684877595)]
+Nearest to completion: [('win', 0.511125922203064), ('dominate', 0.49669548869132996), ('against', 0.4619438946247101), ('victory', 0.4386618435382843), ('their', 0.4298040568828583), ('defeat', 0.4212884306907654), ('prevail', 0.40011703968048096), ('dominance', 0.39487969875335693), ('rout', 0.3902836740016937), ('defeating', 0.38836169242858887)]
+
+--------------------------------------------------------------------------
+
+The athlete was good at every sport he tried.
+He just learned to play basketball and he's already the high scorer.
+His best sport is baseball.
+He hit a homerun when he was at bat last.
+> He's proud of his athletic ability.
+
+__About the match__
+Rarest shared words: []
+Score: 0.438185947223879
+
+__About the completion__
+Rarest in completion: [('athletic', 8.98658494015407), ('ability', 8.875359305043844), ('proud', 6.0452467386658775), ("'s", 3.3551623435327245)]
+Nearest to completion: [('athletic', 0.6827355027198792), ('ability', 0.5718256235122681), ('proud', 0.5633432269096375), ('athletics', 0.4860247075557709), ('pleased', 0.43266406655311584), ('accomplishments', 0.4306837022304535), ('thrilled', 0.4078298807144165), ('athleticism', 0.40351763367652893), ('excited', 0.39995723962783813), ('abilities', 0.39235666394233704)]
+
+--------------------------------------------------------------------------
+
+

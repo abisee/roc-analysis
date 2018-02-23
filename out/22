@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Ben's Boy Scout Troop worked for weeks on a float.
+It was going to be in the town's July 4th parade.
+They got it finished just in time.
+It was big enough for his whole troop to ride on.
+> They felt proud as they went down the street as people clapped.
+
+__About the context__
+Rarest in context: [('troop', 8.824086010056313), ('float', 8.641764453262358), ('4th', 8.354082380810578), ('parade', 8.082148665326937), ('finished', 5.8536715444866125), ('whole', 5.550721999904043), ('ride', 5.5171993078654), ('weeks', 5.45679018006984), ('enough', 5.312540571225293), ('town', 5.13270967574379), ('worked', 4.680951283664781), ('big', 4.589979505459054), ('just', 4.34108345804243), ('going', 4.13549421592915), ('be', 3.714510768105154), ('time', 3.6473714652675255)]
+Nearest to context: [('parade', 0.49519601464271545), ('parades', 0.45604950189590454), ('floats', 0.4300449788570404), ('float', 0.42485311627388), ('troop', 0.398692786693573), ('Parade', 0.3956582546234131), ('ride', 0.3948385715484619), ('rides', 0.3632644712924957), ('carnival', 0.32306230068206787), ('4th', 0.31291642785072327)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('fun', 1260, 18740, 0.4509379267692566), ('rides', 7863, 12137, 0.3680642545223236), ('ride', 2471, 17529, 0.35255956649780273), ('kids', 809, 19191, 0.3398120105266571), ('weekend', 655, 19345, 0.33017706871032715), ("'ll", 314, 19686, 0.3244548439979553), ('hopefully', 3888, 16112, 0.3230586051940918), ('festivities', 10342, 9658, 0.31883305311203003), ('tomorrow', 1936, 18064, 0.3086000978946686), ('enjoy', 1755, 18245, 0.30735310912132263)]
+Nearest words to completions' keywords: [('I', 20, 19980, 0.6313952207565308), ('dad', 3924, 16076, 0.6275745630264282), ('me', 170, 19830, 0.6254364848136902), ('really', 230, 19770, 0.6095601320266724), ('just', 76, 19924, 0.5975502729415894), ('kids', 809, 19191, 0.5933725237846375), ('going', 125, 19875, 0.5835073590278625), ('kid', 3172, 16828, 0.5784289836883545), ('glad', 4258, 15742, 0.5749805569648743), ('loved', 3069, 16931, 0.5697050094604492)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7666636109352112), ('went', 297, 19703, 0.7331035733222961), ('had', 35, 19965, 0.7021192312240601), ('came', 256, 19744, 0.6566139459609985), ('got', 193, 19807, 0.6515886783599854), ('knew', 1039, 18961, 0.6441686153411865), ('stayed', 2936, 17064, 0.6343883872032166), ("'d", 609, 19391, 0.6234028935432434), ('looked', 1115, 18885, 0.6077589392662048), ('felt', 1040, 18960, 0.593908429145813)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Every year the Allston Brighton areas of Boston have a parade.
+In 1996, I walked with my son in the parade.
+His cub scout troop was in the parade.
+We walked three miles from Allston to the end of Brighton.
+> My son slept well that night.
+
+__About the match__
+Rarest shared words: [('troop', (8.824086010056313, 8.824086010056313)), ('parade', (8.082148665326937, 8.082148665326937))]
+Score: 0.5646603146890095
+
+__About the completion__
+Rarest in completion: [('slept', 7.092410465497945), ('son', 5.742156040861252), ('well', 5.318508613669897), ('night', 4.471210753282693), ('my', 3.5357989799617595)]
+Nearest to completion: [('slept', 0.6209986805915833), ('son', 0.49836480617523193), ('father', 0.4476773738861084), ('sleeping', 0.4423708915710449), ('nephew', 0.4314335286617279), ('husband', 0.4206227660179138), ('brother', 0.4194985628128052), ('daughter', 0.4113609492778778), ('younger_brother', 0.39907440543174744), ('sons', 0.397271990776062)]
+
+--------------------------------------------------------------------------
+
+Yesterday we went to Disney.
+I wanted to go on the rides.
+Unfortunately we were sidetracked by the parade.
+We then had to wait forever.
+> I was pretty disappointed.
+
+__About the match__
+Rarest shared words: [('parade', (8.082148665326937, 8.082148665326937))]
+Score: 0.5015163475844433
+
+__About the completion__
+Rarest in completion: [('disappointed', 6.62130125294446), ('pretty', 6.583356321380337)]
+Nearest to completion: [('disappointed', 0.7381477952003479), ('pretty', 0.5770871639251709), ('pleased', 0.5160771012306213), ('surprised', 0.513592541217804), ('very', 0.4809195399284363), ('disappointing', 0.4794921278953552), ('extremely', 0.45609888434410095), ('shocked', 0.454514741897583), ('saddened', 0.44401004910469055), ('thrilled', 0.44047117233276367)]
+
+--------------------------------------------------------------------------
+
+The town gathered on the street.
+It was time for the annual Christmas parade!
+The floats drove by slowly.
+Kids caught and collected candy.
+> It was a fun family tradition.
+
+__About the match__
+Rarest shared words: [('parade', (8.082148665326937, 8.082148665326937)), ('town', (5.13270967574379, 5.13270967574379)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.4920607222554477
+
+__About the completion__
+Rarest in completion: [('tradition', 8.684304068281136), ('fun', 5.29917715665159), ('family', 4.6880997737433745)]
+Nearest to completion: [('tradition', 0.7504585385322571), ('traditions', 0.6161640286445618), ('fun', 0.5960245728492737), ('family', 0.5193130373954773), ('heritage', 0.433616042137146), ('ritual', 0.4281722903251648), ('celebration', 0.4136897921562195), ('camaraderie', 0.40821361541748047), ('festivities', 0.39958062767982483), ('friends', 0.3977162539958954)]
+
+--------------------------------------------------------------------------
+
+Last weekend we went to the water park.
+We got to ride a bunch of different rides.
+I really wanted to go down the big water slide.
+I was too short to go on it alone.
+> Fortunately my mom was able to go on it with me.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('big', (4.589979505459054, 4.589979505459054))]
+Score: 0.459962202736774
+
+__About the completion__
+Rarest in completion: [('fortunately', 7.868554565628858), ('able', 5.284557013196627), ('mom', 4.822202301228359), ('me', 4.441414571213571), ('go', 4.110041419756121), ('my', 3.5357989799617595)]
+Nearest to completion: [('my', 0.5828133225440979), ('me', 0.5603750348091125), ('mom', 0.5196400880813599), ('Mom', 0.49088937044143677), ('I', 0.4779360592365265), ('myself', 0.4611090123653412), ('My', 0.4545302093029022), ('Dad', 0.44664785265922546), ('dad', 0.43024942278862), ('you', 0.42138904333114624)]
+
+--------------------------------------------------------------------------
+
+A carnival was in town last week.
+I took my son on Wednesday night.
+He rode all the rides.
+He played a ton of games.
+> We had a really fun time.
+
+__About the match__
+Rarest shared words: [('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.45412405261745425
+
+__About the completion__
+Rarest in completion: [('fun', 5.29917715665159), ('really', 4.8267831612773255), ('we', 4.354142974076229), ('time', 3.981849368185002)]
+Nearest to completion: [('fun', 0.642294704914093), ('really', 0.5449320077896118), ('we', 0.5218109488487244), ('Really', 0.44151216745376587), ('exciting', 0.40617549419403076), ('enjoyable', 0.40451765060424805), ('heck', 0.39971643686294556), ('you', 0.3987373411655426), ('definitely', 0.39838889241218567), ('us', 0.39286765456199646)]
+
+--------------------------------------------------------------------------
+
+The fair was in town last weekend.
+I went with all my friends to the fair.
+We strolled around the midway and ate corndogs.
+All my friends rode the rides, but I was afraid too.
+> I might ride the rides next year.
+
+__About the match__
+Rarest shared words: [('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.4481705145263438
+
+__About the completion__
+Rarest in completion: [('rides', 7.708924420036975), ('might', 7.214628098222194), ('ride', 5.976253867178926), ('year', 5.152841491781079), ('next', 4.72639365834152)]
+Nearest to completion: [('rides', 0.7562158703804016), ('ride', 0.7411352396011353), ('riding', 0.5195838212966919), ('Ride', 0.4846224784851074), ('rode', 0.4332870543003082), ('riders', 0.43320703506469727), ('rider', 0.3798724412918091), ('climbs', 0.3541821837425232), ('Tours', 0.3471910357475281), ('Riders', 0.3403559625148773)]
+
+--------------------------------------------------------------------------
+
+Nancy is a teenage girl.
+Nancy heard her favorite idol was coming to town.
+She heard he was to ride in a parade.
+Nancy cheered on her favorite idol as he rode through the parade.
+> Nancy went home and never will forget that day.
+
+__About the match__
+Rarest shared words: [('parade', (8.082148665326937, 8.082148665326937)), ('ride', (5.5171993078654, 5.5171993078654)), ('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.4398958067056236
+
+__About the completion__
+Rarest in completion: [('forget', 8.035608650292025), ('will', 6.119354710819599), ('never', 4.624610964031577), ('home', 4.002978318445733), ('day', 3.3461390948177767), ('went', 3.303005172815388)]
+Nearest to completion: [('forget', 0.45845213532447815), ('day', 0.36810046434402466), ('will', 0.35049137473106384), ('home', 0.3160172700881958), ('tomorrow', 0.286312997341156), ('forgot', 0.278436541557312), ('Never', 0.27775391936302185), ('forgotten', 0.275521457195282), ('went', 0.26873746514320374), ('Saturday', 0.2621527910232544)]
+
+--------------------------------------------------------------------------
+
+Every year, a carnival came to town.
+Kids loved to ride the ferris wheel.
+Last year, The Scrambler made its debut.
+A ride always broke before the end of the carnival.
+> All the kids in town looked forward to that week.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('town', (5.13270967574379, 5.13270967574379))]
+Score: 0.4159420198157425
+
+__About the completion__
+Rarest in completion: [('forward', 7.0662080931039215), ('town', 5.684233393128547), ('kids', 5.176008551062614), ('week', 5.050156307357783), ('looked', 4.6993539118177985), ('all', 3.5398475684877595)]
+Nearest to completion: [('forward', 0.4846556484699249), ('town', 0.4347755014896393), ('towns', 0.34526941180229187), ('youngsters', 0.33693772554397583), ('kids', 0.3333990275859833), ('week', 0.31736376881599426), ('weekend', 0.3063151240348816), ('looked', 0.3048270046710968), ('Town', 0.29678788781166077), ('community', 0.29573550820350647)]
+
+--------------------------------------------------------------------------
+
+The couple went to the amusement park.
+There were a lot of rides to ride.
+The couple went all around the park.
+The couple had a good time.
+> The couple was going to go back to the park.
+
+__About the match__
+Rarest shared words: [('ride', (5.5171993078654, 5.5171993078654)), ('time', (3.6473714652675255, 3.6473714652675255))]
+Score: 0.4138942602305229
+
+__About the completion__
+Rarest in completion: [('couple', 6.282464017191749), ('park', 5.715005051795301), ('going', 4.676970883048665), ('back', 4.3399341530452595), ('go', 4.110041419756121)]
+Nearest to completion: [('go', 0.47969478368759155), ('park', 0.4665530323982239), ('couple', 0.41620221734046936), ('going', 0.36476945877075195), ('parks', 0.3485412001609802), ('back', 0.33928239345550537), ('Going', 0.3376317620277405), ('coming', 0.3223833441734314), ('come', 0.283688485622406), ('hopefully', 0.26982417702674866)]
+
+--------------------------------------------------------------------------
+
+The kids were excited.
+The parade would be by any moment!
+They had their bags ready to collect candy.
+When the floats drove by, they scrambled to get everything they threw.
+> They soon had full bags!
+
+__About the match__
+Rarest shared words: [('parade', (8.082148665326937, 8.082148665326937)), ('be', (3.714510768105154, 3.714510768105154))]
+Score: 0.4038981716990578
+
+__About the completion__
+Rarest in completion: [('bags', 7.353890165555702), ('full', 6.188586502388921), ('soon', 5.263019928052244), ('!', 3.536809591467683)]
+Nearest to completion: [('bags', 0.6828132271766663), ('full', 0.5614647269248962), ('soon', 0.5132402181625366), ('bag', 0.5015516877174377), ('plastic_bags', 0.40068528056144714), ('Full', 0.38621100783348083), ('containers', 0.3720434308052063), ('packs', 0.3650532364845276), ('suitcase', 0.36341944336891174), ('boxes', 0.3558478355407715)]
+
+--------------------------------------------------------------------------
+
+

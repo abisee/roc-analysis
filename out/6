@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Melody's parents surprised her with a trip to the big aquarium.
+Melody took a nap during the two hour car ride to the aquarium.
+When they arrived, Melody was energetic and excited.
+At the aquarium Melody saw sharks, tropical fish and many others.
+> After five hours at the aquarium, Melody and her family drove home.
+
+__About the context__
+Rarest in context: [('melody', 8.92944652571414), ('energetic', 8.824086010056313), ('sharks', 8.4876137734351), ('tropical', 8.418620901948149), ('aquarium', 7.725473721388203), ('nap', 7.413099036346051), ('others', 6.863991226009044), ('surprised', 6.22139632461193), ('fish', 5.944887552758274), ('ride', 5.5171993078654), ('hour', 5.403086001097979), ('during', 5.3306133522849874), ('arrived', 5.165665763427086), ('trip', 4.87476721988447), ('excited', 4.666766648672825), ('many', 4.663641646129689), ('parents', 4.598713185427808), ('big', 4.589979505459054), ('two', 4.452109711235933), ('car', 4.085259439255548), ('saw', 3.8322938037615377), ('took', 3.6015703569245585)]
+Nearest to context: [('sharks', 0.4568222165107727), ('shark', 0.38543999195098877), ('fish', 0.38152313232421875), ('enthusiastic', 0.3405369222164154), ('trout', 0.3307485580444336), ('tropical', 0.32837769389152527), ('trip', 0.3270844519138336), ('whales', 0.3017566502094269), ('ecstatic', 0.3002210557460785), ('energetic', 0.30003371834754944)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('sharks', 17380, 2620, 0.8206928968429565), ('shark', 13878, 6122, 0.7963976860046387), ('whale', 15332, 4668, 0.5783904194831848), ('whales', 14938, 5062, 0.5359271764755249), ('fish', 2388, 17612, 0.5265047550201416), ('swim', 6920, 13080, 0.43856602907180786), ('fisherman', 16859, 3141, 0.43300265073776245), ('swimming', 5887, 14113, 0.4201012849807739), ('creatures', 11781, 8219, 0.41933098435401917), ('swam', 16621, 3379, 0.4122490882873535)]
+Nearest words to completions' keywords: [('sharks', 17380, 2620, 0.7237598896026611), ('shark', 13878, 6122, 0.7210960984230042), ('whale', 15332, 4668, 0.7050614356994629), ('whales', 14938, 5062, 0.6707227230072021), ('fish', 2388, 17612, 0.6674873232841492), ('creature', 15952, 4048, 0.5442932844161987), ('creatures', 11781, 8219, 0.5295575261116028), ('salmon', 10628, 9372, 0.5214199423789978), ('swam', 16621, 3379, 0.5197319984436035), ('fishing', 3497, 16503, 0.5164269804954529)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7045166492462158), ('ate', 9337, 10663, 0.6618406772613525), ('saw', 653, 19347, 0.6287364363670349), ('was', 10, 19990, 0.6244525909423828), ('got', 193, 19807, 0.6005859971046448), ('knew', 1039, 18961, 0.5965626835823059), ('ran', 1256, 18744, 0.5739139914512634), ('came', 256, 19744, 0.5622012615203857), ('went', 297, 19703, 0.5577272176742554), ('stayed', 2936, 17064, 0.5561565160751343)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Karen was really afraid of being in a shark attack.
+Her friends invited her to a trip to the beach, but she was nervous.
+Karen stayed up all night reading about sharks to prepare for the trip.
+The next day, Karen went with her friends to the beach.
+> Karen had a good time and was not attacked by a shark.
+
+__About the match__
+Rarest shared words: [('sharks', (8.4876137734351, 8.4876137734351)), ('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.5725584937427851
+
+__About the completion__
+Rarest in completion: [('shark', 8.41860090254813), ('attacked', 8.293437759594124), ('good', 4.6993539118177985), ('by', 4.4228496815892715), ('time', 3.981849368185002), ('not', 3.8329533830489027)]
+Nearest to completion: [('shark', 0.7004687786102295), ('sharks', 0.6141939163208008), ('whale', 0.46535077691078186), ('attacked', 0.4590759873390198), ('tiger', 0.40936803817749023), ('whales', 0.38792702555656433), ('bitten', 0.34355780482292175), ('bite', 0.32300108671188354), ('snake', 0.30442604422569275), ('fish', 0.30205509066581726)]
+
+--------------------------------------------------------------------------
+
+Joe went scuba diving.
+He saw many beautiful fish.
+Then he spotted a shark cruising his way!
+Joe hurried back up to the boat.
+> He was grateful that the shark hadn't attacked!
+
+__About the match__
+Rarest shared words: [('fish', (5.944887552758274, 5.944887552758274)), ('many', (4.663641646129689, 4.663641646129689)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.5548657691328636
+
+__About the completion__
+Rarest in completion: [('shark', 8.41860090254813), ('attacked', 8.293437759594124), ('grateful', 7.529338843061895), ('!', 3.536809591467683), ("n't", 3.334508641807057)]
+Nearest to completion: [('shark', 0.6944396495819092), ('sharks', 0.5838375091552734), ('attacked', 0.4819355607032776), ('whale', 0.4497804343700409), ('grateful', 0.4462764263153076), ('bitten', 0.40925323963165283), ('whales', 0.3925826847553253), ('tiger', 0.3795110285282135), ('thankful', 0.36211130023002625), ('stabbed', 0.3568176031112671)]
+
+--------------------------------------------------------------------------
+
+The kids were on a field trip.
+They went to the aquarium to see the sharks.
+They watched them swim for a long time.
+A trainer threw in some fish.
+> The powerful sharks gobbled them up.
+
+__About the match__
+Rarest shared words: [('sharks', (8.4876137734351, 8.4876137734351)), ('aquarium', (7.725473721388203, 7.725473721388203)), ('fish', (5.944887552758274, 5.944887552758274)), ('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.5380956842265779
+
+__About the completion__
+Rarest in completion: [('powerful', 8.98658494015407), ('sharks', 8.92942652631412), ('gobbled', 8.72875583085197), ('them', 3.9905657466666935)]
+Nearest to completion: [('sharks', 0.7982737421989441), ('shark', 0.611600399017334), ('powerful', 0.5074853897094727), ('whales', 0.4911979138851166), ('predators', 0.45553869009017944), ('whale', 0.4536784887313843), ('creatures', 0.44723671674728394), ('fish', 0.42117324471473694), ('fishermen', 0.3733974099159241), ('elephants', 0.3701717257499695)]
+
+--------------------------------------------------------------------------
+
+One day the Johnson family went to the aquarium.
+First they saw the adorable penguins.
+Then they saw some tropical fish.
+Finally they went to the dolphin show.
+> They had a super fun day.
+
+__About the match__
+Rarest shared words: [('tropical', (8.418620901948149, 8.418620901948149)), ('aquarium', (7.725473721388203, 7.725473721388203)), ('fish', (5.944887552758274, 5.944887552758274)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.5280391573925934
+
+__About the completion__
+Rarest in completion: [('super', 8.523961418205957), ('fun', 5.29917715665159), ('day', 3.3461390948177767)]
+Nearest to completion: [('fun', 0.6620168089866638), ('super', 0.5759703516960144), ('awesome', 0.4196803867816925), ('Fun', 0.4183390140533447), ('enjoyable', 0.4144233763217926), ('fabulous', 0.39824771881103516), ('day', 0.376407653093338), ('fast_paced', 0.35957470536231995), ('entertaining', 0.3581952750682831), ('thrill', 0.3528701364994049)]
+
+--------------------------------------------------------------------------
+
+Paul loved going to the aquarium.
+The sharks were his favorite.
+They were so scary and menacing.
+He waited until the keepers dropped fish in.
+> The sharks ate the fish whole.
+
+__About the match__
+Rarest shared words: [('sharks', (8.4876137734351, 8.4876137734351)), ('aquarium', (7.725473721388203, 7.725473721388203)), ('fish', (5.944887552758274, 5.944887552758274))]
+Score: 0.5227816393310536
+
+__About the completion__
+Rarest in completion: [('sharks', 8.92942652631412), ('fish', 6.294345345078502), ('whole', 5.863960914745455), ('ate', 5.493648811055187)]
+Nearest to completion: [('sharks', 0.7684169411659241), ('fish', 0.7552380561828613), ('shark', 0.683044970035553), ('salmon', 0.562696635723114), ('shrimp', 0.5520144701004028), ('whale', 0.5487977266311646), ('whales', 0.5254822373390198), ('trout', 0.5163968205451965), ('seafood', 0.4900157153606415), ('ate', 0.4642569422721863)]
+
+--------------------------------------------------------------------------
+
+Phillip had little to do after work most days.
+One day, he heard of a whale shark sighting half a mile from his home.
+He decided to check out the coast's regulars.
+Phillip discovered his co-worker was a diving enthusiast.
+> She encouraged him to get licensed, and the hobby enriched his life.
+
+__About the match__
+Rarest shared words: []
+Score: 0.49451570405732287
+
+__About the completion__
+Rarest in completion: [('licensed', 11.12665110365034), ('enriched', 11.12665110365034), ('encouraged', 8.156236638080639), ('hobby', 7.868554565628858), ('life', 5.637713377493654), ('get', 4.052534287452978), ('him', 3.3907807836977737)]
+Nearest to completion: [('hobby', 0.625456690788269), ('licensed', 0.548017144203186), ('encouraged', 0.4074900150299072), ('profession', 0.3902263939380646), ('professional', 0.383761465549469), ('life', 0.3591575026512146), ('lifelong', 0.35804861783981323), ('license', 0.351517915725708), ('passion', 0.3452408015727997), ('enthusiast', 0.33901843428611755)]
+
+--------------------------------------------------------------------------
+
+Jeff was going on vacation.
+He decided the Bahama's would be perfect.
+Jeff tried so many new things he never had before.
+He even swam with the sharks.
+> Jeff enjoyed his trip to the Bahama's.
+
+__About the match__
+Rarest shared words: [('sharks', (8.4876137734351, 8.4876137734351)), ('many', (4.663641646129689, 4.663641646129689))]
+Score: 0.4832736183558309
+
+__About the completion__
+Rarest in completion: [('enjoyed', 6.002687124247082), ('trip', 5.311029147238604), ("'s", 3.3551623435327245)]
+Nearest to completion: [('trip', 0.6922854781150818), ('enjoyed', 0.627918541431427), ('trips', 0.5697186589241028), ('trek', 0.4971838891506195), ('enjoying', 0.47687089443206787), ('journey', 0.43438294529914856), ('outing', 0.429680734872818), ('traveled', 0.4238572120666504), ('visit', 0.4237624704837799), ('enjoys', 0.4232179522514343)]
+
+--------------------------------------------------------------------------
+
+Yesterday I went on a trip to the islands.
+I went deep sea fishing.
+It was very fun.
+I caught a large sea bass.
+> Then I ate it.
+
+__About the match__
+Rarest shared words: [('trip', (4.87476721988447, 4.87476721988447))]
+Score: 0.48107936059694806
+
+__About the completion__
+Rarest in completion: [('ate', 5.493648811055187), ('then', 4.392059443677392)]
+Nearest to completion: [('ate', 0.842159628868103), ('eaten', 0.5386479496955872), ('eat', 0.5084631443023682), ('eating', 0.4855424165725708), ('eats', 0.44789114594459534), ('drank', 0.4470652639865875), ('smoked', 0.404540091753006), ('consumed', 0.3669178783893585), ('cooked', 0.3511163890361786), ('fed', 0.318927139043808)]
+
+--------------------------------------------------------------------------
+
+I went on a trip to hawaii in an airplane.
+When I landed the first thing I did was go to the beach.
+I ran into the water and dove in head first.
+I saw sharks in the water and swam back to shore.
+> Once I was safely on shore, I watched the sharks swim in the water.
+
+__About the match__
+Rarest shared words: [('sharks', (8.4876137734351, 8.4876137734351)), ('trip', (4.87476721988447, 4.87476721988447)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.480212984187589
+
+__About the completion__
+Rarest in completion: [('sharks', 8.92942652631412), ('shore', 7.991156887721191), ('safely', 7.759355273663867), ('swim', 6.952263833754704), ('watched', 5.942062502430646), ('once', 5.903596221602851), ('water', 5.264441392399621)]
+Nearest to completion: [('swim', 0.6289293169975281), ('sharks', 0.5885726809501648), ('shore', 0.5638664960861206), ('swimming', 0.5613654255867004), ('shark', 0.5514728426933289), ('swam', 0.5274232029914856), ('waters', 0.5219718217849731), ('ocean', 0.5187348127365112), ('water', 0.5121186971664429), ('swimmers', 0.4892684817314148)]
+
+--------------------------------------------------------------------------
+
+Warren was feeling relaxed and calm.
+He was on a boat fishing for deep sea fish.
+Suddenly, his arm had intense pain.
+A shark had bitten him!
+> Warren screamed for the captain to rush him to a hospital.
+
+__About the match__
+Rarest shared words: [('fish', (5.944887552758274, 5.944887552758274))]
+Score: 0.4795888998109614
+
+__About the completion__
+Rarest in completion: [('captain', 8.64174445386234), ('rush', 8.058598168516724), ('screamed', 6.856953653950378), ('hospital', 6.17082404604908), ('him', 3.3907807836977737)]
+Nearest to completion: [('screamed', 0.5445027351379395), ('captain', 0.489594966173172), ('yelled', 0.45819780230522156), ('hospital', 0.4557484984397888), ('shouted', 0.4529378116130829), ('rushed', 0.4225272238254547), ('screaming', 0.4221391975879669), ('yelling', 0.39655834436416626), ('screams', 0.3915558159351349), ('rush', 0.384959876537323)]
+
+--------------------------------------------------------------------------
+
+

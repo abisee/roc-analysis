@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Karl was a good baseball player in his youth.
+As a middle-aged man, he joined an adult baseball team.
+Karl is very competitive and will do anything to win.
+One day, he slid into second base to beat a throw and hurt his knee.
+> The injury made Karl realize that he wasn't young anymore.
+
+__About the context__
+Rarest in context: [('middle-aged', 10.02805881438225), ('youth', 8.728775830251989), ('competitive', 8.354082380810578), ('slid', 7.99117688712121), ('base', 7.948617272702413), ('adult', 7.437791648936423), ('knee', 6.983536376658827), ('beat', 6.757223250583338), ('throw', 6.5315512529157695), ('joined', 6.417140901738025), ('player', 6.298357365748058), ('will', 6.282484016591768), ('second', 6.206690177222234), ('win', 6.1227247971049), ('baseball', 6.045266738065896), ('hurt', 5.89022914022041), ('anything', 5.798794934260778), ('team', 5.186499850329928), ('do', 4.398042489965658), ('good', 4.34108345804243), ('man', 4.050862239071972), ('is', 3.859843755529768), ('into', 3.75707038252395), ('as', 3.5598426238420284), ('very', 3.353497422567824), ('an', 3.319567812924379)]
+Nearest to context: [('player', 0.5273563861846924), ('win', 0.43239128589630127), ('beat', 0.425769180059433), ('league', 0.4213850796222687), ('team', 0.40813347697257996), ('competitive', 0.40729790925979614), ('players', 0.40084517002105713), ('game', 0.36849984526634216), ('play', 0.3684910535812378), ('playmaker', 0.365592360496521)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('wins', 1469, 18531, 0.5266749262809753), ('win', 202, 19798, 0.5263522267341614), ('loses', 6971, 13029, 0.5192459225654602), ('defeat', 2106, 17894, 0.5070462822914124), ('won', 301, 19699, 0.5025785565376282), ('defeated', 2908, 17092, 0.4963768720626831), ('clinch', 9754, 10246, 0.4943840205669403), ('defeats', 9990, 10010, 0.49115699529647827), ('victory', 546, 19454, 0.47973641753196716), ('defeating', 8179, 11821, 0.46591731905937195)]
+Nearest words to completions' keywords: [('win', 202, 19798, 0.6157730221748352), ('loses', 6971, 13029, 0.5988762378692627), ('wins', 1469, 18531, 0.5964992642402649), ('won', 301, 19699, 0.5822553038597107), ('beat', 747, 19253, 0.5613175630569458), ('clinch', 9754, 10246, 0.5399506092071533), ('lost', 377, 19623, 0.5355641841888428), ('defeated', 2908, 17092, 0.533083438873291), ('losing', 1429, 18571, 0.5319467782974243), ('clinched', 9354, 10646, 0.5169484615325928)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.690578281879425), ('loses', 6971, 13029, 0.6673318147659302), ('gets', 1002, 18998, 0.6584183573722839), ('goes', 1047, 18953, 0.6287662386894226), ('went', 297, 19703, 0.625146746635437), ('came', 256, 19744, 0.618564784526825), ('lost', 377, 19623, 0.6060513257980347), ('gave', 573, 19427, 0.5866169333457947), ('took', 263, 19737, 0.5777057409286499), ('puts', 3111, 16889, 0.5617820620536804)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jim was in a junior hockey league.
+He was playing in his first game.
+Another player threw him against the wall.
+Jim hurt his shoulder.
+> Jim decided that hockey wasn't for him and quit.
+
+__About the match__
+Rarest shared words: [('player', (6.298357365748058, 6.298357365748058)), ('hurt', (5.89022914022041, 5.89022914022041))]
+Score: 0.6628142362761588
+
+__About the completion__
+Rarest in completion: [('hockey', 8.684304068281136), ('quit', 6.649314289172134), ('decided', 3.495461951503386), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('hockey', 0.5860114097595215), ('quit', 0.5712515115737915), ('quitting', 0.4499966502189636), ('resigning', 0.44089698791503906), ('resign', 0.4342203736305237), ('Hockey', 0.43365126848220825), ('resigned', 0.4315006136894226), ('decided', 0.4235678017139435), ('quits', 0.39376601576805115), ('Hockey_League', 0.37252333760261536)]
+
+--------------------------------------------------------------------------
+
+Layne was a baseball player.
+He joined an independent league team to play ball.
+He worked hard and got a major league contract.
+His coach put him into a big playoff game.
+> Layne struck out the side and got the save!
+
+__About the match__
+Rarest shared words: [('joined', (6.417140901738025, 6.417140901738025)), ('player', (6.298357365748058, 6.298357365748058)), ('baseball', (6.045266738065896, 6.045266738065896)), ('team', (5.186499850329928, 5.186499850329928)), ('into', (3.75707038252395, 3.75707038252395)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.6173603902494094
+
+__About the completion__
+Rarest in completion: [('struck', 7.991156887721191), ('save', 6.967768020290668), ('side', 6.5727742120498), ('!', 3.536809591467683), ('got', 3.390344007102055), ('out', 3.3165011979861596)]
+Nearest to completion: [('struck', 0.5700065493583679), ('save', 0.5045164823532104), ('side', 0.41126421093940735), ('saved', 0.406392365694046), ('striking', 0.3918100893497467), ('out', 0.37395983934402466), ('saves', 0.3495153486728668), ('slammed', 0.3303709626197815), ('hit', 0.32854583859443665), ('saving', 0.3119833767414093)]
+
+--------------------------------------------------------------------------
+
+Amanda was on the high school basketball team.
+She had been trying really hard to become a better player.
+She was in the final seconds on a game against a rival school.
+She had one shot to get the ball and make the shot.
+> Amanda gets the ball puts up the shot and it goes in!
+
+__About the match__
+Rarest shared words: [('player', (6.298357365748058, 6.298357365748058)), ('team', (5.186499850329928, 5.186499850329928))]
+Score: 0.6098913937265797
+
+__About the completion__
+Rarest in completion: [('puts', 8.323290722743806), ('goes', 6.594051610497084), ('shot', 6.4967883050718775), ('gets', 6.386076280656046), ('ball', 6.011655794229842), ('!', 3.536809591467683)]
+Nearest to completion: [('puts', 0.6345832943916321), ('gets', 0.6027485728263855), ('goes', 0.5969809293746948), ('shoots', 0.5426603555679321), ('pushes', 0.5366525650024414), ('pulls', 0.49014726281166077), ('ball', 0.4858442544937134), ('throws', 0.4804891347885132), ('takes', 0.46289587020874023), ('loses', 0.4408864676952362)]
+
+--------------------------------------------------------------------------
+
+The team had played well all year.
+They won their league and went to the finals.
+The star player got the big hit in the game.
+The team won the championship.
+> After the game, they celebrated with a big party.
+
+__About the match__
+Rarest shared words: [('player', (6.298357365748058, 6.298357365748058)), ('team', (5.186499850329928, 5.186499850329928))]
+Score: 0.5975895016883945
+
+__About the completion__
+Rarest in completion: [('celebrated', 8.236279345754177), ('party', 5.569823041950802), ('big', 5.114159189350283), ('game', 5.066360365612506), ('after', 3.9503965716331964)]
+Nearest to completion: [('celebrated', 0.6206920742988586), ('celebrating', 0.532983124256134), ('party', 0.5174130201339722), ('celebrate', 0.49254703521728516), ('celebration', 0.4875701069831848), ('celebrates', 0.4683710038661957), ('celebrations', 0.450542688369751), ('game', 0.4399983882904053), ('Party', 0.3850596845149994), ('bash', 0.35438162088394165)]
+
+--------------------------------------------------------------------------
+
+Liam and Gus were good friends but very competitive.
+Liam set out to beat Gus at basketball.
+He dribbled fast but tripped at the last second.
+Gus snatched the ball and scored.
+> Liam conceded defeat and both friends went to drink a beer.
+
+__About the match__
+Rarest shared words: [('competitive', (8.354082380810578, 8.354082380810578)), ('beat', (6.757223250583338, 6.757223250583338)), ('second', (6.206690177222234, 6.206690177222234)), ('good', (4.34108345804243, 4.34108345804243)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.5975215136384237
+
+__About the completion__
+Rarest in completion: [('conceded', 9.74035674253045), ('defeat', 9.25484892674875), ('beer', 7.615105664819319), ('drink', 6.3559664791846755), ('both', 5.758341365282269), ('friends', 4.1620430130754205), ('went', 3.303005172815388)]
+Nearest to completion: [('beer', 0.6172747015953064), ('beers', 0.5772311091423035), ('drink', 0.5509600043296814), ('drinks', 0.5425105690956116), ('defeat', 0.5111815333366394), ('drinking', 0.4902184307575226), ('Beer', 0.4824245572090149), ('liquor', 0.4572194814682007), ('beverages', 0.4409668445587158), ('drank', 0.4408486783504486)]
+
+--------------------------------------------------------------------------
+
+Golden State was a very good basketball team this year.
+Their players were especially good at shooting the ball.
+Their best shooter hurt his ankle early in the playoffs.
+The team fought hard to advance to the final round of the playoffs.
+> In the final round, they were unexpectedly lost to Cleveland.
+
+__About the match__
+Rarest shared words: [('hurt', (5.89022914022041, 5.89022914022041)), ('team', (5.186499850329928, 5.186499850329928)), ('good', (4.34108345804243, 4.34108345804243)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.5849678225105607
+
+__About the completion__
+Rarest in completion: [('unexpectedly', 9.180740954595027), ('round', 8.20888037156606), ('final', 7.119317918417869), ('lost', 5.224017770248974), ('were', 3.60343995182413)]
+Nearest to completion: [('round', 0.5670672059059143), ('unexpectedly', 0.5035123229026794), ('final', 0.5028809905052185), ('lost', 0.48102355003356934), ('fell', 0.4267037808895111), ('edged', 0.4069630205631256), ('were', 0.38754114508628845), ('losing', 0.37824028730392456), ('shrank', 0.3757820129394531), ('dropped', 0.3717694580554962)]
+
+--------------------------------------------------------------------------
+
+The Tigers were getting ready to play in the championship game.
+All the players were excited to get the game started.
+They were playing their cross team rivals.
+As the game begins the Tigers jumped out to an early lead.
+> After a hard fought battle the Tigers won the Championship.
+
+__About the match__
+Rarest shared words: [('team', (5.186499850329928, 5.186499850329928)), ('as', (3.5598426238420284, 3.5598426238420284)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.5831624351001822
+
+__About the completion__
+Rarest in completion: [('battle', 8.561701746188803), ('fought', 7.742260840304566), ('won', 5.467168887890719), ('hard', 5.005255386950328), ('after', 3.9503965716331964)]
+Nearest to completion: [('fought', 0.7680405974388123), ('battle', 0.6738283634185791), ('battled', 0.6180484890937805), ('battles', 0.5832855701446533), ('battling', 0.5573911070823669), ('won', 0.5502481460571289), ('fighting', 0.5415089726448059), ('waged', 0.5166634917259216), ('fight', 0.516470730304718), ('defeated', 0.4730502665042877)]
+
+--------------------------------------------------------------------------
+
+Sydney is a young tennis player.
+She is playing in a big tournament.
+She wins the first round.
+She wins the second and third.
+> The final round Sydney gives it her all and wins.
+
+__About the match__
+Rarest shared words: [('player', (6.298357365748058, 6.298357365748058)), ('second', (6.206690177222234, 6.206690177222234)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5824643386087374
+
+__About the completion__
+Rarest in completion: [('gives', 8.38581107972514), ('round', 8.20888037156606), ('wins', 8.130918830096348), ('final', 7.119317918417869), ('all', 3.5398475684877595)]
+Nearest to completion: [('wins', 0.6653591394424438), ('final', 0.5919440984725952), ('round', 0.5645080208778381), ('win', 0.5608270764350891), ('victories', 0.5121961832046509), ('won', 0.4918067157268524), ('clinch', 0.4900246262550354), ('victory', 0.48429226875305176), ('winning', 0.47840818762779236), ('Final', 0.4768986403942108)]
+
+--------------------------------------------------------------------------
+
+Martin is the star player.
+He has a chance to win the game.
+The ball is thrown to him.
+He reaches out to catch it.
+> He misses it and loses the game.
+
+__About the match__
+Rarest shared words: [('player', (6.298357365748058, 6.298357365748058)), ('win', (6.1227247971049, 6.1227247971049)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5807338640055517
+
+__About the completion__
+Rarest in completion: [('misses', 8.452502454223811), ('loses', 8.323290722743806), ('game', 5.066360365612506)]
+Nearest to completion: [('loses', 0.7443919777870178), ('misses', 0.7310081720352173), ('earns', 0.47781190276145935), ('fails', 0.46661660075187683), ('drops', 0.4665129780769348), ('gets', 0.46619147062301636), ('beats', 0.4624343514442444), ('survives', 0.4512494206428528), ('wins', 0.44070637226104736), ('game', 0.43513721227645874)]
+
+--------------------------------------------------------------------------
+
+The athlete was good at every sport he tried.
+He just learned to play basketball and he's already the high scorer.
+His best sport is baseball.
+He hit a homerun when he was at bat last.
+> He's proud of his athletic ability.
+
+__About the match__
+Rarest shared words: [('baseball', (6.045266738065896, 6.045266738065896)), ('good', (4.34108345804243, 4.34108345804243)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5776106445519172
+
+__About the completion__
+Rarest in completion: [('athletic', 8.98658494015407), ('ability', 8.875359305043844), ('proud', 6.0452467386658775), ("'s", 3.3551623435327245)]
+Nearest to completion: [('athletic', 0.6827355027198792), ('ability', 0.5718256235122681), ('proud', 0.5633432269096375), ('athletics', 0.4860247075557709), ('pleased', 0.43266406655311584), ('accomplishments', 0.4306837022304535), ('thrilled', 0.4078298807144165), ('athleticism', 0.40351763367652893), ('excited', 0.39995723962783813), ('abilities', 0.39235666394233704)]
+
+--------------------------------------------------------------------------
+
+

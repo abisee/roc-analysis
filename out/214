@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bill worked in a prison.
+His job was to maintain prison walls.
+He accidently left a hole open and a prisoner got out.
+He got fired for his mistake.
+> Bill decided that the work was no longer for him anyway.
+
+__About the context__
+Rarest in context: [('maintain', 9.180760953995046), ('prisoner', 9.047229561370523), ('accidently', 8.4876137734351), ('prison', 7.868574565028877), ('walls', 7.794466592875155), ('mistake', 7.194845470326033), ('fired', 7.119337917817888), ('hole', 6.684019846560043), ('open', 5.728508401532606), ('left', 4.680951283664781), ('worked', 4.680951283664781), ('job', 4.4999533538013345)]
+Nearest to context: [('prison', 0.5016537308692932), ('prisoner', 0.48704850673675537), ('inmate', 0.42952650785446167), ('prisoners', 0.4246063232421875), ('hole', 0.420863538980484), ('inmates', 0.4115074574947357), ('prisons', 0.4099957048892975), ('fired', 0.40949156880378723), ('Prison', 0.4009804427623749), ('imprisoned', 0.38787204027175903)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('prison', 1091, 18909, 0.6855313777923584), ('sentence', 2303, 17697, 0.6452342867851257), ('jail', 1762, 18238, 0.6078715920448303), ('behind_bars', 10487, 9513, 0.5795912742614746), ('imprisonment', 10747, 9253, 0.579486072063446), ('sentences', 6824, 13176, 0.5498880743980408), ('sentenced', 2433, 17567, 0.523350715637207), ('prisoner', 8424, 11576, 0.5219334363937378), ('sentencing', 6259, 13741, 0.5168067812919617), ('punishment', 5517, 14483, 0.5124188661575317)]
+Nearest words to completions' keywords: [('prison', 1091, 18909, 0.7642002701759338), ('jail', 1762, 18238, 0.7154180407524109), ('behind_bars', 10487, 9513, 0.6837051510810852), ('sentence', 2303, 17697, 0.6589468121528625), ('sentenced', 2433, 17567, 0.6204530000686646), ('convicted', 2246, 17754, 0.6096710562705994), ('jailed', 5807, 14193, 0.600516140460968), ('imprisoned', 12227, 7773, 0.5982458591461182), ('prisoner', 8424, 11576, 0.5942645072937012), ('parole', 7037, 12963, 0.5870232582092285)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.7151916027069092), ('got', 193, 19807, 0.6879520416259766), ('realized', 2886, 17114, 0.6683623194694519), ('was', 10, 19990, 0.6539662480354309), ('came', 256, 19744, 0.6356196403503418), ('knew', 1039, 18961, 0.6278502345085144), ('went', 297, 19703, 0.6067520380020142), ('turned', 760, 19240, 0.5921618342399597), ('thought', 572, 19428, 0.5913669466972351), ('saw', 653, 19347, 0.5805932879447937)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Anna was doing a life sentence in prison.
+She met Hank, another prisoner, in a work program.
+She and Hank fell in love.
+They married behind bars.
+> Anna realized how much better her life was for Hank, even in jail!
+
+__About the match__
+Rarest shared words: [('prisoner', (9.047229561370523, 9.047229561370523)), ('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.516040844646263
+
+__About the completion__
+Rarest in completion: [('jail', 7.571303042160927), ('life', 5.637713377493654), ('even', 5.482972553063845), ('better', 5.345907587858011), ('realized', 5.003062403615317), ('how', 4.945599788756992), ('much', 4.895185888161725), ('!', 3.536809591467683)]
+Nearest to completion: [('much', 0.49030613899230957), ('jail', 0.4901421368122101), ('behind_bars', 0.45398378372192383), ('better', 0.45243018865585327), ('prison', 0.43912795186042786), ('life', 0.4258632957935333), ('how', 0.39095020294189453), ('incarcerated', 0.3513692021369934), ('Jail', 0.35031506419181824), ('sentence', 0.3406215012073517)]
+
+--------------------------------------------------------------------------
+
+Oswald made a plan to escape from prison.
+He told his cellmate the plan.
+His cellmate agreed to help.
+One morning the guards searched his cell.
+> Oswald's cellmate had turned him in.
+
+__About the match__
+Rarest shared words: [('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.5036543233892355
+
+__About the completion__
+Rarest in completion: [('cellmate', 10.433503923090395), ('turned', 5.363028628638123), ('him', 3.3907807836977737), ("'s", 3.3551623435327245)]
+Nearest to completion: [('turned', 0.6571292877197266), ('him', 0.5092514753341675), ('turn', 0.46346408128738403), ('turning', 0.4175741672515869), ('himself', 0.3919585645198822), ('turns', 0.3577533960342407), ('his', 0.3539642095565796), ('ran', 0.33505091071128845), ('stepped', 0.324940949678421), ('Turning', 0.3176175057888031)]
+
+--------------------------------------------------------------------------
+
+Gina was watching the news.
+There was an escaped prisoner in her area.
+Gina locked her doors and windows.
+The prisoner was finally captured.
+> Gina relaxed and unlocked her doors.
+
+__About the match__
+Rarest shared words: [('prisoner', (9.047229561370523, 9.047229561370523))]
+Score: 0.4710939762505978
+
+__About the completion__
+Rarest in completion: [('unlocked', 9.180740954595027), ('doors', 8.156236638080639), ('relaxed', 7.969650682500228)]
+Nearest to completion: [('unlocked', 0.6968932747840881), ('doors', 0.6536064743995667), ('door', 0.5395805835723877), ('relaxed', 0.4515961706638336), ('gates', 0.4049103260040283), ('unlock', 0.38233670592308044), ('window', 0.3807642161846161), ('locked', 0.38022857904434204), ('windows', 0.3722245693206787), ('keys', 0.34989991784095764)]
+
+--------------------------------------------------------------------------
+
+A prisoner was able to sneak in a lot of stage makeup into jail.
+He spent hours one night putting on makeup to change his face.
+The prisoner fooled the guards into thinking he was the warden.
+The prisoner walked out the front door without any suspicion.
+> No one realized he was gone for hours.
+
+__About the match__
+Rarest shared words: [('prisoner', (9.047229561370523, 9.047229561370523))]
+Score: 0.4615264783103812
+
+__About the completion__
+Rarest in completion: [('gone', 6.270722199315066), ('hours', 5.268717949166882), ('realized', 5.003062403615317), ('no', 4.72556343828553), ('one', 3.351585275015767)]
+Nearest to completion: [('no', 0.4991167485713959), ('hours', 0.45733582973480225), ('realized', 0.4142359793186188), ('gone', 0.41048240661621094), ('No', 0.3895621597766876), ('days', 0.3855895400047302), ('thirty', 0.34160810708999634), ('minutes', 0.3256281316280365), ('hour', 0.32236653566360474), ('fifteen', 0.31675758957862854)]
+
+--------------------------------------------------------------------------
+
+My coworker dated a woman who was sent to prison.
+She pled guilty to embezzling money.
+She served two years in jail.
+When she got out he resumed their relationship.
+> Unfortunately they broke up a year later.
+
+__About the match__
+Rarest shared words: [('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.45922729420590375
+
+__About the completion__
+Rarest in completion: [('unfortunately', 5.9199009306277945), ('broke', 5.548809852351987), ('later', 5.235006891824569), ('year', 5.152841491781079)]
+Nearest to completion: [('broke', 0.6123353242874146), ('later', 0.4869331419467926), ('earlier', 0.44927752017974854), ('broken', 0.41166141629219055), ('breaking', 0.38416963815689087), ('last', 0.3698941171169281), ('year', 0.3631815016269684), ('ago', 0.3476978540420532), ('after', 0.34641486406326294), ('shortly', 0.34442219138145447)]
+
+--------------------------------------------------------------------------
+
+Jerry saw a man who was murdered in public.
+The murderer tried to run away however, Jerry ran after him.
+After a mile, Jerry finally caught him.
+The murderer was sentenced to prison.
+> He received the maximum sentence as a punishment.
+
+__About the match__
+Rarest shared words: [('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.45528536052005947
+
+__About the completion__
+Rarest in completion: [('maximum', 10.028038814982231), ('sentence', 9.873888135154973), ('punishment', 9.25484892674875), ('received', 6.386076280656046), ('as', 3.9638660844916718)]
+Nearest to completion: [('sentence', 0.7804652452468872), ('punishment', 0.7630091309547424), ('sentences', 0.6945070028305054), ('imprisonment', 0.6551422476768494), ('maximum', 0.5676180124282837), ('prison', 0.566185712814331), ('sentencing', 0.5211664438247681), ('sentenced', 0.5157341957092285), ('convicted', 0.49500638246536255), ('penalty', 0.4855925738811493)]
+
+--------------------------------------------------------------------------
+
+The man went to prison.
+His cellmate tried to bully the man.
+The man fought his cellmate.
+He hurt his cellmate badly.
+> The man got respect in the prison.
+
+__About the match__
+Rarest shared words: [('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.4468101021270457
+
+__About the completion__
+Rarest in completion: [('respect', 9.047209561970504), ('prison', 8.20888037156606), ('man', 4.481560134144697), ('got', 3.390344007102055)]
+Nearest to completion: [('prison', 0.6391177177429199), ('jail', 0.5256379246711731), ('prisoner', 0.49552562832832336), ('sentence', 0.49091291427612305), ('man', 0.4763820171356201), ('behind_bars', 0.4762807786464691), ('inmate', 0.4707016050815582), ('Prison', 0.46384406089782715), ('sentenced', 0.4622184634208679), ('imprisonment', 0.4490785002708435)]
+
+--------------------------------------------------------------------------
+
+The man rejected the explanation.
+He convicted the woman.
+The woman went to prison.
+The man reconsidered the explanation.
+> He realized that he had made a mistake.
+
+__About the match__
+Rarest shared words: [('prison', (7.868574565028877, 7.868574565028877))]
+Score: 0.4398174603243918
+
+__About the completion__
+Rarest in completion: [('mistake', 7.489064943923955), ('realized', 5.003062403615317), ('made', 4.267560996649484)]
+Nearest to completion: [('mistake', 0.6616207957267761), ('made', 0.5143775343894958), ('realized', 0.5054655075073242), ('mistakes', 0.4571869671344757), ('error', 0.40253785252571106), ('regretted', 0.39415574073791504), ('realizing', 0.34691908955574036), ('errors', 0.3455398380756378), ('misunderstanding', 0.34045156836509705), ('proved', 0.3368028998374939)]
+
+--------------------------------------------------------------------------
+
+Abby was a troublemaker.
+She broke the law and got arrested.
+They took her to jail and she was locked up.
+Abby regretted the things she had done.
+> She promised she would be better when they released her.
+
+__About the match__
+Rarest shared words: []
+Score: 0.41104794809528655
+
+__About the completion__
+Rarest in completion: [('released', 7.927977986099659), ('promised', 7.156359190098219), ('better', 5.345907587858011), ('be', 4.0931446193626435), ('would', 3.922873627941421), ('when', 3.4368224349138567)]
+Nearest to completion: [('released', 0.5136311054229736), ('promised', 0.506844699382782), ('sooner', 0.40823420882225037), ('would', 0.4047744870185852), ('hoped', 0.3983365297317505), ('better', 0.3897666931152344), ('be', 0.38785502314567566), ('should', 0.38696718215942383), ('will', 0.3817923069000244), ('release', 0.36329296231269836)]
+
+--------------------------------------------------------------------------
+
+The man pointed the gun at a prisoner.
+The prisoner put his hands up.
+The man told the prisoner to get on the ground.
+The prisoner refused.
+> The man shot the prisoner.
+
+__About the match__
+Rarest shared words: [('prisoner', (9.047229561370523, 9.047229561370523))]
+Score: 0.4102404688421136
+
+__About the completion__
+Rarest in completion: [('prisoner', 9.421903011411915), ('shot', 6.4967883050718775), ('man', 4.481560134144697)]
+Nearest to completion: [('prisoner', 0.7535967230796814), ('man', 0.6542829871177673), ('inmate', 0.5821454524993896), ('soldier', 0.5490236282348633), ('shot', 0.5382839441299438), ('prisoners', 0.5376765131950378), ('detainee', 0.5339590907096863), ('woman', 0.5187926292419434), ('policeman', 0.49805909395217896), ('teenager', 0.48139268159866333)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Daniel was good at his work but he never listened to his staff.
+During a meeting, he refused all the good ideas of his employees.
+He even said there was no way to fix the problem they were facing.
+His own boss was very disappointed when Daniel had no solution.
+> He had no choice but to demote Daniel and remove his privileges.
+
+__About the context__
+Rarest in context: [('facing', 8.824086010056313), ('solution', 8.082148665326937), ('employees', 7.907795278182158), ('staff', 7.794466592875155), ('ideas', 7.437791648936423), ('disappointed', 6.684019846560043), ('listened', 6.6493342885721525), ('meeting', 6.594071609897103), ('fix', 6.298357365748058), ('problem', 6.051497287816532), ('refused', 6.032920902243597), ('boss', 5.597242015538936), ('own', 5.370928889463447), ('during', 5.3306133522849874), ('even', 5.1503201937524254), ('way', 4.5585931916383835), ('never', 4.437071833871393), ('no', 4.393269211213), ('good', 4.34108345804243), ('said', 4.286124573761672), ('work', 3.8703738633596787), ('there', 3.6031897904768617), ('very', 3.353497422567824)]
+Nearest to context: [('solution', 0.4354720413684845), ('staff', 0.3753131926059723), ('problem', 0.3641037940979004), ('resolve', 0.35568761825561523), ('addressing', 0.35417795181274414), ('representatives', 0.3539319634437561), ('resolved', 0.34733909368515015), ('problems', 0.3462129831314087), ('solve', 0.3423660695552826), ('resolving', 0.337520033121109)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('stated', 1750, 18250, 0.3728446364402771), ('revised', 4610, 15390, 0.3724505305290222), ('amended', 5993, 14007, 0.36904093623161316), ('outlined', 6633, 13367, 0.3611331582069397), ('review', 1081, 18919, 0.3606889247894287), ('positive', 1057, 18943, 0.3589364290237427), ('stating', 7180, 12820, 0.3525855243206024), ('amend', 11277, 8723, 0.3447132408618927), ('clarify', 10473, 9527, 0.34222906827926636), ('outlining', 14601, 5399, 0.339319109916687)]
+Nearest words to completions' keywords: [('think', 153, 19847, 0.5436846613883972), ('really', 230, 19770, 0.5331667065620422), ('very', 138, 19862, 0.5300653576850891), ('so', 85, 19915, 0.5282837748527527), ('do', 58, 19942, 0.5270954370498657), ('obviously', 2633, 17367, 0.5141599178314209), ('know', 177, 19823, 0.5106654763221741), ('that', 3, 19997, 0.5054761171340942), ('want', 189, 19811, 0.504254937171936), ('certainly', 1308, 18692, 0.5031876564025879)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6871699690818787), ('had', 35, 19965, 0.6809809803962708), ('gave', 573, 19427, 0.6693407893180847), ('got', 193, 19807, 0.665827214717865), ('came', 256, 19744, 0.6406048536300659), ('did', 92, 19908, 0.622838020324707), ('wanted', 583, 19417, 0.620021641254425), ('would', 47, 19953, 0.5898717641830444), ('went', 297, 19703, 0.576839804649353), ('knew', 1039, 18961, 0.5758092999458313)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Alex knew the solution to a problem.
+He told people the solution.
+The people thought Alex was smart.
+Alex agreed with them.
+> Alex went on to achieve.
+
+__About the match__
+Rarest shared words: [('solution', (8.082148665326937, 8.082148665326937)), ('problem', (6.051497287816532, 6.051497287816532))]
+Score: 0.5218163152928379
+
+__About the completion__
+Rarest in completion: [('achieve', 9.334891634422286), ('went', 3.303005172815388)]
+Nearest to completion: [('achieve', 0.776603639125824), ('attain', 0.638229489326477), ('achieved', 0.6347975730895996), ('achieving', 0.6216946840286255), ('accomplish', 0.5129138827323914), ('attained', 0.5051569938659668), ('went', 0.46445488929748535), ('reach', 0.4249517321586609), ('propel', 0.3897011876106262), ('accomplished', 0.37236982583999634)]
+
+--------------------------------------------------------------------------
+
+Graham was nervous about his upcoming performance review at work.
+He talked to some of the senior executives for any advice.
+He asked his boss for any helpful suggestions.
+No one had much help to offer so Graham decided to just relax.
+> The review was positive because Graham's work spoke for itself.
+
+__About the match__
+Rarest shared words: [('boss', (5.597242015538936, 5.597242015538936)), ('no', (4.393269211213, 4.393269211213)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.49951254830643493
+
+__About the completion__
+Rarest in completion: [('positive', 8.824066010656296), ('itself', 8.72875583085197), ('review', 8.354062381410559), ('spoke', 7.615105664819319), ('because', 4.980321845981443), ('work', 4.3399341530452595), ("'s", 3.3551623435327245)]
+Nearest to completion: [('review', 0.5278232097625732), ('positive', 0.459675133228302), ('spoke', 0.44742611050605774), ('work', 0.43657222390174866), ('speaking', 0.3999270498752594), ('reviews', 0.3983096480369568), ('speak', 0.37895509600639343), ('speaks', 0.376203328371048), ('reviewed', 0.36544016003608704), ('report', 0.36538809537887573)]
+
+--------------------------------------------------------------------------
+
+Gary was now the new district manager for his local McDonald's.
+Gary asked the employees for better suggestions for the business.
+Gary noticed that most were for more communication from management.
+Gary decided to implement a open door policy with all employees.
+> Gary was glad that he was able to listen to his employee's.
+
+__About the match__
+Rarest shared words: [('employees', (7.907795278182158, 7.907795278182158))]
+Score: 0.49875810168364093
+
+__About the completion__
+Rarest in completion: [('employee', 8.035608650292025), ('listen', 7.276503501940282), ('glad', 5.993798176829835), ('able', 5.284557013196627), ("'s", 3.3551623435327245)]
+Nearest to completion: [('listen', 0.5017400979995728), ('glad', 0.4864692986011505), ('able', 0.48329398036003113), ('pleased', 0.41710561513900757), ('employee', 0.40013056993484497), ('grateful', 0.39955630898475647), ('thankful', 0.39594516158103943), ('listening', 0.3818805515766144), ('willing', 0.3796611726284027), ('thrilled', 0.37712204456329346)]
+
+--------------------------------------------------------------------------
+
+Shelly has been working hard at her job.
+She is called into a meeting with her boss.
+In the meeting they discuss her work.
+Her boss tells her she has been an excellent worker.
+> He gives her a promotion.
+
+__About the match__
+Rarest shared words: [('meeting', (6.594071609897103, 6.594071609897103)), ('boss', (5.597242015538936, 5.597242015538936)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.48442235170642267
+
+__About the completion__
+Rarest in completion: [('gives', 8.38581107972514), ('promotion', 8.035608650292025)]
+Nearest to completion: [('gives', 0.7208511829376221), ('promotion', 0.6804543733596802), ('provides', 0.569913387298584), ('offers', 0.531651496887207), ('giving', 0.49750635027885437), ('promotes', 0.47234177589416504), ('allows', 0.47198015451431274), ('introduces', 0.45905157923698425), ('enhances', 0.4543308615684509), ('creates', 0.454089879989624)]
+
+--------------------------------------------------------------------------
+
+Julie came to work with an idea to renovate the office.
+She went to see her boss and explained her new views.
+Her boss wasn't impressed and said it would cost too much.
+Julie thought about the issue all day and went to see her boss again.
+> She amended her plan to make it more affordable and her boss accepted.
+
+__About the match__
+Rarest shared words: [('boss', (5.597242015538936, 5.597242015538936)), ('said', (4.286124573761672, 4.286124573761672)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.4794818887736585
+
+__About the completion__
+Rarest in completion: [('amended', 10.721185995542177), ('affordable', 9.421903011411915), ('plan', 7.040674791098756), ('accepted', 6.660742984995757), ('boss', 5.93369425276013), ('make', 4.7898253725039), ('more', 4.774893167080915)]
+Nearest to completion: [('amended', 0.5290195345878601), ('affordable', 0.49221059679985046), ('amend', 0.4440225660800934), ('plan', 0.43483421206474304), ('accepted', 0.433856338262558), ('approved', 0.4327806532382965), ('proposal', 0.40385016798973083), ('revised', 0.3890065848827362), ('proposed', 0.38822826743125916), ('implement', 0.3875311613082886)]
+
+--------------------------------------------------------------------------
+
+Robert had a job at the office.
+His boss had him do lots of work for him.
+Robert did the work very well for him.
+The next day Roberts boss rejected all of his work.
+> Robert was none too pleased and wrote a short story about it.
+
+__About the match__
+Rarest shared words: [('boss', (5.597242015538936, 5.597242015538936)), ('work', (3.8703738633596787, 3.8703738633596787)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.4767470373437897
+
+__About the completion__
+Rarest in completion: [('none', 7.319988613880021), ('story', 7.165837934052762), ('pleased', 6.959985879848613), ('short', 6.776373167291039), ('wrote', 6.546798725646539), ('too', 4.812197670258433), ('about', 4.124950211825675)]
+Nearest to completion: [('story', 0.45228710770606995), ('wrote', 0.41205352544784546), ('pleased', 0.3829827308654785), ('about', 0.3556368052959442), ('short', 0.3481144607067108), ('very', 0.34150391817092896), ('nonetheless', 0.33866050839424133), ('article', 0.3371340036392212), ('written', 0.3364970088005066), ('note', 0.333114892244339)]
+
+--------------------------------------------------------------------------
+
+Nancy was late getting to work today.
+She didn't want her boss to find out.
+She called a coworker and asked her to sign in for her.
+They were both called to the manager's office when she got there.
+> After a week off without pay, Nancy never did that again.
+
+__About the match__
+Rarest shared words: [('boss', (5.597242015538936, 5.597242015538936)), ('work', (3.8703738633596787, 3.8703738633596787)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.4667060576695252
+
+__About the completion__
+Rarest in completion: [('pay', 6.073595093670132), ('without', 6.005667752385219), ('week', 5.050156307357783), ('again', 5.046717908554751), ('never', 4.624610964031577), ('off', 4.4887379789916535), ('after', 3.9503965716331964), ('did', 3.6104898725633485)]
+Nearest to completion: [('before', 0.4576537609100342), ('after', 0.4543744623661041), ('without', 0.4352567791938782), ('again', 0.4104481339454651), ('week', 0.390585720539093), ('off', 0.3645368218421936), ('month', 0.3562474846839905), ('once', 0.329995721578598), ('briefly', 0.3283199071884155), ('earlier', 0.325015127658844)]
+
+--------------------------------------------------------------------------
+
+My boyfriend always wants to talk about our relationship.
+He says he is interested in working out problems.
+I think he just wants to argue, though.
+I have started refusing to argue with him.
+> This has made him very argumentative.
+
+__About the match__
+Rarest shared words: []
+Score: 0.461982128088759
+
+__About the completion__
+Rarest in completion: [('argumentative', 11.12665110365034), ('has', 4.937360813212439), ('this', 4.607503815709945), ('made', 4.267560996649484), ('very', 3.793301345264873), ('him', 3.3907807836977737)]
+Nearest to completion: [('has', 0.5259411334991455), ('very', 0.4706357419490814), ('made', 0.43869709968566895), ('this', 0.4279336631298065), ('extremely', 0.4221225678920746), ('extraordinarily', 0.40053868293762207), ('incredibly', 0.3896390497684479), ('been', 0.3785090744495392), ('tremendously', 0.3737555146217346), ('nonetheless', 0.37183985114097595)]
+
+--------------------------------------------------------------------------
+
+My manager got all of the employees together.
+He announced major changes that are going to be made.
+Afterwards, he called Eric to his conference room.
+Eric came out with a bad look on his face.
+> When I asked him what's wrong, he told me that he got laid off.
+
+__About the match__
+Rarest shared words: [('employees', (7.907795278182158, 7.907795278182158))]
+Score: 0.44906889722355375
+
+__About the completion__
+Rarest in completion: [('laid', 7.146969449748379), ('wrong', 6.221376325211911), ('what', 4.895185888161725), ('asked', 4.518650478354253), ('off', 4.4887379789916535), ('me', 4.441414571213571), ('told', 4.259717819188459), ('when', 3.4368224349138567), ('him', 3.3907807836977737), ('got', 3.390344007102055), ("'s", 3.3551623435327245)]
+Nearest to completion: [('told', 0.445173054933548), ('asked', 0.4409129321575165), ('wrong', 0.42545458674430847), ('me', 0.38276800513267517), ('telling', 0.3614693284034729), ('Asked', 0.3603486120700836), ('him', 0.3517245054244995), ('ask', 0.3516567051410675), ('replied', 0.3514223098754883), ('Somebody', 0.32368266582489014)]
+
+--------------------------------------------------------------------------
+
+Alice's father had always held prejudiced views about others.
+Despite this Alice was always welcoming to other's differences.
+She tried very hard to convince her father to change his ways.
+For a very long time he would not.
+> He'd changed his mind when Alice gave birth to his mixed grandchild.
+
+__About the match__
+Rarest shared words: [('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.446169718266026
+
+__About the completion__
+Rarest in completion: [('grandchild', 10.433503923090395), ('birth', 7.90777527878214), ('mixed', 7.63014354218386), ('mind', 6.849984984634285), ('changed', 6.6898995692872125), ("'d", 5.479438980482533), ('gave', 4.8834555483762365), ('when', 3.4368224349138567)]
+Nearest to completion: [('birth', 0.5264280438423157), ('changed', 0.5133565068244934), ('mixed', 0.46713387966156006), ('altered', 0.39993807673454285), ('gave', 0.3582105338573456), ('changing', 0.3418407738208771), ('altering', 0.3335556983947754), ('change', 0.313885360956192), ('alter', 0.3035530745983124), ('mind', 0.29590487480163574)]
+
+--------------------------------------------------------------------------
+
+

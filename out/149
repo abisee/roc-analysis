@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Stephanie loved her garden and spent a lot of time there.
+One day, she noticed aphids attacking her plants.
+Stephanie knew that ladybugs could help.
+She bought one hundred ladybugs from a garden store.
+> Stephanie released the bugs and they gobbled up all the aphids.
+
+__About the context__
+Rarest in context: [('aphids', 10.433523922490414), ('attacking', 10.433523922490414), ('ladybugs', 10.433523922490414), ('plants', 7.255470092142468), ('hundred', 6.921978483659393), ('garden', 6.4919421148207235), ('spent', 4.999801918936174), ('knew', 4.833251824203877), ('noticed', 4.698565830365763), ('help', 4.693731010311179), ('lot', 4.262867711597405), ('store', 4.2189158240682225), ('loved', 3.962724418707812), ('bought', 3.9121666888992155), ('time', 3.6473714652675255), ('there', 3.6031897904768617), ('from', 3.533800815205541), ('could', 3.4004584525428303)]
+Nearest to context: [('plants', 0.4168946146965027), ('garden', 0.39864230155944824), ('bought', 0.3719463348388672), ('store', 0.3616350293159485), ('gardens', 0.34620827436447144), ('plant', 0.343549907207489), ('purchased', 0.3345949053764343), ('hundred', 0.326360285282135), ('spent', 0.314652681350708), ('stores', 0.31189343333244324)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('plants', 1977, 18023, 0.6307157874107361), ('planted', 7295, 12705, 0.5492766499519348), ('garden', 4210, 15790, 0.5370014905929565), ('planting', 9239, 10761, 0.533062219619751), ('gardens', 9503, 10497, 0.5313186645507812), ('harvested', 15751, 4249, 0.4887128174304962), ('plant', 1076, 18924, 0.4827437400817871), ('trees', 2985, 17015, 0.45564237236976624), ('tomato', 17675, 2325, 0.4549054205417633), ('weeds', 16727, 3273, 0.4512770175933838)]
+Nearest words to completions' keywords: [('garden', 4210, 15790, 0.6824615597724915), ('gardens', 9503, 10497, 0.6486871242523193), ('plants', 1977, 18023, 0.616107165813446), ('planting', 9239, 10761, 0.5905981063842773), ('trees', 2985, 17015, 0.5796048641204834), ('flower', 11289, 8711, 0.5795726776123047), ('gardening', 13514, 6486, 0.5750367641448975), ('flowers', 5675, 14325, 0.5690659880638123), ('vegetables', 6359, 13641, 0.5600398778915405), ('weeds', 16727, 3273, 0.5560979247093201)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.6632542014122009), ('had', 35, 19965, 0.6577094197273254), ('knew', 1039, 18961, 0.6233662366867065), ('got', 193, 19807, 0.6127105355262756), ('went', 297, 19703, 0.5947080254554749), ('thought', 572, 19428, 0.5903674364089966), ('came', 256, 19744, 0.5869400501251221), ('saw', 653, 19347, 0.5535187721252441), ('gone', 1133, 18867, 0.5427587628364563), ('wanted', 583, 19417, 0.5422595739364624)]
+
+==========================================================================
+Neighbors
+==========================================================================
+James was tending to his garden.
+He noticed that there were bugs on his plants.
+James went to the store.
+He bought spray for his plants.
+> James went home and sprayed his plants.
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235)), ('noticed', (4.698565830365763, 4.698565830365763)), ('store', (4.2189158240682225, 4.2189158240682225)), ('bought', (3.9121666888992155, 3.9121666888992155)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.5482549461478639
+
+__About the completion__
+Rarest in completion: [('sprayed', 8.236279345754177), ('plants', 7.759355273663867), ('home', 4.002978318445733), ('went', 3.303005172815388)]
+Nearest to completion: [('sprayed', 0.6392432451248169), ('plants', 0.6092284917831421), ('plant', 0.5309218764305115), ('spraying', 0.4543358087539673), ('spray', 0.45018425583839417), ('Plant', 0.41641470789909363), ('chemicals', 0.36907222867012024), ('gardens', 0.3657646179199219), ('factories', 0.36262720823287964), ('garden', 0.3482125997543335)]
+
+--------------------------------------------------------------------------
+
+Tilly was working on her very own garden.
+She had spent countless weeks working on everything.
+One morning she went to check on her plants.
+Unfortunately, she saw that everything in the garden had died.
+> She decided to do some research before making another attempt.
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235)), ('spent', (4.999801918936174, 4.999801918936174))]
+Score: 0.5295741891407227
+
+__About the completion__
+Rarest in completion: [('attempt', 8.92942652631412), ('research', 7.543132165194231), ('making', 5.845988672341025), ('another', 5.448186436978429), ('before', 4.900114434362875), ('do', 4.865159419329299), ('some', 4.142861138392206), ('decided', 3.495461951503386)]
+Nearest to completion: [('attempt', 0.5176430344581604), ('attempting', 0.46670588850975037), ('research', 0.42391541600227356), ('attempted', 0.4093705415725708), ('making', 0.40012258291244507), ('decided', 0.39539051055908203), ('attempts', 0.3563796281814575), ('try', 0.3509499132633209), ('might', 0.3503689467906952), ('trying', 0.3503247797489166)]
+
+--------------------------------------------------------------------------
+
+One day Annie decided to plant a garden.
+Some of her plants got trampled by her dog.
+She planted new ones.
+She put her dog in the house.
+> She finished her garden and loved it.
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235))]
+Score: 0.5262305617230286
+
+__About the completion__
+Rarest in completion: [('garden', 6.944600961009134), ('finished', 6.17082404604908), ('loved', 4.425305176991248)]
+Nearest to completion: [('garden', 0.6234931349754333), ('gardens', 0.5230950117111206), ('gardening', 0.5086678862571716), ('loved', 0.5038306713104248), ('finished', 0.4359593987464905), ('flowers', 0.40694037079811096), ('flower', 0.3948966860771179), ('Garden', 0.3939453363418579), ('lovely', 0.3905089497566223), ('landscaping', 0.38412198424339294)]
+
+--------------------------------------------------------------------------
+
+Tom had a garden.
+He planted many vegetables and fruits in the garden.
+One day, he noticed that all the plants were gone.
+He found deer footprints near where the plants had been.
+> He realized that the deer had eaten his plants.
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235)), ('noticed', (4.698565830365763, 4.698565830365763))]
+Score: 0.48307155153758596
+
+__About the completion__
+Rarest in completion: [('plants', 7.759355273663867), ('deer', 7.5571184071689705), ('eaten', 7.543132165194231), ('realized', 5.003062403615317)]
+Nearest to completion: [('deer', 0.6716041564941406), ('plants', 0.592414915561676), ('eaten', 0.5535144805908203), ('birds', 0.4875544011592865), ('harvested', 0.4801137447357178), ('animals', 0.47653505206108093), ('species', 0.47164440155029297), ('plant', 0.45694631338119507), ('insects', 0.4461835026741028), ('bird', 0.4382806718349457)]
+
+--------------------------------------------------------------------------
+
+Lee had a garden.
+He planted lots of cucumbers.
+Lee had more cucumbers than he thought he would.
+Lee pickled most of the cucumbers.
+> He planted less cucumbers the next year.
+
+__About the match__
+Rarest shared words: [('garden', (6.4919421148207235, 6.4919421148207235))]
+Score: 0.48283582797600216
+
+__About the completion__
+Rarest in completion: [('cucumbers', 9.622573706874066), ('planted', 7.543132165194231), ('less', 7.0662080931039215), ('year', 5.152841491781079), ('next', 4.72639365834152)]
+Nearest to completion: [('planted', 0.6431257128715515), ('planting', 0.5121182203292847), ('year', 0.46922826766967773), ('next', 0.450386106967926), ('less', 0.41733500361442566), ('harvested', 0.3883204162120819), ('than', 0.36745747923851013), ('month', 0.34290334582328796), ('more', 0.33544737100601196), ('grow', 0.3267182409763336)]
+
+--------------------------------------------------------------------------
+
+Andy was always good with gardening.
+Andy decided he would add cucumbers to his garden.
+Andy purchased the seeds, and went to his garden to plant them.
+Andy found the perfect spot for the cucumbers, and began planting.
+> Andy was happy his garden was flourishing because of his green thumb.
+
+__About the match__
+Rarest shared words: [('garden', (6.4919421148207235, 6.4919421148207235))]
+Score: 0.4745644869172554
+
+__About the completion__
+Rarest in completion: [('flourishing', 10.721185995542177), ('thumb', 8.824066010656296), ('green', 7.265921392609745), ('garden', 6.944600961009134), ('because', 4.980321845981443), ('happy', 4.78013793434821)]
+Nearest to completion: [('green', 0.5768458843231201), ('thumb', 0.5720415115356445), ('garden', 0.5277923941612244), ('gardens', 0.4609220325946808), ('gardening', 0.4525582790374756), ('landscaping', 0.38675758242607117), ('leaf', 0.384173721075058), ('bulbs', 0.376888245344162), ('greens', 0.3724668025970459), ('grass', 0.3712649643421173)]
+
+--------------------------------------------------------------------------
+
+Candice wanted to plant a garden but, wasn't sure where to begin.
+Her neighbor came over and offered to bring her to the garden store.
+Candice and her neighbor picked out tomato plants, pots and soil.
+Candice returned home and planted her tomato plants.
+> Within weeks Candice had her tomatoes and was extremely happy.
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.47076329355996394
+
+__About the completion__
+Rarest in completion: [('tomatoes', 8.64174445386234), ('extremely', 7.204677767369026), ('within', 6.849984984634285), ('weeks', 5.8208617222636025), ('happy', 4.78013793434821)]
+Nearest to completion: [('tomatoes', 0.5709006786346436), ('tomato', 0.45966947078704834), ('extremely', 0.40189096331596375), ('weeks', 0.3853929936885834), ('vegetables', 0.38128554821014404), ('within', 0.3760679364204407), ('days', 0.35365694761276245), ('grapes', 0.3438234329223633), ('pleased', 0.33467456698417664), ('potatoes', 0.3345131278038025)]
+
+--------------------------------------------------------------------------
+
+Every year I plant eggplants in my garden.
+Every year the ants attack and eat my plants.
+This year I was determined to defeat the ants.
+I tried as many different things as I could think of to save them.
+> I planted 8 plants and saved 3, which is my best year yet!
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('garden', (6.4919421148207235, 6.4919421148207235)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.4703991622954384
+
+__About the completion__
+Rarest in completion: [('8', 8.058598168516724), ('plants', 7.759355273663867), ('planted', 7.543132165194231), ('3', 6.944600961009134), ('yet', 6.9369963616239145), ('saved', 6.626841433320076), ('which', 6.594051610497084), ('best', 5.3230232940244235), ('year', 5.152841491781079), ('is', 4.0817459865209695), ('!', 3.536809591467683), ('my', 3.5357989799617595)]
+Nearest to completion: [('5', 0.4666230082511902), ('8', 0.45728787779808044), ('planted', 0.45389822125434875), ('6', 0.45012474060058594), ('4', 0.4469526410102844), ('1', 0.4417537748813629), ('3', 0.4407828152179718), ('plants', 0.43888330459594727), ('7', 0.43874624371528625), ('2', 0.4344674348831177)]
+
+--------------------------------------------------------------------------
+
+Anna loved hibiscus flowers.
+She had never tried to grow anything before.
+But she decided to buy some plants and try her hand at it.
+She planted her hibiscus and cared for them diligently.
+> To her surprise, they flourished wonderfully!
+
+__About the match__
+Rarest shared words: [('plants', (7.255470092142468, 7.255470092142468)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.4646506707407468
+
+__About the completion__
+Rarest in completion: [('flourished', 11.12665110365034), ('wonderfully', 9.74035674253045), ('surprise', 6.394848266728883), ('!', 3.536809591467683)]
+Nearest to completion: [('surprise', 0.9498035311698914), ('surprising', 0.6103341579437256), ('surprises', 0.5472590923309326), ('shock', 0.5170274972915649), ('surprised', 0.4976458251476288), ('disappointment', 0.4797905683517456), ('shocking', 0.4527530372142792), ('unexpected', 0.42713314294815063), ('startling', 0.4224739074707031), ('coincidence', 0.4223276674747467)]
+
+--------------------------------------------------------------------------
+
+Anna loved to garden in her backyard.
+She also had a woodpile in the backyard near the garden.
+As Anna was gardening one day, the woodpile started to meow.
+She thought it was odd that a woodpile would meow.
+> Upon further inspection, Anna found a litter of kittens tucked inside.
+
+__About the match__
+Rarest shared words: [('garden', (6.4919421148207235, 6.4919421148207235)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.4575937412264521
+
+__About the completion__
+Rarest in completion: [('inspection', 9.421903011411915), ('tucked', 9.334891634422286), ('litter', 8.523961418205957), ('kittens', 8.523961418205957), ('further', 8.354062381410559), ('upon', 7.600290579034179), ('inside', 5.78431685168553), ('found', 4.202038707601781)]
+Nearest to completion: [('inspection', 0.5724785327911377), ('litter', 0.45702898502349854), ('inspections', 0.45413583517074585), ('tucked', 0.4306041896343231), ('inspected', 0.41608926653862), ('found', 0.3960537910461426), ('inside', 0.389203816652298), ('inspectors', 0.38264134526252747), ('inspect', 0.380181223154068), ('discarded', 0.37609991431236267)]
+
+--------------------------------------------------------------------------
+
+

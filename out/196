@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Larry was only 5 years old.
+He loved to go riding on his boat with is dad.
+His father became ill of cancer and passed away.
+Larry still to this day sails on the boat.
+> He loves to imagine his father is still with him and his boat.
+
+__About the context__
+Rarest in context: [('sails', 9.740376741930469), ('cancer', 7.015797238877048), ('ill', 6.967788019690687), ('5', 6.63803473331822), ('riding', 6.472710752892835), ('boat', 6.177911212672191), ('passed', 5.833366278325867), ('father', 5.6670855889062), ('still', 5.173427768762575), ('dad', 5.170833733585528), ('became', 5.155409263259896), ('only', 4.719791116981044), ('years', 4.671472539710237), ('away', 4.571314211239694), ('old', 4.424710737047819), ('this', 4.174898938651448), ('loved', 3.962724418707812), ('is', 3.859843755529768), ('go', 3.6524662965542345)]
+Nearest to context: [('father', 0.5257753729820251), ('son', 0.4985775351524353), ('leukemia', 0.4605489671230316), ('grandfather', 0.45446017384529114), ('nephew', 0.45289328694343567), ('uncle', 0.45222902297973633), ('brother', 0.44290903210639954), ('grandson', 0.43365293741226196), ('dad', 0.42663466930389404), ('younger_brother', 0.4249812662601471)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('died', 681, 19319, 0.43866515159606934), ('married', 2487, 17513, 0.4304479658603668), ('wife', 783, 19217, 0.4190200865268707), ('sons', 4420, 15580, 0.41316911578178406), ('husband', 1292, 18708, 0.41083481907844543), ('son', 831, 19169, 0.40679338574409485), ('widow', 10738, 9262, 0.4005509912967682), ('father', 913, 19087, 0.3966403007507324), ('daughter', 1211, 18789, 0.3892165422439575), ('daughters', 5080, 14920, 0.38312339782714844)]
+Nearest words to completions' keywords: [('happy', 1049, 18951, 0.5850628614425659), ('glad', 4258, 15742, 0.5818439722061157), ('father', 913, 19087, 0.5783950090408325), ('son', 831, 19169, 0.5759566426277161), ('thankful', 9423, 10577, 0.5755321979522705), ('dad', 3924, 16076, 0.5742076635360718), ('daughter', 1211, 18789, 0.5646814107894897), ('mother', 852, 19148, 0.5634210109710693), ('husband', 1292, 18708, 0.5523946285247803), ('daughters', 5080, 14920, 0.5519041419029236)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7389419078826904), ('came', 256, 19744, 0.612859845161438), ('is', 4, 19996, 0.5937241315841675), ('went', 297, 19703, 0.581576943397522), ('had', 35, 19965, 0.5652576684951782), ('did', 92, 19908, 0.5649989247322083), ("wasn'ta", 11067, 8933, 0.5646163821220398), ('stayed', 2936, 17064, 0.5561390519142151), ('died', 681, 19319, 0.5436969995498657), ('knew', 1039, 18961, 0.5333951711654663)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Eric and his wife had a daughter named Meg.
+Eric's wife passed away.
+Eric and Meg were very sad.
+Eric met a woman and married her 5 years after his wife died.
+> Meg is now happy with her new stepmother.
+
+__About the match__
+Rarest shared words: [('5', (6.63803473331822, 6.63803473331822)), ('passed', (5.833366278325867, 5.833366278325867)), ('years', (4.671472539710237, 4.671472539710237)), ('away', (4.571314211239694, 4.571314211239694))]
+Score: 0.5554613239375183
+
+__About the completion__
+Rarest in completion: [('stepmother', 10.433503923090395), ('happy', 4.78013793434821), ('now', 4.716476221684173), ('is', 4.0817459865209695), ('new', 3.7799959404738015)]
+Nearest to completion: [('is', 0.5584572553634644), ('now', 0.5340803265571594), ('new', 0.5119727253913879), ('currently', 0.47048962116241455), ('happy', 0.4660932421684265), ('presently', 0.4392394423484802), ('pleased', 0.4359181821346283), ('excited', 0.4194762408733368), ('thrilled', 0.4109669029712677), ('delighted', 0.4082967936992645)]
+
+--------------------------------------------------------------------------
+
+Deb married the love of her life 23 years ago.
+Last year her husband was in a bad accident with a semi.
+He was diagnosed with a brain injury and became very ill.
+Deb was worried and knew that she would have to take care of him.
+> She left her husband because of the stress of the accident.
+
+__About the match__
+Rarest shared words: [('ill', (6.967788019690687, 6.967788019690687)), ('became', (5.155409263259896, 5.155409263259896)), ('years', (4.671472539710237, 4.671472539710237))]
+Score: 0.5435020562439815
+
+__About the completion__
+Rarest in completion: [('stress', 8.64174445386234), ('accident', 6.921958484259375), ('husband', 5.858792944587012), ('because', 4.980321845981443), ('left', 4.930206975855819)]
+Nearest to completion: [('accident', 0.6429339051246643), ('stress', 0.5116638541221619), ('crash', 0.4881643056869507), ('husband', 0.474972128868103), ('accidents', 0.44908228516578674), ('wreck', 0.4370923340320587), ('collision', 0.4288475811481476), ('wife', 0.3830227553844452), ('trauma', 0.36900243163108826), ('mother', 0.36705026030540466)]
+
+--------------------------------------------------------------------------
+
+Luke was diagnosed with cancer at 2 years old.
+He was feeling very bad all day.
+He went to stay at Ronald Mcdonald house in Memphis.
+I visited him all day long.
+> We played with his fire truck.
+
+__About the match__
+Rarest shared words: [('cancer', (7.015797238877048, 7.015797238877048)), ('years', (4.671472539710237, 4.671472539710237)), ('old', (4.424710737047819, 4.424710737047819))]
+Score: 0.5378980611809898
+
+__About the completion__
+Rarest in completion: [('truck', 6.368759830644585), ('fire', 6.302345387745578), ('played', 5.490077378687589), ('we', 4.354142974076229)]
+Nearest to completion: [('fire', 0.6129693984985352), ('truck', 0.5643050074577332), ('Fire', 0.5030999779701233), ('blaze', 0.48653438687324524), ('trucks', 0.47165003418922424), ('fires', 0.44875088334083557), ('tractor_trailer', 0.44763442873954773), ('firefighters', 0.4303044378757477), ('Truck', 0.42183542251586914), ('flames', 0.4150632917881012)]
+
+--------------------------------------------------------------------------
+
+Paula was 26 years old when her sister died.
+Her sister had 4 kids and the father was not around.
+No one was able to take the kids in.
+Paula stepped up and adopted the kids.
+> She did a great job and raised 4 happy kids.
+
+__About the match__
+Rarest shared words: [('father', (5.6670855889062, 5.6670855889062)), ('years', (4.671472539710237, 4.671472539710237)), ('old', (4.424710737047819, 4.424710737047819))]
+Score: 0.5375992498317563
+
+__About the completion__
+Rarest in completion: [('raised', 7.676663557818753), ('4', 7.63014354218386), ('kids', 5.176008551062614), ('job', 4.864205675813988), ('great', 4.843450213762537), ('happy', 4.78013793434821), ('did', 3.6104898725633485)]
+Nearest to completion: [('great', 0.4261847734451294), ('happy', 0.40680360794067383), ('terrific', 0.38828331232070923), ('kids', 0.3764325678348541), ('fantastic', 0.36503344774246216), ('job', 0.36145174503326416), ('proud', 0.36040252447128296), ('phenomenal', 0.35393795371055603), ('excited', 0.353720098733902), ('good', 0.35101139545440674)]
+
+--------------------------------------------------------------------------
+
+My friend Sam had three sons.
+The youngest was born with a heart defect.
+His heart was enlarged and he could die at any time.
+His son got better and is now 16.
+> Sam is very grateful.
+
+__About the match__
+Rarest shared words: [('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5204404158239011
+
+__About the completion__
+Rarest in completion: [('grateful', 7.529338843061895), ('is', 4.0817459865209695), ('very', 3.793301345264873)]
+Nearest to completion: [('grateful', 0.6971107125282288), ('very', 0.590072512626648), ('thankful', 0.5839030146598816), ('extremely', 0.5741269588470459), ('proud', 0.5583464503288269), ('appreciative', 0.5530264377593994), ('pleased', 0.5211377143859863), ('delighted', 0.5166130065917969), ('incredibly', 0.5129067897796631), ('appreciates', 0.49696558713912964)]
+
+--------------------------------------------------------------------------
+
+Jim's wife loved him very much, but he was a playboy.
+He eventually ran off and married a younger woman.
+Years later, he got sick with cancer and couldn't work.
+The young woman left him, saying she couldn't handle it.
+> As he lay dying, it was his first wife who visited and cared for him.
+
+__About the match__
+Rarest shared words: [('cancer', (7.015797238877048, 7.015797238877048)), ('years', (4.671472539710237, 4.671472539710237)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.5154302363720588
+
+__About the completion__
+Rarest in completion: [('cared', 8.293437759594124), ('dying', 8.20888037156606), ('lay', 8.013135794439966), ('visited', 6.615791597133491), ('who', 5.401433348274074), ('wife', 5.17731148284303), ('first', 4.4744334437934175), ('as', 3.9638660844916718), ('him', 3.3907807836977737)]
+Nearest to completion: [('cared', 0.504004180431366), ('dying', 0.46985647082328796), ('whom', 0.43432846665382385), ('wife', 0.4339158236980438), ('visited', 0.4125315845012665), ('who', 0.4123116433620453), ('widow', 0.3996122181415558), ('father', 0.38909995555877686), ('son', 0.3711199164390564), ('lay', 0.3680010735988617)]
+
+--------------------------------------------------------------------------
+
+My grandfather passed away from old age.
+He was moved to Indiana to be buried.
+While traveling to the funeral I ran into an old high school friend.
+We hung out for a few days and ended up falling in love.
+> Less than a year later we ended up married!
+
+__About the match__
+Rarest shared words: [('passed', (5.833366278325867, 5.833366278325867)), ('away', (4.571314211239694, 4.571314211239694)), ('old', (4.424710737047819, 4.424710737047819))]
+Score: 0.5023264046508398
+
+__About the completion__
+Rarest in completion: [('less', 7.0662080931039215), ('married', 6.364477168852584), ('than', 5.6973054746958995), ('later', 5.235006891824569), ('ended', 5.160504364526648), ('year', 5.152841491781079), ('we', 4.354142974076229), ('!', 3.536809591467683)]
+Nearest to completion: [('than', 0.5577241778373718), ('less', 0.4991694986820221), ('married', 0.45413756370544434), ('Less', 0.4387468695640564), ('ended', 0.43134045600891113), ('ago', 0.42163509130477905), ('more', 0.41760098934173584), ('later', 0.4015430808067322), ('preceding', 0.3847181797027588), ('divorced', 0.3804921805858612)]
+
+--------------------------------------------------------------------------
+
+Edna was born the last of 14 kids.
+She grew up much younger than most of her siblings.
+When she became an adult, a few of her siblings has died.
+Edna lived to be 90 years old.
+> When she died, she was the last of her siblings.
+
+__About the match__
+Rarest shared words: [('became', (5.155409263259896, 5.155409263259896)), ('years', (4.671472539710237, 4.671472539710237)), ('old', (4.424710737047819, 4.424710737047819))]
+Score: 0.4947208994144861
+
+__About the completion__
+Rarest in completion: [('siblings', 8.64174445386234), ('died', 6.403697882005866), ('last', 5.030826541218116), ('when', 3.4368224349138567)]
+Nearest to completion: [('died', 0.7018035650253296), ('siblings', 0.5851403474807739), ('killed', 0.49856093525886536), ('son', 0.49380820989608765), ('father', 0.4931449592113495), ('brother', 0.47505810856819153), ('mother', 0.47412917017936707), ('sons', 0.47073420882225037), ('nephew', 0.4680858552455902), ('cousin', 0.4524175524711609)]
+
+--------------------------------------------------------------------------
+
+Suzy had a sick grandmother.
+She was dying of cancer.
+So she went and visited her in the hospital.
+It was her last moments.
+> When she passed the next day, Suzy was besides herself.
+
+__About the match__
+Rarest shared words: [('cancer', (7.015797238877048, 7.015797238877048))]
+Score: 0.49428199708789805
+
+__About the completion__
+Rarest in completion: [('besides', 10.210360371776185), ('passed', 6.102770582804064), ('herself', 5.98498754714768), ('next', 4.72639365834152), ('when', 3.4368224349138567), ('day', 3.3461390948177767)]
+Nearest to completion: [('herself', 0.5312936305999756), ('passed', 0.38194772601127625), ('next', 0.36195483803749084), ('himself', 0.3560875952243805), ('her', 0.35507988929748535), ('before', 0.34242045879364014), ('she', 0.3074345886707306), ('Later', 0.2944103181362152), ('later', 0.2940748333930969), ('after', 0.2924887239933014)]
+
+--------------------------------------------------------------------------
+
+Jeff had a wife named Susan whom he loved deeply.
+She passed away from breast cancer last year.
+He hasn't coped well and started drinking.
+He lost his job because he was drinking on the job.
+> Now all he does is sit at home all day and drink.
+
+__About the match__
+Rarest shared words: [('cancer', (7.015797238877048, 7.015797238877048)), ('passed', (5.833366278325867, 5.833366278325867)), ('away', (4.571314211239694, 4.571314211239694)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.4904197639953594
+
+__About the completion__
+Rarest in completion: [('sit', 6.892544599053081), ('drink', 6.3559664791846755), ('does', 6.286408795482766), ('now', 4.716476221684173), ('is', 4.0817459865209695), ('home', 4.002978318445733), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('drink', 0.45706239342689514), ('sit', 0.4379850924015045), ('is', 0.4266517460346222), ('does', 0.40109872817993164), ('sits', 0.3982590138912201), ('now', 0.3330921530723572), ('currently', 0.33264628052711487), ('drinks', 0.33196282386779785), ('consume', 0.3071120083332062), ('happens', 0.2966865301132202)]
+
+--------------------------------------------------------------------------
+
+

@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Anna wanted a flag for her lawn.
+She went to the flag store.
+There, she chose a floral print flag.
+She paid for it and brought it home.
+> There, she set it on her lawn.
+
+__About the context__
+Rarest in context: [('floral', 9.047229561370523), ('flag', 8.293457758994144), ('print', 8.130938829496369), ('lawn', 6.952283833154722), ('chose', 6.482280203908987), ('paid', 6.1227247971049), ('brought', 5.191776907430771), ('store', 4.2189158240682225), ('home', 3.7389618639693185), ('there', 3.6031897904768617)]
+Nearest to context: [('lawn', 0.461393803358078), ('flag', 0.41923898458480835), ('print', 0.4105997383594513), ('flags', 0.38581833243370056), ('printed', 0.3827415704727173), ('paid', 0.35864874720573425), ('store', 0.3476720452308655), ('banners', 0.33230096101760864), ('banner', 0.3311176002025604), ('Store', 0.31002286076545715)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('flag', 3494, 16506, 0.734735369682312), ('flags', 7233, 12767, 0.6075183153152466), ('banner', 8077, 11923, 0.4911373555660248), ('banners', 12281, 7719, 0.4235670566558838), ('poster', 8349, 11651, 0.3410731554031372), ('logo', 6490, 13510, 0.33951446413993835), ('symbolic', 11563, 8437, 0.3370405435562134), ('patriotic', 14205, 5795, 0.32876622676849365), ('badge', 15714, 4286, 0.32838717103004456), ('sticker', 19840, 160, 0.31515201926231384)]
+Nearest words to completions' keywords: [('flag', 3494, 16506, 0.5972849130630493), ('flags', 7233, 12767, 0.5898172855377197), ('banners', 12281, 7719, 0.5310140252113342), ('banner', 8077, 11923, 0.5207656621932983), ('posters', 8161, 11839, 0.482580304145813), ('stickers', 18623, 1377, 0.48147183656692505), ('sticker', 19840, 160, 0.45792800188064575), ('decorations', 17471, 2529, 0.4452272355556488), ('poster', 8349, 11651, 0.4390866458415985), ('mural', 18912, 1088, 0.4336917996406555)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7514926791191101), ('got', 193, 19807, 0.704746425151825), ('knew', 1039, 18961, 0.6848650574684143), ('had', 35, 19965, 0.6766579151153564), ('came', 256, 19744, 0.6437549591064453), ('liked', 3988, 16012, 0.6392695307731628), ('saw', 653, 19347, 0.6316181421279907), ('wanted', 583, 19417, 0.6314041614532471), ('went', 297, 19703, 0.6257894039154053), ('stayed', 2936, 17064, 0.6140140295028687)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Anna wanted to show her patriotism.
+But she did not want a patriotic tattoo.
+She finally found the perfect public display.
+She bought a flag and put in on her lawn!
+> Anna loved seeing her country's flag every day!
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144)), ('lawn', (6.952283833154722, 6.952283833154722))]
+Score: 0.5170189201666093
+
+__About the completion__
+Rarest in completion: [('flag', 8.72875583085197), ('seeing', 7.007613928837868), ('country', 6.6898995692872125), ('every', 4.763623000109876), ('loved', 4.425305176991248), ('!', 3.536809591467683), ("'s", 3.3551623435327245), ('day', 3.3461390948177767)]
+Nearest to completion: [('flag', 0.6014948487281799), ('flags', 0.5109874606132507), ('every', 0.406406432390213), ('country', 0.3576160967350006), ('loved', 0.350704163312912), ('mourning', 0.3480677902698517), ('banner', 0.34072771668434143), ('patriotic', 0.33802950382232666), ('day', 0.3294372260570526), ('Every', 0.327945739030838)]
+
+--------------------------------------------------------------------------
+
+Lou and his family lived in the American South, and proudly!
+They had always flown a Confederate flag on their porch.
+When the town voted to ban Confederate flags, they voted too.
+It turned out that much of the town agreed with them.
+> The vote did not pass, and the flag remained legal.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144))]
+Score: 0.5133231478476722
+
+__About the completion__
+Rarest in completion: [('legal', 9.334891634422286), ('flag', 8.72875583085197), ('remained', 8.013135794439966), ('vote', 7.794446593475136), ('pass', 6.929449155988532), ('not', 3.8329533830489027), ('did', 3.6104898725633485)]
+Nearest to completion: [('flag', 0.513085126876831), ('vote', 0.46667227149009705), ('flags', 0.4072761535644531), ('votes', 0.40135517716407776), ('pass', 0.40131857991218567), ('legal', 0.3974992632865906), ('referendum', 0.3803420662879944), ('ballot', 0.3768512010574341), ('remained', 0.3435434103012085), ('voting', 0.3396417200565338)]
+
+--------------------------------------------------------------------------
+
+Betsy wanted a decoration for outside of her house.
+She bought a big American flag.
+She hung it from a flagpole.
+Her house looked very patriotic.
+> She liked the new addition to her front porch.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144))]
+Score: 0.4889252494904232
+
+__About the completion__
+Rarest in completion: [('addition', 7.5571184071689705), ('porch', 7.529338843061895), ('front', 5.914436436155715), ('liked', 5.2117976589141985), ('new', 3.7799959404738015)]
+Nearest to completion: [('porch', 0.6095197796821594), ('addition', 0.5014622807502747), ('patio', 0.497336745262146), ('front', 0.4823387563228607), ('courtyard', 0.39717134833335876), ('deck', 0.3940378427505493), ('rear', 0.3710426390171051), ('driveway', 0.35650259256362915), ('dining_room', 0.35025179386138916), ('sidewalk', 0.34632739424705505)]
+
+--------------------------------------------------------------------------
+
+The Olympians stood at attention.
+They faced their flag as they were awarded their gold medals.
+They were incredibly proud and patriotic.
+When they had their medals, they all waved their own flags.
+> The flag was very symbolic and special for them that day.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144))]
+Score: 0.45288438082894283
+
+__About the completion__
+Rarest in completion: [('symbolic', 11.12665110365034), ('flag', 8.72875583085197), ('special', 6.6048625266013), ('them', 3.9905657466666935), ('very', 3.793301345264873), ('day', 3.3461390948177767)]
+Nearest to completion: [('symbolic', 0.6358026266098022), ('flag', 0.628089189529419), ('flags', 0.5588029623031616), ('special', 0.45114997029304504), ('banners', 0.38749364018440247), ('symbols', 0.38447868824005127), ('commemorate', 0.37798088788986206), ('token', 0.3685752749443054), ('significance', 0.36739397048950195), ('banner', 0.3633405864238739)]
+
+--------------------------------------------------------------------------
+
+Rea loved holidays and her favorite was the fourth of July.
+Rea went to the store and bought a full outfit of red, white and blue.
+Her shirt and her pants had American flags on them.
+Rea wore her new outfit to her local fireworks display.
+> She got her picture in the local magazine with her outfit.
+
+__About the match__
+Rarest shared words: [('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.423490269380861
+
+__About the completion__
+Rarest in completion: [('magazine', 8.684304068281136), ('outfit', 8.082128665926916), ('picture', 6.907143398474234), ('local', 5.461956017702186), ('got', 3.390344007102055)]
+Nearest to completion: [('magazine', 0.6126440763473511), ('outfit', 0.5516119003295898), ('picture', 0.4967171251773834), ('Magazine', 0.4864746034145355), ('magazines', 0.4561489522457123), ('outfits', 0.4324929416179657), ('photograph', 0.4023854434490204), ('photo', 0.3924614489078522), ('Weekly', 0.3815773129463196), ('print', 0.3693964183330536)]
+
+--------------------------------------------------------------------------
+
+When I was eight my parents took us to an amusement park.
+We went as part of a group from Chinatown.
+The local political party rented buses and hung flags.
+On the way there, a flag got loose.
+> My father opened the door and fixed the flag with the bus running.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.40095915522674613
+
+__About the completion__
+Rarest in completion: [('flag', 8.72875583085197), ('fixed', 6.878155861600981), ('bus', 6.506592305168499), ('father', 6.096213182257905), ('running', 5.979156626836888), ('opened', 5.961865129726826), ('door', 5.641854170159686), ('my', 3.5357989799617595)]
+Nearest to completion: [('flag', 0.48152846097946167), ('bus', 0.4599485993385315), ('door', 0.3965338468551636), ('flags', 0.3579275906085968), ('buses', 0.35081374645233154), ('Bus', 0.34292522072792053), ('window', 0.34271329641342163), ('van', 0.3403041362762451), ('banner', 0.3206956386566162), ('opened', 0.3204271197319031)]
+
+--------------------------------------------------------------------------
+
+The city flew the flag at half mast.
+People called to ask why.
+The city put the information on it's web page.
+People stopped calling to ask why.
+> The secretary found herself with more free time.
+
+__About the match__
+Rarest shared words: [('flag', (8.293457758994144, 8.293457758994144))]
+Score: 0.386142330481405
+
+__About the completion__
+Rarest in completion: [('secretary', 9.111748083108075), ('free', 6.322630058917084), ('herself', 5.98498754714768), ('more', 4.774893167080915), ('found', 4.202038707601781), ('time', 3.981849368185002)]
+Nearest to completion: [('secretary', 0.5277747511863708), ('herself', 0.49739059805870056), ('Secretary', 0.33444851636886597), ('treasurer', 0.3249838948249817), ('free', 0.32486945390701294), ('she', 0.3069784343242645), ('minister', 0.30123984813690186), ('her', 0.297046959400177), ('himself', 0.29514673352241516), ('inspector_general', 0.2896515727043152)]
+
+--------------------------------------------------------------------------
+
+Megan's dog Spot ran away one day.
+She printed posters and put them around the neighborhood.
+The next day, someone found Spot at the park.
+They called the number on the poster.
+> Megan was very happy that her dog was safe and sound.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3843180900682735
+
+__About the completion__
+Rarest in completion: [('safe', 7.3311619144781455), ('sound', 7.18506929598065), ('dog', 5.026332151630276), ('happy', 4.78013793434821), ('very', 3.793301345264873)]
+Nearest to completion: [('safe', 0.5426431894302368), ('sound', 0.4869392514228821), ('very', 0.4193738102912903), ('happy', 0.4161372482776642), ('dog', 0.41262292861938477), ('extremely', 0.39210641384124756), ('humane', 0.36794957518577576), ('dogs', 0.36554867029190063), ('pet', 0.36416205763816833), ('cat', 0.36382830142974854)]
+
+--------------------------------------------------------------------------
+
+My wife used our old printer last month.
+It jammed printing the second page.
+It would print only one page at a time.
+She suggested buying a new printer.
+> I got a fast new printer on Amazon, and she was happy.
+
+__About the match__
+Rarest shared words: [('print', (8.130938829496369, 8.130938829496369))]
+Score: 0.3674398658878112
+
+__About the completion__
+Rarest in completion: [('printer', 8.600922459342085), ('fast', 6.080005372031051), ('happy', 4.78013793434821), ('new', 3.7799959404738015), ('got', 3.390344007102055)]
+Nearest to completion: [('printer', 0.6127426028251648), ('printers', 0.5142701864242554), ('fast', 0.4917626678943634), ('printing', 0.42385223507881165), ('happy', 0.3597222566604614), ('quick', 0.35921552777290344), ('pleased', 0.3511030972003937), ('Print', 0.3490287661552429), ('excited', 0.34871822595596313), ('digital', 0.334734708070755)]
+
+--------------------------------------------------------------------------
+
+Fiona worked at a flower shop in a small town.
+At around noon a customer entered and asked for a large rose bouquet.
+Fiona toiled away and picked out the best roses she could find.
+She presented the bouquet to the man.
+> The man loved the bouquet, and paid twice its cost to Fiona.
+
+__About the match__
+Rarest shared words: []
+Score: 0.3604950562560924
+
+__About the completion__
+Rarest in completion: [('bouquet', 8.824066010656296), ('twice', 7.692663899165194), ('cost', 7.676663557818753), ('its', 6.849984984634285), ('paid', 6.3104099475823086), ('man', 4.481560134144697), ('loved', 4.425305176991248)]
+Nearest to completion: [('cost', 0.52716064453125), ('paid', 0.4379747807979584), ('costs', 0.4271800220012665), ('annually', 0.3803921639919281), ('pays', 0.3757988214492798), ('pay', 0.3730485439300537), ('costing', 0.3632715046405792), ('price_tag', 0.3436097800731659), ('twice', 0.3435398042201996), ('valued', 0.3382319509983063)]
+
+--------------------------------------------------------------------------
+
+

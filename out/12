@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Luke was playing hockey at school.
+The game was tied and almost over.
+Then Luke made the winning shot!
+Everybody cheered!
+> Luke was so proud of himself!
+
+__About the context__
+Rarest in context: [('hockey', 8.236299345154194), ('everybody', 7.794466592875155), ('cheered', 7.600310578434198), ('tied', 7.137687056486085), ('winning', 6.8925645984531), ('shot', 6.096233181657924), ('almost', 5.715025051195319), ('game', 4.677781708903502), ('playing', 4.592882265117016), ('then', 4.075681655982314), ('made', 3.9565515596007312), ('over', 3.8982826514767552), ('school', 3.843909923444766), ('!', 3.7291095675263066)]
+Nearest to context: [('game', 0.5080492496490479), ('tied', 0.46557798981666565), ('playing', 0.4608626365661621), ('played', 0.4449447989463806), ('hockey', 0.4430846869945526), ('clinching', 0.4167414605617523), ('play', 0.4155026972293854), ('winning', 0.41199156641960144), ('tying', 0.41145581007003784), ('tournament', 0.41137614846229553)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('misses', 9694, 10306, 0.43975019454956055), ('bounced', 6208, 13792, 0.40330177545547485), ('loses', 6971, 13029, 0.3820003867149353), ('team', 102, 19898, 0.3737235367298126), ('game', 94, 19906, 0.36610129475593567), ('rebounded', 8676, 11324, 0.3651057183742523), ('celebrates', 7766, 12234, 0.3633834719657898), ('notched', 10814, 9186, 0.3632790148258209), ('beat', 747, 19253, 0.3615090250968933), ('teammates', 3216, 16784, 0.35996589064598083)]
+Nearest words to completions' keywords: [('bounced', 6208, 13792, 0.5628250241279602), ('got', 193, 19807, 0.5598934888839722), ('came', 256, 19744, 0.5540212392807007), ('went', 297, 19703, 0.5430286526679993), ('clinched', 9354, 10646, 0.5402254462242126), ('won', 301, 19699, 0.5398046970367432), ('jumped', 2415, 17585, 0.5387151837348938), ('fell', 594, 19406, 0.5308648943901062), ('finished', 750, 19250, 0.5243186354637146), ('dropped', 1066, 18934, 0.5225651860237122)]
+Nearest words to completions' verbs: [('went', 297, 19703, 0.7262626886367798), ('came', 256, 19744, 0.7233994603157043), ('was', 10, 19990, 0.6404163837432861), ('fell', 594, 19406, 0.6361777782440186), ('jumped', 2415, 17585, 0.6268044710159302), ('got', 193, 19807, 0.6238277554512024), ('saw', 653, 19347, 0.6119993329048157), ('ran', 1256, 18744, 0.6093735098838806), ('dropped', 1066, 18934, 0.5977364182472229), ('slipped', 3983, 16017, 0.5951970815658569)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Kara was playing soccer against a rival team.
+The game was tied, and nearly over.
+Then Kara scored the winning goal!
+Everyone cheered and Kara laughed with joy!
+> The team hoisted her off on their shoulders!
+
+__About the match__
+Rarest shared words: [('cheered', (7.600310578434198, 7.600310578434198)), ('tied', (7.137687056486085, 7.137687056486085)), ('winning', (6.8925645984531, 6.8925645984531)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016)), ('then', (4.075681655982314, 4.075681655982314)), ('over', (3.8982826514767552, 3.8982826514767552)), ('!', (3.7291095675263066, 3.7291095675263066))]
+Score: 0.769662560108961
+
+__About the completion__
+Rarest in completion: [('hoisted', 11.12665110365034), ('shoulders', 9.517213191216241), ('team', 5.479438980482533), ('off', 4.4887379789916535), ('their', 4.437673918472774), ('!', 3.536809591467683)]
+Nearest to completion: [('shoulders', 0.7220319509506226), ('off', 0.4443328082561493), ('team', 0.4349755644798279), ('their', 0.38520756363868713), ('shoulder', 0.35955631732940674), ('onto', 0.33858194947242737), ('squad', 0.332871675491333), ('rested', 0.3237464427947998), ('teammates', 0.32084643840789795), ('respective', 0.31331172585487366)]
+
+--------------------------------------------------------------------------
+
+Sue's high school football team made it to the championship game.
+Her dad took her and a friend to the game at the big NFL stadium.
+Her team was behind for most of the game.
+They scored with a minute left then won in overtime.
+> Sue and her friend celebrated at Krispy Kreme after the game.
+
+__About the match__
+Rarest shared words: [('game', (4.677781708903502, 4.677781708903502)), ('then', (4.075681655982314, 4.075681655982314)), ('made', (3.9565515596007312, 3.9565515596007312)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.6160596343702195
+
+__About the completion__
+Rarest in completion: [('celebrated', 8.236279345754177), ('game', 5.066360365612506), ('friend', 4.4228496815892715), ('after', 3.9503965716331964)]
+Nearest to completion: [('celebrated', 0.6212416291236877), ('celebrating', 0.4930388033390045), ('celebrate', 0.46153634786605835), ('celebration', 0.4533185660839081), ('celebrates', 0.4469112753868103), ('game', 0.4424014091491699), ('friend', 0.4293223023414612), ('teammate', 0.4114176332950592), ('pal', 0.38459059596061707), ('celebrations', 0.37346044182777405)]
+
+--------------------------------------------------------------------------
+
+Fred was playing in a basketball game.
+It was the championship game.
+Fred wanted the ball for the last shot.
+The ball is passed to Fred.
+> He shoots and misses and loses the game for the team.
+
+__About the match__
+Rarest shared words: [('shot', (6.096233181657924, 6.096233181657924)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.6153740683104147
+
+__About the completion__
+Rarest in completion: [('shoots', 9.873888135154973), ('misses', 8.452502454223811), ('loses', 8.323290722743806), ('team', 5.479438980482533), ('game', 5.066360365612506)]
+Nearest to completion: [('misses', 0.6563973426818848), ('loses', 0.6508995890617371), ('shoots', 0.6307014226913452), ('pulls', 0.46713221073150635), ('earns', 0.46277615427970886), ('beats', 0.4620981216430664), ('defends', 0.45290428400039673), ('gets', 0.44959214329719543), ('drops', 0.44608309864997864), ('game', 0.4350919723510742)]
+
+--------------------------------------------------------------------------
+
+Jim was in a junior hockey league.
+He was playing in his first game.
+Another player threw him against the wall.
+Jim hurt his shoulder.
+> Jim decided that hockey wasn't for him and quit.
+
+__About the match__
+Rarest shared words: [('hockey', (8.236299345154194, 8.236299345154194)), ('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.6004163683460321
+
+__About the completion__
+Rarest in completion: [('hockey', 8.684304068281136), ('quit', 6.649314289172134), ('decided', 3.495461951503386), ('him', 3.3907807836977737), ("n't", 3.334508641807057)]
+Nearest to completion: [('hockey', 0.5860114097595215), ('quit', 0.5712515115737915), ('quitting', 0.4499966502189636), ('resigning', 0.44089698791503906), ('resign', 0.4342203736305237), ('Hockey', 0.43365126848220825), ('resigned', 0.4315006136894226), ('decided', 0.4235678017139435), ('quits', 0.39376601576805115), ('Hockey_League', 0.37252333760261536)]
+
+--------------------------------------------------------------------------
+
+The championship was tonight.
+It was tied late in the game.
+I was asked to take the last shot.
+I went got the ball and took the shot.
+> I made it and we won.
+
+__About the match__
+Rarest shared words: [('tied', (7.137687056486085, 7.137687056486085)), ('shot', (6.096233181657924, 6.096233181657924)), ('game', (4.677781708903502, 4.677781708903502))]
+Score: 0.5984494845080047
+
+__About the completion__
+Rarest in completion: [('won', 5.467168887890719), ('we', 4.354142974076229), ('made', 4.267560996649484)]
+Nearest to completion: [('won', 0.6776129007339478), ('made', 0.5450099110603333), ('clinched', 0.49008476734161377), ('winning', 0.46501624584198), ('wins', 0.4232995808124542), ('Wins', 0.4062199592590332), ('garnered', 0.39291271567344666), ('awarded', 0.3881780207157135), ('win', 0.3866793215274811), ('achieved', 0.3817859888076782)]
+
+--------------------------------------------------------------------------
+
+My brother had a baseball game last night.
+My family attended to cheer him on.
+The game was tied at the bottom of the ninth.
+My brother hit in the winning run!
+> We all jumped and cheered.
+
+__About the match__
+Rarest shared words: [('tied', (7.137687056486085, 7.137687056486085)), ('winning', (6.8925645984531, 6.8925645984531)), ('game', (4.677781708903502, 4.677781708903502)), ('!', (3.7291095675263066, 3.7291095675263066))]
+Score: 0.5975995053813384
+
+__About the completion__
+Rarest in completion: [('cheered', 7.615105664819319), ('jumped', 6.318540073665559), ('we', 4.354142974076229), ('all', 3.5398475684877595)]
+Nearest to completion: [('cheered', 0.6695521473884583), ('jumped', 0.623997688293457), ('climbed', 0.5281111001968384), ('surged', 0.5211649537086487), ('soared', 0.48184263706207275), ('roared', 0.45502305030822754), ('rose', 0.4548630118370056), ('stood', 0.4548233151435852), ('cheering', 0.4462708532810211), ('jumping', 0.4404519498348236)]
+
+--------------------------------------------------------------------------
+
+Stephen was a great basketball player.
+He was the leading scorer for his team.
+They were in the championship game and Stephen was scoring a lot of po.
+At the buzzer, he shot a 3-pointer for the win.
+> It went in, nothing but net!
+
+__About the match__
+Rarest shared words: [('shot', (6.096233181657924, 6.096233181657924)), ('game', (4.677781708903502, 4.677781708903502))]
+Score: 0.5944899428711601
+
+__About the completion__
+Rarest in completion: [('net', 8.600922459342085), ('nothing', 6.368759830644585), ('!', 3.536809591467683), ('but', 3.4639482432028115), ('went', 3.303005172815388)]
+Nearest to completion: [('net', 0.6845293641090393), ('nothing', 0.4423159956932068), ('totaled', 0.3677127957344055), ('quarter', 0.36745160818099976), ('swung', 0.3476327657699585), ('netting', 0.3459649085998535), ('went', 0.3421548902988434), ('diluted_share', 0.3346266746520996), ('corresponding_period', 0.32106560468673706), ('ended', 0.3198951184749603)]
+
+--------------------------------------------------------------------------
+
+Will was a good soccer player.
+He had scored a goal in every game he'd ever played in.
+One game, he hadn't scored with just a minute to go.
+He ran down the field, determined to score.
+> He kicked it hard and it went in!
+
+__About the match__
+Rarest shared words: [('game', (4.677781708903502, 4.677781708903502))]
+Score: 0.5927680652100143
+
+__About the completion__
+Rarest in completion: [('kicked', 7.175407385068913), ('hard', 5.005255386950328), ('!', 3.536809591467683), ('went', 3.303005172815388)]
+Nearest to completion: [('kicked', 0.7072465419769287), ('went', 0.4893708825111389), ('kicking', 0.4611411690711975), ('booted', 0.4335530400276184), ('hard', 0.42771288752555847), ('kicks', 0.42766231298446655), ('broke', 0.4093506634235382), ('stormed', 0.4029870331287384), ('knocked', 0.39778387546539307), ('ran', 0.3899518847465515)]
+
+--------------------------------------------------------------------------
+
+Allie went to the basketball game.
+Her brother was playing.
+She had to be there.
+At the end his team won.
+> She was so happy.
+
+__About the match__
+Rarest shared words: [('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016))]
+Score: 0.5895930541104459
+
+__About the completion__
+Rarest in completion: [('happy', 4.78013793434821), ('so', 3.628612279567497)]
+Nearest to completion: [('happy', 0.7671622633934021), ('pleased', 0.5742559432983398), ('glad', 0.5378777384757996), ('delighted', 0.534636378288269), ('thrilled', 0.5167423486709595), ('proud', 0.512934148311615), ('satisfied', 0.48604804277420044), ('ecstatic', 0.4717335104942322), ('disappointed', 0.4703996181488037), ('happier', 0.461637020111084)]
+
+--------------------------------------------------------------------------
+
+Lily always wanted to play soccer.
+Lily's father told her she wasn't allowed to play a rough sport.
+Lily sneaked around, playing soccer behind her dad's back.
+Lily did so well in the school's playoff game that it hit the news.
+> Lily was promptly grounded when her dad found out about her playing.
+
+__About the match__
+Rarest shared words: [('game', (4.677781708903502, 4.677781708903502)), ('playing', (4.592882265117016, 4.592882265117016)), ('school', (3.843909923444766, 3.843909923444766))]
+Score: 0.5877523434826021
+
+__About the completion__
+Rarest in completion: [('promptly', 9.111748083108075), ('lily', 7.849506370658164), ('grounded', 7.725453721988185), ('dad', 5.615240521641596), ('playing', 5.123999367151794), ('found', 4.202038707601781), ('about', 4.124950211825675), ('when', 3.4368224349138567), ('out', 3.3165011979861596)]
+Nearest to completion: [('grounded', 0.5787534713745117), ('promptly', 0.33819928765296936), ('dad', 0.31234604120254517), ('out', 0.30516400933265686), ('mom', 0.26000097393989563), ('when', 0.2540292739868164), ('swinging', 0.25265052914619446), ('father', 0.24807588756084442), ('laced', 0.24563652276992798), ('playing', 0.24249079823493958)]
+
+--------------------------------------------------------------------------
+
+

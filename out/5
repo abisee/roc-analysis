@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+John was a pastor with a very bad memory.
+He tried to memorize his sermons many days in advance but to no avail.
+He decided to learn to sing to overcome his handicap.
+He then made all his sermons into music and sang them on Sundays.
+> His congregation was delighted and so was he.
+
+__About the context__
+Rarest in context: [('sermons', 10.433523922490414), ('handicap', 10.433523922490414), ('sundays', 9.740376741930469), ('memorize', 9.517233190616258), ('overcome', 8.561721745588823), ('pastor', 8.4876137734351), ('advance', 8.418620901948149), ('avail', 7.759375273063885), ('memory', 7.660935200250632), ('sang', 7.137687056486085), ('sing', 6.983536376658827), ('music', 5.650207551118848), ('learn', 5.558326599289263), ('days', 5.2405670716002035), ('bad', 4.950803832944597), ('many', 4.663641646129689), ('no', 4.393269211213), ('then', 4.075681655982314), ('tried', 3.9806866353359713), ('made', 3.9565515596007312), ('into', 3.75707038252395), ('them', 3.5707660094390126), ('very', 3.353497422567824)]
+Nearest to context: [('sing', 0.5056077837944031), ('sung', 0.4604262411594391), ('sang', 0.4295699894428253), ('singing', 0.42519813776016235), ('songs', 0.420402854681015), ('singers', 0.4163220524787903), ('sings', 0.376218318939209), ('overcome', 0.3754400908946991), ('lyrics', 0.37474939227104187), ('song', 0.3672555088996887)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('singing', 4580, 15420, 0.6668089032173157), ('sang', 8477, 11523, 0.6208106875419617), ('sung', 15975, 4025, 0.5963000059127808), ('sing', 6008, 13992, 0.5793514251708984), ('sings', 14008, 5992, 0.5562979578971863), ('singers', 10003, 9997, 0.5297020673751831), ('song', 2216, 17784, 0.518808901309967), ('choir', 10987, 9013, 0.5142278075218201), ('chorus', 11291, 8709, 0.5018116235733032), ('songs', 2404, 17596, 0.487250417470932)]
+Nearest words to completions' keywords: [('sang', 8477, 11523, 0.7029438018798828), ('singing', 4580, 15420, 0.6729599833488464), ('sing', 6008, 13992, 0.6691744327545166), ('sung', 15975, 4025, 0.6198687553405762), ('sings', 14008, 5992, 0.5751473903656006), ('song', 2216, 17784, 0.5691782832145691), ('singers', 10003, 9997, 0.5662396550178528), ('cried', 11408, 8592, 0.5479421615600586), ('songs', 2404, 17596, 0.5276238918304443), ('danced', 13950, 6050, 0.5204954743385315)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.6216627359390259), ('won', 301, 19699, 0.61319899559021), ('came', 256, 19744, 0.5905643105506897), ('gave', 573, 19427, 0.5629898905754089), ('went', 297, 19703, 0.5486749410629272), ('liked', 3988, 16012, 0.5410764813423157), ('sang', 8477, 11523, 0.5388208031654358), ('had', 35, 19965, 0.5387691259384155), ('played', 407, 19593, 0.537112295627594), ('wanted', 583, 19417, 0.5324610471725464)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Sal wanted to audition for the local singing competition.
+He listened to many songs before hearing the one he wanted to sing.
+He was nervous but no one in the audience could tell.
+Sal sang the song with no mistakes at all.
+> The judges announced Sal as the winner.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085)), ('sing', (6.983536376658827, 6.983536376658827)), ('many', (4.663641646129689, 4.663641646129689)), ('no', (4.393269211213, 4.393269211213))]
+Score: 0.5192472062845197
+
+__About the completion__
+Rarest in completion: [('winner', 8.264450222720871), ('judges', 8.082128665926916), ('announced', 7.529338843061895), ('as', 3.9638660844916718)]
+Nearest to completion: [('judges', 0.6482908725738525), ('winner', 0.626435399055481), ('winners', 0.5580100417137146), ('finalists', 0.5557628273963928), ('finalist', 0.537266731262207), ('Judges', 0.5313166975975037), ('announced', 0.5120681524276733), ('Winners', 0.4427138864994049), ('nominees', 0.4366946816444397), ('Winner', 0.43236663937568665)]
+
+--------------------------------------------------------------------------
+
+Anna wanted to sing in the school musical.
+She went to the audition.
+Nervously, she sang the song she was given.
+The appraisers clapped when she finished!
+> They loved her voice and gave her the part!
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085)), ('sing', (6.983536376658827, 6.983536376658827))]
+Score: 0.5050769170642624
+
+__About the completion__
+Rarest in completion: [('voice', 7.88797265148596), ('part', 6.672303807396832), ('gave', 4.8834555483762365), ('loved', 4.425305176991248), ('!', 3.536809591467683)]
+Nearest to completion: [('voice', 0.6304534077644348), ('loved', 0.48327499628067017), ('gave', 0.43766915798187256), ('voices', 0.3889327347278595), ('Voice', 0.35897523164749146), ('thanked', 0.35208529233932495), ('gives', 0.3463554084300995), ('paid_tribute', 0.34526416659355164), ('voiced', 0.34150752425193787), ('listened', 0.33339178562164307)]
+
+--------------------------------------------------------------------------
+
+Nellie always wanted to learn how to sing.
+She signed up for a group singing class.
+During the vocal exercises, she realized she was very out of tune.
+The teacher coached her and gave her encouragement.
+> Nellie let go of her self-consciousness and gradually improved.
+
+__About the match__
+Rarest shared words: [('sing', (6.983536376658827, 6.983536376658827)), ('learn', (5.558326599289263, 5.558326599289263)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.48172783075552644
+
+__About the completion__
+Rarest in completion: [('self-consciousness', 11.12665110365034), ('gradually', 8.875359305043844), ('improved', 7.660915200850614), ('let', 5.763014270981661), ('go', 4.110041419756121)]
+Nearest to completion: [('gradually', 0.6006237864494324), ('improved', 0.553355872631073), ('improves', 0.49843090772628784), ('improve', 0.4809997081756592), ('slowly', 0.4641004502773285), ('steadily', 0.4500117301940918), ('improving', 0.4295775890350342), ('dramatically', 0.41063663363456726), ('deteriorate', 0.4070605933666229), ('gradual', 0.39376121759414673)]
+
+--------------------------------------------------------------------------
+
+Doug was a dreamer.
+He had a good voice for singing.
+One day Doug decided to enter a local talent contest.
+Doug went on stage and sung country music.
+> Doug won the crowd over and won the contest.
+
+__About the match__
+Rarest shared words: [('music', (5.650207551118848, 5.650207551118848))]
+Score: 0.47578886426095174
+
+__About the completion__
+Rarest in completion: [('crowd', 7.05762434941253), ('contest', 7.049113659744621), ('won', 5.467168887890719), ('over', 4.367395832986647)]
+Nearest to completion: [('contest', 0.6299224495887756), ('won', 0.5947811007499695), ('crowd', 0.5664421319961548), ('contests', 0.5376002788543701), ('win', 0.5049353837966919), ('winner', 0.494510293006897), ('victory', 0.47298434376716614), ('winning', 0.4464307725429535), ('wins', 0.44291913509368896), ('winners', 0.4350871741771698)]
+
+--------------------------------------------------------------------------
+
+Megan called her brother on his birthday.
+Her brother asked her to sing a song.
+She sang his favorite birthday song.
+Megan's phone lost it's connection.
+> They talked later.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085)), ('sing', (6.983536376658827, 6.983536376658827))]
+Score: 0.4708233938259738
+
+__About the completion__
+Rarest in completion: [('talked', 6.286408795482766), ('later', 5.235006891824569)]
+Nearest to completion: [('talked', 0.6636981964111328), ('later', 0.5860521793365479), ('spoke', 0.5837643146514893), ('discussed', 0.4920116066932678), ('ago', 0.44158804416656494), ('discussing', 0.4030494689941406), ('earlier', 0.3964957594871521), ('Later', 0.39438319206237793), ('spoken', 0.3902766704559326), ('interviewed', 0.3882654309272766)]
+
+--------------------------------------------------------------------------
+
+Sara was always singing something.
+She would even sing about what she was doing.
+Today, she made up a song about me and sang it.
+Everyone, including me, laughed about it.
+> Sara is very good at singing and making up songs.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085)), ('sing', (6.983536376658827, 6.983536376658827)), ('made', (3.9565515596007312, 3.9565515596007312))]
+Score: 0.4664465703442638
+
+__About the completion__
+Rarest in completion: [('songs', 7.794446593475136), ('singing', 7.543132165194231), ('making', 5.845988672341025), ('good', 4.6993539118177985), ('is', 4.0817459865209695), ('very', 3.793301345264873)]
+Nearest to completion: [('songs', 0.6393771171569824), ('singing', 0.6326910257339478), ('song', 0.562404215335846), ('tunes', 0.5401136875152588), ('sings', 0.5230025053024292), ('lyrics', 0.5170968770980835), ('sung', 0.5124679207801819), ('sing', 0.49997881054878235), ('singers', 0.47400543093681335), ('sang', 0.46065792441368103)]
+
+--------------------------------------------------------------------------
+
+Stephanie loved to sing.
+She often sang to herself without anyone around.
+One day she decided to sing in front of her friends.
+Her friends were so impressed that they convinced her to perform.
+> Stephanie now has a singing recital coming up next month.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085)), ('sing', (6.983536376658827, 6.983536376658827))]
+Score: 0.4598225623578031
+
+__About the completion__
+Rarest in completion: [('recital', 7.948597273302394), ('singing', 7.543132165194231), ('month', 6.119354710819599), ('coming', 6.008657291233585), ('has', 4.937360813212439), ('next', 4.72639365834152), ('now', 4.716476221684173)]
+Nearest to completion: [('next', 0.49163299798965454), ('month', 0.46888360381126404), ('now', 0.4312693178653717), ('months', 0.425838828086853), ('has', 0.42410311102867126), ('year', 0.4182659089565277), ('singing', 0.4018924832344055), ('week', 0.40151381492614746), ('weeks', 0.40137651562690735), ('last', 0.38307619094848633)]
+
+--------------------------------------------------------------------------
+
+Miley had wanted to sing in the church choir.
+She was told there was no room for any new singers.
+Last Sunday she was asked to fill in for a week.
+Miley gladly accepted the invite.
+> She now sings with choir every week.
+
+__About the match__
+Rarest shared words: [('sing', (6.983536376658827, 6.983536376658827)), ('no', (4.393269211213, 4.393269211213))]
+Score: 0.45289876763557746
+
+__About the completion__
+Rarest in completion: [('sings', 10.210360371776185), ('choir', 8.64174445386234), ('week', 5.050156307357783), ('every', 4.763623000109876), ('now', 4.716476221684173)]
+Nearest to completion: [('choir', 0.699310839176178), ('sings', 0.6796371936798096), ('singing', 0.5771567225456238), ('sung', 0.5681052207946777), ('sing', 0.5419849157333374), ('chorus', 0.5281195044517517), ('sang', 0.5095683336257935), ('singers', 0.48477569222450256), ('piano', 0.4744859039783478), ('orchestra', 0.45793694257736206)]
+
+--------------------------------------------------------------------------
+
+Pat had been moved to tears.
+The songs in the musical were so powerful and amazing.
+She had seen this musical five times and each time was more special.
+She sang along in her head as she knew all the lyrics.
+> When it was over, she stood and clapped loudly.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085))]
+Score: 0.4476140709333168
+
+__About the completion__
+Rarest in completion: [('clapped', 7.927977986099659), ('loudly', 7.742260840304566), ('stood', 6.638014733918201), ('over', 4.367395832986647), ('when', 3.4368224349138567)]
+Nearest to completion: [('loudly', 0.7071807384490967), ('stood', 0.5753979682922363), ('over', 0.3976461887359619), ('stands', 0.3845726549625397), ('cheered', 0.3799474239349365), ('waved', 0.3586856722831726), ('leaned', 0.3585030138492584), ('shouted', 0.351093590259552), ('screamed', 0.34703341126441956), ('loud', 0.34284481406211853)]
+
+--------------------------------------------------------------------------
+
+Clarissa sang the words to her favorite song.
+Her friend joined in on the singing.
+Their boyfriends started clapping.
+The girls got quiet.
+> One of the boyfriends complimented the girls.
+
+__About the match__
+Rarest shared words: [('sang', (7.137687056486085, 7.137687056486085))]
+Score: 0.4462144061455023
+
+__About the completion__
+Rarest in completion: [('boyfriends', 9.873888135154973), ('complimented', 8.452502454223811), ('girls', 6.7828456817966565), ('one', 3.351585275015767)]
+Nearest to completion: [('girls', 0.8617172241210938), ('boys', 0.7338120341300964), ('Girls', 0.5836467146873474), ('women', 0.5774551630020142), ('teenagers', 0.5078137516975403), ('ladies', 0.48574700951576233), ('females', 0.4818226993083954), ('girl', 0.4732482135295868), ('men', 0.47081848978996277), ('teens', 0.4436437487602234)]
+
+--------------------------------------------------------------------------
+
+

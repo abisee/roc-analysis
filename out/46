@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jane had recently gotten a new job.
+She was nervous about her first day of work.
+On the first day of work, Jane overslept.
+Jane arrived at work an hour late.
+> Jane did not make a good impression at her new job.
+
+__About the context__
+Rarest in context: [('overslept', 8.4876137734351), ('gotten', 6.3391793602683135), ('hour', 5.403086001097979), ('recently', 5.383667915240877), ('arrived', 5.165665763427086), ('late', 5.127734541103676), ('nervous', 4.831405101610713), ('job', 4.4999533538013345), ('first', 3.9673791982527944), ('work', 3.8703738633596787), ('about', 3.625036645166946), ('new', 3.4017826637272854), ('an', 3.319567812924379)]
+Nearest to context: [('recently', 0.3997356593608856), ('late', 0.3675939440727234), ('first', 0.3602606952190399), ('shortly', 0.3399559259414673), ('hour', 0.33493751287460327), ('early', 0.31910184025764465), ('new', 0.3168606162071228), ('long_awaited', 0.31508591771125793), ('initial', 0.3137698769569397), ('Shortly', 0.30381372570991516)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('glad', 4258, 15742, 0.39335498213768005), ('pleased', 1700, 18300, 0.38725268840789795), ('thrilled', 5437, 14563, 0.38011929392814636), ('job', 372, 19628, 0.3731647729873657), ('proud', 1913, 18087, 0.3716771900653839), ('excited', 1860, 18140, 0.37090426683425903), ('internship', 19368, 632, 0.35813257098197937), ('hired', 2650, 17350, 0.3529762327671051), ('happy', 1049, 18951, 0.34171923995018005), ('interview', 1152, 18848, 0.3381374180316925)]
+Nearest words to completions' keywords: [('happy', 1049, 18951, 0.665915846824646), ('glad', 4258, 15742, 0.6570705771446228), ('wonderful', 3057, 16943, 0.616439938545227), ('fantastic', 3903, 16097, 0.6128640174865723), ('excited', 1860, 18140, 0.6009672284126282), ('proud', 1913, 18087, 0.6002416610717773), ('thrilled', 5437, 14563, 0.594923734664917), ('thankful', 9423, 10577, 0.577553927898407), ('great', 267, 19733, 0.5769196152687073), ('terrific', 7340, 12660, 0.5767364501953125)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.797200083732605), ('had', 35, 19965, 0.7591853737831116), ('did', 92, 19908, 0.7127240896224976), ('went', 297, 19703, 0.6905751824378967), ('came', 256, 19744, 0.6822516918182373), ('knew', 1039, 18961, 0.6781869530677795), ('got', 193, 19807, 0.6740845441818237), ('wanted', 583, 19417, 0.6621232628822327), ('saw', 653, 19347, 0.6498578786849976), ('would', 47, 19953, 0.6084721684455872)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Ben was excited, but a little apprehensive.
+Today he was starting his first job.
+He had applied earlier that week and they had hired him.
+He arrived at work, ready to go.
+> Ben had a great first day of work and did really well.
+
+__About the match__
+Rarest shared words: [('arrived', (5.165665763427086, 5.165665763427086)), ('job', (4.4999533538013345, 4.4999533538013345)), ('first', (3.9673791982527944, 3.9673791982527944)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.5565942688008252
+
+__About the completion__
+Rarest in completion: [('well', 5.318508613669897), ('great', 4.843450213762537), ('really', 4.8267831612773255), ('first', 4.4744334437934175), ('work', 4.3399341530452595), ('did', 3.6104898725633485), ('day', 3.3461390948177767)]
+Nearest to completion: [('great', 0.5564049482345581), ('well', 0.49862048029899597), ('terrific', 0.46734923124313354), ('fantastic', 0.4547889828681946), ('really', 0.4376828670501709), ('excellent', 0.4367421865463257), ('tremendous', 0.4322409927845001), ('phenomenal', 0.4192643165588379), ('good', 0.41448113322257996), ('wonderful', 0.3704753518104553)]
+
+--------------------------------------------------------------------------
+
+Steve was waiting for his mom to come home from work.
+And he was getting really worried.
+He was expecting her to be home an hour ago.
+But Steve was happy that she finally arrived.
+> His mom told him that she just went to a restaurant after work.
+
+__About the match__
+Rarest shared words: [('hour', (5.403086001097979, 5.403086001097979)), ('arrived', (5.165665763427086, 5.165665763427086)), ('work', (3.8703738633596787, 3.8703738633596787)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4778220890369781
+
+__About the completion__
+Rarest in completion: [('restaurant', 5.838384072955805), ('mom', 4.822202301228359), ('just', 4.707470839499374), ('work', 4.3399341530452595), ('told', 4.259717819188459), ('after', 3.9503965716331964), ('him', 3.3907807836977737), ('went', 3.303005172815388)]
+Nearest to completion: [('restaurant', 0.4999971091747284), ('Restaurant', 0.44821545481681824), ('mom', 0.3760417699813843), ('Cafe', 0.34704750776290894), ('Grill', 0.3430412709712982), ('chef', 0.3414832353591919), ('mother', 0.34073686599731445), ('father', 0.33433178067207336), ('restaurants', 0.3331131339073181), ('bakery', 0.3317345976829529)]
+
+--------------------------------------------------------------------------
+
+Last week I had an interview.
+I was supposed to be there at ten in the morning.
+When I entered there, I got a dirty look.
+I realized I was an hour late.
+> The boss was not thrilled.
+
+__About the match__
+Rarest shared words: [('hour', (5.403086001097979, 5.403086001097979)), ('late', (5.127734541103676, 5.127734541103676)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4749234498353517
+
+__About the completion__
+Rarest in completion: [('thrilled', 7.25545009274245), ('boss', 5.93369425276013), ('not', 3.8329533830489027)]
+Nearest to completion: [('thrilled', 0.7046513557434082), ('delighted', 0.6792430877685547), ('pleased', 0.5870340466499329), ('boss', 0.5851170420646667), ('excited', 0.5581752061843872), ('proud', 0.5180308818817139), ('ecstatic', 0.49079322814941406), ('happy', 0.47107526659965515), ('glad', 0.4525674283504486), ('disappointed', 0.4411422312259674)]
+
+--------------------------------------------------------------------------
+
+The family had arrived at Disney World.
+They immediately got in line for the new ride.
+They waited over an hour.
+It was the best ride they'd ever been on!
+> They had a ton of fun at Disney.
+
+__About the match__
+Rarest shared words: [('hour', (5.403086001097979, 5.403086001097979)), ('arrived', (5.165665763427086, 5.165665763427086)), ('new', (3.4017826637272854, 3.4017826637272854)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4672595194778639
+
+__About the completion__
+Rarest in completion: [('ton', 8.487593774035082), ('fun', 5.29917715665159)]
+Nearest to completion: [('ton', 0.6985952258110046), ('fun', 0.669795036315918), ('tons', 0.42743659019470215), ('awesome', 0.41870930790901184), ('Fun', 0.406926691532135), ('enjoyable', 0.39620593190193176), ('tonne', 0.3638363182544708), ('entertaining', 0.36180543899536133), ('loads', 0.3566941022872925), ('lots', 0.3554437458515167)]
+
+--------------------------------------------------------------------------
+
+Ben was slacking on the job.
+He was missing a lot of work and left the days early.
+Ben continued to do this since he thought he could get away with it.
+The boss finally noticed this.
+> Ben was fired from the job.
+
+__About the match__
+Rarest shared words: [('job', (4.4999533538013345, 4.4999533538013345)), ('work', (3.8703738633596787, 3.8703738633596787))]
+Score: 0.46325328943431526
+
+__About the completion__
+Rarest in completion: [('fired', 6.914523505771856), ('job', 4.864205675813988), ('from', 3.996552593524763)]
+Nearest to completion: [('fired', 0.7286586165428162), ('job', 0.6006317138671875), ('firing', 0.5807522535324097), ('jobs', 0.4075886905193329), ('resigned', 0.40437203645706177), ('shot', 0.37114274501800537), ('sacked', 0.37083128094673157), ('hired', 0.3678223490715027), ('hiring', 0.36523157358169556), ('resigning', 0.35271215438842773)]
+
+--------------------------------------------------------------------------
+
+Tom closed the deal on his new car late one afternoon.
+He hurried to work, already very late.
+He walked into his department and began working.
+He waited for his boss to come reprimand him.
+> He was lucky that day because she didn't even notice.
+
+__About the match__
+Rarest shared words: [('late', (5.127734541103676, 5.127734541103676)), ('work', (3.8703738633596787, 3.8703738633596787)), ('new', (3.4017826637272854, 3.4017826637272854))]
+Score: 0.46271493121813134
+
+__About the completion__
+Rarest in completion: [('lucky', 7.413079036946033), ('notice', 7.194825470926014), ('even', 5.482972553063845), ('because', 4.980321845981443), ('did', 3.6104898725633485), ('day', 3.3461390948177767), ("n't", 3.334508641807057)]
+Nearest to completion: [('notice', 0.5425184965133667), ('lucky', 0.44657695293426514), ('did', 0.34552082419395447), ('fortunate', 0.34356963634490967), ('unlucky', 0.3231986165046692), ('if', 0.32282567024230957), ('even', 0.3092430531978607), ('because', 0.30391010642051697), ('though', 0.3003793954849243), ('notices', 0.2969941198825836)]
+
+--------------------------------------------------------------------------
+
+Sam was working hard.
+He didn't realize how late it had gotten.
+Ha had to have clocked out hours prior.
+His boss got upset at him.
+> Sam got written up and reprimanded.
+
+__About the match__
+Rarest shared words: [('gotten', (6.3391793602683135, 6.3391793602683135)), ('late', (5.127734541103676, 5.127734541103676))]
+Score: 0.45884601814673
+
+__About the completion__
+Rarest in completion: [('reprimanded', 9.111748083108075), ('written', 8.38581107972514), ('got', 3.390344007102055)]
+Nearest to completion: [('written', 0.787407636642456), ('penned', 0.5651485323905945), ('Written', 0.495608389377594), ('writing', 0.4657304883003235), ('got', 0.45873820781707764), ('received', 0.45718541741371155), ('wrote', 0.45329684019088745), ('write', 0.4456252157688141), ('authored', 0.42853832244873047), ('read', 0.4233955442905426)]
+
+--------------------------------------------------------------------------
+
+Erica recently lost her job.
+She felt very upset about it.
+She spent several hours per day applying to new jobs.
+Eventually she got an interview at a great company.
+> Erica's interview went well and she was hired.
+
+__About the match__
+Rarest shared words: [('recently', (5.383667915240877, 5.383667915240877)), ('job', (4.4999533538013345, 4.4999533538013345)), ('about', (3.625036645166946, 3.625036645166946)), ('new', (3.4017826637272854, 3.4017826637272854)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4534134920712964
+
+__About the completion__
+Rarest in completion: [('interview', 6.878155861600981), ('hired', 6.7322019489779015), ('well', 5.318508613669897), ("'s", 3.3551623435327245), ('went', 3.303005172815388)]
+Nearest to completion: [('interview', 0.6293778419494629), ('hired', 0.6186434626579285), ('interviewed', 0.4572191834449768), ('interviews', 0.4252273738384247), ('worked', 0.42465272545814514), ('telephone_interview', 0.40391555428504944), ('appointed', 0.37244901061058044), ('recruited', 0.3719337582588196), ('consultant', 0.3713846206665039), ('oversaw', 0.36405399441719055)]
+
+--------------------------------------------------------------------------
+
+Jacob finally got a day off from work yesterday.
+He woke up early in the morning to get a head start.
+He went to visit his sister for breakfast.
+They talked for a long time about the weather.
+> Jacob was really glad to see his sister that day.
+
+__About the match__
+Rarest shared words: [('work', (3.8703738633596787, 3.8703738633596787)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.44994485921522065
+
+__About the completion__
+Rarest in completion: [('glad', 5.993798176829835), ('sister', 5.982067837044346), ('really', 4.8267831612773255), ('see', 4.749074176950009), ('day', 3.3461390948177767)]
+Nearest to completion: [('glad', 0.5504491329193115), ('sister', 0.4299273192882538), ('proud', 0.3995862305164337), ('thrilled', 0.3976418673992157), ('thankful', 0.3967427611351013), ('excited', 0.3935667872428894), ('see', 0.38871175050735474), ('really', 0.38504794239997864), ('pleased', 0.37446901202201843), ('delighted', 0.36692750453948975)]
+
+--------------------------------------------------------------------------
+
+Bill was nervous about an upcoming math exam.
+Bill studied for two hours every night.
+Bill also got a tutor and worked on the math problems all week.
+When the exam day came, Bill felt confident.
+> Bill aced the exam!
+
+__About the match__
+Rarest shared words: [('nervous', (4.831405101610713, 4.831405101610713)), ('about', (3.625036645166946, 3.625036645166946)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.44932500888278265
+
+__About the completion__
+Rarest in completion: [('aced', 8.684304068281136), ('exam', 6.863971226609025), ('!', 3.536809591467683)]
+Nearest to completion: [('exam', 0.9844257235527039), ('exams', 0.8704037666320801), ('examinations', 0.783991813659668), ('examination', 0.6524088978767395), ('tests', 0.5104526281356812), ('test', 0.4735414385795593), ('math', 0.41568464040756226), ('courses', 0.41137388348579407), ('diploma', 0.409274160861969), ('evaluations', 0.40859875082969666)]
+
+--------------------------------------------------------------------------
+
+

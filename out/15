@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Beth sent a letter to Santa Claus.
+She received a letter back in the mail.
+Beth did not think that it sounded like the real Santa.
+She sent another letter calling that Santa a fake.
+> She did not receive another letter back in the mail.
+
+__About the context__
+Rarest in context: [('calling', 7.5157531904061345), ('fake', 7.5157531904061345), ('sounded', 7.342481469132098), ('letter', 6.850004984034304), ('mail', 6.707830495253761), ('real', 6.695854304207046), ('think', 6.026804675226161), ('received', 6.002707123647101), ('sent', 5.8536715444866125), ('another', 5.183871727923658), ('like', 4.351305012113968), ('back', 4.183548680230931), ('not', 3.4656147206885297)]
+Nearest to context: [('sent', 0.5124105215072632), ('letter', 0.508073091506958), ('mail', 0.4854409694671631), ('letters', 0.4794329106807709), ('mailed', 0.47891902923583984), ('e_mailed', 0.4757041037082672), ('forwarded', 0.4666815996170044), ('received', 0.44427356123924255), ('e_mail', 0.430656760931015), ('mailing', 0.4222237765789032)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('letter', 1243, 18757, 0.550236701965332), ('correspondence', 15029, 4971, 0.4595875144004822), ('e_mail', 1471, 18529, 0.4366084337234497), ('contacted', 3974, 16026, 0.421995609998703), ('letters', 2971, 17029, 0.42104485630989075), ('e_mailed', 14050, 5950, 0.41077446937561035), ('forwarded', 13822, 6178, 0.4101414084434509), ('notified', 5809, 14191, 0.40740182995796204), ('e_mails', 6192, 13808, 0.39930808544158936), ('refund', 9313, 10687, 0.39625656604766846)]
+Nearest words to completions' keywords: [('know', 177, 19823, 0.5556374192237854), ('do', 58, 19942, 0.5387898683547974), ('not', 13, 19987, 0.5284501314163208), ('knew', 1039, 18961, 0.5163904428482056), ('contacted', 3974, 16026, 0.513943612575531), ('glad', 4258, 15742, 0.5131232142448425), ('phoned', 18198, 1802, 0.5127230286598206), ('letter', 1243, 18757, 0.5126887559890747), ('ask', 1111, 18889, 0.5002184510231018), ('wanted', 583, 19417, 0.4975009560585022)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7200819849967957), ('was', 10, 19990, 0.6770336627960205), ('had', 35, 19965, 0.6577715277671814), ('knew', 1039, 18961, 0.6532353758811951), ('went', 297, 19703, 0.6403215527534485), ('came', 256, 19744, 0.6327487230300903), ('did', 92, 19908, 0.6251078844070435), ('wanted', 583, 19417, 0.600125789642334), ('do', 58, 19942, 0.5987246632575989), ("'d", 609, 19391, 0.5930511355400085)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Jackie was an elderly woman without much family around her.
+She received a letter in the mail asking for money for a bill.
+She did not realize and recognize a scam and sent in money.
+Her bank noticed who the check was sent to and called her.
+> Fortunately, the bank was able to protect Jackie and refund her money.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('mail', (6.707830495253761, 6.707830495253761)), ('received', (6.002707123647101, 6.002707123647101)), ('sent', (5.8536715444866125, 5.8536715444866125)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.5484112285641303
+
+__About the completion__
+Rarest in completion: [('protect', 9.334891634422286), ('refund', 8.20888037156606), ('fortunately', 7.868554565628858), ('bank', 6.892544599053081), ('able', 5.284557013196627), ('money', 4.903083263856677)]
+Nearest to completion: [('refund', 0.642644464969635), ('money', 0.5360462665557861), ('refunds', 0.5351428389549255), ('monies', 0.5094533562660217), ('bank', 0.49419891834259033), ('reimburse', 0.47249287366867065), ('repay', 0.47110018134117126), ('funds', 0.4566066563129425), ('payment', 0.45453619956970215), ('deposit', 0.44192609190940857)]
+
+--------------------------------------------------------------------------
+
+Joe decided to send a letter to his friend Jon.
+First he wrote the letter.
+Then he put the letter in the envelope.
+He wrote the address on the envelope.
+> Then he drove down to the post office to mail it.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304))]
+Score: 0.5433005714184133
+
+__About the completion__
+Rarest in completion: [('post', 7.948597273302394), ('mail', 7.214628098222194), ('office', 6.146475017038793), ('drove', 5.558306599889243), ('then', 4.392059443677392), ('down', 4.370882181666085)]
+Nearest to completion: [('mail', 0.5750542283058167), ('office', 0.533140242099762), ('post', 0.5220566391944885), ('postal', 0.40467050671577454), ('offices', 0.37764495611190796), ('down', 0.3452609181404114), ('box', 0.3343874514102936), ('drove', 0.3318166136741638), ('fax', 0.3309168517589569), ('mailing', 0.3264625668525696)]
+
+--------------------------------------------------------------------------
+
+I wrote a long letter to my friend Ryan.
+I put the letter in the mailbox.
+I waited several weeks to receive a reply.
+The letter I sent was returned to me.
+> I still don't know what happened to Ryan.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('sent', (5.8536715444866125, 5.8536715444866125))]
+Score: 0.5432593669931597
+
+__About the completion__
+Rarest in completion: [('happened', 6.914523505771856), ('know', 5.57563138354655), ('still', 5.390078806171148), ('what', 4.895185888161725), ('do', 4.865159419329299), ("n't", 3.334508641807057)]
+Nearest to completion: [('what', 0.6123188734054565), ('exactly', 0.5807158350944519), ('know', 0.5685129761695862), ('happened', 0.541409969329834), ('do', 0.5263375639915466), ('happening', 0.48913276195526123), ('happen', 0.47216978669166565), ('happens', 0.42505258321762085), ('What', 0.4203993082046509), ('understand', 0.39881405234336853)]
+
+--------------------------------------------------------------------------
+
+Ryan decides he would like to contact an old friend.
+He writes his friend a long letter.
+He sends his friend the letter in the mail.
+His friend receives it later that week.
+> Ryan is happy he contacted his friend.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('mail', (6.707830495253761, 6.707830495253761)), ('like', (4.351305012113968, 4.351305012113968))]
+Score: 0.5316037216060584
+
+__About the completion__
+Rarest in completion: [('contacted', 8.130918830096348), ('happy', 4.78013793434821), ('friend', 4.4228496815892715), ('is', 4.0817459865209695)]
+Nearest to completion: [('contacted', 0.6448485255241394), ('friend', 0.5260312557220459), ('phoned', 0.4737142026424408), ('happy', 0.4052163362503052), ('contacting', 0.39898574352264404), ('representative', 0.3879576027393341), ('colleague', 0.38116341829299927), ('approached', 0.376301646232605), ('spokesperson', 0.37231096625328064), ('e_mailed', 0.36244797706604004)]
+
+--------------------------------------------------------------------------
+
+I was mailing letters one evening.
+There were a lot of letters to mail and a lot of envelopes.
+When I licked one envelope, it gave my tongue a paper cut.
+I yelled out in pain from the paper cut.
+> I then went to the kitchen and got a wet sponge for the envelopes.
+
+__About the match__
+Rarest shared words: [('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.5284592647865721
+
+__About the completion__
+Rarest in completion: [('envelopes', 10.433503923090395), ('sponge', 10.028038814982231), ('wet', 7.3311619144781455), ('kitchen', 6.377380573688492), ('then', 4.392059443677392), ('got', 3.390344007102055), ('went', 3.303005172815388)]
+Nearest to completion: [('kitchen', 0.5129287838935852), ('wet', 0.4655911922454834), ('went', 0.3795244097709656), ('dining_room', 0.35425886511802673), ('downstairs', 0.35199910402297974), ('got', 0.3517828583717346), ('stove', 0.3434978723526001), ('bathroom', 0.33822721242904663), ('basement', 0.3295404314994812), ('upstairs', 0.3195561468601227)]
+
+--------------------------------------------------------------------------
+
+Lisa was waiting for an important letter.
+She checked the mail and there was an envelope addressed to her.
+Lisa nervously opened the envelope.
+It was the news she was waiting for.
+> The letter was an acceptance letter to college!
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.5278935381324412
+
+__About the completion__
+Rarest in completion: [('acceptance', 9.622573706874066), ('letter', 7.214628098222194), ('college', 5.853651545086594), ('an', 3.8221351571901856), ('!', 3.536809591467683)]
+Nearest to completion: [('acceptance', 0.6164878606796265), ('letter', 0.6030423045158386), ('letters', 0.4418605864048004), ('college', 0.4354531764984131), ('correspondence', 0.42197147011756897), ('an', 0.41969233751296997), ('rejection', 0.41738608479499817), ('memorandum', 0.3924633860588074), ('memo', 0.3812618553638458), ('acknowledgment', 0.37267354130744934)]
+
+--------------------------------------------------------------------------
+
+Sam had a date for Friday.
+The day of the date he didn't hear from her.
+Sam tried sending out a text but there was no response.
+When he called she replied by cancelling the date.
+> Sam felt upset but couldn't do anything about it.
+
+__About the match__
+Rarest shared words: []
+Score: 0.5221550670399847
+
+__About the completion__
+Rarest in completion: [('anything', 6.262970222510748), ('upset', 6.083225986731094), ('do', 4.865159419329299), ('felt', 4.558573192238365), ('about', 4.124950211825675), ('could', 3.8258407366367204), ('but', 3.4639482432028115), ("n't", 3.334508641807057)]
+Nearest to completion: [('anything', 0.5090221166610718), ('upset', 0.46796566247940063), ('not', 0.4233343303203583), ('Nor', 0.3904590904712677), ('do', 0.3754067122936249), ('could', 0.3722774088382721), ('did', 0.3714514374732971), ('worried', 0.36917585134506226), ('felt', 0.3596464991569519), ('nothing', 0.3569394648075104)]
+
+--------------------------------------------------------------------------
+
+Saul really liked Theresa.
+Theresa appeared to not like him.
+So he wrote her a letter.
+Somehow Theresa found this letter.
+> She was very happy and impressed at his skills.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('like', (4.351305012113968, 4.351305012113968)), ('not', (3.4656147206885297, 3.4656147206885297))]
+Score: 0.5183185266558564
+
+__About the completion__
+Rarest in completion: [('skills', 7.413079036946033), ('impressed', 7.146969449748379), ('happy', 4.78013793434821), ('very', 3.793301345264873)]
+Nearest to completion: [('impressed', 0.7287977337837219), ('pleased', 0.615416944026947), ('delighted', 0.5852950811386108), ('thrilled', 0.5543838739395142), ('skills', 0.5426317453384399), ('happy', 0.5242869257926941), ('excited', 0.5086639523506165), ('appreciative', 0.4958778917789459), ('enthusiastic', 0.49428868293762207), ('confident', 0.4903058707714081)]
+
+--------------------------------------------------------------------------
+
+Sally wrote a letter to a friend.
+She mailed the letter the next day.
+The letter was returned undelivered.
+She corrected the address on the envelope.
+> She sent the letter back out the next day.
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304))]
+Score: 0.5142521139064697
+
+__About the completion__
+Rarest in completion: [('letter', 7.214628098222194), ('sent', 6.1993974184931355), ('next', 4.72639365834152), ('back', 4.3399341530452595), ('day', 3.3461390948177767), ('out', 3.3165011979861596)]
+Nearest to completion: [('letter', 0.5668052434921265), ('sent', 0.5404269695281982), ('letters', 0.41734007000923157), ('memo', 0.4109237492084503), ('sending', 0.3911665976047516), ('back', 0.3850090801715851), ('mailed', 0.3847372531890869), ('send', 0.3821486532688141), ('memorandum', 0.3620343804359436), ('next', 0.35706809163093567)]
+
+--------------------------------------------------------------------------
+
+Ashley was anxiously awaiting the mail.
+She would check the mailbox every hour.
+Finally, it arrived.
+She ripped open the letter, eagerly.
+> She had gotten into college!
+
+__About the match__
+Rarest shared words: [('letter', (6.850004984034304, 6.850004984034304)), ('mail', (6.707830495253761, 6.707830495253761))]
+Score: 0.5010745112375931
+
+__About the completion__
+Rarest in completion: [('gotten', 6.802518447395362), ('college', 5.853651545086594), ('into', 4.270189119055754), ('!', 3.536809591467683)]
+Nearest to completion: [('college', 0.5753853917121887), ('gotten', 0.5162081718444824), ('into', 0.4400765001773834), ('colleges', 0.37541744112968445), ('Ivy_League', 0.3687863349914551), ('prep', 0.3218134641647339), ('collegiate', 0.3198678195476532), ('UC', 0.3095859885215759), ('OSU', 0.3031771779060364), ('NCAA', 0.3019872009754181)]
+
+--------------------------------------------------------------------------
+
+

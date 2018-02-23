@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bob took Laura to a Monster Truck Rally.
+They sat on the front row.
+Laura watched all the different trucks.
+She also saw different cars get crushed.
+> It was Laura's first time at a Monster Truck Rally.
+
+__About the context__
+Rarest in context: [('trucks', 8.641764453262358), ('crushed', 8.236299345154194), ('row', 7.543152164594249), ('cars', 6.626861432720094), ('different', 5.528249144051984), ('watched', 5.474181922781709), ('front', 5.336710932153106), ('also', 5.297725485440152), ('sat', 5.103223510089326), ('saw', 3.8322938037615377), ('get', 3.618432328371696), ('took', 3.6015703569245585)]
+Nearest to context: [('watched', 0.4618259370326996), ('sat', 0.4608745872974396), ('trucks', 0.42963647842407227), ('cars', 0.4284578263759613), ('stood', 0.40355509519577026), ('saw', 0.39983686804771423), ('front', 0.39666473865509033), ('row', 0.38660702109336853), ('vehicles', 0.3793882131576538), ('drove', 0.37551966309547424)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('vehicle', 1024, 18976, 0.586751401424408), ('truck', 2084, 17916, 0.5594030618667603), ('pickup_truck', 11490, 8510, 0.5266754031181335), ('SUV', 7072, 12928, 0.5218395590782166), ('car', 385, 19615, 0.5194403529167175), ('towed', 18678, 1322, 0.511687159538269), ('tractor_trailer', 19976, 24, 0.5062686800956726), ('driver', 1172, 18828, 0.49840956926345825), ('minivan', 16220, 3780, 0.4783393442630768), ('Jeep', 16895, 3105, 0.47809839248657227)]
+Nearest words to completions' keywords: [('slid', 6756, 13244, 0.6144976019859314), ('crashed', 4311, 15689, 0.5954824090003967), ('fell', 594, 19406, 0.5814889669418335), ('vehicle', 1024, 18976, 0.5811366438865662), ('car', 385, 19615, 0.5804885625839233), ('crash', 1703, 18297, 0.5789586901664734), ('truck', 2084, 17916, 0.5726445913314819), ('tumbled', 8542, 11458, 0.5667464733123779), ('pickup_truck', 11490, 8510, 0.5592349767684937), ('SUV', 7072, 12928, 0.5533470511436462)]
+Nearest words to completions' verbs: [('fell', 594, 19406, 0.6502876281738281), ('had', 35, 19965, 0.624678909778595), ('dropped', 1066, 18934, 0.612869143486023), ('was', 10, 19990, 0.5791877508163452), ('slipped', 3983, 16017, 0.5777458548545837), ('came', 256, 19744, 0.5760039687156677), ('were', 37, 19963, 0.5715161561965942), ('slid', 6756, 13244, 0.571239173412323), ('jumped', 2415, 17585, 0.5654984712600708), ('drove', 2144, 17856, 0.5652767419815063)]
+
+==========================================================================
+Neighbors
+==========================================================================
+On towing day we were surprised.
+There were two cars parked.
+Only one was put on a flatbed, and we wondered why.
+Later, a small tow truck took the car.
+> I think the flatbed tow would have damaged the car's brakes.
+
+__About the match__
+Rarest shared words: [('cars', (6.626861432720094, 6.626861432720094)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5262118740905898
+
+__About the completion__
+Rarest in completion: [('flatbed', 10.721185995542177), ('brakes', 8.98658494015407), ('damaged', 8.452502454223811), ('tow', 8.293437759594124), ('think', 6.373060912543976), ('car', 4.464157181236033), ('have', 4.400417701291594), ('would', 3.922873627941421), ("'s", 3.3551623435327245)]
+Nearest to completion: [('brakes', 0.6423164010047913), ('brake', 0.5771762728691101), ('car', 0.5189782977104187), ('damaged', 0.49368593096733093), ('cars', 0.46968454122543335), ('braking', 0.46654221415519714), ('vehicle', 0.45836564898490906), ('wheels', 0.4392929673194885), ('motor', 0.4236220121383667), ('vehicles', 0.4226498305797577)]
+
+--------------------------------------------------------------------------
+
+Jan drove an old, small car.
+She was afraid of the much larger cars and trucks on the freeway.
+She decided it was time for a bigger car.
+At the first car dealer she visited, she tried a pickup truck.
+> She bought the new truck after the test drive.
+
+__About the match__
+Rarest shared words: [('trucks', (8.641764453262358, 8.641764453262358)), ('cars', (6.626861432720094, 6.626861432720094))]
+Score: 0.5165719085160784
+
+__About the completion__
+Rarest in completion: [('truck', 6.368759830644585), ('drive', 6.08645700731254), ('test', 5.823346195591265), ('bought', 4.408241996399123), ('after', 3.9503965716331964), ('new', 3.7799959404738015)]
+Nearest to completion: [('test', 0.5375117063522339), ('drive', 0.4958350360393524), ('truck', 0.45857465267181396), ('testing', 0.42032477259635925), ('tests', 0.3961014449596405), ('pickup_truck', 0.39384299516677856), ('drives', 0.3871913254261017), ('vehicle', 0.3835648000240326), ('tested', 0.37310534715652466), ('bought', 0.3707330822944641)]
+
+--------------------------------------------------------------------------
+
+Bob had stacked twelve cinder blocks near his driveway.
+They sat for weeks and crushed all the grass under them.
+Bob got tired of seeing them there.
+He offered the cinder blocks to a friend.
+> Bob delivered them to her house when she accepted the offer.
+
+__About the match__
+Rarest shared words: [('crushed', (8.236299345154194, 8.236299345154194)), ('sat', (5.103223510089326, 5.103223510089326))]
+Score: 0.5018265267738948
+
+__About the completion__
+Rarest in completion: [('delivered', 7.585691779613026), ('offer', 7.400957676413688), ('accepted', 6.660742984995757), ('house', 4.506577897119985), ('them', 3.9905657466666935), ('when', 3.4368224349138567)]
+Nearest to completion: [('accepted', 0.5926077365875244), ('offer', 0.5906065702438354), ('delivered', 0.5701594948768616), ('offered', 0.5522550344467163), ('accept', 0.48524177074432373), ('deliver', 0.4851740300655365), ('accepting', 0.44809144735336304), ('receive', 0.44199755787849426), ('offering', 0.4419530928134918), ('tendered', 0.40641409158706665)]
+
+--------------------------------------------------------------------------
+
+Today was street cleaning day.
+Any car parked across from our building would be towed.
+At 9 AM, three tow trucks drove up and started towing.
+A woman ran quickly across the street.
+> She was lucky to avoid being towed.
+
+__About the match__
+Rarest shared words: [('trucks', (8.641764453262358, 8.641764453262358))]
+Score: 0.47482998041357727
+
+__About the completion__
+Rarest in completion: [('towed', 8.72875583085197), ('avoid', 7.692663899165194), ('lucky', 7.413079036946033), ('being', 5.502633597463002)]
+Nearest to completion: [('towed', 0.6715244650840759), ('lucky', 0.42398011684417725), ('avoid', 0.4148137867450714), ('escape', 0.37996378540992737), ('transported', 0.37116163969039917), ('rescued', 0.363809734582901), ('being', 0.34591206908226013), ('escaping', 0.34274357557296753), ('avoiding', 0.33672040700912476), ('tow', 0.332913875579834)]
+
+--------------------------------------------------------------------------
+
+Gary went to a motorcycle bar for a drink.
+He saw a long line of motorcycles parked next to each other.
+Gary tripped and fell when he came out of the bar.
+He bumped into a motorcycle and it tipped over.
+> The motorcycle tipped the next one over and they all fell down!
+
+__About the match__
+Rarest shared words: [('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.4712495807017635
+
+__About the completion__
+Rarest in completion: [('tipped', 8.72875583085197), ('motorcycle', 8.058598168516724), ('fell', 5.1553892638598775), ('next', 4.72639365834152), ('down', 4.370882181666085), ('over', 4.367395832986647), ('all', 3.5398475684877595), ('!', 3.536809591467683), ('one', 3.351585275015767)]
+Nearest to completion: [('fell', 0.5136554837226868), ('slid', 0.5022222995758057), ('tumbled', 0.4758494198322296), ('tipped', 0.441314697265625), ('falling', 0.43983298540115356), ('over', 0.43747422099113464), ('dropped', 0.4350545406341553), ('slumped', 0.4257131516933441), ('jumped', 0.4197423756122589), ('slipped', 0.41876810789108276)]
+
+--------------------------------------------------------------------------
+
+Dan connected a shopping cart to a truck using a string.
+He sat inside of the cart while his brother drove the cart.
+Both vehicles were moving.
+When Dan's brother made a turn, Dan fell out of the cart.
+> He fell on the road.
+
+__About the match__
+Rarest shared words: [('sat', (5.103223510089326, 5.103223510089326))]
+Score: 0.463295643102337
+
+__About the completion__
+Rarest in completion: [('road', 5.93369425276013), ('fell', 5.1553892638598775)]
+Nearest to completion: [('fell', 0.7284610271453857), ('road', 0.6208083033561707), ('tumbled', 0.5920286774635315), ('falling', 0.560982346534729), ('slid', 0.5387619733810425), ('plunged', 0.5314968228340149), ('slumped', 0.5243246555328369), ('climbed', 0.5227572321891785), ('slipped', 0.5196650624275208), ('dropped', 0.5134966969490051)]
+
+--------------------------------------------------------------------------
+
+There was a crowd of people.
+They were watching the scene unfold.
+I was sitting on the lifeguard stand.
+Two police cars sped down the road.
+> They were after someone who had sprinted into the woods.
+
+__About the match__
+Rarest shared words: [('cars', (6.626861432720094, 6.626861432720094))]
+Score: 0.4620078779065951
+
+__About the completion__
+Rarest in completion: [('sprinted', 9.74035674253045), ('woods', 7.05762434941253), ('someone', 5.656483480175645), ('who', 5.401433348274074), ('into', 4.270189119055754), ('after', 3.9503965716331964), ('were', 3.60343995182413)]
+Nearest to completion: [('woods', 0.5462028980255127), ('into', 0.45547229051589966), ('after', 0.38133156299591064), ('before', 0.3003113865852356), ('subsequently', 0.293350487947464), ('creek', 0.287986695766449), ('by', 0.2806847095489502), ('bush', 0.27873873710632324), ('were', 0.27687588334083557), ('who', 0.2755509912967682)]
+
+--------------------------------------------------------------------------
+
+A minivan parked in the middle of the driveway in our building.
+The driver loaded some luggage.
+He kept the minivan in the driveway.
+Another car came behind the minivan and waited.
+> After the driver beeped, the minivan drove off.
+
+__About the match__
+Rarest shared words: []
+Score: 0.45074015395936595
+
+__About the completion__
+Rarest in completion: [('minivan', 10.210360371776185), ('beeped', 10.028038814982231), ('driver', 6.738393919225823), ('drove', 5.558306599889243), ('off', 4.4887379789916535), ('after', 3.9503965716331964)]
+Nearest to completion: [('minivan', 0.6880354881286621), ('driver', 0.6583680510520935), ('SUV', 0.6428185701370239), ('pickup_truck', 0.6221753358840942), ('drove', 0.598791778087616), ('car', 0.5946244597434998), ('vehicle', 0.5880472660064697), ('Jeep', 0.5726907253265381), ('sport_utility', 0.5726866722106934), ('truck', 0.5479016900062561)]
+
+--------------------------------------------------------------------------
+
+The bus ran into a gasoline truck.
+Both vehicles slid on the highway.
+Many cars had to come to a stop in order to avoid being hit.
+Police officials came and evacuated all of the children from the car.
+> The fire extinguisher team quickly extinguished all of the flames.
+
+__About the match__
+Rarest shared words: [('cars', (6.626861432720094, 6.626861432720094))]
+Score: 0.4497296411594402
+
+__About the completion__
+Rarest in completion: [('extinguished', 10.721185995542177), ('extinguisher', 10.028038814982231), ('flames', 9.180740954595027), ('fire', 6.302345387745578), ('quickly', 5.828333737102303), ('team', 5.479438980482533), ('all', 3.5398475684877595)]
+Nearest to completion: [('extinguished', 0.7504040002822876), ('flames', 0.749457836151123), ('fire', 0.7259446382522583), ('blaze', 0.7028265595436096), ('fires', 0.5862981677055359), ('Fire', 0.5650973320007324), ('firefighters', 0.5137412548065186), ('wildfire', 0.5109551548957825), ('flame', 0.4803216755390167), ('Firefighters', 0.47899171710014343)]
+
+--------------------------------------------------------------------------
+
+Shelly was sitting on her front porch.
+She saw a car veer off the road into the ditch.
+Shelly jumped up off the porch and ran to the car.
+She helped the person out of the car.
+> Shelly called 911 to report the accident.
+
+__About the match__
+Rarest shared words: [('front', (5.336710932153106, 5.336710932153106)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.4487966512654968
+
+__About the completion__
+Rarest in completion: [('911', 9.25484892674875), ('shelly', 8.824066010656296), ('report', 7.276503501940282), ('accident', 6.921958484259375), ('called', 4.874747220484451)]
+Nearest to completion: [('accident', 0.7170060873031616), ('report', 0.6154034733772278), ('crash', 0.5747666954994202), ('incident', 0.5529391169548035), ('accidents', 0.5252130627632141), ('collision', 0.5064085721969604), ('fatality', 0.4896770715713501), ('wreck', 0.45851099491119385), ('crashes', 0.4383693337440491), ('fatalities', 0.42204001545906067)]
+
+--------------------------------------------------------------------------
+
+

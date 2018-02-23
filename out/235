@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+The artist picked up the microphone.
+His set was about to begin and he mentally prepared.
+Finally, it was time to enter the stage and he did.
+The curtains rose revealing an active and loud audience.
+> The artist began his set amidst excited cheers.
+
+__About the context__
+Rarest in context: [('revealing', 9.740376741930469), ('mentally', 8.824086010056313), ('microphone', 8.561721745588823), ('curtains', 8.354082380810578), ('active', 7.83083423704603), ('audience', 7.571323041560945), ('rose', 7.3654709873567965), ('enter', 7.194845470326033), ('begin', 7.119337917817888), ('artist', 7.10131941231521), ('stage', 6.822606009846189), ('prepared', 6.355986478584694), ('loud', 5.863980914145474), ('set', 5.183871727923658), ('picked', 5.098392582819661), ('finally', 4.312128205790401), ('time', 3.6473714652675255), ('about', 3.625036645166946), ('an', 3.319567812924379)]
+Nearest to context: [('stage', 0.4588366746902466), ('microphone', 0.41479361057281494), ('audience', 0.41478854417800903), ('onstage', 0.3394716680049896), ('recording', 0.3255614638328552), ('earnest', 0.3157859742641449), ('begins', 0.31346723437309265), ('begin', 0.31119439005851746), ('enter', 0.3078230619430542), ('articulate', 0.30386197566986084)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('stage', 943, 19057, 0.49277156591415405), ('crowd', 1403, 18597, 0.486003041267395), ('audience', 1615, 18385, 0.4751441776752472), ('standing_ovation', 14157, 5843, 0.4367499351501465), ('applause', 10931, 9069, 0.38507136702537537), ('performers', 6502, 13498, 0.3640507459640503), ('performances', 3035, 16965, 0.36083319783210754), ('won', 301, 19699, 0.34336504340171814), ('cheers', 11305, 8695, 0.3422791063785553), ('inaugural', 6460, 13540, 0.33729109168052673)]
+Nearest words to completions' keywords: [('cheering', 9627, 10373, 0.5824510455131531), ('crowd', 1403, 18597, 0.5677171945571899), ('standing_ovation', 14157, 5843, 0.5664493441581726), ('cheers', 11305, 8695, 0.5496437549591064), ('sang', 8477, 11523, 0.5198972821235657), ('cheered', 10552, 9448, 0.5141433477401733), ('applause', 10931, 9069, 0.5115361213684082), ('singing', 4580, 15420, 0.4948049783706665), ('sing', 6008, 13992, 0.49267667531967163), ('audience', 1615, 18385, 0.4906747341156006)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7350127100944519), ('came', 256, 19744, 0.7263882160186768), ('had', 35, 19965, 0.694301426410675), ('went', 297, 19703, 0.6729556918144226), ('got', 193, 19807, 0.6566483974456787), ('saw', 653, 19347, 0.6148551106452942), ('were', 37, 19963, 0.5953806042671204), ('gave', 573, 19427, 0.5862916707992554), ('took', 263, 19737, 0.5841107368469238), ('knew', 1039, 18961, 0.5806909799575806)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Kim stood on stage and took the microphone from the host.
+Silence fell over the crowd in anticipation.
+Kim signaled the DJ to start up some beats.
+She began to spit out some rap lyrics and the crowd went nuts.
+> At the end of her song she dropped the mic and walked off stage.
+
+__About the match__
+Rarest shared words: [('microphone', (8.561721745588823, 8.561721745588823)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.48742204339855655
+
+__About the completion__
+Rarest in completion: [('mic', 9.622573706874066), ('stage', 7.276503501940282), ('song', 6.907143398474234), ('dropped', 6.326736840869738), ('end', 5.695114893316081), ('walked', 5.178616114469694), ('off', 4.4887379789916535)]
+Nearest to completion: [('song', 0.47540852427482605), ('stage', 0.47478780150413513), ('dropped', 0.4364677369594574), ('sang', 0.4319654703140259), ('walked', 0.4168091416358948), ('exited', 0.41621533036231995), ('songs', 0.38273149728775024), ('bowed', 0.3642914891242981), ('singing', 0.3634028434753418), ('sung', 0.3559274971485138)]
+
+--------------------------------------------------------------------------
+
+Cynthia stepped on stage in front of her school.
+Her act was to sing and play the piano.
+After performing her piece, the audience applauded loudly.
+The judges appeared very impressed.
+> She won first prize in the talent show.
+
+__About the match__
+Rarest shared words: [('audience', (7.571323041560945, 7.571323041560945)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.4662133367297443
+
+__About the completion__
+Rarest in completion: [('talent', 7.725453721988185), ('prize', 7.660915200850614), ('show', 5.798774934860759), ('won', 5.467168887890719), ('first', 4.4744334437934175)]
+Nearest to completion: [('prize', 0.6730521321296692), ('won', 0.5798478722572327), ('winners', 0.5645157098770142), ('talent', 0.5574532747268677), ('winner', 0.5574229955673218), ('winning', 0.5190785527229309), ('awards', 0.4904312789440155), ('award', 0.4900542199611664), ('prizes', 0.4838416278362274), ('finalist', 0.47595641016960144)]
+
+--------------------------------------------------------------------------
+
+The singer stood on stage and motioned to the band.
+As the music started the singer began to sway.
+He sang words so sweetly the audience began to weep.
+The singer took a bow and left the stage.
+> The audience begged for an encore but none came.
+
+__About the match__
+Rarest shared words: [('audience', (7.571323041560945, 7.571323041560945)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.455306868035468
+
+__About the completion__
+Rarest in completion: [('encore', 10.721185995542177), ('audience', 7.725453721988185), ('none', 7.319988613880021), ('begged', 7.18506929598065), ('came', 4.538412620640003), ('an', 3.8221351571901856), ('but', 3.4639482432028115)]
+Nearest to completion: [('audience', 0.5734038352966309), ('audiences', 0.4377787411212921), ('nonetheless', 0.4020385146141052), ('none', 0.4017171859741211), ('an', 0.3892759382724762), ('crowd', 0.35988888144493103), ('viewers', 0.3598615825176239), ('nevertheless', 0.3574780225753784), ('listeners', 0.33354270458221436), ('viewer', 0.3239195942878723)]
+
+--------------------------------------------------------------------------
+
+Grace wanted to start a band.
+She tried to learn to play the guitar, but it was too hard.
+She decided to be the lead singer instead.
+Her first audience booed her off the stage.
+> Grace decided not to start a band after all.
+
+__About the match__
+Rarest shared words: [('audience', (7.571323041560945, 7.571323041560945)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.4522545640870559
+
+__About the completion__
+Rarest in completion: [('band', 6.6550123102867715), ('start', 5.8183834062491355), ('after', 3.9503965716331964), ('not', 3.8329533830489027), ('all', 3.5398475684877595), ('decided', 3.495461951503386)]
+Nearest to completion: [('band', 0.5106008052825928), ('start', 0.41161906719207764), ('bands', 0.374299019575119), ('decided', 0.3706388771533966), ('begin', 0.3667677640914917), ('EP', 0.32254356145858765), ('Band', 0.32082465291023254), ('began', 0.31911781430244446), ('quartet', 0.3190245032310486), ('drummer', 0.3178959786891937)]
+
+--------------------------------------------------------------------------
+
+Valerie came onto the stage.
+She tried to sing a song for the entire audience.
+They began to yell in a violent tone.
+Valerie noticed their anger but continued to sing.
+> She was eventually hit with tomatoes.
+
+__About the match__
+Rarest shared words: [('audience', (7.571323041560945, 7.571323041560945)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.44501140391002897
+
+__About the completion__
+Rarest in completion: [('tomatoes', 8.64174445386234), ('eventually', 5.556400021618662), ('hit', 5.52453228277064)]
+Nearest to completion: [('tomatoes', 0.7606232166290283), ('tomato', 0.6205029487609863), ('vegetables', 0.5208535194396973), ('grapes', 0.4710811674594879), ('potatoes', 0.4543749690055847), ('potato', 0.43140920996665955), ('fruit', 0.4307233691215515), ('beans', 0.42209428548812866), ('apples', 0.42088550329208374), ('vegetable', 0.41978299617767334)]
+
+--------------------------------------------------------------------------
+
+The band was ready to walk out on the stage.
+They were all confident and well prepared.
+They picked up their instruments.
+They began to play.
+> The crowd loved them that night, they were great.
+
+__About the match__
+Rarest shared words: [('stage', (6.822606009846189, 6.822606009846189)), ('prepared', (6.355986478584694, 6.355986478584694)), ('picked', (5.098392582819661, 5.098392582819661))]
+Score: 0.4449274779642885
+
+__About the completion__
+Rarest in completion: [('crowd', 7.05762434941253), ('great', 4.843450213762537), ('night', 4.471210753282693), ('loved', 4.425305176991248), ('them', 3.9905657466666935), ('were', 3.60343995182413)]
+Nearest to completion: [('crowd', 0.581394612789154), ('crowds', 0.4671774208545685), ('loved', 0.45410647988319397), ('fans', 0.4251132607460022), ('spectators', 0.4194011986255646), ('night', 0.4048058092594147), ('cheers', 0.3802141845226288), ('mourners', 0.37745562195777893), ('cheering', 0.3759247958660126), ('evening', 0.36369454860687256)]
+
+--------------------------------------------------------------------------
+
+Alice stayed at the edge of the stage to look out at the crowd.
+She shuffled the cards in her hand filled with notes.
+She walked to the podium and adjusted the microphone.
+Fear nearly overwhelmed her but she started to talk.
+> The crowd gave her a standing ovation when she finished.
+
+__About the match__
+Rarest shared words: [('microphone', (8.561721745588823, 8.561721745588823)), ('stage', (6.822606009846189, 6.822606009846189))]
+Score: 0.4329147764200281
+
+__About the completion__
+Rarest in completion: [('ovation', 9.25484892674875), ('standing', 7.585691779613026), ('crowd', 7.05762434941253), ('finished', 6.17082404604908), ('gave', 4.8834555483762365), ('when', 3.4368224349138567)]
+Nearest to completion: [('crowd', 0.5748451948165894), ('gave', 0.47418200969696045), ('drew', 0.45075660943984985), ('stood', 0.4349212944507599), ('standing_ovation', 0.42545580863952637), ('finished', 0.4247683882713318), ('standing', 0.3999882638454437), ('roared', 0.39963939785957336), ('cheers', 0.3868289589881897), ('cheered', 0.377107173204422)]
+
+--------------------------------------------------------------------------
+
+Tony was trying to project his voice.
+He got a microphone so the crowd could hear him.
+He delivered his speech with a great deal of passion.
+The audience applauded.
+> Tony was pleased with how he had delivered the speech.
+
+__About the match__
+Rarest shared words: [('microphone', (8.561721745588823, 8.561721745588823)), ('audience', (7.571323041560945, 7.571323041560945))]
+Score: 0.43270521772623
+
+__About the completion__
+Rarest in completion: [('delivered', 7.585691779613026), ('speech', 7.388981485366972), ('pleased', 6.959985879848613), ('how', 4.945599788756992)]
+Nearest to completion: [('speech', 0.6153674125671387), ('delivered', 0.5551720857620239), ('pleased', 0.5108619332313538), ('delighted', 0.4249502122402191), ('delivering', 0.4191785752773285), ('speeches', 0.41501131653785706), ('remarks', 0.40894564986228943), ('deliver', 0.40536436438560486), ('thrilled', 0.3917928636074066), ('proud', 0.38424742221832275)]
+
+--------------------------------------------------------------------------
+
+The whole school had gathered in the auditorium.
+The talent show was about to begin.
+The band took the stage and began to rock.
+They won the contest easily.
+> Everyone agreed that they were the best act.
+
+__About the match__
+Rarest shared words: [('begin', (7.119337917817888, 7.119337917817888)), ('stage', (6.822606009846189, 6.822606009846189)), ('about', (3.625036645166946, 3.625036645166946))]
+Score: 0.42888999760403956
+
+__About the completion__
+Rarest in completion: [('act', 8.013135794439966), ('agreed', 5.993798176829835), ('best', 5.3230232940244235), ('everyone', 5.197061960260446), ('were', 3.60343995182413)]
+Nearest to completion: [('act', 0.4768463671207428), ('agreed', 0.43347808718681335), ('acted', 0.3685394525527954), ('collectively', 0.3532717227935791), ('best', 0.34881824254989624), ('agreeing', 0.3372877240180969), ('everyone', 0.33280032873153687), ('all', 0.3283065855503082), ('agree', 0.32284796237945557), ('acts', 0.3144060969352722)]
+
+--------------------------------------------------------------------------
+
+John was set to go up next on stage.
+He was so nervous he was shaking.
+The announcer called his name and out he went.
+John performed amazingly.
+> The stage fright was tough, but he was able to overcome it.
+
+__About the match__
+Rarest shared words: [('stage', (6.822606009846189, 6.822606009846189)), ('set', (5.183871727923658, 5.183871727923658))]
+Score: 0.42187317771571725
+
+__About the completion__
+Rarest in completion: [('fright', 9.873888135154973), ('overcome', 8.824066010656296), ('tough', 8.058598168516724), ('stage', 7.276503501940282), ('able', 5.284557013196627), ('but', 3.4639482432028115)]
+Nearest to completion: [('overcome', 0.6479636430740356), ('tough', 0.5345329642295837), ('overcoming', 0.5163046717643738), ('difficult', 0.455710232257843), ('stage', 0.42313718795776367), ('able', 0.4229840040206909), ('overcame', 0.42194804549217224), ('toughest', 0.4078306257724762), ('daunting', 0.40211221575737), ('resilient', 0.39704811573028564)]
+
+--------------------------------------------------------------------------
+
+

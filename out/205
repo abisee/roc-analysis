@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Hailey is looking forward to her vacation and she has a lot to do to.
+She started doing her laundry to make sure her clothes were clean.
+When the clothes were done, she started to pack her suitcase.
+After everything was packed she went to bed early enough to get sleep.
+> She walk up early the next day and it was time for her to travel.
+
+__About the context__
+Rarest in context: [('suitcase', 8.182232123883919), ('pack', 7.083619835215809), ('laundry', 6.967788019690687), ('forward', 6.719951855786106), ('packed', 6.22139632461193), ('clean', 5.97337950855258), ('clothes', 5.813465124008572), ('early', 5.6799337313840494), ('sleep', 5.662839298024749), ('vacation', 5.650207551118848), ('done', 5.506270237333209), ('sure', 5.491881499881109), ('bed', 5.4329389642476595), ('doing', 5.4096434016441375), ('everything', 5.3155301100736585), ('enough', 5.312540571225293), ('looking', 4.961253248818939), ('has', 4.562815576518231), ('do', 4.398042489965658), ('make', 4.27972796346498), ('lot', 4.262867711597405), ('is', 3.859843755529768), ('started', 3.8418501904817557), ('after', 3.6847643749987347), ('get', 3.618432328371696)]
+Nearest to context: [('laundry', 0.4391794204711914), ('clothes', 0.3641151785850525), ('suitcase', 0.35100722312927246), ('clean', 0.3389001190662384), ('cleaning', 0.3289211094379425), ('bed', 0.32533830404281616), ('socks', 0.32483506202697754), ('sleep', 0.30976638197898865), ('homework', 0.2941763699054718), ('everything', 0.2919291853904724)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('suitcase', 19888, 112, 0.5703186988830566), ('luggage', 12196, 7804, 0.38962990045547485), ('bags', 4609, 15391, 0.3854356110095978), ('bag', 3621, 16379, 0.37757936120033264), ('blankets', 12493, 7507, 0.36896297335624695), ('clothes', 3874, 16126, 0.360782653093338), ('backpack', 16515, 3485, 0.35932910442352295), ('baggage', 14299, 5701, 0.3554474711418152), ('socks', 13868, 6132, 0.3229886293411255), ('shoes', 4272, 15728, 0.3193155527114868)]
+Nearest words to completions' keywords: [('suitcase', 19888, 112, 0.5301027894020081), ('just', 76, 19924, 0.5197734236717224), ('bag', 3621, 16379, 0.5147897601127625), ('luggage', 12196, 7804, 0.5138509273529053), ('bags', 4609, 15391, 0.5048672556877136), ('backpack', 16515, 3485, 0.504768967628479), ('clothes', 3874, 16126, 0.5028690695762634), ('stuff', 2022, 17978, 0.4742763936519623), ('socks', 13868, 6132, 0.4491273760795593), ('baggage', 14299, 5701, 0.4475261867046356)]
+Nearest words to completions' verbs: [('came', 256, 19744, 0.7003608345985413), ('was', 10, 19990, 0.6602962613105774), ('went', 297, 19703, 0.6198564767837524), ('stepped', 3008, 16992, 0.5890074372291565), ('stayed', 2936, 17064, 0.5862584114074707), ('broke', 1506, 18494, 0.5810375809669495), ('fell', 594, 19406, 0.5723384022712708), ('had', 35, 19965, 0.5715880393981934), ('got', 193, 19807, 0.563418447971344), ('turned', 760, 19240, 0.5581817626953125)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Kate was going to visit her family in Minnesota.
+But she was going to spend three months there.
+She had to pack a lot of clothes.
+She filled her suitcase up and tried to close it.
+> To her horror her suitcase wouldn't close.
+
+__About the match__
+Rarest shared words: [('suitcase', (8.182232123883919, 8.182232123883919)), ('pack', (7.083619835215809, 7.083619835215809)), ('clothes', (5.813465124008572, 5.813465124008572)), ('lot', (4.262867711597405, 4.262867711597405))]
+Score: 0.5209029851912989
+
+__About the completion__
+Rarest in completion: [('suitcase', 8.684304068281136), ('horror', 8.082128665926916), ('close', 6.360212770066127), ('would', 3.922873627941421), ("n't", 3.334508641807057)]
+Nearest to completion: [('suitcase', 0.6140583753585815), ('horror', 0.5661298632621765), ('luggage', 0.399929940700531), ('bag', 0.3724285066127777), ('bags', 0.35617220401763916), ('backpack', 0.34132224321365356), ('gruesome', 0.3273882269859314), ('terrifying', 0.3097105622291565), ('carnage', 0.3077726364135742), ('devastation', 0.3061201870441437)]
+
+--------------------------------------------------------------------------
+
+I decided to wash my bed blankets today.
+I thought I could put everything in one load.
+That was not correct.
+When I went to get the clothes out of the washer there was a problem.
+> The blankets weighed too much and it broke.
+
+__About the match__
+Rarest shared words: [('clothes', (5.813465124008572, 5.813465124008572)), ('bed', (5.4329389642476595, 5.4329389642476595)), ('everything', (5.3155301100736585, 5.3155301100736585)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.5078469319216395
+
+__About the completion__
+Rarest in completion: [('weighed', 9.111748083108075), ('blankets', 8.523961418205957), ('broke', 5.548809852351987), ('much', 4.895185888161725), ('too', 4.812197670258433)]
+Nearest to completion: [('weighed', 0.5777735114097595), ('blankets', 0.48418286442756653), ('weighing', 0.43231484293937683), ('weigh', 0.39692097902297974), ('broke', 0.38135695457458496), ('weighs', 0.3607777953147888), ('piled', 0.3525182902812958), ('stretched', 0.35237377882003784), ('dragged', 0.34363606572151184), ('tumbled', 0.33353132009506226)]
+
+--------------------------------------------------------------------------
+
+The man packed his suitcase.
+Some of his stuff would not fit.
+He could not decide which things not to pack.
+He bought a bigger suitcase.
+> All of his stuff would fit into the suitcase.
+
+__About the match__
+Rarest shared words: [('suitcase', (8.182232123883919, 8.182232123883919)), ('pack', (7.083619835215809, 7.083619835215809)), ('packed', (6.22139632461193, 6.22139632461193))]
+Score: 0.4997839535362902
+
+__About the completion__
+Rarest in completion: [('suitcase', 8.684304068281136), ('stuff', 7.425349129537847), ('fit', 6.776373167291039), ('into', 4.270189119055754), ('would', 3.922873627941421), ('all', 3.5398475684877595)]
+Nearest to completion: [('suitcase', 0.6164141893386841), ('fit', 0.5099969506263733), ('bag', 0.42512962222099304), ('backpack', 0.4168468117713928), ('fits', 0.4135552644729614), ('luggage', 0.4061937630176544), ('stuff', 0.3951110541820526), ('bags', 0.3776092231273651), ('baggage', 0.35240638256073), ('into', 0.33972927927970886)]
+
+--------------------------------------------------------------------------
+
+Ken tried to do laundry.
+He had never really done it before.
+He mixed the detergent with the bleach.
+His pile of clothes was ruined.
+> Ken never made that mistake again.
+
+__About the match__
+Rarest shared words: [('laundry', (6.967788019690687, 6.967788019690687)), ('clothes', (5.813465124008572, 5.813465124008572)), ('done', (5.506270237333209, 5.506270237333209)), ('do', (4.398042489965658, 4.398042489965658))]
+Score: 0.492794228232972
+
+__About the completion__
+Rarest in completion: [('mistake', 7.489064943923955), ('again', 5.046717908554751), ('never', 4.624610964031577), ('made', 4.267560996649484)]
+Nearest to completion: [('mistake', 0.6641888618469238), ('mistakes', 0.5024856328964233), ('never', 0.4290887415409088), ('error', 0.42137864232063293), ('made', 0.4140893518924713), ('again', 0.398388534784317), ('errors', 0.3702515661716461), ('lapse', 0.34381982684135437), ('Again', 0.33007335662841797), ('flaw', 0.31359952688217163)]
+
+--------------------------------------------------------------------------
+
+Julia had packed for her trip.
+She had crammed everything into her suitcase.
+She was worried her clothes would get wrinkled.
+When she got to her destination, they were very crumpled.
+> She spent her first evening ironing all her clothes!
+
+__About the match__
+Rarest shared words: [('suitcase', (8.182232123883919, 8.182232123883919)), ('packed', (6.22139632461193, 6.22139632461193)), ('clothes', (5.813465124008572, 5.813465124008572)), ('everything', (5.3155301100736585, 5.3155301100736585)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.4916393660060094
+
+__About the completion__
+Rarest in completion: [('ironing', 10.210360371776185), ('evening', 6.7322019489779015), ('clothes', 6.3063695380453035), ('spent', 5.45849580663729), ('first', 4.4744334437934175), ('all', 3.5398475684877595), ('!', 3.536809591467683)]
+Nearest to completion: [('clothes', 0.5544745922088623), ('spent', 0.5175221562385559), ('clothing', 0.4491739869117737), ('evening', 0.3901371955871582), ('attire', 0.3838099539279938), ('spend', 0.3802958130836487), ('spends', 0.3628315329551697), ('uniforms', 0.36002856492996216), ('wardrobe', 0.3577931225299835), ('dresses', 0.3573381304740906)]
+
+--------------------------------------------------------------------------
+
+I went on a trip.
+I took the train.
+They said I had too much luggage.
+I decided to cram everything into one suitcase.
+> After that I was able to get on the train.
+
+__About the match__
+Rarest shared words: [('suitcase', (8.182232123883919, 8.182232123883919)), ('everything', (5.3155301100736585, 5.3155301100736585))]
+Score: 0.48157680701169037
+
+__About the completion__
+Rarest in completion: [('train', 7.040674791098756), ('able', 5.284557013196627), ('get', 4.052534287452978), ('after', 3.9503965716331964)]
+Nearest to completion: [('train', 0.666132390499115), ('trains', 0.4760152995586395), ('Train', 0.4541787803173065), ('able', 0.41255030035972595), ('railway', 0.3668101727962494), ('rail', 0.3658975660800934), ('get', 0.36525291204452515), ('bus', 0.33029404282569885), ('Amtrak', 0.3083062171936035), ('enable', 0.3021630346775055)]
+
+--------------------------------------------------------------------------
+
+Andy wanted to get away for a little while.
+He packed his things into a suitcase.
+He then took a plane to Albany.
+There he went camping in the woods.
+> It was an enjoyable experience for him.
+
+__About the match__
+Rarest shared words: [('suitcase', (8.182232123883919, 8.182232123883919)), ('packed', (6.22139632461193, 6.22139632461193)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.47662138625324757
+
+__About the completion__
+Rarest in completion: [('enjoyable', 9.622573706874066), ('experience', 7.265921392609745), ('an', 3.8221351571901856), ('him', 3.3907807836977737)]
+Nearest to completion: [('enjoyable', 0.653891384601593), ('experience', 0.6491835713386536), ('rewarding', 0.4819982051849365), ('pleasant', 0.4486028552055359), ('entertaining', 0.4438540041446686), ('satisfying', 0.424755722284317), ('experiences', 0.42390376329421997), ('fun', 0.41744711995124817), ('enjoyment', 0.40364083647727966), ('exciting', 0.40048104524612427)]
+
+--------------------------------------------------------------------------
+
+After her run, Maria was very sweaty.
+She decided she needed to get a shower.
+She took off her clothes and put them into the dirty laundry.
+Maria got into the shower and quickly washed herself.
+> Maria stepped out of the shower and dried off.
+
+__About the match__
+Rarest shared words: [('laundry', (6.967788019690687, 6.967788019690687)), ('clothes', (5.813465124008572, 5.813465124008572)), ('after', (3.6847643749987347, 3.6847643749987347)), ('get', (3.618432328371696, 3.618432328371696))]
+Score: 0.4713643756545063
+
+__About the completion__
+Rarest in completion: [('dried', 8.523961418205957), ('shower', 7.18506929598065), ('stepped', 7.165837934052762), ('off', 4.4887379789916535), ('out', 3.3165011979861596)]
+Nearest to completion: [('dried', 0.6222445964813232), ('drying', 0.49425989389419556), ('shower', 0.45022356510162354), ('off', 0.4320847690105438), ('stepped', 0.41008031368255615), ('dry', 0.39726564288139343), ('towel', 0.37530356645584106), ('cleaned', 0.3570209741592407), ('cooled', 0.3482435941696167), ('soaked', 0.34317129850387573)]
+
+--------------------------------------------------------------------------
+
+Roger was supposed to clean his room.
+He threw all of his dirty clothes in the closet.
+His mom came to check if the room was clean.
+She found the dirty clothes.
+> Roger was grounded for three days.
+
+__About the match__
+Rarest shared words: [('clean', (5.97337950855258, 5.97337950855258)), ('clothes', (5.813465124008572, 5.813465124008572))]
+Score: 0.46386975602099234
+
+__About the completion__
+Rarest in completion: [('grounded', 7.725453721988185), ('three', 5.73075340876344), ('days', 5.677760878622929)]
+Nearest to completion: [('grounded', 0.7356323599815369), ('days', 0.43348950147628784), ('three', 0.39670395851135254), ('weeks', 0.395498663187027), ('six', 0.38927987217903137), ('four', 0.37747013568878174), ('singled', 0.36422061920166016), ('five', 0.3638407588005066), ('months', 0.35826653242111206), ('two', 0.3558667004108429)]
+
+--------------------------------------------------------------------------
+
+Sam hadn't done laundry in a long time.
+He ran out of dirty clothes.
+He was running late for school.
+Sam decided to wear dirty clothes.
+> He smelled bad in class all day.
+
+__About the match__
+Rarest shared words: [('laundry', (6.967788019690687, 6.967788019690687)), ('clothes', (5.813465124008572, 5.813465124008572)), ('done', (5.506270237333209, 5.506270237333209))]
+Score: 0.4637707819269432
+
+__About the completion__
+Rarest in completion: [('smelled', 7.245087305706903), ('bad', 5.390078806171148), ('class', 5.244722443610666), ('all', 3.5398475684877595), ('day', 3.3461390948177767)]
+Nearest to completion: [('class', 0.6284737586975098), ('bad', 0.48618000745773315), ('day', 0.42741867899894714), ('all', 0.35895317792892456), ('Bad', 0.3549255430698395), ('classes', 0.3540659546852112), ('Class', 0.3316248655319214), ('horrible', 0.3164435625076294), ('poor', 0.31637224555015564), ('grades', 0.30417588353157043)]
+
+--------------------------------------------------------------------------
+
+

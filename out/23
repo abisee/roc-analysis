@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Francis has always wanted to learn how to tie a necktie.
+He decides to practice until he can tie one.
+At first he finds it very difficult.
+But eventually he is able to tie a necktie very well.
+> Francis is proud of himself for learning how to tie a necktie.
+
+__About the context__
+Rarest in context: [('necktie', 9.740376741930469), ('tie', 7.660935200250632), ('finds', 7.175427384468931), ('difficult', 6.604882526001319), ('practice', 6.064076070023392), ('can', 5.765378937340934), ('decides', 5.637733376893673), ('learn', 5.558326599289263), ('able', 5.502653596863021), ('eventually', 5.4329389642476595), ('until', 5.081665789014347), ('well', 4.922113340481669), ('has', 4.562815576518231), ('how', 4.469944578871967), ('always', 4.054249202512988), ('first', 3.9673791982527944), ('is', 3.859843755529768), ('very', 3.353497422567824)]
+Nearest to context: [('chooses', 0.45388680696487427), ('can', 0.44445088505744934), ('becomes', 0.4376745820045471), ('continues', 0.4306359589099884), ('decides', 0.42565202713012695), ('will', 0.40483248233795166), ('learns', 0.4033712148666382), ('determines', 0.40228864550590515), ('difficult', 0.39304623007774353), ('allows', 0.3882297873497009)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('glad', 4258, 15742, 0.4879417419433594), ('proud', 1913, 18087, 0.4664725065231323), ('feels', 2389, 17611, 0.4630524814128876), ('thrilled', 5437, 14563, 0.42339661717414856), ('happy', 1049, 18951, 0.4138752222061157), ('learning', 1987, 18013, 0.40484386682510376), ('pleased', 1700, 18300, 0.4046720266342163), ('excited', 1860, 18140, 0.40215641260147095), ('understands', 5859, 14141, 0.4017890989780426), ('delighted', 4204, 15796, 0.40068039298057556)]
+Nearest words to completions' keywords: [('glad', 4258, 15742, 0.6870198845863342), ('happy', 1049, 18951, 0.6568506360054016), ('excited', 1860, 18140, 0.6003028750419617), ('proud', 1913, 18087, 0.586787760257721), ('thankful', 9423, 10577, 0.5804451704025269), ('thrilled', 5437, 14563, 0.5733187198638916), ('feels', 2389, 17611, 0.5623353719711304), ('definitely', 1808, 18192, 0.5590235590934753), ('grateful', 5853, 14147, 0.550929069519043), ('really', 230, 19770, 0.5474092364311218)]
+Nearest words to completions' verbs: [('is', 4, 19996, 0.6964633464813232), ('be', 16, 19984, 0.6647087335586548), ('was', 10, 19990, 0.6580233573913574), ('feels', 2389, 17611, 0.570176362991333), ("'m", 236, 19764, 0.5514007806777954), ('seems', 1006, 18994, 0.5473078489303589), ("'re", 129, 19871, 0.5443388819694519), ('get', 91, 19909, 0.5369806885719299), ('happens', 2190, 17810, 0.5344579219818115), ("it'sa", 8335, 11665, 0.5250076651573181)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Luke has always wanted to learn how to play the guitar.
+He decides to start practicing.
+At first he finds it very difficult.
+However, eventually he improves.
+> Luke is glad to be learning the guitar.
+
+__About the match__
+Rarest shared words: [('finds', (7.175427384468931, 7.175427384468931)), ('difficult', (6.604882526001319, 6.604882526001319)), ('decides', (5.637733376893673, 5.637733376893673)), ('learn', (5.558326599289263, 5.558326599289263)), ('eventually', (5.4329389642476595, 5.4329389642476595)), ('has', (4.562815576518231, 4.562815576518231)), ('how', (4.469944578871967, 4.469944578871967)), ('always', (4.054249202512988, 4.054249202512988)), ('first', (3.9673791982527944, 3.9673791982527944)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.7308916925566736
+
+__About the completion__
+Rarest in completion: [('guitar', 7.543132165194231), ('learning', 6.999516718605249), ('glad', 5.993798176829835), ('be', 4.0931446193626435), ('is', 4.0817459865209695)]
+Nearest to completion: [('guitar', 0.5963953733444214), ('learning', 0.45781901478767395), ('guitars', 0.44897153973579407), ('piano', 0.4355723261833191), ('guitarist', 0.4167562425136566), ('violin', 0.41374441981315613), ('vocals', 0.37600287795066833), ('be', 0.37366607785224915), ('drummer', 0.3724319338798523), ('glad', 0.3675747513771057)]
+
+--------------------------------------------------------------------------
+
+Steven has always wanted to have a child.
+He decides he wants to adopt one.
+The process is long and difficult.
+Finally Steven is able to adopt a child.
+> He feels happy to finally be a father.
+
+__About the match__
+Rarest shared words: [('difficult', (6.604882526001319, 6.604882526001319)), ('decides', (5.637733376893673, 5.637733376893673)), ('able', (5.502653596863021, 5.502653596863021)), ('has', (4.562815576518231, 4.562815576518231)), ('always', (4.054249202512988, 4.054249202512988)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.6579905821469568
+
+__About the completion__
+Rarest in completion: [('feels', 7.245087305706903), ('father', 6.096213182257905), ('happy', 4.78013793434821), ('finally', 4.562795577118213), ('be', 4.0931446193626435)]
+Nearest to completion: [('feels', 0.5725963711738586), ('happy', 0.4600902795791626), ('finally', 0.413524866104126), ('glad', 0.41192638874053955), ('feel', 0.3901626169681549), ('father', 0.38327357172966003), ('hopeful', 0.3630512058734894), ('be', 0.35434120893478394), ('relieved', 0.34936192631721497), ('proud', 0.3481166362762451)]
+
+--------------------------------------------------------------------------
+
+Jordan wants to find a way to stay fit.
+He decides to start running track.
+At first it is difficult.
+Over time, he gets better.
+> Jordan is glad he found a way to stay fit.
+
+__About the match__
+Rarest shared words: [('difficult', (6.604882526001319, 6.604882526001319)), ('decides', (5.637733376893673, 5.637733376893673)), ('first', (3.9673791982527944, 3.9673791982527944)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.6207419953270618
+
+__About the completion__
+Rarest in completion: [('fit', 6.776373167291039), ('stay', 6.270722199315066), ('glad', 5.993798176829835), ('way', 5.019628215908086), ('found', 4.202038707601781), ('is', 4.0817459865209695)]
+Nearest to completion: [('fit', 0.5154602527618408), ('stay', 0.4598645865917206), ('stays', 0.39065882563591003), ('glad', 0.3827899396419525), ('staying', 0.3649389147758484), ('fits', 0.35831600427627563), ('happy', 0.3411276340484619), ('feels', 0.3372701406478882), ('remain', 0.3338654339313507), ('believes', 0.3284817636013031)]
+
+--------------------------------------------------------------------------
+
+Riley had always wanted to be able to do a handstand.
+However, he found it very challenging.
+He decided to practice handstands every day after work.
+Finally he was able to do one.
+> Riley was proud to be able to do a handstand.
+
+__About the match__
+Rarest shared words: [('practice', (6.064076070023392, 6.064076070023392)), ('able', (5.502653596863021, 5.502653596863021)), ('always', (4.054249202512988, 4.054249202512988)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.6194313826208551
+
+__About the completion__
+Rarest in completion: [('handstand', 10.210360371776185), ('proud', 6.0452467386658775), ('able', 5.284557013196627), ('do', 4.865159419329299), ('be', 4.0931446193626435)]
+Nearest to completion: [('proud', 0.6873251795768738), ('able', 0.5387358665466309), ('pleased', 0.5220010876655579), ('thrilled', 0.5055481195449829), ('delighted', 0.4967576563358307), ('honored', 0.4695201814174652), ('confident', 0.4492689073085785), ('excited', 0.4461614191532135), ('glad', 0.43550872802734375), ('grateful', 0.42954176664352417)]
+
+--------------------------------------------------------------------------
+
+Frank had always wanted to exercise more.
+A friend recommended he try doing handstands.
+At first Frank found it difficult, but eventually he became good.
+Now he does handstands every day.
+> Frank is glad he exercises more now.
+
+__About the match__
+Rarest shared words: [('difficult', (6.604882526001319, 6.604882526001319)), ('eventually', (5.4329389642476595, 5.4329389642476595)), ('always', (4.054249202512988, 4.054249202512988)), ('first', (3.9673791982527944, 3.9673791982527944))]
+Score: 0.5896158404600423
+
+__About the completion__
+Rarest in completion: [('exercises', 9.421903011411915), ('glad', 5.993798176829835), ('more', 4.774893167080915), ('now', 4.716476221684173), ('is', 4.0817459865209695)]
+Nearest to completion: [('exercises', 0.6175152063369751), ('exercise', 0.4524422585964203), ('now', 0.42043155431747437), ('is', 0.4009303152561188), ('currently', 0.35780733823776245), ('presently', 0.34415403008461), ('more', 0.3391730487346649), ('drills', 0.3111657202243805), ('maneuvers', 0.30499768257141113), ('Now', 0.2960628569126129)]
+
+--------------------------------------------------------------------------
+
+Tyler has always wanted to learn how to tie his shoes.
+He decided to practice every day.
+Finally Tyler could practice his shoes on his own.
+He felt very proud.
+> Tyler was glad he had learned to tie his shoes.
+
+__About the match__
+Rarest shared words: [('tie', (7.660935200250632, 7.660935200250632)), ('practice', (6.064076070023392, 6.064076070023392)), ('learn', (5.558326599289263, 5.558326599289263)), ('has', (4.562815576518231, 4.562815576518231)), ('how', (4.469944578871967, 4.469944578871967)), ('always', (4.054249202512988, 4.054249202512988)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.5803461310059711
+
+__About the completion__
+Rarest in completion: [('tie', 8.058598168516724), ('shoes', 6.399263284938), ('glad', 5.993798176829835), ('learned', 5.793932310384972)]
+Nearest to completion: [('shoes', 0.5646085143089294), ('tie', 0.46473586559295654), ('boots', 0.42905545234680176), ('glad', 0.40835317969322205), ('shoe', 0.4016583561897278), ('socks', 0.3893820345401764), ('footwear', 0.3750160038471222), ('pants', 0.33776044845581055), ('jeans', 0.334905743598938), ('gloves', 0.3260418772697449)]
+
+--------------------------------------------------------------------------
+
+Austin has baseball practice, but his dad is sleeping because of work.
+He tells his mom that going to practice is important, he needs to go.
+His mom thinks of a way to get Austin to go to his practice.
+She finally decides to call his baseball coach to see if he will help.
+> Austin's coach after he talks to his mom comes to take him.
+
+__About the match__
+Rarest shared words: [('practice', (6.064076070023392, 6.064076070023392)), ('decides', (5.637733376893673, 5.637733376893673)), ('has', (4.562815576518231, 4.562815576518231)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5685021712209989
+
+__About the completion__
+Rarest in completion: [('talks', 9.180740954595027), ('comes', 7.5571184071689705), ('coach', 6.878155861600981), ('take', 4.896169656071859), ('mom', 4.822202301228359), ('after', 3.9503965716331964), ('him', 3.3907807836977737), ("'s", 3.3551623435327245)]
+Nearest to completion: [('coach', 0.5439435243606567), ('talks', 0.4439203143119812), ('coaching', 0.4175749123096466), ('Coach', 0.41100943088531494), ('Head_Coach', 0.40507960319519043), ('dad', 0.380020409822464), ('athletic_director', 0.37246230244636536), ('defensive_coordinator', 0.349202960729599), ('offensive_coordinator', 0.3468734920024872), ('teammate', 0.34446170926094055)]
+
+--------------------------------------------------------------------------
+
+Glenn wants to learn a new skill.
+He tries his hand at skateboarding.
+He tries and tries to get it right.
+After weeks of hard practice.
+> Glenn learns to skate.
+
+__About the match__
+Rarest shared words: [('practice', (6.064076070023392, 6.064076070023392)), ('learn', (5.558326599289263, 5.558326599289263))]
+Score: 0.5386887147880552
+
+__About the completion__
+Rarest in completion: [('learns', 9.334891634422286), ('skate', 8.236279345754177)]
+Nearest to completion: [('skate', 0.7241495251655579), ('learns', 0.624315619468689), ('skating', 0.597019612789154), ('skated', 0.48543116450309753), ('skaters', 0.478954553604126), ('discovers', 0.46609824895858765), ('rink', 0.4029269218444824), ('learn', 0.37849754095077515), ('puck', 0.3732193112373352), ('realizes', 0.3657810688018799)]
+
+--------------------------------------------------------------------------
+
+Loretta decides she needs to start taking better care of herself.
+She thinks the best way to begin is to start brushing her teeth daily.
+Loretta gets up the next morning and brushes her teeth.
+She finds that she feels better afterwards.
+> Loretta is proud to be taking better care of herself now.
+
+__About the match__
+Rarest shared words: [('finds', (7.175427384468931, 7.175427384468931)), ('decides', (5.637733376893673, 5.637733376893673)), ('is', (3.859843755529768, 3.859843755529768))]
+Score: 0.5311002014637003
+
+__About the completion__
+Rarest in completion: [('care', 6.294345345078502), ('taking', 6.057746901430109), ('proud', 6.0452467386658775), ('herself', 5.98498754714768), ('better', 5.345907587858011), ('now', 4.716476221684173), ('be', 4.0931446193626435), ('is', 4.0817459865209695)]
+Nearest to completion: [('is', 0.427956759929657), ('care', 0.4146822392940521), ('proud', 0.40390971302986145), ('herself', 0.388437420129776), ('be', 0.38446417450904846), ('cares', 0.36562371253967285), ('deserves', 0.34481626749038696), ('now', 0.3403871953487396), ('better', 0.3370802700519562), ('presently', 0.3360857367515564)]
+
+--------------------------------------------------------------------------
+
+Quentin had always wanted to learn how to play the fiddle.
+People told him that he would never learn.
+However, one day, Quentin decided to try.
+He practiced very hard that day.
+> Quentin was happy to be learning to play fiddle.
+
+__About the match__
+Rarest shared words: [('learn', (5.558326599289263, 5.558326599289263)), ('how', (4.469944578871967, 4.469944578871967)), ('always', (4.054249202512988, 4.054249202512988)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.5310192410230793
+
+__About the completion__
+Rarest in completion: [('fiddle', 10.210360371776185), ('learning', 6.999516718605249), ('play', 5.007453190032807), ('happy', 4.78013793434821), ('be', 4.0931446193626435)]
+Nearest to completion: [('play', 0.5535269379615784), ('learning', 0.5515835285186768), ('playing', 0.4543329179286957), ('happy', 0.43906310200691223), ('be', 0.38797512650489807), ('learn', 0.36891841888427734), ('excel', 0.35649120807647705), ('excited', 0.34842413663864136), ('Learning', 0.3439953923225403), ('thrilled', 0.3317212760448456)]
+
+--------------------------------------------------------------------------
+
+

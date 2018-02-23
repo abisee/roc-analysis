@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Suzy was a three year old girl.
+She wanted the famous paw patrol toy.
+She begged her daddy day and night for it.
+One day her daddy took her to the store.
+> Suzy was so happy that daddy bought her the paw patrol toy!
+
+__About the context__
+Rarest in context: [('patrol', 9.180760953995046), ('paw', 8.728775830251989), ('daddy', 8.354082380810578), ('famous', 6.907163397874252), ('toy', 6.684019846560043), ('begged', 6.562322911582523), ('three', 5.246138116649659), ('girl', 5.008573905009011), ('year', 4.684130936582161), ('old', 4.424710737047819), ('store', 4.2189158240682225), ('night', 4.007035465032724), ('took', 3.6015703569245585)]
+Nearest to context: [('girl', 0.4798852801322937), ('boy', 0.4785541594028473), ('old', 0.46475833654403687), ('toy', 0.4424935281276703), ('teenager', 0.43166643381118774), ('patrol', 0.39494380354881287), ('toddler', 0.3869560956954956), ('year', 0.3791297972202301), ('woman', 0.37533003091812134), ('teenage', 0.3693675696849823)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('arrested', 849, 19151, 0.422537624835968), ('jailed', 5807, 14193, 0.41665053367614746), ('convicted', 2246, 17754, 0.39479967951774597), ('sentenced', 2433, 17567, 0.3816601037979126), ('prosecuted', 10157, 9843, 0.3789318799972534), ('nephew', 10798, 9202, 0.3748418390750885), ('son', 831, 19169, 0.3730582594871521), ('indicted', 6565, 13435, 0.37061581015586853), ('pleaded_guilty', 3892, 16108, 0.36876189708709717), ('arrest', 1978, 18022, 0.36786600947380066)]
+Nearest words to completions' keywords: [('son', 831, 19169, 0.5556316375732422), ('jailed', 5807, 14193, 0.5540792942047119), ('mother', 852, 19148, 0.5365522503852844), ('arrested', 849, 19151, 0.5291575193405151), ('father', 913, 19087, 0.5285108685493469), ('grandmother', 6547, 13453, 0.5284395217895508), ('convicted', 2246, 17754, 0.5268617272377014), ('nephew', 10798, 9202, 0.5241466760635376), ('daughter', 1211, 18789, 0.5230313539505005), ('grandson', 9675, 10325, 0.5228466391563416)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.7111239433288574), ('had', 35, 19965, 0.6882550120353699), ('came', 256, 19744, 0.6558801531791687), ('went', 297, 19703, 0.6344602108001709), ('saw', 653, 19347, 0.6014939546585083), ('was', 10, 19990, 0.5912097096443176), ('returned', 1095, 18905, 0.5896479487419128), ('took', 263, 19737, 0.5852124691009521), ('bought', 1741, 18259, 0.5835835933685303), ('arrived', 1550, 18450, 0.5827893018722534)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Returning from a trip, Mark found his house had been burglarized.
+He called the police and a patrol officer came out.
+She was a beautiful woman in her late twenties.
+After she took the report, Mark asked her out.
+> Years later, they would tell their kids about how they met.
+
+__About the match__
+Rarest shared words: [('patrol', (9.180760953995046, 9.180760953995046)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.5035397397907453
+
+__About the completion__
+Rarest in completion: [('tell', 6.335001350719631), ('met', 5.890209140820391), ('later', 5.235006891824569), ('years', 5.187796506814656), ('kids', 5.176008551062614), ('how', 4.945599788756992), ('their', 4.437673918472774), ('about', 4.124950211825675), ('would', 3.922873627941421)]
+Nearest to completion: [('about', 0.4249041676521301), ('how', 0.41197067499160767), ('years', 0.3860687017440796), ('met', 0.3283952474594116), ('tell', 0.3166141211986542), ('ago', 0.2970784306526184), ('decades', 0.2957710325717926), ('discuss', 0.2932082712650299), ('months', 0.2837327718734741), ('children', 0.28292515873908997)]
+
+--------------------------------------------------------------------------
+
+Terry worked in the big city as a police officer.
+He was assigned to patrol the worst part of town.
+While patrolling, Terry came upon a robbery in progress.
+Terry chased down the robber and arrested him.
+> Terry received a medal for his valorous efforts.
+
+__About the match__
+Rarest shared words: [('patrol', (9.180760953995046, 9.180760953995046))]
+Score: 0.47757763729533576
+
+__About the completion__
+Rarest in completion: [('valorous', 11.12665110365034), ('efforts', 8.72875583085197), ('medal', 8.452502454223811), ('received', 6.386076280656046)]
+Nearest to completion: [('medal', 0.6749359369277954), ('medals', 0.5929985046386719), ('received', 0.520664393901825), ('efforts', 0.4973142743110657), ('gold_medal', 0.49213406443595886), ('silver_medal', 0.48887813091278076), ('Medal', 0.4720875024795532), ('gold_medals', 0.4562159478664398), ('bronze_medal', 0.4560036063194275), ('awarded', 0.4395456612110138)]
+
+--------------------------------------------------------------------------
+
+Tony took his son to the toy store.
+His son wanted an expensive toy.
+Tony told the boy he couldn't have it.
+His son began having a tantrum.
+> Tony took his son out the son without buying him anything.
+
+__About the match__
+Rarest shared words: [('toy', (6.684019846560043, 6.684019846560043)), ('store', (4.2189158240682225, 4.2189158240682225)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.4775416318679112
+
+__About the completion__
+Rarest in completion: [('buying', 6.871038393832118), ('anything', 6.262970222510748), ('without', 6.005667752385219), ('son', 5.742156040861252), ('took', 4.067463120907994), ('him', 3.3907807836977737), ('out', 3.3165011979861596)]
+Nearest to completion: [('him', 0.42388567328453064), ('son', 0.41966643929481506), ('father', 0.3801175057888031), ('younger_brother', 0.3732756972312927), ('without', 0.3691827654838562), ('nephew', 0.36288824677467346), ('brother', 0.34752073884010315), ('anyone', 0.3403056263923645), ('uncle', 0.33015328645706177), ('grandson', 0.32381677627563477)]
+
+--------------------------------------------------------------------------
+
+My niece had three children from her boyfriend.
+He used to hit her when he got drunk.
+The police were called in twice for disturbances.
+One night he almost destroyed her apartment.
+> He got sent to jail and she has not seen him since.
+
+__About the match__
+Rarest shared words: [('three', (5.246138116649659, 5.246138116649659)), ('night', (4.007035465032724, 4.007035465032724))]
+Score: 0.43878395829611594
+
+__About the completion__
+Rarest in completion: [('jail', 7.571303042160927), ('seen', 6.583356321380337), ('sent', 6.1993974184931355), ('since', 5.601198164518556), ('has', 4.937360813212439), ('not', 3.8329533830489027), ('him', 3.3907807836977737), ('got', 3.390344007102055)]
+Nearest to completion: [('jail', 0.44229400157928467), ('since', 0.4388320744037628), ('has', 0.424795001745224), ('been', 0.4143836200237274), ('prison', 0.39948800206184387), ('jailed', 0.36862051486968994), ('sent', 0.36575764417648315), ('had', 0.36068451404571533), ('received', 0.35195475816726685), ('incarcerated', 0.34751981496810913)]
+
+--------------------------------------------------------------------------
+
+I saw an Indian movie this morning.
+A young child gave a Ladoo, a sweet, to an old woman.
+The woman then died.
+After watching the movie, I went to an Indian store.
+> I bought a Ladoo and ate it.
+
+__About the match__
+Rarest shared words: [('old', (4.424710737047819, 4.424710737047819)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4379783900434915
+
+__About the completion__
+Rarest in completion: [('ate', 5.493648811055187), ('bought', 4.408241996399123)]
+Nearest to completion: [('ate', 0.754677951335907), ('bought', 0.6955456137657166), ('sold', 0.5529840588569641), ('purchased', 0.5432822704315186), ('eaten', 0.5138375759124756), ('drank', 0.4564288556575775), ('eats', 0.44477805495262146), ('eat', 0.44248300790786743), ('buy', 0.42676854133605957), ('smoked', 0.4179260730743408)]
+
+--------------------------------------------------------------------------
+
+Turner was a brand new private detective.
+A young girl came into his office in tears.
+She had lost her dog.
+Turner took the missing dog poster and searched.
+> He found the dog and returned him to his owner who was happy.
+
+__About the match__
+Rarest shared words: [('girl', (5.008573905009011, 5.008573905009011)), ('took', (3.6015703569245585, 3.6015703569245585))]
+Score: 0.43318191215881374
+
+__About the completion__
+Rarest in completion: [('owner', 6.769942276960749), ('returned', 6.225086904608447), ('who', 5.401433348274074), ('dog', 5.026332151630276), ('happy', 4.78013793434821), ('found', 4.202038707601781), ('him', 3.3907807836977737)]
+Nearest to completion: [('dog', 0.5303882956504822), ('owner', 0.5148274898529053), ('dogs', 0.45062243938446045), ('puppy', 0.4293026328086853), ('returned', 0.4166486859321594), ('Dog', 0.41587647795677185), ('veterinarian', 0.41201260685920715), ('cat', 0.3997350037097931), ('Owner', 0.37566542625427246), ('pet', 0.3696225881576538)]
+
+--------------------------------------------------------------------------
+
+Logan went to the toy store.
+Logan looked at many toys.
+He looked at the dolls.
+He looked at the cars.
+> He got a new horse toy.
+
+__About the match__
+Rarest shared words: [('toy', (6.684019846560043, 6.684019846560043)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.42981050330064
+
+__About the completion__
+Rarest in completion: [('horse', 7.353890165555702), ('toy', 7.049113659744621), ('new', 3.7799959404738015), ('got', 3.390344007102055)]
+Nearest to completion: [('horse', 0.6580387949943542), ('toy', 0.6519350409507751), ('horses', 0.547760546207428), ('toys', 0.45938605070114136), ('colt', 0.44593051075935364), ('Horse', 0.42730963230133057), ('doll', 0.4205734431743622), ('filly', 0.4152015745639801), ('jockey', 0.4061914384365082), ('pet', 0.4051729738712311)]
+
+--------------------------------------------------------------------------
+
+My niece and two of her kids went to Cape Cod for a vacation this week.
+Her eldest, an 18 year old girl named Sheila, stayed home.
+Sheila broke her foot this week.
+My niece asked her sister to take Sheila to the hospital.
+> Her sister had also broken her foot and could not drive.
+
+__About the match__
+Rarest shared words: [('girl', (5.008573905009011, 5.008573905009011)), ('year', (4.684130936582161, 4.684130936582161)), ('old', (4.424710737047819, 4.424710737047819))]
+Score: 0.4270288726002601
+
+__About the completion__
+Rarest in completion: [('foot', 7.015777239477029), ('broken', 6.394848266728883), ('drive', 6.08645700731254), ('sister', 5.982067837044346), ('also', 5.8208617222636025), ('not', 3.8329533830489027), ('could', 3.8258407366367204)]
+Nearest to completion: [('broken', 0.5036649703979492), ('foot', 0.49924343824386597), ('sister', 0.3554827868938446), ('fractured', 0.33639052510261536), ('drive', 0.3363238275051117), ('inch', 0.3120959401130676), ('also', 0.3033737540245056), ('breaking', 0.30264443159103394), ('damaged', 0.2855011224746704), ('drives', 0.27918264269828796)]
+
+--------------------------------------------------------------------------
+
+Joe was a police officer.
+Joe was patrolling the streets of the city in his cruiser.
+Suddenly, Joe was alerted to a crime happening near him by dispatch.
+Joe responded to the scene and found a bank robber fleeing on foot.
+> Joe arrested the criminal and was promoted.
+
+__About the match__
+Rarest shared words: []
+Score: 0.4175783688003496
+
+__About the completion__
+Rarest in completion: [('criminal', 9.873888135154973), ('promoted', 8.92942652631412), ('arrested', 7.342461469732079)]
+Nearest to completion: [('arrested', 0.7806663513183594), ('indicted', 0.6736326217651367), ('detained', 0.6106686592102051), ('criminal', 0.6063541769981384), ('convicted', 0.601897656917572), ('apprehended', 0.598949134349823), ('charged', 0.5978713035583496), ('prosecuted', 0.5879123210906982), ('arraigned', 0.577459990978241), ('jailed', 0.5648364424705505)]
+
+--------------------------------------------------------------------------
+
+The father went to the toy store.
+He bought a toy car.
+He wrapped it up.
+He gave the gift to a stranger.
+> The stranger threw the gift away.
+
+__About the match__
+Rarest shared words: [('toy', (6.684019846560043, 6.684019846560043)), ('store', (4.2189158240682225, 4.2189158240682225))]
+Score: 0.4153880847579856
+
+__About the completion__
+Rarest in completion: [('stranger', 7.585691779613026), ('gift', 6.501678290366069), ('threw', 5.767709115285869), ('away', 4.824948298377215)]
+Nearest to completion: [('gift', 0.5535569787025452), ('stranger', 0.5209211707115173), ('threw', 0.4946225583553314), ('tossed', 0.4325897991657257), ('gifts', 0.42971959710121155), ('hurled', 0.3930607736110687), ('tossing', 0.3855137228965759), ('away', 0.3814176917076111), ('throws', 0.3753208518028259), ('thrown', 0.3712926506996155)]
+
+--------------------------------------------------------------------------
+
+

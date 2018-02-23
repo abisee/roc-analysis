@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Janet went to a farm with her class.
+They were all having fun looking at the animals.
+Janet walked over to a lamb.
+She was given a snack to give the lamb and enjoyed feeding it.
+> The rest of the day Janet stayed by the lambs side.
+
+__About the context__
+Rarest in context: [('lamb', 9.517233190616258), ('feeding', 7.759375273063885), ('snack', 7.276523501340301), ('farm', 6.660762984395776), ('given', 6.5519601245469765), ('animals', 6.4919421148207235), ('enjoyed', 5.9505213704765305), ('give', 5.528249144051984), ('fun', 5.145256891795879), ('looking', 4.961253248818939), ('having', 4.867089638985436), ('class', 4.7414767040526336), ('walked', 4.692124584262906), ('over', 3.8982826514767552)]
+Nearest to context: [('lamb', 0.512414813041687), ('feeding', 0.4704228937625885), ('livestock', 0.4399969279766083), ('snack', 0.43633589148521423), ('animals', 0.4348393976688385), ('dairy', 0.427430123090744), ('sheep', 0.4235633909702301), ('meat', 0.4194752275943756), ('cows', 0.40542158484458923), ('pigs', 0.4040664732456207)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('feed', 3390, 16610, 0.42479395866394043), ('sheep', 10690, 9310, 0.3603052794933319), ('cows', 11108, 8892, 0.3539797365665436), ('grown', 2627, 17373, 0.3457140028476715), ('food', 560, 19440, 0.317349374294281), ('feeding', 7437, 12563, 0.3153759241104126), ('livestock', 8718, 11282, 0.3136002719402313), ('goats', 19954, 46, 0.31271636486053467), ('animals', 2418, 17582, 0.31040728092193604), ('birds', 4377, 15623, 0.3087691366672516)]
+Nearest words to completions' keywords: [('fun', 1260, 18740, 0.5545321702957153), ('really', 230, 19770, 0.5476415157318115), ('just', 76, 19924, 0.541449785232544), ('pretty', 891, 19109, 0.5221337676048279), ('so', 85, 19915, 0.5174506902694702), ('nice', 1535, 18465, 0.5082789659500122), ('funny', 4364, 15636, 0.5053865909576416), ('quite', 1082, 18918, 0.49774736166000366), ('enjoyable', 10956, 9044, 0.4956822991371155), ('very', 138, 19862, 0.4917530119419098)]
+Nearest words to completions' verbs: [('had', 35, 19965, 0.6904656291007996), ('was', 10, 19990, 0.6880000233650208), ('came', 256, 19744, 0.6520247459411621), ('stayed', 2936, 17064, 0.6344029903411865), ('got', 193, 19807, 0.6337791085243225), ('went', 297, 19703, 0.6284642219543457), ('wanted', 583, 19417, 0.604008674621582), ('decided', 846, 19154, 0.5961588621139526), ('saw', 653, 19347, 0.5804681181907654), ('knew', 1039, 18961, 0.571690022945404)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Frank loved living on the farm.
+His sheep had a new baby lamb.
+He loved to bottle feed it and pet it.
+The lamb grew to an adult sheep.
+> Frank kept it on the farm once if was fully grown.
+
+__About the match__
+Rarest shared words: [('lamb', (9.517233190616258, 9.517233190616258)), ('farm', (6.660762984395776, 6.660762984395776))]
+Score: 0.6888663868405256
+
+__About the completion__
+Rarest in completion: [('fully', 9.111748083108075), ('grown', 8.523961418205957), ('farm', 7.245087305706903), ('once', 5.903596221602851), ('kept', 5.746753750109881), ('if', 5.232248269385489)]
+Nearest to completion: [('fully', 0.5188871026039124), ('grown', 0.5117946863174438), ('farm', 0.4783128798007965), ('farms', 0.4019424319267273), ('sufficiently', 0.39121174812316895), ('farming', 0.37768226861953735), ('grows', 0.3670310378074646), ('grow', 0.36609041690826416), ('once', 0.3540867865085602), ('remain', 0.33894646167755127)]
+
+--------------------------------------------------------------------------
+
+Ima hated sheep.
+Then she saw a lamb at the petting zoo.
+It was adorable.
+Ima realized sheep weren't so gross after all.
+> She decided they were actually kind of cute!
+
+__About the match__
+Rarest shared words: [('lamb', (9.517233190616258, 9.517233190616258))]
+Score: 0.5772297525106281
+
+__About the completion__
+Rarest in completion: [('cute', 7.224678434075696), ('kind', 7.05762434941253), ('actually', 7.024007738613545), ('were', 3.60343995182413), ('!', 3.536809591467683), ('decided', 3.495461951503386)]
+Nearest to completion: [('cute', 0.6265591382980347), ('silly', 0.4072379469871521), ('funny', 0.3986966907978058), ('weird', 0.39300045371055603), ('sexy', 0.37749117612838745), ('kinda', 0.3763678967952728), ('dumb', 0.3684968650341034), ('clever', 0.35721877217292786), ('quirky', 0.34910449385643005), ('amusing', 0.3489890396595001)]
+
+--------------------------------------------------------------------------
+
+Sheila went to the park to feed the ducks.
+The ducks gathered around her as she gave them bread.
+She enjoyed feeding them.
+Soon it was time to go home.
+> She decided that she would bring more bread next time.
+
+__About the match__
+Rarest shared words: [('feeding', (7.759375273063885, 7.759375273063885)), ('enjoyed', (5.9505213704765305, 5.9505213704765305))]
+Score: 0.5620154533895634
+
+__About the completion__
+Rarest in completion: [('bread', 7.25545009274245), ('bring', 6.9369963616239145), ('more', 4.774893167080915), ('next', 4.72639365834152), ('time', 3.981849368185002), ('would', 3.922873627941421), ('decided', 3.495461951503386)]
+Nearest to completion: [('next', 0.4339905083179474), ('will', 0.41294363141059875), ('would', 0.40282294154167175), ('bread', 0.3947780132293701), ('decided', 0.3834742605686188), ('intends', 0.36678096652030945), ('bring', 0.3516158163547516), ('enable', 0.3156723380088806), ('allow', 0.3136202394962311), ('more', 0.3087417185306549)]
+
+--------------------------------------------------------------------------
+
+Drake was doing chores around his farm.
+His sheep needed food and he was out of the store-bought stuff.
+He decided to give them some nice greens from dinner.
+The sheep loved it and ate it all up quickly.
+> He decided to feed his sheep like that more often.
+
+__About the match__
+Rarest shared words: [('farm', (6.660762984395776, 6.660762984395776)), ('give', (5.528249144051984, 5.528249144051984))]
+Score: 0.5616151381655248
+
+__About the completion__
+Rarest in completion: [('sheep', 9.517213191216241), ('feed', 7.571303042160927), ('often', 6.408152232355246), ('like', 4.781014742821744), ('more', 4.774893167080915), ('decided', 3.495461951503386)]
+Nearest to completion: [('sheep', 0.5826592445373535), ('feed', 0.5579990148544312), ('cows', 0.4916625916957855), ('livestock', 0.44633036851882935), ('herd', 0.4259830713272095), ('goats', 0.4245898127555847), ('cattle', 0.4201183021068573), ('feeding', 0.413807213306427), ('tend', 0.40279367566108704), ('tended', 0.39400720596313477)]
+
+--------------------------------------------------------------------------
+
+The farmer's cow had a calf.
+The kids all gathered around for the chance to feed it.
+They held the bottle up and let it drink.
+He was so hungry!
+> The bottle was empty in just a minute.
+
+__About the match__
+Rarest shared words: []
+Score: 0.5606476036976269
+
+__About the completion__
+Rarest in completion: [('empty', 7.400957676413688), ('minute', 7.308938777693435), ('bottle', 7.0662080931039215), ('just', 4.707470839499374)]
+Nearest to completion: [('bottle', 0.638486385345459), ('empty', 0.6226773262023926), ('minute', 0.5304340720176697), ('bottles', 0.5161536335945129), ('minutes', 0.446235328912735), ('seconds', 0.4167690873146057), ('hour', 0.4091803729534149), ('cans', 0.3902899920940399), ('bucket', 0.3892767131328583), ('glass', 0.35653072595596313)]
+
+--------------------------------------------------------------------------
+
+Leslie was excited, as today she got to go visit her grandma.
+Grandma lived on a farm and she always had fun there.
+She helped her grandma feed all the animals.
+Afterwards, grandma gave Leslie some freshly baked cookies.
+> They played games and had a fun afternoon together.
+
+__About the match__
+Rarest shared words: [('farm', (6.660762984395776, 6.660762984395776)), ('animals', (6.4919421148207235, 6.4919421148207235)), ('fun', (5.145256891795879, 5.145256891795879))]
+Score: 0.5604377988146193
+
+__About the completion__
+Rarest in completion: [('afternoon', 6.713852810309705), ('games', 6.143044481942004), ('played', 5.490077378687589), ('together', 5.43967574731052), ('fun', 5.29917715665159)]
+Nearest to completion: [('games', 0.6179904341697693), ('fun', 0.5454123020172119), ('played', 0.5393812656402588), ('game', 0.5066093802452087), ('playing', 0.4745890498161316), ('play', 0.4602329134941101), ('matchups', 0.4228707253932953), ('matches', 0.41923171281814575), ('contests', 0.4131222367286682), ('enjoyable', 0.4129456579685211)]
+
+--------------------------------------------------------------------------
+
+Jasper loved his pet horse Wilbur.
+Jasper took care of Wilbur by brushing him and feeding him apples.
+Jasper entered Wilbur a horse show competition.
+Jasper was nervous of the other horses.
+> Wilbur won a medal in the competition thanks to Jasper's care!
+
+__About the match__
+Rarest shared words: [('feeding', (7.759375273063885, 7.759375273063885))]
+Score: 0.5520220070013655
+
+__About the completion__
+Rarest in completion: [('medal', 8.452502454223811), ('thanks', 8.130918830096348), ('competition', 6.967768020290668), ('care', 6.294345345078502), ('won', 5.467168887890719), ('!', 3.536809591467683), ("'s", 3.3551623435327245)]
+Nearest to completion: [('medal', 0.6466471552848816), ('silver_medal', 0.5611700415611267), ('medals', 0.556464433670044), ('gold_medal', 0.5450887680053711), ('competition', 0.5325531959533691), ('won', 0.5307560563087463), ('bronze_medal', 0.5287689566612244), ('gold_medals', 0.5041020512580872), ('bronze', 0.4795072674751282), ('prize', 0.451762318611145)]
+
+--------------------------------------------------------------------------
+
+One Saturday Lisa went to eat with friends at a vegan restaurant.
+Her friends love to eat organic and vegan foods.
+Lisa loves meat and can't stand vegan food.
+Lisa loves her friends so she ate at the restaurant anyways.
+> She enjoyed her friends company, but left very hungry and irritated.
+
+__About the match__
+Rarest shared words: []
+Score: 0.547912443866051
+
+__About the completion__
+Rarest in completion: [('irritated', 8.354062381410559), ('hungry', 6.435303221421197), ('company', 6.11268801946141), ('enjoyed', 6.002687124247082), ('left', 4.930206975855819), ('friends', 4.1620430130754205), ('very', 3.793301345264873), ('but', 3.4639482432028115)]
+Nearest to completion: [('enjoyed', 0.47403383255004883), ('hungry', 0.4511083662509918), ('enjoying', 0.4206812083721161), ('friends', 0.38679397106170654), ('very', 0.37711620330810547), ('enjoys', 0.37626075744628906), ('extremely', 0.3660721182823181), ('incredibly', 0.3564084470272064), ('loving', 0.34490472078323364), ('enjoy', 0.32399746775627136)]
+
+--------------------------------------------------------------------------
+
+I went to visit a farm on Friday.
+It was a long drive to get there.
+They had a lot of animals.
+I got to pet the cow.
+> It was a very fun day.
+
+__About the match__
+Rarest shared words: [('farm', (6.660762984395776, 6.660762984395776)), ('animals', (6.4919421148207235, 6.4919421148207235))]
+Score: 0.540062079539655
+
+__About the completion__
+Rarest in completion: [('fun', 5.29917715665159), ('very', 3.793301345264873), ('day', 3.3461390948177767)]
+Nearest to completion: [('fun', 0.6998090744018555), ('enjoyable', 0.517569363117218), ('very', 0.5049943923950195), ('incredibly', 0.48290038108825684), ('extremely', 0.45859605073928833), ('pretty', 0.4538007378578186), ('extraordinarily', 0.41377750039100647), ('exciting', 0.40908998250961304), ('entertaining', 0.399458646774292), ('informative', 0.3959389925003052)]
+
+--------------------------------------------------------------------------
+
+The man fed the birds.
+The birds got used to eating crumbs.
+The man stopped feeding the birds.
+The birds got hungry.
+> The birds reverted back to their previous food source.
+
+__About the match__
+Rarest shared words: [('feeding', (7.759375273063885, 7.759375273063885))]
+Score: 0.537391406121348
+
+__About the completion__
+Rarest in completion: [('reverted', 10.721185995542177), ('previous', 8.824066010656296), ('source', 8.20888037156606), ('birds', 7.868554565628858), ('food', 5.1080578891541055), ('their', 4.437673918472774), ('back', 4.3399341530452595)]
+Nearest to completion: [('birds', 0.5615895390510559), ('food', 0.5055695176124573), ('animals', 0.46902886033058167), ('bird', 0.4408724308013916), ('source', 0.4318770468235016), ('livestock', 0.42677971720695496), ('insects', 0.418567031621933), ('chickens', 0.4129205048084259), ('poultry', 0.4091976284980774), ('animal', 0.37365466356277466)]
+
+--------------------------------------------------------------------------
+
+

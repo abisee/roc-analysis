@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Jane wanted to become a better artist.
+She bought brushes and paint from the art store.
+She practiced her painting skills whenever she could.
+The next month, she entered an art contest.
+> She was excited when her painting won a ribbon.
+
+__About the context__
+Rarest in context: [('brushes', 9.047229561370523), ('whenever', 7.463109456920713), ('artist', 7.10131941231521), ('painting', 7.032326540828258), ('skills', 6.907163397874252), ('paint', 6.660762984395776), ('art', 6.63803473331822), ('contest', 6.604882526001319), ('entered', 6.228831303099447), ('become', 5.985007546547699), ('month', 5.760695088028507), ('practiced', 5.675632649484658), ('better', 5.361480000265515), ('next', 4.649698740160677), ('store', 4.2189158240682225), ('bought', 3.9121666888992155), ('from', 3.533800815205541), ('could', 3.4004584525428303), ('an', 3.319567812924379)]
+Nearest to context: [('painting', 0.5721021890640259), ('art', 0.5465178489685059), ('artist', 0.5114185214042664), ('painter', 0.49327534437179565), ('artwork', 0.466721773147583), ('paint', 0.46278607845306396), ('paints', 0.42348143458366394), ('paintings', 0.4172684848308563), ('Art', 0.4077969491481781), ('sculpture', 0.4068869948387146)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('painting', 5247, 14753, 0.7270302176475525), ('artwork', 9994, 10006, 0.6599790453910828), ('paintings', 7447, 12553, 0.6499873399734497), ('painter', 16372, 3628, 0.6110547780990601), ('painted', 6617, 13383, 0.5979995131492615), ('portraits', 15568, 4432, 0.578834593296051), ('portrait', 9738, 10262, 0.5672950744628906), ('sculptures', 16544, 3456, 0.5469622611999512), ('art', 1451, 18549, 0.5440316796302795), ('sculpture', 11530, 8470, 0.5392147302627563)]
+Nearest words to completions' keywords: [('painting', 5247, 14753, 0.7855260372161865), ('paintings', 7447, 12553, 0.7745745182037354), ('artwork', 9994, 10006, 0.7423846125602722), ('painter', 16372, 3628, 0.7190877795219421), ('sculptures', 16544, 3456, 0.6728761196136475), ('art', 1451, 18549, 0.6627690196037292), ('artist', 3038, 16962, 0.6573202013969421), ('portraits', 15568, 4432, 0.640114963054657), ('sculpture', 11530, 8470, 0.6361247301101685), ('painted', 6617, 13383, 0.6252177953720093)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7380296587944031), ('became', 819, 19181, 0.578166127204895), ('came', 256, 19744, 0.5572958588600159), ('had', 35, 19965, 0.5557273626327515), ("wasn'ta", 11067, 8933, 0.5436151623725891), ('went', 297, 19703, 0.5311964154243469), ('is', 4, 19996, 0.5233409404754639), ('seemed', 1617, 18383, 0.5188588500022888), ('saw', 653, 19347, 0.5134279131889343), ('knew', 1039, 18961, 0.510704755783081)]
+
+==========================================================================
+Neighbors
+==========================================================================
+George was an accomplished artist.
+He painted a fantastic portrait of Marie.
+George gave the painting to Marie as a present.
+An art collector offered Marie $15,000 for the painting.
+> Marie loved the painting too much to sell it.
+
+__About the match__
+Rarest shared words: [('artist', (7.10131941231521, 7.10131941231521)), ('painting', (7.032326540828258, 7.032326540828258)), ('art', (6.63803473331822, 6.63803473331822)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.6261130627371917
+
+__About the completion__
+Rarest in completion: [('painting', 7.502310170673975), ('sell', 6.863971226609025), ('much', 4.895185888161725), ('too', 4.812197670258433), ('loved', 4.425305176991248)]
+Nearest to completion: [('painting', 0.5966691374778748), ('loved', 0.4774681329727173), ('paintings', 0.4701272249221802), ('painter', 0.4291888475418091), ('sell', 0.4290153980255127), ('artwork', 0.4184602200984955), ('painted', 0.3782591223716736), ('art', 0.3753703236579895), ('portrait', 0.36270302534103394), ('paints', 0.36171919107437134)]
+
+--------------------------------------------------------------------------
+
+My sister used to paint a lot back in high school.
+She had painted one painting that was really good.
+She had submitted it to a local art gallery.
+After a few months of waiting, they accepted her piece.
+> It was displayed in the gallery for several months.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('art', (6.63803473331822, 6.63803473331822))]
+Score: 0.6104950823208531
+
+__About the completion__
+Rarest in completion: [('gallery', 9.334891634422286), ('displayed', 8.72875583085197), ('months', 5.671329988292639), ('several', 5.573691518728723)]
+Nearest to completion: [('gallery', 0.6636101603507996), ('displayed', 0.6125462055206299), ('galleries', 0.5896058082580566), ('exhibited', 0.5531432628631592), ('displaying', 0.5350765585899353), ('Gallery', 0.5273699164390564), ('display', 0.5150944590568542), ('exhibit', 0.5049223303794861), ('exhibits', 0.46203872561454773), ('displays', 0.4365693926811218)]
+
+--------------------------------------------------------------------------
+
+Larry had always wanted to be a painter.
+He decided to take painting classes.
+At first he did not like the classes.
+However, over time he began to like them a lot.
+> Larry was glad that he was becoming a painter.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258))]
+Score: 0.6023366858880904
+
+__About the completion__
+Rarest in completion: [('painter', 9.180740954595027), ('becoming', 7.725453721988185), ('glad', 5.993798176829835)]
+Nearest to completion: [('painter', 0.6727474331855774), ('becoming', 0.5197367072105408), ('artist', 0.5005829334259033), ('painting', 0.4268820285797119), ('paintings', 0.4063756763935089), ('glad', 0.3942996561527252), ('poet', 0.384082555770874), ('musician', 0.36755189299583435), ('art', 0.362962007522583), ('Artist', 0.36291632056236267)]
+
+--------------------------------------------------------------------------
+
+Herb got supplies to paint his house.
+He hurt his back before he could start painting.
+He called a painter to help.
+The painter gave him a discount for having the supplies.
+> When Herb's back was better his house was already painted.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('could', (3.4004584525428303, 3.4004584525428303))]
+Score: 0.5915496048618823
+
+__About the completion__
+Rarest in completion: [('painted', 7.571303042160927), ('already', 6.726048083403524), ('better', 5.345907587858011), ('house', 4.506577897119985), ('back', 4.3399341530452595), ('when', 3.4368224349138567), ("'s", 3.3551623435327245)]
+Nearest to completion: [('painted', 0.5233007669448853), ('painting', 0.3496195077896118), ('house', 0.34940534830093384), ('better', 0.33569762110710144), ('paint', 0.3267408311367035), ('brighter', 0.326498419046402), ('sharper', 0.3241898715496063), ('already', 0.3061051368713379), ('darker', 0.30052703619003296), ('worse', 0.28769364953041077)]
+
+--------------------------------------------------------------------------
+
+Aaron is an amazing artist.
+He stopped painting when he got a job at a factory.
+He said he never had time to paint.
+After 5 years, Aaron quit the job.
+> Now he makes a living by selling his beautiful artwork.
+
+__About the match__
+Rarest shared words: [('artist', (7.10131941231521, 7.10131941231521)), ('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.5871930815905525
+
+__About the completion__
+Rarest in completion: [('artwork', 9.622573706874066), ('selling', 7.377147027719969), ('makes', 7.175407385068913), ('living', 6.487079490944916), ('beautiful', 6.017679908833223), ('now', 4.716476221684173), ('by', 4.4228496815892715)]
+Nearest to completion: [('artwork', 0.575219988822937), ('beautiful', 0.48420780897140503), ('selling', 0.45011278986930847), ('living', 0.4178232252597809), ('art', 0.41623708605766296), ('paintings', 0.40386199951171875), ('gorgeous', 0.40234822034835815), ('sculptures', 0.402265727519989), ('landscapes', 0.3901705741882324), ('artist', 0.3896060883998871)]
+
+--------------------------------------------------------------------------
+
+The artist wanted to make a new piece.
+He got some canvas and set it up.
+After studying it for a while, he began.
+Flying over the canvas with paint he worked like a whirlwind.
+> After several hours the piece was finished.
+
+__About the match__
+Rarest shared words: [('artist', (7.10131941231521, 7.10131941231521)), ('paint', (6.660762984395776, 6.660762984395776))]
+Score: 0.5834328941562987
+
+__About the completion__
+Rarest in completion: [('piece', 6.975611197751695), ('finished', 6.17082404604908), ('several', 5.573691518728723), ('hours', 5.268717949166882), ('after', 3.9503965716331964)]
+Nearest to completion: [('hours', 0.5355839133262634), ('minutes', 0.47479018568992615), ('after', 0.46029457449913025), ('finished', 0.45604416728019714), ('weeks', 0.4463147819042206), ('hour', 0.4255421757698059), ('days', 0.41838130354881287), ('After', 0.41031360626220703), ('week', 0.3879256546497345), ('eight', 0.3794761300086975)]
+
+--------------------------------------------------------------------------
+
+I was taking an art class with my friend.
+For our test, we had to each paint an apple.
+I had procrastinated until the night before it was due.
+My friend had been working on her painting all week.
+> I was pleased that my picture turned out better than my friend's.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('art', (6.63803473331822, 6.63803473331822)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.5832610281935097
+
+__About the completion__
+Rarest in completion: [('pleased', 6.959985879848613), ('picture', 6.907143398474234), ('than', 5.6973054746958995), ('turned', 5.363028628638123), ('better', 5.345907587858011), ('friend', 4.4228496815892715), ('my', 3.5357989799617595), ("'s", 3.3551623435327245), ('out', 3.3165011979861596)]
+Nearest to completion: [('picture', 0.4193437695503235), ('pleased', 0.4040314555168152), ('better', 0.35838887095451355), ('happier', 0.34715592861175537), ('my', 0.34653109312057495), ('My', 0.3429904282093048), ('delighted', 0.3297649919986725), ('happy', 0.31525918841362), ('considerably', 0.31514137983322144), ('brighter', 0.3145792782306671)]
+
+--------------------------------------------------------------------------
+
+Dan wanted to become a great painter.
+Dan signed up for art classes at his local college.
+Dan watched inspiring films about great artists.
+Dan poured his soul into an oil painting that meant much to him.
+> Dan sold that painting at a local gallery for over a thousand dollars!
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('art', (6.63803473331822, 6.63803473331822)), ('become', (5.985007546547699, 5.985007546547699)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.5790081052056032
+
+__About the completion__
+Rarest in completion: [('gallery', 9.334891634422286), ('thousand', 7.812465098977815), ('painting', 7.502310170673975), ('sold', 6.386076280656046), ('dollars', 6.2514537804491885), ('local', 5.461956017702186), ('over', 4.367395832986647), ('!', 3.536809591467683)]
+Nearest to completion: [('thousand', 0.5246864557266235), ('painting', 0.506431519985199), ('paintings', 0.504612147808075), ('dollars', 0.5008867979049683), ('gallery', 0.4880770742893219), ('galleries', 0.4694315195083618), ('artwork', 0.4564357399940491), ('art', 0.45024916529655457), ('hundred', 0.4289376437664032), ('sculptures', 0.428659588098526)]
+
+--------------------------------------------------------------------------
+
+Tia was an artist.
+She was painting a picture.
+Tia left her paint on the table while she went to the restroom.
+Her cat jumped onto the table.
+> The cat walked past and knocked the paint onto the painting.
+
+__About the match__
+Rarest shared words: [('artist', (7.10131941231521, 7.10131941231521)), ('painting', (7.032326540828258, 7.032326540828258)), ('paint', (6.660762984395776, 6.660762984395776)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.5763200500140925
+
+__About the completion__
+Rarest in completion: [('painting', 7.502310170673975), ('paint', 7.156359190098219), ('past', 7.024007738613545), ('knocked', 6.914523505771856), ('onto', 6.871038393832118), ('cat', 5.756013075522677), ('walked', 5.178616114469694)]
+Nearest to completion: [('paint', 0.5580155253410339), ('painting', 0.5521175861358643), ('painted', 0.540248692035675), ('paints', 0.4490858018398285), ('knocked', 0.40571632981300354), ('canvas', 0.3914574086666107), ('walked', 0.3804562985897064), ('paintings', 0.37519097328186035), ('painter', 0.3728489577770233), ('mural', 0.36177319288253784)]
+
+--------------------------------------------------------------------------
+
+Yesterday I had my first art class.
+We learned how to use different water colors.
+I had a lot of fun.
+My first painting was a masterpiece.
+> I even considered selling it.
+
+__About the match__
+Rarest shared words: [('painting', (7.032326540828258, 7.032326540828258)), ('art', (6.63803473331822, 6.63803473331822))]
+Score: 0.5755481546948759
+
+__About the completion__
+Rarest in completion: [('considered', 7.849506370658164), ('selling', 7.377147027719969), ('even', 5.482972553063845)]
+Nearest to completion: [('selling', 0.6727336049079895), ('considered', 0.6342238783836365), ('regarded', 0.49977007508277893), ('Selling', 0.48239749670028687), ('deemed', 0.4457455575466156), ('buying', 0.43427959084510803), ('sold', 0.4328482747077942), ('Buying', 0.40578171610832214), ('sell', 0.39412760734558105), ('considers', 0.39003273844718933)]
+
+--------------------------------------------------------------------------
+
+

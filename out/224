@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Theo was a very nervous child with a long-time fear of heights.
+One hot summer day, his friends invited him to a water park.
+His crush, Lucy, was there and she loved slides, so Theo had an idea.
+Theo asked her to join him on a two-person toboggan, and she accepted!
+> Together, they rode the slide, with Theo screaming, but happy as ever!
+
+__About the context__
+Rarest in context: [('two-person', 10.433523922490414), ('toboggan', 10.433523922490414), ('long-time', 10.02805881438225), ('slides', 8.561721745588823), ('heights', 8.293457758994144), ('fear', 6.967788019690687), ('crush', 6.952283833154722), ('join', 6.4919421148207235), ('accepted', 6.417140901738025), ('idea', 5.979176626236906), ('child', 5.823366194991284), ('invited', 5.422888628394158), ('summer', 5.364619720270182), ('hot', 5.251740372198329), ('park', 5.183871727923658), ('water', 4.833251824203877), ('nervous', 4.831405101610713), ('loved', 3.962724418707812), ('asked', 3.920293811578107), ('!', 3.7291095675263066), ('friends', 3.719960372872719), ('there', 3.6031897904768617), ('very', 3.353497422567824), ('an', 3.319567812924379), ('so', 3.307436649191289)]
+Nearest to context: [('invited', 0.42365431785583496), ('invite', 0.3751213550567627), ('join', 0.3569108843803406), ('encouraged', 0.33037087321281433), ('inviting', 0.32507964968681335), ('intrigued', 0.30804380774497986), ('attraction', 0.3060967028141022), ('welcome', 0.30481648445129395), ('invites', 0.30287325382232666), ('excited', 0.30026179552078247)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('thrilled', 5437, 14563, 0.39563870429992676), ('jumper', 7000, 13000, 0.39129555225372314), ('delighted', 4204, 15796, 0.3663710653781891), ('glad', 4258, 15742, 0.3594353497028351), ('excited', 1860, 18140, 0.3448891341686249), ('chance', 608, 19392, 0.323056697845459), ('opportunity', 703, 19297, 0.32000625133514404), ('pleased', 1700, 18300, 0.3081691563129425), ('hesitate', 13869, 6131, 0.30218958854675293), ('3_pointer', 5199, 14801, 0.30179905891418457)]
+Nearest words to completions' keywords: [('happy', 1049, 18951, 0.612750768661499), ('glad', 4258, 15742, 0.6042440533638), ('want', 189, 19811, 0.5784966349601746), ('nice', 1535, 18465, 0.5668443441390991), ('wanted', 583, 19417, 0.560468316078186), ('wonderful', 3057, 16943, 0.5591723322868347), ('thrilled', 5437, 14563, 0.5399548411369324), ('fantastic', 3903, 16097, 0.5341113805770874), ('excited', 1860, 18140, 0.5300100445747375), ('liked', 3988, 16012, 0.5274572968482971)]
+Nearest words to completions' verbs: [('was', 10, 19990, 0.7769182324409485), ('had', 35, 19965, 0.7126910090446472), ('wanted', 583, 19417, 0.6970242857933044), ('did', 92, 19908, 0.6859853267669678), ('came', 256, 19744, 0.6739179491996765), ('would', 47, 19953, 0.6675559878349304), ('went', 297, 19703, 0.6648131012916565), ('got', 193, 19807, 0.6579985022544861), ('knew', 1039, 18961, 0.6349262595176697), ('took', 263, 19737, 0.6078627705574036)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Barry always wanted to jump out of a plane.
+Barry thought that it was fun and adventurous to do so.
+However, Barry was very afraid of heights.
+Barry decided to conquer his fear and jump out of a plane.
+> Barry was excited he was going to be a plane jumper.
+
+__About the match__
+Rarest shared words: [('heights', (8.293457758994144, 8.293457758994144)), ('fear', (6.967788019690687, 6.967788019690687)), ('very', (3.353497422567824, 3.353497422567824)), ('so', (3.307436649191289, 3.307436649191289))]
+Score: 0.4572282378734627
+
+__About the completion__
+Rarest in completion: [('jumper', 10.433503923090395), ('plane', 6.7322019489779015), ('excited', 5.146500316442632), ('going', 4.676970883048665), ('be', 4.0931446193626435)]
+Nearest to completion: [('jumper', 0.6874972581863403), ('3_pointer', 0.5956600904464722), ('layup', 0.5702330470085144), ('pointer', 0.5330526232719421), ('free_throws', 0.5064329504966736), ('3s', 0.49182379245758057), ('jumpers', 0.4899192452430725), ('3_pointers', 0.4701496958732605), ('dunk', 0.4547683596611023), ('excited', 0.4507957398891449)]
+
+--------------------------------------------------------------------------
+
+Anna went up in a hot air balloon.
+She was afraid at first.
+Heights terrified her!
+But soon she was distracted by the scenery.
+> It was breathtakingly beautiful!
+
+__About the match__
+Rarest shared words: [('heights', (8.293457758994144, 8.293457758994144)), ('hot', (5.251740372198329, 5.251740372198329)), ('!', (3.7291095675263066, 3.7291095675263066))]
+Score: 0.44174331342807127
+
+__About the completion__
+Rarest in completion: [('breathtakingly', 10.721185995542177), ('beautiful', 6.017679908833223), ('!', 3.536809591467683)]
+Nearest to completion: [('beautiful', 0.939179539680481), ('gorgeous', 0.7927204966545105), ('lovely', 0.7349209785461426), ('magnificent', 0.6092250347137451), ('fabulous', 0.5878493785858154), ('wonderful', 0.580946683883667), ('elegant', 0.5719581842422485), ('delightful', 0.5583813190460205), ('charming', 0.5457955002784729), ('beautifully', 0.5341885089874268)]
+
+--------------------------------------------------------------------------
+
+Carin watched a movie about sharks.
+She became scared of swimming in open water.
+Her friends invited Carin to join them at the beach.
+Carin was afraid.
+> She declined the invitation.
+
+__About the match__
+Rarest shared words: [('join', (6.4919421148207235, 6.4919421148207235)), ('invited', (5.422888628394158, 5.422888628394158)), ('water', (4.833251824203877, 4.833251824203877)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.4385345681573648
+
+__About the completion__
+Rarest in completion: [('invitation', 8.600922459342085), ('declined', 8.106226217505977)]
+Nearest to completion: [('declined', 0.7461808323860168), ('invitation', 0.7038679122924805), ('invitations', 0.5467519164085388), ('refused', 0.504331648349762), ('comment', 0.4509292244911194), ('declining', 0.4390554130077362), ('invited', 0.42532533407211304), ('request', 0.4142897427082062), ('invite', 0.3906468451023102), ('specifics', 0.3653939366340637)]
+
+--------------------------------------------------------------------------
+
+Molly was on vacation.
+Her friends were with her and decided to go parasailing.
+Molly was afraid of heights.
+She watched her friends from the ground.
+> Molly took pictures and videos of her friends in the sky.
+
+__About the match__
+Rarest shared words: [('heights', (8.293457758994144, 8.293457758994144)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.435495611817166
+
+__About the completion__
+Rarest in completion: [('molly', 8.354062381410559), ('videos', 7.676663557818753), ('sky', 7.475992862356602), ('pictures', 6.952263833754704), ('friends', 4.1620430130754205), ('took', 4.067463120907994)]
+Nearest to completion: [('pictures', 0.6983163356781006), ('photos', 0.6872413158416748), ('photographs', 0.6338893175125122), ('videos', 0.6308844089508057), ('images', 0.5989587903022766), ('video', 0.5099977850914001), ('Photos', 0.49736180901527405), ('photograph', 0.4765808880329132), ('photo', 0.4687860906124115), ('footage', 0.46518853306770325)]
+
+--------------------------------------------------------------------------
+
+One day James went to the Empire State Building.
+He was a little afraid of heights.
+However he got over his fear and went to the top floor.
+He loved the view.
+> He was no longer afraid of heights after that.
+
+__About the match__
+Rarest shared words: [('heights', (8.293457758994144, 8.293457758994144)), ('fear', (6.967788019690687, 6.967788019690687)), ('loved', (3.962724418707812, 3.962724418707812))]
+Score: 0.4310532757910166
+
+__About the completion__
+Rarest in completion: [('heights', 8.92942652631412), ('longer', 6.259116653194758), ('afraid', 6.2514537804491885), ('no', 4.72556343828553), ('after', 3.9503965716331964)]
+Nearest to completion: [('heights', 0.5784212350845337), ('longer', 0.5225528478622437), ('no', 0.4321141839027405), ('afraid', 0.41156062483787537), ('No', 0.35955357551574707), ('without', 0.3218249976634979), ('fearful', 0.30778801441192627), ('anytime_soon', 0.30202966928482056), ('even', 0.29876163601875305), ('tolerate', 0.29708823561668396)]
+
+--------------------------------------------------------------------------
+
+Kevin always wanted to ride in a hot-air balloon.
+When a friend asked Kevin to join him for a ride, Kevin accepted.
+Kevin was excited as the gondola lifted off of the ground.
+The swaying of the gondola under the balloon made him very airsick.
+> After they landed, Kevin vowed to stick to the ground.
+
+__About the match__
+Rarest shared words: [('join', (6.4919421148207235, 6.4919421148207235)), ('accepted', (6.417140901738025, 6.417140901738025)), ('asked', (3.920293811578107, 3.920293811578107)), ('very', (3.353497422567824, 3.353497422567824))]
+Score: 0.42719870134027543
+
+__About the completion__
+Rarest in completion: [('stick', 7.676663557818753), ('vowed', 7.377147027719969), ('landed', 6.757203251183319), ('ground', 6.247644252032521), ('after', 3.9503965716331964)]
+Nearest to completion: [('ground', 0.4976787269115448), ('landed', 0.49609920382499695), ('vowed', 0.4919244945049286), ('vowing', 0.4562958776950836), ('stick', 0.39308303594589233), ('slammed', 0.35465288162231445), ('pledged', 0.33973774313926697), ('blasted', 0.33633527159690857), ('landing', 0.33521509170532227), ('sticks', 0.33112913370132446)]
+
+--------------------------------------------------------------------------
+
+One day the Johnson family went on a road trip.
+They stopped at the Statue of Liberty.
+Mrs Joneson was afraid of heights, but she faced her fear.
+She ended up loving the view.
+> They all had a fun time.
+
+__About the match__
+Rarest shared words: [('heights', (8.293457758994144, 8.293457758994144)), ('fear', (6.967788019690687, 6.967788019690687))]
+Score: 0.38059382226299165
+
+__About the completion__
+Rarest in completion: [('fun', 5.29917715665159), ('time', 3.981849368185002), ('all', 3.5398475684877595)]
+Nearest to completion: [('fun', 0.732880711555481), ('enjoyable', 0.5046464204788208), ('Fun', 0.46298548579216003), ('time', 0.4184260666370392), ('all', 0.4180975556373596), ('entertaining', 0.39378511905670166), ('enjoyment', 0.38907769322395325), ('exciting', 0.3769086003303528), ('pleasure', 0.37448033690452576), ('thrill', 0.3599831461906433)]
+
+--------------------------------------------------------------------------
+
+Allie was invited to go to Disney.
+She was excited.
+But when she got there she didn't like it.
+It was too childish.
+> She didn't want to go back.
+
+__About the match__
+Rarest shared words: [('invited', (5.422888628394158, 5.422888628394158)), ('there', (3.6031897904768617, 3.6031897904768617))]
+Score: 0.37085796068235194
+
+__About the completion__
+Rarest in completion: [('want', 5.717239689596717), ('back', 4.3399341530452595), ('go', 4.110041419756121), ('did', 3.6104898725633485), ("n't", 3.334508641807057)]
+Nearest to completion: [('want', 0.5585557818412781), ('go', 0.4777325689792633), ('do', 0.47628921270370483), ('did', 0.4619581401348114), ('intend', 0.4202549457550049), ('hesitate', 0.40111082792282104), ('does', 0.3922981321811676), ('let', 0.3882821202278137), ('going', 0.38365650177001953), ("'ll", 0.36523348093032837)]
+
+--------------------------------------------------------------------------
+
+Gary always wanted to visit Great Adventures water park.
+Gary decided he would take a chance and go today.
+At the park, Gary saw a huge, and long water slide.
+Gary was nervous, but went down the long water slide.
+> Gary was so glad he decided to come to the water park today.
+
+__About the match__
+Rarest shared words: [('park', (5.183871727923658, 5.183871727923658)), ('water', (4.833251824203877, 4.833251824203877)), ('nervous', (4.831405101610713, 4.831405101610713))]
+Score: 0.3697544102785869
+
+__About the completion__
+Rarest in completion: [('glad', 5.993798176829835), ('come', 5.7606750886284885), ('park', 5.715005051795301), ('today', 5.312520571825274), ('water', 5.264441392399621), ('so', 3.628612279567497), ('decided', 3.495461951503386)]
+Nearest to completion: [('water', 0.4691062569618225), ('park', 0.45021796226501465), ('glad', 0.4313666820526123), ('parks', 0.4072116017341614), ('Water', 0.3872881233692169), ('groundwater', 0.37546566128730774), ('pleased', 0.37207841873168945), ('lake', 0.361288458108902), ('decided', 0.34590861201286316), ('delighted', 0.34168288111686707)]
+
+--------------------------------------------------------------------------
+
+Anna was invited to go sailing.
+She had never been and was a bit fearful.
+But she agreed to go with her friends.
+In the end, she had a wonderful day on the water!
+> Anna was glad she had taken a chance on a new experience.
+
+__About the match__
+Rarest shared words: [('invited', (5.422888628394158, 5.422888628394158)), ('water', (4.833251824203877, 4.833251824203877)), ('!', (3.7291095675263066, 3.7291095675263066)), ('friends', (3.719960372872719, 3.719960372872719))]
+Score: 0.3689497378567093
+
+__About the completion__
+Rarest in completion: [('experience', 7.265921392609745), ('chance', 7.25545009274245), ('taken', 6.856953653950378), ('glad', 5.993798176829835), ('new', 3.7799959404738015)]
+Nearest to completion: [('experience', 0.5397140979766846), ('opportunity', 0.5168538689613342), ('chance', 0.5013810396194458), ('thrilled', 0.478339821100235), ('glad', 0.44074568152427673), ('delighted', 0.43842339515686035), ('pleased', 0.4350913465023041), ('excited', 0.40842580795288086), ('invaluable', 0.39471879601478577), ('fortunate', 0.3836487829685211)]
+
+--------------------------------------------------------------------------
+
+

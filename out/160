@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Bob was looking at a house near the Missouri river.
+As the agent showed him the house, he saw something in the river.
+They went to take a closer look.
+Bob was aghast when he realized it was a bloated corpse.
+> The agent said people drowning wouldn't affect the home's value.
+
+__About the context__
+Rarest in context: [('aghast', 10.02805881438225), ('bloated', 10.02805881438225), ('corpse', 10.02805881438225), ('agent', 7.571323041560945), ('closer', 7.06622809250394), ('river', 6.795937762764028), ('near', 5.733043556697997), ('showed', 5.495459321228993), ('look', 5.260203046117063), ('looking', 4.961253248818939), ('something', 4.728076168515152), ('realized', 4.713212145883002), ('take', 4.402838662229151), ('house', 4.016791639978088), ('saw', 3.8322938037615377), ('as', 3.5598426238420284)]
+Nearest to context: [('look', 0.404721736907959), ('saw', 0.3986303210258484), ('see', 0.3677278459072113), ('closer', 0.3626292049884796), ('looked', 0.3565683960914612), ('looking', 0.3481113314628601), ('seeing', 0.34148597717285156), ('showed', 0.3400731384754181), ('seen', 0.31894025206565857), ('realized', 0.31663233041763306)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('purchasers', 19864, 136, 0.3501061499118805), ('believe', 480, 19520, 0.3424244821071625), ('buy', 753, 19247, 0.3214173913002014), ('purchase', 1299, 18701, 0.31965792179107666), ('buyer', 5591, 14409, 0.3183216154575348), ('offer', 516, 19484, 0.3076183497905731), ('seek', 1713, 18287, 0.3039665222167969), ('seller', 7954, 12046, 0.29964378476142883), ('buyers', 2933, 17067, 0.2946523427963257), ('offered', 1015, 18985, 0.29308614134788513)]
+Nearest words to completions' keywords: [('want', 189, 19811, 0.48633071780204773), ('just', 76, 19924, 0.47105202078819275), ('do', 58, 19942, 0.47000420093536377), ('wanted', 583, 19417, 0.4683508574962616), ('got', 193, 19807, 0.44140148162841797), ('would', 47, 19953, 0.4388485848903656), ('RTT_Staff_Writer', 19955, 45, 0.43800827860832214), ('could', 75, 19925, 0.4379037618637085), ('owe', 8928, 11072, 0.43789413571357727), ('not', 13, 19987, 0.43682295083999634)]
+Nearest words to completions' verbs: [('wanted', 583, 19417, 0.6656956076622009), ('figured', 6111, 13889, 0.6503171324729919), ('thought', 572, 19428, 0.6382459998130798), ('knew', 1039, 18961, 0.6340779662132263), ('had', 35, 19965, 0.6290760636329651), ('did', 92, 19908, 0.6162011623382568), ('saw', 653, 19347, 0.6092377305030823), ('got', 193, 19807, 0.5915802121162415), ('would', 47, 19953, 0.5903005599975586), ('decided', 846, 19154, 0.5851883888244629)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Bob was inspecting a house he was thinking of buying.
+He'd observed a chimney on the roof when he arrived.
+Bob couldn't find where the fireplace was inside.
+The agent told him the chimney was just for show.
+> Bob decided he didn't want to buy such a deceitful home.
+
+__About the match__
+Rarest shared words: [('agent', (7.571323041560945, 7.571323041560945)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.430621536937182
+
+__About the completion__
+Rarest in completion: [('deceitful', 10.721185995542177), ('such', 6.944600961009134), ('want', 5.717239689596717), ('buy', 4.985689545396447), ('home', 4.002978318445733), ('did', 3.6104898725633485), ('decided', 3.495461951503386), ("n't", 3.334508641807057)]
+Nearest to completion: [('chose', 0.5090585350990295), ('intend', 0.5060678124427795), ('decided', 0.504130482673645), ('want', 0.497048944234848), ('opted', 0.44936519861221313), ('buy', 0.4447372555732727), ('hesitate', 0.43079233169555664), ('did', 0.42921796441078186), ('wanted', 0.40381360054016113), ('prefer', 0.3929898738861084)]
+
+--------------------------------------------------------------------------
+
+When I found Charlie Horse under my bed, his leg was messed up.
+Upon closer look, the stuffing was starting to come out.
+The seams had ruptured.
+When I looked at my dog, he was also under the bed.
+> He looked very guilty, leading me to believe he caused the damage.
+
+__About the match__
+Rarest shared words: [('closer', (7.06622809250394, 7.06622809250394)), ('look', (5.260203046117063, 5.260203046117063))]
+Score: 0.3978838975551585
+
+__About the completion__
+Rarest in completion: [('leading', 8.92942652631412), ('damage', 7.794446593475136), ('caused', 7.725453721988185), ('guilty', 7.529338843061895), ('believe', 6.7828456817966565), ('looked', 4.6993539118177985), ('me', 4.441414571213571), ('very', 3.793301345264873)]
+Nearest to completion: [('caused', 0.519791305065155), ('damage', 0.5124632716178894), ('inflicted', 0.43537402153015137), ('cause', 0.42045271396636963), ('guilty', 0.41954174637794495), ('causing', 0.40644869208335876), ('damages', 0.40497708320617676), ('harm', 0.35940200090408325), ('damaging', 0.3569318652153015), ('intentional', 0.3558298349380493)]
+
+--------------------------------------------------------------------------
+
+Carl was walking near a pond.
+He looked down into the water.
+There he saw a large frog.
+He reached down to touch the frog's back.
+> It leaped away from him before he could make contact.
+
+__About the match__
+Rarest shared words: [('near', (5.733043556697997, 5.733043556697997)), ('saw', (3.8322938037615377, 3.8322938037615377))]
+Score: 0.3948761321432962
+
+__About the completion__
+Rarest in completion: [('leaped', 9.873888135154973), ('contact', 8.058598168516724), ('before', 4.900114434362875), ('away', 4.824948298377215), ('make', 4.7898253725039), ('from', 3.996552593524763), ('could', 3.8258407366367204), ('him', 3.3907807836977737)]
+Nearest to completion: [('contact', 0.4718207120895386), ('from', 0.4542830288410187), ('away', 0.43599629402160645), ('before', 0.3690086603164673), ('or', 0.32506823539733887), ('further', 0.30918437242507935), ('within', 0.3084653615951538), ('via', 0.30686530470848083), ('him', 0.30387434363365173), ('contacting', 0.2963929772377014)]
+
+--------------------------------------------------------------------------
+
+Daniel was interested in buying a house.
+He contacted a local real estate agent about viewing a few houses.
+He found one that was 20 minutes away from work.
+He decided to put an offer on the house.
+> The seller accepted the offer right away.
+
+__About the match__
+Rarest shared words: [('agent', (7.571323041560945, 7.571323041560945)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.3610674768874529
+
+__About the completion__
+Rarest in completion: [('seller', 8.775275846486863), ('offer', 7.400957676413688), ('accepted', 6.660742984995757), ('right', 5.585387558491915), ('away', 4.824948298377215)]
+Nearest to completion: [('seller', 0.5726144313812256), ('offer', 0.5620307922363281), ('accepted', 0.5380300283432007), ('accept', 0.4906986951828003), ('offered', 0.47034192085266113), ('accepts', 0.45072972774505615), ('offering', 0.43352892994880676), ('sellers', 0.43228060007095337), ('accepting', 0.41003793478012085), ('offers', 0.406688392162323)]
+
+--------------------------------------------------------------------------
+
+Diane wanted to buy a new car, so she started at her bank.
+She spoke with the agent, and was pre-qualified for a loan.
+Knowing what she could spend, she went to look for a new car.
+She test drove two SUVs from the lot, and then discussed her options.
+> After deliberating, she chose a black SUV and paid with her loan.
+
+__About the match__
+Rarest shared words: [('agent', (7.571323041560945, 7.571323041560945)), ('look', (5.260203046117063, 5.260203046117063))]
+Score: 0.35739386873780604
+
+__About the completion__
+Rarest in completion: [('deliberating', 10.721185995542177), ('loan', 8.082128665926916), ('chose', 6.899817358382161), ('black', 6.769942276960749), ('paid', 6.3104099475823086), ('after', 3.9503965716331964)]
+Nearest to completion: [('loan', 0.5990216732025146), ('paid', 0.4705212414264679), ('loans', 0.4556533098220825), ('Loan', 0.4311313033103943), ('owed', 0.41570135951042175), ('chose', 0.40070176124572754), ('repayment', 0.39621835947036743), ('black', 0.39165163040161133), ('repaid', 0.3897288739681244), ('repay', 0.3656318485736847)]
+
+--------------------------------------------------------------------------
+
+Blake lost his job.
+He began looking for a new job.
+Blake found a new job in another city.
+He had to move to take the job.
+> Black began to look for apartments in the new city.
+
+__About the match__
+Rarest shared words: [('looking', (4.961253248818939, 4.961253248818939)), ('take', (4.402838662229151, 4.402838662229151))]
+Score: 0.35553434344532564
+
+__About the completion__
+Rarest in completion: [('apartments', 9.517213191216241), ('city', 6.417120902338007), ('look', 5.751372695966175), ('began', 5.17731148284303), ('new', 3.7799959404738015)]
+Nearest to completion: [('apartments', 0.6385409235954285), ('city', 0.532975971698761), ('condos', 0.5029569268226624), ('condominiums', 0.4927779734134674), ('buildings', 0.48223763704299927), ('neighborhoods', 0.476658433675766), ('residences', 0.4744156002998352), ('condominium', 0.46937286853790283), ('housing', 0.45716771483421326), ('condo', 0.4415060579776764)]
+
+--------------------------------------------------------------------------
+
+One day Erika went to Niagara Falls.
+She loved the view.
+She stood and watched for a while.
+Then she got in a boat to get closer.
+> She had a great day.
+
+__About the match__
+Rarest shared words: [('closer', (7.06622809250394, 7.06622809250394))]
+Score: 0.35160120627035313
+
+__About the completion__
+Rarest in completion: [('great', 4.843450213762537), ('day', 3.3461390948177767)]
+Nearest to completion: [('great', 0.6712467670440674), ('fantastic', 0.5391416549682617), ('tremendous', 0.5306475758552551), ('terrific', 0.5100648999214172), ('day', 0.5088004469871521), ('incredible', 0.5003136396408081), ('wonderful', 0.49579358100891113), ('marvelous', 0.48801982402801514), ('phenomenal', 0.45515143871307373), ('amazing', 0.4317626655101776)]
+
+--------------------------------------------------------------------------
+
+The man jumped in the river.
+The river carried him downstream.
+He floated over a current.
+He paddled to the shore.
+> The man wondered where he had jumped in at.
+
+__About the match__
+Rarest shared words: [('river', (6.795937762764028, 6.795937762764028))]
+Score: 0.34961056250568634
+
+__About the completion__
+Rarest in completion: [('wondered', 7.308938777693435), ('jumped', 6.318540073665559), ('where', 5.976253867178926), ('man', 4.481560134144697)]
+Nearest to completion: [('jumped', 0.5251937508583069), ('wondered', 0.5077323317527771), ('climbed', 0.4532370865345001), ('man', 0.42109930515289307), ('plunged', 0.3910209536552429), ('slipped', 0.35568708181381226), ('questioned', 0.35345709323883057), ('tumbled', 0.3510926067829132), ('surged', 0.3433968424797058), ('crashed', 0.34285634756088257)]
+
+--------------------------------------------------------------------------
+
+Christopher went outside to explore the trails across from his house.
+He walked far into the woods.
+He came upon an abandoned cranberry bog.
+He realized he was lost since he had never seen this bog before.
+> Christopher used the GSP app on his phone to find his way back home.
+
+__About the match__
+Rarest shared words: [('realized', (4.713212145883002, 4.713212145883002)), ('house', (4.016791639978088, 4.016791639978088))]
+Score: 0.34342446590018005
+
+__About the completion__
+Rarest in completion: [('app', 8.20888037156606), ('phone', 5.470659292830488), ('used', 5.4636906235143945), ('find', 5.045574397852671), ('way', 5.019628215908086), ('back', 4.3399341530452595), ('home', 4.002978318445733)]
+Nearest to completion: [('app', 0.6003004908561707), ('phone', 0.5086395144462585), ('iPhone', 0.4791394770145416), ('mobile', 0.47627681493759155), ('apps', 0.47034952044487), ('phones', 0.46274706721305847), ('cell_phone', 0.44291895627975464), ('App', 0.43737292289733887), ('smartphone', 0.43679091334342957), ('handset', 0.4227510392665863)]
+
+--------------------------------------------------------------------------
+
+Ernest is out on a hiking trip.
+He is just about to turn back to head to the city.
+He sees something shiny in a canyon.
+He goes in closer to check it out.
+> He can't believe he has found gold.
+
+__About the match__
+Rarest shared words: [('closer', (7.06622809250394, 7.06622809250394)), ('something', (4.728076168515152, 4.728076168515152))]
+Score: 0.3352274442194751
+
+__About the completion__
+Rarest in completion: [('gold', 7.615105664819319), ('ca', 7.110268082897952), ('believe', 6.7828456817966565), ('has', 4.937360813212439), ('found', 4.202038707601781), ("n't", 3.334508641807057)]
+Nearest to completion: [('gold', 0.5828946232795715), ('believe', 0.5144849419593811), ('silver', 0.5009983777999878), ('found', 0.48757773637771606), ('discovered', 0.41535669565200806), ('believed', 0.4113187789916992), ('indicates', 0.3991149663925171), ('Gold', 0.39300093054771423), ('precious_metals', 0.3892003893852234), ('has', 0.3871963322162628)]
+
+--------------------------------------------------------------------------
+
+

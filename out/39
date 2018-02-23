@@ -1,0 +1,184 @@
+==========================================================================
+Story
+==========================================================================
+Larry worked at an accounting firm.
+It was a boring job but it paid the bills.
+Larry grew tired of doing the same thing every day.
+He had the idea to have an office party.
+> By lunch the whole office had passed out and nothing got done.
+
+__About the context__
+Rarest in context: [('accounting', 9.180760953995046), ('firm', 8.035628649692043), ('bills', 7.255470092142468), ('boring', 7.175427384468931), ('paid', 6.1227247971049), ('thing', 6.08971850063673), ('idea', 5.979176626236906), ('grew', 5.848556443819842), ('same', 5.715025051195319), ('office', 5.617282766422382), ('tired', 5.439695746710539), ('doing', 5.4096434016441375), ('party', 5.1105139433520055), ('worked', 4.680951283664781), ('job', 4.4999533538013345), ('every', 4.228966159921724), ('have', 4.032436257125603), ('an', 3.319567812924379)]
+Nearest to context: [('firm', 0.35637137293815613), ('job', 0.3519231081008911), ('employed', 0.35124146938323975), ('paid', 0.343534380197525), ('auditing', 0.33721521496772766), ('office', 0.33473727107048035), ('corporation', 0.3302089273929596), ('outsourced', 0.32648587226867676), ('paying', 0.32484421133995056), ('accounting', 0.32356521487236023)]
+
+==========================================================================
+Extracted from Neighbors' Completions
+==========================================================================
+Nearest words to completions: [('employer', 5009, 14991, 0.4042968153953552), ('accepting', 5536, 14464, 0.3968418836593628), ('employees', 725, 19275, 0.3908986449241638), ('company', 100, 19900, 0.3729417622089386), ('acquires', 19950, 50, 0.36784419417381287), ('accepts', 10732, 9268, 0.36345717310905457), ('offers', 947, 19053, 0.3592473864555359), ('acquiring', 7306, 12694, 0.3584567904472351), ('million', 81, 19919, 0.3570575416088104), ('receives', 5334, 14666, 0.3520163893699646)]
+Nearest words to completions' keywords: [('refuses', 9340, 10660, 0.4665127098560333), ('even', 155, 19845, 0.46412140130996704), ('accepts', 10732, 9268, 0.4594402611255646), ('refused', 1920, 18080, 0.456764280796051), ('rejects', 11500, 8500, 0.45377904176712036), ('buys', 8204, 11796, 0.4501461684703827), ('rejected', 2466, 17534, 0.44679948687553406), ('denies', 6732, 13268, 0.4451104700565338), ('now', 97, 19903, 0.4431115686893463), ('dollar', 1075, 18925, 0.43999144434928894)]
+Nearest words to completions' verbs: [('got', 193, 19807, 0.6902335286140442), ('had', 35, 19965, 0.6320516467094421), ('was', 10, 19990, 0.6128836870193481), ('gave', 573, 19427, 0.6025399565696716), ('came', 256, 19744, 0.5942622423171997), ('took', 263, 19737, 0.5848913192749023), ('gotten', 3328, 16672, 0.554440975189209), ('gets', 1002, 18998, 0.5527986884117126), ('wanted', 583, 19417, 0.5515643954277039), ('went', 297, 19703, 0.5511912107467651)]
+
+==========================================================================
+Neighbors
+==========================================================================
+Marvin always told his friends that he wanted to be an accountant.
+When he got to college, he took a course in accounting.
+He thought he would like it, but he found it very boring.
+He transferred to a course in meteorology.
+> He loved that class, and ended up becoming a weatherman.
+
+__About the match__
+Rarest shared words: [('accounting', (9.180760953995046, 9.180760953995046)), ('boring', (7.175427384468931, 7.175427384468931)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.470658069738306
+
+__About the completion__
+Rarest in completion: [('weatherman', 9.622573706874066), ('becoming', 7.725453721988185), ('class', 5.244722443610666), ('ended', 5.160504364526648), ('loved', 4.425305176991248)]
+Nearest to completion: [('becoming', 0.5327746868133545), ('class', 0.5076050162315369), ('became', 0.4892371892929077), ('become', 0.4176630675792694), ('ended', 0.4041985869407654), ('loved', 0.4028325080871582), ('grew', 0.35452568531036377), ('becomes', 0.33167901635169983), ('ending', 0.31305548548698425), ('classes', 0.2995333671569824)]
+
+--------------------------------------------------------------------------
+
+Frank had worked at the same job for over four years.
+He was getting tired of his position.
+He wanted to do something new.
+Frank ending up applying for a sales position.
+> He ended up accepting the job offer.
+
+__About the match__
+Rarest shared words: [('same', (5.715025051195319, 5.715025051195319)), ('tired', (5.439695746710539, 5.439695746710539)), ('worked', (4.680951283664781, 4.680951283664781)), ('job', (4.4999533538013345, 4.4999533538013345))]
+Score: 0.4694018096496299
+
+__About the completion__
+Rarest in completion: [('accepting', 9.873888135154973), ('offer', 7.400957676413688), ('ended', 5.160504364526648), ('job', 4.864205675813988)]
+Nearest to completion: [('accepting', 0.6428852081298828), ('offer', 0.5645875930786133), ('accept', 0.4919273853302002), ('accepted', 0.4653554856777191), ('job', 0.4616784453392029), ('offered', 0.45232492685317993), ('offering', 0.42908549308776855), ('offers', 0.40881088376045227), ('ended', 0.40277421474456787), ('accepts', 0.40103432536125183)]
+
+--------------------------------------------------------------------------
+
+Dave just started a new job in accounting.
+He had never had an accounting job before.
+Accounting was his major in college but he never worked in it.
+He was nervous he wouldn't be good at it.
+> A few days into his job Dave picked things up quite easily.
+
+__About the match__
+Rarest shared words: [('accounting', (9.180760953995046, 9.180760953995046)), ('worked', (4.680951283664781, 4.680951283664781)), ('job', (4.4999533538013345, 4.4999533538013345)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4408067353118375
+
+__About the completion__
+Rarest in completion: [('easily', 7.676663557818753), ('quite', 6.856953653950378), ('things', 5.699500865259336), ('days', 5.677760878622929), ('picked', 5.597222016138917), ('few', 5.000874218934764), ('job', 4.864205675813988), ('into', 4.270189119055754)]
+Nearest to completion: [('easily', 0.42167195677757263), ('few', 0.4152626395225525), ('things', 0.39729610085487366), ('quickly', 0.39108437299728394), ('quite', 0.38618120551109314), ('Things', 0.3414674401283264), ('nicely', 0.32433679699897766), ('weeks', 0.3229046165943146), ('Quite', 0.31083711981773376), ('remarkably', 0.30438366532325745)]
+
+--------------------------------------------------------------------------
+
+Ana got her first paycheck.
+She was so proud she showed it to everyone she knew.
+Ana went to the bank to open an account.
+She then paid all her bills.
+> Ana only had a dollar left in her account when she was done.
+
+__About the match__
+Rarest shared words: [('bills', (7.255470092142468, 7.255470092142468)), ('paid', (6.1227247971049, 6.1227247971049)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4330336663420835
+
+__About the completion__
+Rarest in completion: [('account', 7.708924420036975), ('dollar', 7.475992862356602), ('done', 5.8109850987676905), ('only', 5.17081373418551), ('left', 4.930206975855819), ('when', 3.4368224349138567)]
+Nearest to completion: [('dollar', 0.5302900671958923), ('account', 0.5190960168838501), ('greenback', 0.42393210530281067), ('currency', 0.4224841296672821), ('rupee', 0.4037443697452545), ('accounts', 0.3923669159412384), ('currencies', 0.38434454798698425), ('Dollar', 0.34428671002388), ('rand', 0.3440296947956085), ('dollars', 0.3349706828594208)]
+
+--------------------------------------------------------------------------
+
+Jim worked at a paper sales company.
+He thought it was boring, so he liked to play pranks on his coworker.
+One day, he put his coworkers stapler in jello.
+His co worker became mad and reported Jim.
+> However, Jim denied ever taking part in it.
+
+__About the match__
+Rarest shared words: [('boring', (7.175427384468931, 7.175427384468931)), ('worked', (4.680951283664781, 4.680951283664781))]
+Score: 0.4142774231222639
+
+__About the completion__
+Rarest in completion: [('denied', 8.72875583085197), ('part', 6.672303807396832), ('ever', 6.106065478700916), ('taking', 6.057746901430109), ('however', 5.312520571825274)]
+Nearest to completion: [('denied', 0.5976834893226624), ('denying', 0.5057439804077148), ('denies', 0.4985674023628235), ('deny', 0.4442663788795471), ('taking', 0.4426175653934479), ('claimed', 0.40815088152885437), ('part', 0.3926834464073181), ('asserted', 0.3812171518802643), ('ever', 0.37529683113098145), ('claiming', 0.3717222213745117)]
+
+--------------------------------------------------------------------------
+
+Rhonda worked for an insurance company.
+She was still new at her job and was trying to get new clients.
+She called her friends first.
+Most of them told her they were not interested.
+> She only got two new clients.
+
+__About the match__
+Rarest shared words: [('worked', (4.680951283664781, 4.680951283664781)), ('job', (4.4999533538013345, 4.4999533538013345)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.4139306817096342
+
+__About the completion__
+Rarest in completion: [('clients', 8.72875583085197), ('only', 5.17081373418551), ('two', 4.891260466045621), ('new', 3.7799959404738015), ('got', 3.390344007102055)]
+Nearest to completion: [('clients', 0.591444194316864), ('two', 0.4346636235713959), ('three', 0.41744694113731384), ('client', 0.41474276781082153), ('five', 0.4068985879421234), ('four', 0.40606722235679626), ('customers', 0.40037858486175537), ('new', 0.39219367504119873), ('seven', 0.38821646571159363), ('six', 0.3748761713504791)]
+
+--------------------------------------------------------------------------
+
+Don was an accountant.
+He worked with a very prominent company.
+One day, the CEO of the company came to Don's office.
+The CEO asked Don to lie in a report about the company's holdings.
+> Don refused.
+
+__About the match__
+Rarest shared words: [('office', (5.617282766422382, 5.617282766422382)), ('worked', (4.680951283664781, 4.680951283664781)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.41329044413444943
+
+__About the completion__
+Rarest in completion: [('refused', 6.399263284938)]
+Nearest to completion: [('refused', 0.9379258751869202), ('refusing', 0.7817244529724121), ('refuses', 0.6876610517501831), ('refusal', 0.6606851816177368), ('declined', 0.5964727997779846), ('refuse', 0.5590731501579285), ('reluctant', 0.5464264750480652), ('rebuffed', 0.5439233779907227), ('unwilling', 0.5397600531578064), ('rejected', 0.5011184215545654)]
+
+--------------------------------------------------------------------------
+
+Shane worked as an accountant for a large company.
+Shane felt that he was not being paid enough for his work.
+Shane decided to start altering the accounts at work and hiding money.
+Shane took the money he hid from work.
+> Shane stole over 4 million dollars from his employer.
+
+__About the match__
+Rarest shared words: [('paid', (6.1227247971049, 6.1227247971049)), ('worked', (4.680951283664781, 4.680951283664781)), ('an', (3.319567812924379, 3.319567812924379))]
+Score: 0.40797416896391475
+
+__About the completion__
+Rarest in completion: [('employer', 9.180740954595027), ('million', 8.20888037156606), ('4', 7.63014354218386), ('stole', 7.529338843061895), ('dollars', 6.2514537804491885), ('over', 4.367395832986647), ('from', 3.996552593524763)]
+Nearest to completion: [('million', 0.6045774221420288), ('$', 0.5716391205787659), ('dollars', 0.5518830418586731), ('###,###', 0.5028468370437622), ('stole', 0.48095837235450745), ('billion', 0.4710603952407837), ('#.#', 0.4338228106498718), ('##,###', 0.433480829000473), ('totaling', 0.4330112636089325), ('######', 0.42234545946121216)]
+
+--------------------------------------------------------------------------
+
+Emily loved software engineering.
+Emily spent a lot of time learning how to do it.
+After lots of practice she became quite good.
+She applied for a job as a software engineer.
+> Now she owns her own software engineering company.
+
+__About the match__
+Rarest shared words: [('job', (4.4999533538013345, 4.4999533538013345))]
+Score: 0.40774537537956346
+
+__About the completion__
+Rarest in completion: [('engineering', 10.028038814982231), ('software', 8.92942652631412), ('owns', 8.775275846486863), ('company', 6.11268801946141), ('own', 5.73757937383384), ('now', 4.716476221684173)]
+Nearest to completion: [('company', 0.6271835565567017), ('owns', 0.5855345726013184), ('engineering', 0.5853874683380127), ('software', 0.5476425290107727), ('privately_held', 0.537092387676239), ('privately_owned', 0.5256905555725098), ('subsidiary', 0.520729660987854), ('firm', 0.503724992275238), ('acquires', 0.4807547628879547), ('engineer', 0.45849114656448364)]
+
+--------------------------------------------------------------------------
+
+Barb was a manager at a retail store.
+They job paid well but she had to work every single holiday.
+She applied for a manager position at a non retail company.
+She interviewed and got the job, with a pay increase!
+> Now Barb makes more and gets all holidays off to be with her family.
+
+__About the match__
+Rarest shared words: [('paid', (6.1227247971049, 6.1227247971049)), ('job', (4.4999533538013345, 4.4999533538013345)), ('every', (4.228966159921724, 4.228966159921724))]
+Score: 0.40598716142137675
+
+__About the completion__
+Rarest in completion: [('holidays', 9.047209561970504), ('makes', 7.175407385068913), ('gets', 6.386076280656046), ('more', 4.774893167080915), ('now', 4.716476221684173), ('family', 4.6880997737433745), ('off', 4.4887379789916535), ('be', 4.0931446193626435), ('all', 3.5398475684877595)]
+Nearest to completion: [('makes', 0.52618008852005), ('gets', 0.5079585909843445), ('becomes', 0.4679298400878906), ('holidays', 0.4305495619773865), ('is', 0.42475321888923645), ('holiday', 0.353426992893219), ('grows', 0.34893834590911865), ('ensures', 0.3485614061355591), ('be', 0.34775012731552124), ('creates', 0.34697937965393066)]
+
+--------------------------------------------------------------------------
+
+
