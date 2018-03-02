@@ -1,4 +1,4 @@
-from ROC import util_ROC, fixed_settings, util_misc, util_pos
+import util_ROC, fixed_settings, util_misc, util_pos
 from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from gensim.models import KeyedVectors
@@ -11,10 +11,11 @@ class Corpus_representation:
 
     def __init__(self, docs, tfidf_model=None, word_embeddings_model=None):
         #TODO for now, do not error check args
-        self.docs = docs
+        self.docs = docs # is list of list of strings
 
         ######### Doc representations #########
-        self.docs_tfidf_weights = tfidf_model.fit_transform(docs)
+        self.docs_tfidf_weights = tfidf_model.fit_transform(docs) # this is a matrix shape (vocab size, num docs) or similar
+        # print("self.docs_tfidf_weights: ", type(self.docs_tfidf_weights))
         self.tfidf_ids_to_tokens = {id:token for (token, id) in tfidf_model.vocabulary_.items()}
 
         self.word_embeddings_model = word_embeddings_model
@@ -23,25 +24,31 @@ class Corpus_representation:
 
     ######### Get neighbors based on similarity #########
 
-    def get_neighbors_by_tfidf_similarity(self, doc_id, num_neighbors=None, threshold=None):
-        if num_neighbors is None and threshold is None: raise TypeError #One of these must have a value
-        similarity_metric = self.tfidf_similarity
-        similarity_scores = [similarity_metric(doc_id, other_id) for other_id in range(len(self.docs))]
-        neighbors = sorted(zip(np.arange(len(similarity_scores)), similarity_scores), key=lambda x:x[1], reverse=True)
-        if threshold is not None: # Use threshold to choose neighbors
-            return self.threshold_neighbors(neighbors, threshold)
-        else:
-            return neighbors[1:1+num_neighbors] # Top n neighbors
+    # def get_neighbors_by_tfidf_similarity(self, doc_id, num_neighbors=None, threshold=None):
+    #     if num_neighbors is None and threshold is None: raise TypeError #One of these must have a value
+    #     similarity_metric = self.tfidf_similarity
+    #     similarity_scores = [similarity_metric(doc_id, other_id) for other_id in range(len(self.docs))]
+    #     neighbors = sorted(zip(np.arange(len(similarity_scores)), similarity_scores), key=lambda x:x[1], reverse=True)
+    #     if threshold is not None: # Use threshold to choose neighbors
+    #         return self.threshold_neighbors(neighbors, threshold)
+    #     else:
+    #         return neighbors[1:1+num_neighbors] # Top n neighbors
 
-    def get_neighbors_by_embedding_similarity(self, doc_id, num_neighbors=None, threshold=None, weighted=False):
-        if num_neighbors is None and threshold is None: raise TypeError #One of these must have a value
+    def get_neighbors_by_embedding_similarity(self, doc_id, num_neighbors=None, weighted=False):
+        """Given doc_id, return list of num_neighbors closest neighbors in self.docs."""
         similarity_metric = self.embedding_similarity
+
+        # list of similarity scores, in same order as self.docs
         similarity_scores = [similarity_metric(doc_id, other_id, weighted=weighted) for other_id in range(len(self.docs))]
+
+        # neighbors is list of (neighbor_id, score) pairs, sorted w.r.t. score, and the neighbor_id is the place it appears in self.docs
         neighbors = sorted(zip(np.arange(len(similarity_scores)), similarity_scores), key=lambda x:x[1], reverse=True)
-        if threshold is not None: # Use threshold to choose neighbors
-            return self.threshold_neighbors(neighbors, threshold)
+
+        if num_neighbors:
+          return neighbors[1:1+num_neighbors] # Top n neighbors
         else:
-            return neighbors[1:1+num_neighbors] # Top n neighbors
+          return neighbors # return all
+
 
     def threshold_neighbors(self, neighbors, threshold):
         num_close_neighbors = 0
@@ -54,10 +61,17 @@ class Corpus_representation:
 
     def embedding_similarity(self, doc_id1, doc_id2, weighted=False):
         docs_embeddings = self.weighted_docs_embeddings if weighted else self.simple_docs_embeddings
-        return util_misc.cosine_similarity(docs_embeddings[doc_id1], docs_embeddings[doc_id2])
+        if isinstance(doc_id1, int):
+            # print("calculating similarity within dataset")
+            return util_misc.cosine_similarity(docs_embeddings[doc_id1], docs_embeddings[doc_id2])
+        else:
+            # print("calculating similarity for outside rep")
+            return util_misc.cosine_similarity(doc_id1, docs_embeddings[doc_id2])
+
 
     def tfidf_similarity(self, doc_id1, doc_id2):
         return util_misc.cosine_similarity(self.docs_tfidf_weights[doc_id1].toarray()[0], self.docs_tfidf_weights[doc_id2].toarray()[0])
+
 
     ######### Get core of neighborhood #########
 
@@ -65,14 +79,14 @@ class Corpus_representation:
         docs_embeddings = self.weighted_docs_embeddings if weighted else self.simple_docs_embeddings
         doc_neighborhood_embedding = sum([docs_embeddings[neighbor_id] for (neighbor_id, score) in neighbors_info]) / len(neighbors_info)
         words = self.word_embeddings_model.most_similar(positive=[doc_neighborhood_embedding], topn=topn, restrict_vocab=20000)
-        return [(word, self.word_embeddings_model.wv.vocab[word].index, self.word_embeddings_model.wv.vocab[word].count, similarity)
+        return [(word, self.word_embeddings_model.vocab[word].index, self.word_embeddings_model.vocab[word].count, similarity)
                     for (word, similarity) in words]
 
     def get_nearest_words_to_neighborhood_keywords(self, neighbors_info, topn=10):
         keywords_embs = [self.get_word_embedding(word) for (neighbor_id, score) in neighbors_info for (word,score) in self.get_nearest_words_to_doc(neighbor_id)]
         neighborhood_emb = sum(keywords_embs)
         words = self.word_embeddings_model.most_similar(positive=[neighborhood_emb], topn=topn, restrict_vocab=20000)
-        return [(word, self.word_embeddings_model.wv.vocab[word].index, self.word_embeddings_model.wv.vocab[word].count, similarity)
+        return [(word, self.word_embeddings_model.vocab[word].index, self.word_embeddings_model.vocab[word].count, similarity)
                     for (word, similarity) in words]
 
     # def get_most_common_words_in_neighborhood_keywords(self, neighbors_info, topn=10):
@@ -88,9 +102,9 @@ class Corpus_representation:
     def get_nearest_words_to_neighborhood_verbs(self, neighborhood_verbs, topn=10, weighted=False):
         neighborhood_verbs_embedding = sum([self.get_word_embedding(verb) for verb in neighborhood_verbs]) / len(neighborhood_verbs)
         words = self.word_embeddings_model.most_similar(positive=[neighborhood_verbs_embedding], topn=topn, restrict_vocab=20000)
-        return [(word, self.word_embeddings_model.wv.vocab[word].index, self.word_embeddings_model.wv.vocab[word].count, similarity)
+        return [(word, self.word_embeddings_model.vocab[word].index, self.word_embeddings_model.vocab[word].count, similarity)
                     for (word, similarity) in words]
-        # return [(word, self.word_embeddings_model.wv.vocab[word].index, self.word_embeddings_model.wv.vocab[word].count,
+        # return [(word, self.word_embeddings_model.vocab[word].index, self.word_embeddings_model.vocab[word].count,
         #          similarity)
         #         for (word, similarity) in words if word in self.tfidf_ids_to_tokens.values()]
 
@@ -105,7 +119,7 @@ class Corpus_representation:
         return self.word_embeddings_model.most_similar(positive=[doc_embedding], negative=[], topn=topn, restrict_vocab=20000)
 
     def get_weights_of_doc(self, doc_id):
-        tfidf_weights = self.docs_tfidf_weights[doc_id]
+        tfidf_weights = self.docs_tfidf_weights[doc_id] # length vocab size
         tokens_to_values = dict(zip([self._tfidf_id_to_token(token_id) for token_id in tfidf_weights.indices], tfidf_weights.data))
         sorted_tokens_to_values = sorted(tokens_to_values.items(), key=lambda pair: pair[1], reverse=True)
         return sorted_tokens_to_values
@@ -160,6 +174,24 @@ class Corpus_representation:
 
     def get_word_embedding(self, token):
         try:
-            return self.word_embeddings_model.wv[token]
+            return self.word_embeddings_model.word_vec(token)
         except KeyError:
             return np.zeros(self.word_embeddings_model.vector_size)
+
+
+def get_shared_weights(wts1, wts2, mapping1, mapping2):
+    wts_tokens1 = {mapping1[token_id]:wt for token_id,wt in enumerate(wts1) if wt!=0}
+    wts_tokens2 = {mapping2[token_id]:wt for token_id,wt in enumerate(wts2) if wt!=0}
+
+    # print("wts_tokens1", wts_tokens1)
+    # print("wts_tokens2", wts_tokens2)
+
+    tokens_to_values = dict()
+
+    for token, wt1 in wts_tokens1.items():
+      if token in wts_tokens2:
+        tokens_to_values[token] = (wt1, wts_tokens2[token])
+
+    sorted_tokens_to_values = sorted(tokens_to_values.items(), key=lambda pair: pair[1][0], reverse=True)
+    # print("sorted_tokens_to_values: ", sorted_tokens_to_values)
+    return sorted_tokens_to_values

@@ -1,6 +1,6 @@
 import json
 import os
-from ROC import fixed_settings
+import fixed_settings
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 

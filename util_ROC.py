@@ -3,7 +3,7 @@ import nltk
 import numpy as np
 import math
 from gensim.models import KeyedVectors
-from ROC import util_pos
+import util_pos
 
 def get_stories_contexts_and_completions(ROC_filepath, num_stories=None):
     stories = []
