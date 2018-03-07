@@ -1,24 +1,50 @@
 import os
+import datetime
 import numpy as np
 import util_ROC, fixed_settings, util_pos
-from corpus_representation import *
-from options import Defaults
+from corpus_representation2 import *
+# from options import Defaults
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 from nltk.tree import Tree
 from gensim.models import KeyedVectors
+from optparse import OptionParser
 
 
-# Options
-opts = Defaults()
-opts.NUM_STORIES = 2500
-# opts.NUM_NEIGHBORS = 10
-opts.SIMILARITY_THRESHOLD = None
+parser = OptionParser()
+parser.add_option("--experiment", type="string", help="Experiment name", default="throwaway")
+
+parser.add_option("--ROC_FILENAME", type="string", help="", default="ROCStories_winter2017.csv")
+
+parser.add_option("--sim_metric", type="string", help="", default="sim1")
+
+parser.add_option("--NUM_STORIES", type="int", help="", default=250)
+
+parser.add_option("--NUM_SAMPLES", type="int", help="", default=100)
+
+(opts, args) = parser.parse_args()
+
+
+ROC_FILEPATH = os.path.join(fixed_settings.DATA_ROOT, opts.ROC_FILENAME)
+opts.ROC_FILEPATH = ROC_FILEPATH
+
+opts.preprocess = True
+opts.tfidf_norm = None
 opts.tfidf_max_df=.1
-opts.SAMPLES = list(range(100)) # list(range(250))
-print(opts, "\n")
+opts.tfidf_sublinear_tf = False
+opts.tfidf_binary_tf = True
+opts.SAMPLES = list(range(opts.NUM_SAMPLES))
+opts.SIMILARITY_THRESHOLD = None
 
 assert all([s in range(opts.NUM_STORIES) for s in opts.SAMPLES])
+
+now = datetime.datetime.now()
+datetime_str = "%i.%i.%i_%i:%i:%i" % (now.year, now.month, now.day, now.hour, now.minute, now.second)
+# fixed_settings.OUT_ROOT = os.path.join(fixed_settings.OUT_ROOT, datetime_str)
+fixed_settings.OUT_ROOT = os.path.join(fixed_settings.OUT_ROOT, "%s_%s" % (opts.experiment, datetime_str))
+os.mkdir(fixed_settings.OUT_ROOT)
+
+print(opts, "\n")
 
 
 def abi(opts, fixed_settings, stories, contexts, completions, contexts_representation, completions_representation):
@@ -35,16 +61,16 @@ def abi(opts, fixed_settings, stories, contexts, completions, contexts_represent
         out += "> {}".format(completions[context_id]) + fixed_settings.NEWLINE  # Print last sentence
         out += fixed_settings.NEWLINE
         out += '__About the context__' + fixed_settings.NEWLINE
-        out += 'Rarest in context: {}'.format(contexts_representation.get_weights_of_doc(context_id)) + fixed_settings.NEWLINE
+        out += 'Rarest in context: {}'.format(contexts_representation.get_tfidf_wts_of_doc(context_id)) + fixed_settings.NEWLINE
         out += ('Nearest to context: {}'.format(contexts_representation.get_nearest_words_to_doc(context_id))) + fixed_settings.NEWLINE
         out += fixed_settings.NEWLINE
 
         ######### Find neighbors #########
 
-        context_rep = contexts_representation.weighted_docs_embeddings[context_id]
+        # context_rep = contexts_representation.representations[context_id]
 
         # neighbors_info is a sorted list of all (id, similarity) pairs
-        neighbors_info = completions_representation.get_neighbors_by_embedding_similarity(context_rep, num_neighbors=None, weighted=True)
+        neighbors_info = get_nearest_neighbors(contexts_representation, context_id, completions_representation, opts.sim_metric)
 
         neighbors_ids = [doc_id for (doc_id, score) in neighbors_info]
 
@@ -70,8 +96,18 @@ def abi(opts, fixed_settings, stories, contexts, completions, contexts_represent
 
 
             out += '\nRarest shared words: {}'.format(shared_words) + fixed_settings.NEWLINE
-            closest_words = [word for (word,score) in completions_representation.get_nearest_words_to_doc(neighbor_id, weighted=True, topn=10)]
+            closest_words = [word for (word,score) in completions_representation.get_nearest_words_to_doc(neighbor_id, topn=10)]
             out += 'Nearest words to completion: {}'.format(closest_words) + fixed_settings.NEWLINE
+
+            token_wt_1 = contexts_representation.get_filtered_tfidf_wts_of_doc(context_id)
+            token_wt_2 = completions_representation.get_filtered_tfidf_wts_of_doc(neighbor_id)
+            _, best_indices = similarity2(token_wt_1, token_wt_2, contexts_representation.word_embeddings_model)
+
+            for idx2, (token2, _) in enumerate(token_wt_2):
+              best_idx1 = best_indices[idx2]
+              best_word1 = token_wt_1[best_idx1][0]
+              out += "{0:20}  {1:20}\n".format(token2, best_word1)
+
             out += "\n"
 
         out += fixed_settings.NEWLINE
@@ -126,10 +162,8 @@ def main():
     print("Constructing context reps...")
     if opts.preprocess: contexts_preprocessed = [util_ROC.preprocess(element) for element in contexts]
     context_strings = util_ROC.lump_sentences_into_docs(contexts_preprocessed) # list of strings
-    contexts_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm,
-                                           sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df,
-                                           tokenizer=word_tokenize)
-    contexts_representation = Corpus_representation(context_strings, tfidf_model=contexts_tfidf_model, word_embeddings_model=word_embeddings_model)
+    contexts_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm, sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df, tokenizer=word_tokenize)
+    contexts_representation = TextCollection(context_strings, tfidf_model=contexts_tfidf_model, word_embeddings_model=word_embeddings_model)
 
     print("contexts_representation len: ", len(contexts_representation.docs))
 
@@ -140,10 +174,8 @@ def main():
     if opts.preprocess: completions_preprocessed = [util_ROC.preprocess(element) for element in completion_docs]
     print("lumping...")
     completion_strings = util_ROC.lump_sentences_into_docs(completions_preprocessed) # list of strings
-    completions_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm,
-                                              sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df,
-                                              tokenizer=word_tokenize)
-    completions_representation = Corpus_representation(completion_strings, tfidf_model=completions_tfidf_model, word_embeddings_model=word_embeddings_model)
+    completions_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm, sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df, tokenizer=word_tokenize)
+    completions_representation = TextCollection(completion_strings, tfidf_model=completions_tfidf_model, word_embeddings_model=word_embeddings_model)
 
     print("completions_representation", len(completions_representation.docs))
 
@@ -151,7 +183,7 @@ def main():
     print("completions map: ", len(completions_representation.tfidf_ids_to_tokens))
 
     print("completion 0: ", completions[0])
-    print("completion 0 wts: ", completions_representation.get_weights_of_doc(0))
+    print("completion 0 wts: ", completions_representation.get_tfidf_wts_of_doc(0))
 
     abi(opts, fixed_settings, stories, contexts_preprocessed, completion_strings, contexts_representation, completions_representation)
 
