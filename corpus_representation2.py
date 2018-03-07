@@ -9,11 +9,11 @@ from collections import Counter
 class TextCollection:
     """Holds a set of texts, and representations for each member in the set."""
 
-    def __init__(self, docs, tfidf_model=None, word_embeddings_model=None):
+    def __init__(self, docs, tfidf_model, word_embeddings_model):
         self.docs = docs # is list of list of strings
 
         ######### Doc representations #########
-        self.docs_tfidf_weights = tfidf_model.fit_transform(docs) # this is a matrix shape (vocab size, num docs) or similar
+        self.docs_tfidf_weights = tfidf_model.transform(docs) # this is a matrix shape (vocab size, num docs) or similar
 
         self.tfidf_ids_to_tokens = {id:token for (token, id) in tfidf_model.vocabulary_.items()} # a vocabulary map
 
@@ -83,9 +83,8 @@ class TextCollection:
             token = self.tfidf_ids_to_tokens[tfidf_token_id]  # Get word
             try:
                 word_embedding = 1 * self.word_embeddings_model.word_vec(token)
-                weighted_word_embedding = weight * word_embedding
                 simple_doc_embedding += word_embedding
-                weighted_doc_embedding += weighted_word_embedding
+                weighted_doc_embedding += weight * word_embedding
             except KeyError:  # No word embedding found
                 pass
         return simple_doc_embedding, weighted_doc_embedding

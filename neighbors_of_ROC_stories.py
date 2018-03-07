@@ -158,12 +158,18 @@ def main():
     embedding_filepath = os.path.join(fixed_settings.DATA_ROOT, 'GoogleNews-vectors-negative300.bin')
     word_embeddings_model = KeyedVectors.load_word2vec_format(embedding_filepath, binary=True, limit=20000)
 
+    ######### Construct TFIDF model #########
+    stories_strings = [" ".join(story) for story in stories]
+
+    tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm, sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df, tokenizer=word_tokenize)
+    tfidf_model.fit(stories_strings)
+
     ######### Construct context representations #########
     print("Constructing context reps...")
     if opts.preprocess: contexts_preprocessed = [util_ROC.preprocess(element) for element in contexts]
     context_strings = util_ROC.lump_sentences_into_docs(contexts_preprocessed) # list of strings
-    contexts_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm, sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df, tokenizer=word_tokenize)
-    contexts_representation = TextCollection(context_strings, tfidf_model=contexts_tfidf_model, word_embeddings_model=word_embeddings_model)
+
+    contexts_representation = TextCollection(context_strings, tfidf_model=tfidf_model, word_embeddings_model=word_embeddings_model)
 
     print("contexts_representation len: ", len(contexts_representation.docs))
 
@@ -174,8 +180,8 @@ def main():
     if opts.preprocess: completions_preprocessed = [util_ROC.preprocess(element) for element in completion_docs]
     print("lumping...")
     completion_strings = util_ROC.lump_sentences_into_docs(completions_preprocessed) # list of strings
-    completions_tfidf_model = TfidfVectorizer(norm=opts.tfidf_norm, sublinear_tf=opts.tfidf_sublinear_tf, binary=opts.tfidf_binary_tf, max_df=opts.tfidf_max_df, tokenizer=word_tokenize)
-    completions_representation = TextCollection(completion_strings, tfidf_model=completions_tfidf_model, word_embeddings_model=word_embeddings_model)
+
+    completions_representation = TextCollection(completion_strings, tfidf_model=tfidf_model, word_embeddings_model=word_embeddings_model)
 
     print("completions_representation", len(completions_representation.docs))
 
